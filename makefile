@@ -16,7 +16,7 @@ deckset:
 
 revealjs:
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=text --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build revealjs $(CONFIG) $(TMPFOLDER) reveal.js/$(TARGETFILE).html --template=templates/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
+	mdslides build revealjs $(CONFIG) $(TMPFOLDER) docs/slides.html --template=templates/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
 
 site:
 	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=docs/_templates/index.md --index=$(PATTERNINDEX)
@@ -40,7 +40,7 @@ epub:
 	# clean up
 	cd ebook; rm tmp-*
 
-ebook:
+e-book:
 	# render an ebook as pdf
 	
 	# render intro, chapters and appendix to separate md files
