@@ -1,5 +1,5 @@
 ---
-title: S3 Practical Guide (Hebrew) 
+title: Sociocratie 3.0 - Un Guide Pratique
 ---
 
 # Introduction
@@ -169,7 +169,7 @@ Repérer, évaluer et évoluer les décisions prises en vue d'atteindre les obje
 
 
 
-# The Patterns
+# Les Pratiques
 
 
 ## Co-création et évolution 
@@ -1437,7 +1437,7 @@ Une pratique à suivre pour de multiples organisations (ou domaines) partageant 
 
 
 
-# Appendix
+# Annexe
 
 ## Historique des maj
 
