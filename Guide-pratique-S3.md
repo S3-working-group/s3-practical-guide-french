@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-16-fr-0.01) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-16-fr-0.02) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -209,7 +209,7 @@ Repérer, évaluer et évoluer les décisions prises en vue d'atteindre les obje
 
 ---
 
-## Pratique 1.1 : Répondre aux moteurs organisationnels
+## Pratique 1.1: Répondre aux moteurs organisationnels
 
 ![right,fit](img/driver-domain/driver-response-full.png)
 
@@ -245,7 +245,7 @@ La réponse à un moteur est habituellement une expérience développée au fil 
 
 ---
 
-## Pratique 1.2 : Naviguer par tension
+## Pratique 1.2: Naviguer par tension
 
 **Identifier et s'occuper des motivations organisationnelles.**
 
@@ -271,7 +271,7 @@ Connaissance des **motivations organisationnelles** peut être transmis au domai
 
 ---
 
-## Pratique 1.3 : Décrire les moteurs
+## Pratique 1.3: Décrire les moteurs
 
 **Décrivez les moteurs pour comprendre, communiquer à leur sujet et vous en souvenir.**
 
@@ -294,7 +294,7 @@ Un moteur peut être décrit comme un problème ou une opportunité, selon la pe
 
 ---
 
-## Pratique 1.4 : Prise de décision par consentement
+## Pratique 1.4: Prise de décision par consentement
 
 ![right,fit](img/agreements/cdm-condensed.png)
 
@@ -314,7 +314,7 @@ Un moteur peut être décrit comme un problème ou une opportunité, selon la pe
 
 ---
 
-## Pratique 1.5 : Objection
+## Pratique 1.5: Objection
 
 _Une **objection** est une raison expliquant pourquoi faire quelque chose entraverait une réponse plus efficace à un moteur._
 
@@ -378,7 +378,7 @@ Si les gens croient qu'une proposition n'est 'pas assez sécuritaire pour être 
 
 ---
 
-## Pratique 1.6 : Résoudre les objections
+## Pratique 1.6: Résoudre les objections
 
 ![inline,fit](img/agreements/resolve-objections.png)
 
@@ -390,7 +390,7 @@ Si les gens croient qu'une proposition n'est 'pas assez sécuritaire pour être 
 
 ---
 
-## Pratique 1.7 : Évaluer les ententes
+## Pratique 1.7: Évaluer les ententes
 
 L'examen continuel des ententes est une pratique essentielle pour une organisation évolutive ; constamment développer le corps des ententes, et éliminer le gaspillage :
 
@@ -431,7 +431,7 @@ L'examen continuel des ententes est une pratique essentielle pour une organisati
 
 ---
 
-## Pratique 1.8 : Les personnes concernées décident
+## Pratique 1.8: Les personnes concernées décident
 
 Impliquez chaque personne affectée par une décision, pour maintenir l'équivalence et les responsabilités, et augmenter la quantité d'informations disponibles sur le sujet.
 
@@ -444,7 +444,7 @@ Pensez à inclure les personnes concernées dans l'évaluation et l'évolution d
 
 ---
 
-## Pratique 1.9 : Élaboration d'une proposition
+## Pratique 1.9: Élaboration d'une proposition
 
 ![right,fit](img/agreements/proposal-forming-medium.png)
 
@@ -482,7 +482,7 @@ L'élaboration de propositions peut aussi être employée par un individu.
 
 ---
 
-## Pratique 1.10 : Élection des rôles
+## Pratique 1.10: Élection des rôles
 
 ![right,fit](img/agreements/selection.png)
 
@@ -499,7 +499,7 @@ Les objections à un nominé peuvent être résolues de multiples façons, y com
 
 ---
 
-## Pratique 1.11 : Cartographier les moteurs
+## Pratique 1.11: Cartographier les moteurs
 
 Un atelier pour identifier une réponse efficace à une situation complexe: démarrer une compagnie, des nouveaux projets, s'attaquer à des entraves ou des ooportunités, aligner la structure organisationnelle au flux de valeur.
 
@@ -526,7 +526,7 @@ Les groupes grands ou petits identifient et priorisent les moteurs, passant rapi
 
 ---
 
-## Pratique 2.1 : Demander de l’aide
+## Pratique 2.1: Demander de l’aide
 
 **Un protocole simple pour apprendre, partager ses compétences et établir des liens, par respect pour l'autonomie des autres personnes.**
 
@@ -538,7 +538,7 @@ Demandez à n'importe qui : "*pourriez-vous m'aider pour... *?" La personne vous
 
 ---
 
-## Pratique 2.2 : Évaluation par les pairs
+## Pratique 2.2: Évaluation par les pairs
 
 Invitez un pair à vous donner des critiques constructives sur :
 
@@ -555,7 +555,7 @@ Considérations :
 
 ---
 
-## Pratique 2.3 : Examen par les pairs
+## Pratique 2.3: Examen par les pairs
 
 ![right,fit](img/process/peer-review.png)
 
@@ -577,7 +577,7 @@ Il est possible de suggérer des améliorations concernant le développement per
 
 ---
 
-## Pratique 2.4 : Plan d'évolution
+## Pratique 2.4: Plan d'évolution
 
 **Un plan pour développer des méthodes plus efficaces pour prendre un domaine en compte, et arriver à un accord entre déléguant et délégué.**
 
@@ -600,7 +600,7 @@ Un plan d'évolution (et toutes les recommandations associées pour les modifica
 
 ---
 
-## Pratique 3.1 : Participation élégante
+## Pratique 3.1: Participation élégante
 
 ![right,fit](img/collaboration-values/artful-participation.png)
 
@@ -642,7 +642,7 @@ Une participation élégante peut inclure l'interruption, l'objection à ou la r
 
 ---
 
-## Pratique 3.2 : Adopter les sept principes
+## Pratique 3.2: Adopter les sept principes
 
 ![inline,fit](img/framework/s3-principles-plain.png)
 
@@ -658,7 +658,7 @@ Une participation élégante peut inclure l'interruption, l'objection à ou la r
 
 ---
 
-## Pratique 3.3 : S'approprier les valeurs
+## Pratique 3.3: S'approprier les valeurs
 
 ![right,fit](img/collaboration-values/chosen-values.png)
 
@@ -682,7 +682,7 @@ Une participation élégante peut inclure l'interruption, l'objection à ou la r
 
 ---
 
-## Pratique 3.4 : Facilitateur de la gouvernance (rôle)
+## Pratique 3.4: Facilitateur de la gouvernance (rôle)
 
 ![right,fit](img/circle/facilitator.png)
 
@@ -709,7 +709,7 @@ S'il suit les règles de gouvernance de S3, le facilitateur se familiarise avec 
 
 ---
 
-## Pratique 3.5 : Enfreindre les ententes
+## Pratique 3.5: Enfreindre les ententes
 
 - c'est parfois **nécessaire**...
 - ... mais peut **coûter cher** à la communauté
@@ -720,7 +720,7 @@ S'il suit les règles de gouvernance de S3, le facilitateur se familiarise avec 
 
 ---
 
-## Pratique 3.6 : Contracter et prendre ses responsabilités
+## Pratique 3.6: Contracter et prendre ses responsabilités
 
 Lorsque vous agréez à une entente formelle ou informelle :
 
@@ -744,7 +744,7 @@ Pour préserver la culture organisationnelle, maintenez l'auto-responsabilisatio
 
 ---
 
-## Pratique 3.7 : Transparence salariale
+## Pratique 3.7: Transparence salariale
 
 - les salaires transparents doivent être équitables
 - l'équité a plusieurs facettes indépendantes 
@@ -764,7 +764,7 @@ Pour préserver la culture organisationnelle, maintenez l'auto-responsabilisatio
 
 ---
 
-## Pratique 3.8 : Rôle de soutien
+## Pratique 3.8: Rôle de soutien
 
 **Appliquez la pratique des rôles aux contractants externes.**
 
@@ -778,7 +778,7 @@ Les rôles de soutien peuvent n'être qu'opérationnels, et les contractants ext
 
 ---
 
-## Pratique 3.9 : Statuts et règlements
+## Pratique 3.9: Statuts et règlements
 
 Intégrez les principes et pratiques S3 dans vos statuts et règlements pour protéger **l'intégrité légale** et la **culture organisationnelle**
 
@@ -799,7 +799,7 @@ Faites attention :
 
 ---
 
-## Pratique 4.1 : Déléguer son influence
+## Pratique 4.1: Déléguer son influence
 
 Décentraliser le pouvoir d’influence au sein de contraintes définies. Permettre aux gens de décider et d’agir par eux-mêmes en réponse aux facteurs organisationnels.
 
@@ -815,7 +815,7 @@ Décentralisez autant que possible, et gardez autant d'influence que nécessaire
 
 ---
 
-## Pratique 4.2 : Cercle
+## Pratique 4.2: Cercle
 
 ![right,fit](img/circle/circle.png)
 
@@ -839,7 +839,7 @@ Un cercle:
 
 ---
 
-## Pratique 4.3 : Rôle
+## Pratique 4.3: Rôle
 
 ![right,fit](img/illustrations/roles.png)
 
@@ -871,7 +871,7 @@ Un détenteur du rôle peut maintenir un carnet de bord et un backlog de gouvern
 
 ---
 
-## Pratique 4.4 : Liaison
+## Pratique 4.4: Liaison
 
 ![right,fit](img/structural-patterns/link.png)
 
@@ -881,7 +881,7 @@ Un cercle (ou équipe) sélectionne l’un de ses membres pour représenter leur
 
 ---
 
-## Pratique 4.5 : Double lien
+## Pratique 4.5: Double lien
 
 ![right,fit](img/structural-patterns/double-link.png)
 
@@ -894,7 +894,7 @@ Deux cercles (ou équipes) interdépendantes choisissent un de leurs membres pou
 
 ---
 
-## Pratique 4.6 : Représentant (rôle)
+## Pratique 4.6: Représentant (rôle)
 
 Représentants (ou liens):
 
@@ -907,7 +907,7 @@ Représentants (ou liens):
 
 ---
 
-## Pratique 4.7 : Équipe de soutien
+## Pratique 4.7: Équipe de soutien
 
 ![right,fit](img/structural-patterns/helping-team.png)
 
@@ -928,7 +928,7 @@ Les membres de l'équipe de soutien :
 
 ---
 
-## Pratique 4.8 : Ouvrir les domaines
+## Pratique 4.8: Ouvrir les domaines
 
 ![right,fit](img/structural-patterns/open-domain.png)
 
@@ -946,7 +946,7 @@ Selon les contraintes définies par les délégants, les contributeurs peuvent a
 
 ---
 
-## Pratique 4.9 : Systèmes ouverts
+## Pratique 4.9: Systèmes ouverts
 
 Une organisation peut bénéficier d'une communication intentionnelle et d'un apprentissage auprès d'autres personnes.
 
@@ -968,7 +968,7 @@ Reconnaissant son interdépendance, une organisation peut consciemment inviter d
 
 ---
 
-## Pratique 5.1 : Adapter les pratiques au contexte
+## Pratique 5.1: Adapter les pratiques au contexte
 
 **Adaptez et évoluez les pratiques de S3 pour correspondre à votre contexte particulier.**
 
@@ -983,7 +983,7 @@ Reconnaissant son interdépendance, une organisation peut consciemment inviter d
 
 ---
 
-## Pratique 5.2 : Changement organisationnel basé sur les demandes (ou les besoins)
+## Pratique 5.2: Changement organisationnel basé sur les demandes (ou les besoins)
 
 **Créez un environnement qui encourage les membres d'une organisation et leur permet d'amorcer des changements.**
 
@@ -997,7 +997,7 @@ Apportez des modifications si elles ajoutent de la valeur :
 
 ---
 
-## Pratique 5.3 : Soyez le changement
+## Pratique 5.3: Soyez le changement
 
 **Menez par l'exemple.**
 
@@ -1005,7 +1005,7 @@ Agissez comme vous souhaitez que les autres agissent.
 
 ---
 
-## Pratique 5.4 : Inviter le changement
+## Pratique 5.4: Inviter le changement
 
 **Une façon pour les personnes d’initier et de faciliter le changement.**
 
@@ -1016,7 +1016,7 @@ Agissez comme vous souhaitez que les autres agissent.
 
 ---
 
-## Pratique 5.5 : Ouvrir l'adoption S3
+## Pratique 5.5: Ouvrir l'adoption S3
 
 **Invitez chacun à créer et mener des expériences visant à faire évoluer l'organisation.**
 
@@ -1029,7 +1029,7 @@ Agissez comme vous souhaitez que les autres agissent.
 
 ---
 
-## Pratique 5.6 : Amélioration continue des méthodes de travail
+## Pratique 5.6: Amélioration continue des méthodes de travail
 
 **Pour révéler les moteurs et établir un système basé sur les demandes et les mesures, en vue d'un changement organisationnel.**
 
@@ -1073,7 +1073,7 @@ Le **gaspillage** *est tout ce qui n'est pas nécessaire pour - ou est un obstac
 
 ---
 
-## Pratique 6.1 : Accord
+## Pratique 6.1: Accord
 
 ![right,fit](img/evolution/driver-agreement-improvement.png)
 
@@ -1093,7 +1093,7 @@ _Une **entente** est une ligne directrice, un processus ou protocole établi de 
 
 ---
 
-## Pratique 6.2 : Développer la stratégie
+## Pratique 6.2: Développer la stratégie
 
 ![right,fit](img/driver-domain/driver-strategy-agreements-domain.png)
 
@@ -1114,7 +1114,7 @@ _Une **stratégie** est une approche de haut niveau définissant comment créer 
 
 ---
 
-## Pratique 6.3 : Clarifier les domaines
+## Pratique 6.3: Clarifier les domaines
 
 ![right,fit](img/templates/domain-description-template.png)
 
@@ -1139,7 +1139,7 @@ Vous pouvez commencer par clarifier les domaines existants, ou au moins clarifie
 
 ---
 
-## Pratique 6.4 : Résultat attendu
+## Pratique 6.4: Résultat attendu
 
 ![right,fit](img/templates/outcome-and-criteria.png)
 
@@ -1148,7 +1148,7 @@ Vous pouvez commencer par clarifier les domaines existants, ou au moins clarifie
 
 ---
 
-## Pratique 6.5 : Décrire les livrables
+## Pratique 6.5: Décrire les livrables
 
 Un **livrable** est quelque chose qui est produit et résulte d'une entente en réponse à un moteur. Les livrables incluent des produits, matériaux bruts, services, expériences et transformations.
 
@@ -1171,7 +1171,7 @@ Définir explicitement les livrables peut être utile pour améliorer :
 
 ---
 
-## Pratique 6.6 : Critères d'évaluation
+## Pratique 6.6: Critères d'évaluation
 
 ![right,fit](img/templates/outcome-and-criteria.png)
 
@@ -1182,7 +1182,7 @@ Des critères d'évaluation clairement définis peuvent aider à comprendre si u
 
 ---
 
-## Pratique 6.7 : Journal de bord (carnet)
+## Pratique 6.7: Journal de bord (carnet)
 
 Un carnet est un système numérique pour conserver toutes les informations pertinentes au fonctionnement de l'organisation ou d'un cercle. Tous les membres de l'organisation ont accès aux carnets. Mais l'information peut être gardée secrète s'il y a une bonne raison de le faire.
 
@@ -1215,7 +1215,7 @@ Les carnets peuvent prendre différentes formes telles des Wikis (Dokuwiki, Medi
 
 ---
 
-## Pratique 6.8 : Secrétaire du carnet (rôle)
+## Pratique 6.8: Secrétaire du carnet (rôle)
 
 Le secrétaire de réunion est responsable du maintien du carnet du cercle via :
 
@@ -1234,7 +1234,7 @@ Le secrétaire de réunion est responsable du maintien du carnet du cercle via :
 
 ---
 
-## Pratique 7.1 : Réunion de gouvernance
+## Pratique 7.1: Réunion de gouvernance
 
 ![right,fit](img/meetings/governance-meeting.png)
 
@@ -1278,7 +1278,7 @@ Un ordre du jour typique inclut :
 
 ---
 
-## Pratique 7.2 : Rétrospective
+## Pratique 7.2: Rétrospective
 
 Élaborer l'amélioration continue des méthodes de travail par l'introspection et l'apprentissages des expériences passées.
 
@@ -1307,7 +1307,7 @@ Les activités pour chaque phase peuvent être trouvées à l'adresse [plans-for
 
 ---
 
-## Pratique 7.3 : Mêlée quotidienne
+## Pratique 7.3: Mêlée quotidienne
 
 ![right,fit](img/meetings/planning-review-standup.png)
 
@@ -1322,7 +1322,7 @@ Les activités pour chaque phase peuvent être trouvées à l'adresse [plans-for
 
 ---
 
-## Pratique 7.4 : Réunions de planification et d'évaluation
+## Pratique 7.4: Réunions de planification et d'évaluation
 
 ![right,fit](img/meetings/planning-review.png)
 
@@ -1333,7 +1333,7 @@ Les collègues se rencontrent à intervalles réguliers (1 à 4 semaines) dans d
 
 ---
 
-## Pratique 7.5 : Réunion de coordination
+## Pratique 7.5: Réunion de coordination
 
 **Réunissez-vous régulièrement (de façon hebdomadaire en général) pour débriefer et coordonner les tâches à effectuer.**
 
@@ -1365,7 +1365,7 @@ Les collègues se rencontrent à intervalles réguliers (1 à 4 semaines) dans d
 
 ---
 
-## Pratique 8.1 : Rondes
+## Pratique 8.1: Rondes
 
 ![right,fit](img/circle/rounds.png)
 
@@ -1378,7 +1378,7 @@ Les groupes expérimentés souhaiteront peut-être accélérer certaines rondes 
 
 ---
 
-## Pratique 8.2 : Faciliter les réunions
+## Pratique 8.2: Faciliter les réunions
 
 Choisissez quelqu'un qui devra faciliter la prochaine réunion. Même un facilitateur inexpérimenté peut aider à garder une réunion sur le droit chemin, et faire la différence.
 
@@ -1390,7 +1390,7 @@ Choisissez quelqu'un qui devra faciliter la prochaine réunion. Même un facilit
 
 ---
 
-## Pratique 8.3 : Evaluer les réunions
+## Pratique 8.3: Evaluer les réunions
 
 ![right,fit](img/meetings/evaluate-interactions.png)
 
@@ -1420,7 +1420,7 @@ Demandez à tous les participants d'une ronde de réfléchir à n'importe lequel
 
 ---
 
-## Pratique 8.4 : Hôte de la réunion (rôle)
+## Pratique 8.4: Hôte de la réunion (rôle)
 
 L'hôte de la réunion s'occupe de la préparation et du suivi des réunions, ateliers et autres événements.
 
@@ -1445,7 +1445,7 @@ Le rôle peut être assigné temporairement (par exemple, pour un événement pr
 
 ---
 
-## Pratique 8.5 : Items de gouvernance en attente
+## Pratique 8.5: Items de gouvernance en attente
 
 _Un **backlog de gouvernance** est une liste explicite ordonnée par priorité de tâches en attente de traitement (drivers) en lien à la gouvernance d'un domaine._
 
@@ -1464,7 +1464,7 @@ _Un **backlog de gouvernance** est une liste explicite ordonnée par priorité d
 
 ---
 
-## Pratique 9.1 : Backlog
+## Pratique 9.1: Backlog
 
 _Un **backlog** (liste des demandes en attente) est une liste explicite (souvent ordonnée par priorité) d'éléments de travail non-achevés (drivers) en attente de traitement._
 
@@ -1499,7 +1499,7 @@ Chaque élément d'un backlog (priorisé) contient :
 
 ---
 
-## Pratique 9.2 : Backlog priorisé
+## Pratique 9.2: Backlog priorisé
 
 Ordonnez **tous les éléments de travail inachevés** avec les éléments les plus importants en premier :
 
@@ -1511,7 +1511,7 @@ Ordonnez **tous les éléments de travail inachevés** avec les éléments les p
 
 ---
 
-## Pratique 9.3 : Visualisation du travail
+## Pratique 9.3: Visualisation du travail
 
 ![right,fit](img/workflow-and-value/simple-process.png)
 
@@ -1539,7 +1539,7 @@ Transparence sur l'état des tâches planifiées, en cours et complétées.
 
 ---
 
-## Pratique 9.4 : Système de travail basé sur les demandes
+## Pratique 9.4: Système de travail basé sur les demandes
 
 - les membres prennent des tâches lorsqu'ils le peuvent (plutôt que de se faire assigner des tâches)
 - priorisez les tâches disponibles pour vous assurer que les plus importantes soient réalisées rapidement
@@ -1547,7 +1547,7 @@ Transparence sur l'état des tâches planifiées, en cours et complétées.
 
 ---
 
-## Pratique 9.5 : Limiter le travail en cours
+## Pratique 9.5: Limiter le travail en cours
 
 **Limitez la quantité d'éléments de travail au cours des étapes.**
 
@@ -1561,7 +1561,7 @@ Lorsqu'une action excéderait l'entente sur la limite des éléments de travail 
 
 ---
 
-## Pratique 9.6 : Aligner les flux
+## Pratique 9.6: Aligner les flux
 
 ![right,fit](img/workflow-and-value/align-flow.png)
 
@@ -1579,7 +1579,7 @@ Lorsqu'une action excéderait l'entente sur la limite des éléments de travail 
 
 ---
 
-## Pratique 9.7 : Coordinateur (rôle)
+## Pratique 9.7: Coordinateur (rôle)
 
 Une personne détenant le rôle de coordinateur est responsable de **la coordination des opérations d'un domaine** et est **sélectionné pour un mandat limité**
 
@@ -1630,7 +1630,7 @@ La Sociocratie 3.0 décrit une variété de principes pour développer une struc
 
 ---
 
-## Pratique 10.1 : Cercle de service
+## Pratique 10.1: Cercle de service
 
 ![right,fit](img/structural-patterns/service-circle.png)
 
@@ -1640,7 +1640,7 @@ Un cercle de service peut être constitué des membres des domaines qu'il sert, 
 
 ---
 
-## Pratique 10.2 : Cercle délégué
+## Pratique 10.2: Cercle délégué
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
@@ -1654,7 +1654,7 @@ Les cercles délégués permettent de contrôler les organisations pour les mett
 
 ---
 
-## Pratique 10.3 : Organisation centrifuge
+## Pratique 10.3: Organisation centrifuge
 
 ![right,fit](img/structural-patterns/peach-organization.png)
 
@@ -1667,7 +1667,7 @@ Apportez de la valeur aux environnements complexes et compétitifs à travers la
 
 ---
 
-## Pratique 10.4 : Hiérarchie à double lien
+## Pratique 10.4: Hiérarchie à double lien
 
 ![right,fit](img/structural-patterns/double-linked-hierarchy.png)
 
@@ -1679,7 +1679,7 @@ Apportez de la valeur aux environnements complexes et compétitifs à travers la
 
 ---
 
-## Pratique 10.5 : Organisation de service
+## Pratique 10.5: Organisation de service
 
 ![right,fit](img/structural-patterns/service-organization-text.png)
 
@@ -1694,7 +1694,7 @@ Apportez de la valeur aux environnements complexes et compétitifs à travers la
 
 ---
 
-## Pratique 10.6 : Organisation fractale
+## Pratique 10.6: Organisation fractale
 
 ![right,fit](img/structural-patterns/fractal-organization.png)
 
