@@ -1,7 +1,0 @@
-#X-Generator: crowdin.com
-
-# filename for the slide deck
-TARGETFILE=Guide-pratique-S3
-# template pattern numbers
-SECTIONPREFIX=Pratique %(chapter)s.%(section)s :
-
