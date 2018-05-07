@@ -18,3 +18,6 @@ version: "v2017-11-16-fr-0.02"
 # directive for makefile to generate translatable pattern index
 # must be set to "NO" for translations, and "YES" for source language (English)
 build_index: "NO"
+
+# reveal.js config option for RTL languages
+revealjs_rtl: "false"
