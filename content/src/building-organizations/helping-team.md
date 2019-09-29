@@ -1,18 +1,18 @@
 ## Équipe de soutien
 
-![right,fit](img/structural-patterns/helping-team.png)
-
-Un groupe de personnes mandatées pour exécuter un groupe spécifique de conditions définies par un délégant.
+**Rassembler une équipe de personnes équivalentes pour répondre à un ensemble particulier d'exigences définies par un déléguant.**
 
 Une équipe de soutien :
 
-- est une façon pour le délégant de développer ses capacités
-- peut être auto-organisatrice, ou guidée par un coordinateur désigné par le délégant
+- est un moyen pour un [déléguant](glossary:delegator) d'étendre sa capacité
+- peut être auto-organisée, ou guidée par un [coordinateur](section:coordinator) choisi par le déléguant
 - est gouvernée par le délégant
-- bénéficie d'un domaine clairement défini
+- bénéficie d'un domaine [clairement défini](glossary:domain)
 
 Les membres de l'équipe de soutien :
 
-- peuvent objecter aux décisions du délégant qui les affectent
-- peuvent ajouter des éléments au backlog de gouvernance du délégant
-- peuvent être invités à sélectionner un représentant pour participer aux décisions de gouvernance du délégant
+- peuvent objecter les décisions du délégant qui les affectent
+- peuvent ajouter des entrées au [backlog de gouvernance](glossary:governance-backlog)du déléguant
+- peuvent être invités à sélectionner un [représentant](section:representative) pour participer aux décisions de gouvernance du délégant
+
+![Équipe de soutien](img/structural-patterns/helping-team.png)

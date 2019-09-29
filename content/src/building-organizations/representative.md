@@ -1,10 +1,12 @@
-## Représentant (rôle)
+## Représentant
 
-Représentants (ou liens):
+**Sélectionnez un membre de l'équipe pour participer aux décisions de gouvernance d'une autre équipe pour permettre la circulation d'informations et d'influence.**
 
-- ... représentent les intérêts d'un cercle dans un autre cercle
-- ... sont élus pour une durée limitée
-- participer comme membres à part entière dans **les décisions de gouvernance** du cercle ou ils sont délégués et peuvent: 
-    - faire ajouter des points à l'ordre du jour
+Représentant (ou lien):
+
+- défend les intérêts d'une [équipe](glossary:team) dans une autre
+- est élu pour une durée limitée
+- participe aux **décisions de gouvernance** de l'équipe avec laquelle il est relié, et peut : 
+    - insérer des points à l'ordre du jour
     - participer à l'élaboration des propositions
-    - s'objecter aux ententes et propositions (quand il y a une raison)
+    - soulever des [objections](glossary:objection) aux propositions et aux [ententes](glossary:agreement) existantes

@@ -1,23 +1,11 @@
 ## Naviguer par tension
 
-**Identifier et s'occuper des motivations organisationnelles.**
+**Prêtez attention aux tensions que vous éprouvez par rapport à l'organisation, enquêtez sur leur cause et transmettez toute intention organisationnelle que vous découvrez aux personnes responsables du domaine approprié.**
 
-Tous les membres cherchent à identifier ce qui pourrait aider ou nuire à l'organisation, et à s'occuper des motivations efficacement.
+**Les défis et les opportunités** pour une organisation sont révélés par des gens qui expriment les raisons pour lesquelles ils éprouvent des tensions.
 
-Une tension est une expérience personnelle, le signal d'une dissonance entre la perception d'une situation et nos attentes ou préférences.
+**Note:** Dans ce contexte, une *tension* est une expérience personnelle: un signe de dissonance entre sa perception d'une situation, et ses attentes (ou préférences).
 
-* * *
+Pour **découvrir les intentions**, recherchez ce qui stimule la tension, et décrivez ce qui se passe et ce qui est nécessaire. Parfois, une question révèle des idées fausses et la tension disparaît.
 
-## Naviguer par tension (suite)
-
-Les défis et les possibilités d'une organisation sont révélés quand ses membres deviennent conscients des tensions vécues.
-
-Pour découvrir les motivations, examiner la tension en décrivant la situation et ce qui serait requis. Parfois, l'analyse dissout une incompréhension et la tension disparaît.
-
-Connaissance des **motivations organisationnelles** peut être transmis au domaine approprié.
-
-* * *
-
-## Naviguer par tension (suite)
-
-![inline,fit](img/process/navigate-via-tension-slides.png)
+![Naviguer par tension, décrire les intentions organisationnelles, Répondre aux intentions organisationnelles](img/process/navigate-describe-respond.png)

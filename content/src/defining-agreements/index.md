@@ -1,9 +1,5 @@
-### S3 favorise une approche se basant sur les hypothèses pour gérer les prises de décision
+### S3 promeut une approche fondée sur l'hypothèse pour les prises de décision
 
-![inline,fit](img/evolution/experiments.png)
+![Toute entente ou décision peut être considérée comme une expérience.](img/evolution/experiments.png)
 
-* * *
-
-### Cycle de vie d'un accord
-
-![inline,fit](img/evolution/agreement-lifecycle-long.png)
+![Le cycle de vie d'une entente](img/evolution/agreement-lifecycle-long.png)

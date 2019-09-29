@@ -1,40 +1,28 @@
-## Domaines
-
-![right,fit](img/driver-domain/domains-in-organizations.png)
+#### Domaines
 
 {{define:domain}}
 
-Tous les domaines se situent dans le domaine global d'une organisation et peut chevaucher et / ou être pleinement contenus au sein d'autres domaines.
+Tous les domaines se situent dans le domaine général d'une organisation. Ils peuvent se chevaucher et/ou être pleinement inclus au sein d'autres domaines.
 
-Les domaines sont délégués à des responsables (une unité, un département, une équipe ou des individus) du domaine, au sein de ses contraintes prédéfinies sur l'influence et l'autonomie.
+Les domaines sont délégués à des personnes (ex: à une unité, un département, une équipe ou des individus), qui prennent la responsabilité du domaine, et agissent selon les contraintes qu'il impose en terme d'influence et d'autonomie.
 
-* * *
+![Les domaines peuvent se chevaucher et/ou être entièrement contenus dans d'autres domaines](img/driver-domain/domains-in-organizations.png)
 
-## Déléguer les domaines
+##### Déléguer les domaines
 
-Ceux qui délèguent un domaine (les * déléguants *) restent responsables de ce domaine, et définissent souvent :
+Ceux qui délèguent un domaine (les *déléguants*) conservent néanmoins la responsabilité de ce domaine, allouent des **ressources** et définissent souvent :
 
-- les **responsabilités clés** (tâches essentielles et délégation des prises de décision)
-- les **contraintes pour l'autonomie et l'influence** pour les délégués au domaine, souvent liées à l'organisation (budget, ressources, niveaux de délégation, compte-rendus)
+- le **besoin organisationnel** auquel le domaine supposé répondre
+- des **responsabilités clés** (les livrables clés, tout risque critique à gérer, tout autre travail essentiel et les prises de décision étant délégués)
+- des **contraintes sur l'autonomie et l'influence** pour ceux à qui sont délégués le domaine (les *délégués*), souvent liées à l'organisation elle-même (dépendances, implication du déléguant, reporting, etc.)
 
-* * *
+##### Intentions et domaines
 
-## Moteurs et Domaines
+Il est également possible de comprendre un domaine par rapport aux intentions organisationnelles :
 
-![right,fit](img/driver-domain/domain-primay-sub.png)
+- l' **intention primaire** - l'intention principale à laquelle les gens qui s'occupent de ce domaine (les *délégués*) répondent
+- l'ensemble des sous-intentions qu'il peut être bénéfique pour l'organisation d'adresser pour répondre à l'intention primaire, ce qui comprend : 
+    - les **responsabilités clés** (n'importe quelle intention dérivant directement de l'intention primaire)
+    - les intentions pour les **contraintes du domaine** (qui se rapportent généralement au contexte de l'organisation entière)
 
-Un domaine peut être défini par rapport à un moteur organisationnel - soit le **moteur principal** du domaine - par l'ensemble des sous-domaines qu'il pourrait être intéressant d'examiner en répondant au moteur principal :
-
-- les **responsabilités clés** découlent directement du moteur principal du domaine
-- les **contraintes** se rapportent au contexte général de l'organisation
-
-* * *
-
-## Domaines et Responsabilisation
-
-![right,fit](img/driver-domain/nested-domains.png)
-
-- la responsabilisation s'applique à toutes les ententes, incluant l'organisation elle-même, les cercles, et les rôles
-- la responsabilité première de chaque membre est de collaborer efficacement pour répondre aux moteurs organisationnels
-- les individus et les groupes sont responsables du travail qu'ils accomplissent, ainsi que de leur apprentissage et de leur développement. L'organisation doit fournir un soutien adéquat
-- chaque membre d'une organisation est responsable de l'alignement de ses actions avec ses valeurs organisationnelles
+![Intentions et domaines](img/driver-domain/drivers-and-domains.png)

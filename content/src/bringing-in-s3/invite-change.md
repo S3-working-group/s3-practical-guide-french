@@ -1,8 +1,14 @@
-## Inviter le changement
+## Encourager le changement
 
-**Une façon pour les personnes d’initier et de faciliter le changement.**
+**Clarifiez la raison du changement et invitez les gens à participer.**
 
-- initiez les changements que vous désirez
-- utiliser et adapter les pratiques S3 pour répondre aux motivations au moment opportun
-- raconter l’histoire de comment et pourquoi vous utilisez les pratiques S3, en documentant les résultats, les réussites et les échecs
-- inviter les autres à experimenter avec vous
+Encourager au lieu d'imposer des changements contribue à réduire la résistance et permet aux gens de choisir par eux-mêmes.
+
+Pour encourager :
+
+- soyez transparent sur la raison du changement
+- clarifiez les attentes et les contraintes
+- évitez la coercition ou la manipulation
+- entendez tout scepticisme et doute
+
+Incluez les personnes concernées et affectées à une évaluation régulière des résultats.

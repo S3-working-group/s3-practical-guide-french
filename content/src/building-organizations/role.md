@@ -1,29 +1,20 @@
 ## Rôle
 
-![right,fit](img/illustrations/roles.png)
+**Déléguer la responsabilité d'un domaine à des individus.**
 
-**Déléguez la responsabilité d'un domaine à des individus.**
+Un rôle est une zone de responsabilité (un [domaine](glossary:domain)) qui est [déleguée](glossary:delegation) à un individu (le **porteur de rôle**), qui est autonome pour décider et agir selon les contraintes du domaine du rôle.
 
-Un rôle est une zone de responsabilités définie par un domaine et assignée à un individu (le **détenteur du rôle**), qui a toute l'autonomie nécessaire pour décider et agir selon les contraintes du domaine du rôle.
+Les porteurs de rôle mènent la création d'une [stratégie](glossary:strategy) sur la façon dont ils tiendront leur domaine. Ils développent leur stratégie en collaboration avec le [déléguant](glossary:delegator).
 
-Le détenteur du rôle est le stratège principal de son domaine, et fait évoluer sa stratégie en travaillant avec le délégant.
+Un rôle est un moyen simple pour une organisation (ou une [équipe](glossary:team)) de déléguer les tâches récurrentes ou une partie du travail ainsi que les prises de décisions à l'un de ses membres.
 
-Un rôle est une façon simple pour un groupe de déléguer les tâches récurrentes ou une tâche spécifique à l'un de ses membres.
+- les gens peuvent assumer plus d'un rôle
+- plutôt que de constituer formellement une nouvelle équipe, il est parfois plus simple de partager un rôle entre plusieurs personnes
+- les porteurs de rôle sont sélectionnés par consentement pour une durée limitée
+- les pairs se soutiennent mutuellement pour évoluer dans les rôles qu'ils portent
 
-* * *
+Les porteurs de rôle peuvent garder à jour un [backlog](glossary:backlog) de gouvernance, et un [journal de bord](glossary:logbook) pour consigner et les aider à faire évoluer leur approche pour apporter de la [valeur](glossary:value).
 
-## Rôle (suite)
+**Note:** Dans S3, les consignes, les processus ou protocoles créés par des individus dans leurs rôles sont traités comme des ententes.
 
-- les personnes peuvent détenir plus d'un rôle, et les rôles peuvent être remplis par plus d'une personne
-- les détenteurs des rôles sont élus par consentement, et pour une durée limitée
-- les pairs se soutiennent mutuellement pour évoluer au mieux dans les rôles qu'ils assurent
-
-Un détenteur du rôle peut maintenir un carnet de bord et un backlog de gouvernance pour développeur leur technique de production de valeur.
-
-**Note**: Dans S3, les lignes directrices, les processus et les protocoles créés par les individus occupant certains rôles sont traités comme des ententes.
-
-* * *
-
-### Rôle : une façon de prendre un domaine en compte
-
-![inline,fit](img/evolution/driver-role-selection-development.png)
+![Les gens peuvent assumer plus d'un rôle](img/illustrations/roles.png)

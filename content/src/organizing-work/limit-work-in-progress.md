@@ -1,11 +1,11 @@
 ## Limiter le travail en cours
 
-**Limitez la quantité d'éléments de travail au cours des étapes.**
+**Limitez le nombre d'éléments de travail à toute étape de votre processus de travail.**
 
 Le travail en cours inclut :
 
-- la quantité d'éléments dans le backlog
-- des projets simultanés ou les tâches des groupes ou individus
-- projets dans un portfolio
+- le nombre d'éléments dans un [backlog](glossary:backlog)
+- les projets simultanés ou les tâches des équipes ou individus
+- le produits d'un portefeuille
 
-Lorsqu'une action excéderait l'entente sur la limite des éléments de travail en cours, elle doit être débattue au sein du groupe avant de progresser.
+Lorsqu'une nouvelle action ferait dépasser la limite du nombre d'éléments en cours de travail celà doit être porté à l'attention de l'équipe avant de continuer.

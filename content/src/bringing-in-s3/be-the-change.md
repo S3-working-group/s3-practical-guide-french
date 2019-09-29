@@ -2,4 +2,4 @@
 
 **Menez par l'exemple.**
 
-Agissez comme vous souhaitez que les autres agissent.
+Comportez-vous et agissez de la façon dont vous voudriez que les autres le fassent.

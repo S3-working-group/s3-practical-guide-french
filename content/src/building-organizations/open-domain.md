@@ -1,15 +1,15 @@
-## Ouvrir les domaines
+## Domaine ouvert
 
-![right,fit](img/structural-patterns/open-domain.png)
+**S'occuper d'un domaine délibérément sur invitation plutôt que par affectation et demander que ceux qui sont invités contribuent quand ils peuvent.**
 
-**Une façon de gérer un domaine par invitation plutôt que par désignation.**
+Le [déléguant](glossary:delegator) du domaine ouvert clarifie :
 
-Le délégant du domaine ouvert clarifie :
-
-- le moteur primaire, les responsabilités clés et les contraintes du domaine ouvert
+- l'[intention primaire](glossary:primary-driver), les responsabilités clés et les contraintes du domaine ouvert
 - qui est invité à contribuer au domaine ouvert
-- les contraintes relatives à la participation du délégant dans la gouvernance du domaine ouvert
+- les contraintes liées à la participation du déléguant à la [gouvernance](glossary:governance) du domaine ouvert
 
-Le délégant du domaine ouvert est tenu responsable de l'évaluation régulière du domaine ouvert.
+Selon les contraintes définies par le déléguant, les contributeurs peuvent se contenter d'[organiser faire du travail](glossary:operations), ou de prendre aussi part à la gouvernance.
 
-Selon les contraintes définies par les délégants, les contributeurs peuvent avoir à rendre compte d'une tâche et/ou gouvernance du domaine ouvert.
+Un déléguant est responsable de mener des évaluations régulières pour soutenir l'efficacité du travail et de toute décision prise dans un domaine ouvert.
+
+![Domaine ouvert](img/structural-patterns/open-domain.png)

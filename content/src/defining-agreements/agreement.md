@@ -1,17 +1,15 @@
-## Accord
-
-![right,fit](img/evolution/driver-agreement-improvement.png)
+## Entente
 
 {{define:agreement}}
 
-- les ententes sont créées pour répondre aux moteurs 
-- les ententes sont de la **responsabilité du cercle** qui les a créées
-- les ententes sont **régulièrement ré-examinées.**
+Les ententes sont créées en réponse à des [intentions organisationnelles](glossary:organizational-driver), elles sont **régulièrement évaluées**, et évoluent si nécessaire.
 
-**Note**: Dans S3, les lignes directrices, les processus et les protocoles créés par les individus occupant certains rôles sont traités comme des ententes.
+**La responsabilité générale** d'une entente appartient aux personnes qui la créent.
 
-* * *
+Une entente peut inclure la **délégation de responsabilités particulières** à des individus ou à des groupes.
 
-### Modèle d'entente
+Consignez toutes les **attentes** liées à des [livrables](glossary:deliverable), des comportements ou des ressources en rapport avec l'entente.
 
-![inline,fit](img/templates/agreement-template.png)
+**Note:** Dans S3, les consignes, les processus ou les protocoles créés par des individus dans des rôles sont également traités comme des ententes.
+
+![Modèle pour les ententes](img/templates/agreement-template.png)

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-"(cont.)\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: sociocracy-30\n"
@@ -8,14 +7,14 @@ msgstr ""
 "X-Crowdin-File: localization.pot\n"
 "Project-Id-Version: sociocracy-30\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Last-Translator: sociocracy30\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-05-07 06:40-0400\n"
+"PO-Revision-Date: 2019-09-29 13:44\n"
 
 # continuation marker for follow-up slides
-msgid "(cont.)"
-msgstr "(suite)"
+msgid "(…)"
+msgstr ""
 
 # patterns (plural)
 msgid "Patterns"
@@ -30,8 +29,8 @@ msgid "Sociocracy 3.0 - A Practical Guide"
 msgstr "Sociocratie 3.0 - Un Guide Pratique"
 
 # site descriptions for practical guide microsite
-msgid "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
-msgstr "La description officielle de la Sociocratie 3.0 - Toutes les pratiques, les Sept Principes et les concepts clés. Préservé par Bernhard Bockelbrink, James Priest et Liliana David."
+msgid "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgstr "La description officielle de la Sociocratie 3.0 — toutes les pratiques, les sept principes et les concepts clés."
 
 # Headline for Section "Introduction" (e.g. in ebook)
 msgid "Introduction"
@@ -57,13 +56,13 @@ msgstr "Guide-pratique-S3"
 msgid "S3 - A Practical Guide"
 msgstr "S3 - Un Guide Pratique"
 
-msgid ""
-msgstr ""
-""
+# Pattern-Index in PDF
+msgid "Pattern-Index"
+msgstr "Index des pratiques"
 
-msgid ""
-msgstr ""
-""
+# Title for Table of Contents in PDF
+msgid "Contents"
+msgstr "Contenu"
 
 msgid ""
 msgstr ""

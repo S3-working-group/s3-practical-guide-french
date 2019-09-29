@@ -1,9 +1,11 @@
-## Secrétaire du carnet (rôle)
+## Gardien du registre
 
-Le secrétaire de réunion est responsable du maintien du carnet du cercle via :
+**Sélectionnez un membre de votre équipe pour être spécifiquement redevable de la tenue des enregistrements de toutes les informations dont l'équipe a besoin.**
 
-- l'enregistrement des détails des ententes, descriptions des domaines, sélections, dates d'évaluation, compte-rendus des réunions, etc.
-- l'organisation des informations pertinentes et l'amélioration du système quand cela apporte de la valeur
-- garder les dossiers et enregistrements à jour
-- rendre le journal de bord accessible à tous les membres du cercle (et au reste de l'organisation comme convenu)
-- s'occuper de tous les aspects techniques reliés à la mise à jour du carnet
+Le gardien du registre est responsable de maintenir le [journal de bord](glossary:logbook) d'une équipe en :
+
+- enregistrant les détails des[ententes](glossary:agreement), [du domaine](glossary:domain) des descriptions, [des sélections](section:role-selection), des dates d'évaluation, des procès-verbaux de réunions, etc.
+- organisant les informations pertinentes et en améliorant le système lorsque cela apporte de la valeur
+- gardant les enregistrements à jour
+- assurant l'accessibilité à tous les membres de l'équipe (et au reste de l'organisation comme convenu)
+- s'occupant de tous les aspects techniques liés à la conservation du registre

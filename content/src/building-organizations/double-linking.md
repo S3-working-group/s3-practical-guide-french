@@ -1,10 +1,9 @@
 ## Double lien
 
-![right,fit](img/structural-patterns/double-link.png)
+**Permet l’échange d’informations et l’influence *bi-directionnels* entre deux équipes.**
 
-**Facilite l'interaction entre deux cercles (ou équipes) par un flux d'information *à deux sens*.**
+Deux équipes interdépendantes sélectionnent chacune un de leurs membres pour représenter leurs intérêts dans les décisions de [gouvernance](glossary:governance) de l’autre équipe.
 
-Deux cercles (ou équipes) interdépendantes choisissent un de leurs membres pour représenter leurs intérêts dans des décisions de gouvernance de l'autre groupe.
+Le double lien permet une équivalence entre deux équipes et peut être utilisé pour révéler des informations précieuses dans les structures hiérarchiques.
 
-- crée une équivalence entre les deux groupes
-- peut être utiliser pour tirer de l'information utile dans les structures hiéarchiques
+![Double lien entre deux cercles](img/structural-patterns/double-link.png)

@@ -1,22 +1,20 @@
-## Amélioration continue des méthodes de travail
+## Amélioration continue du processus de travail
 
-**Pour révéler les moteurs et établir un système basé sur les demandes et les mesures, en vue d'un changement organisationnel.**
+**Révélez les intentions et établissez un système à flux tiré basé sur des métriques pour le changement organisationnel en améliorant et en affinant continuellement le processus de travail.**
 
-- introduire le principe du consentement et de *Naviguer par Tension* pour faire évoluer les processus de travail dans une équipe
-- envisager la sélection d’un facilitateur et s’entendre sur les valeurs
-- commencer l’amélioration continue (p. e., avec un Kanban)
-- les membres de l'équipe adoptent des pratiques S3 selon les besoins
-- élargir la portée de l’expérience de manière itérative
-- intentionnellement chercher les entraves 
-
-* * *
+- introduisez le principe de consentement et de [naviguer par tension](section:navigate-via-tension) pour faire évoluer le processus de travail dans un groupe
+- envisagez de sélectionner un facilitateur pour guider les processus de groupe, et choisissez des valeurs pour guider le comportement
+- initiez un processus d'amélioration continue, ex: avec Kanban ou des [rétrospectives](section:retrospective) régulières
+- les membres de l'équipe puisent dans les pratiques S3 au besoin
+- si cela présente un intérêt, étendez itérativement le champ de l'expérience à d'autres équipes
+- cherchez sciemment des obstacles 
 
 ### Gaspillage et Amélioration continue
 
-![right,fit](img/workflow-and-value/drivers-value-waste.png)
+{{define:waste}}
 
-Le **gaspillage** *est tout ce qui n'est pas nécessaire pour - ou est un obstacle pour accomplir - la réponse efficace à un moteur.*
+Le gaspillage existe sous différentes formes et à différents niveaux d’abstraction (tâches, processus, structure organisationnelle, modèles mentaux...)
 
-- le gaspillage existe sous différentes formes et à différents niveaux d’abstraction (tâches, processus, structure organisationnelle, modèles mentaux...)
-- mettez en place un processus d'élimination du gaspillage permet à l'organisation de toujours améliorer son efficacité
-- l'adaptation à un environnement changeant est incluse dans le processus
+Mettre en place un processus d'élimination continu du gaspillage permet l'évolution naturelle d'une organisation vers une plus grande efficacité, et l'adaptation à un contexte évolutif.
+
+![Intentions, valeur, gaspillage](img/workflow-and-value/drivers-value-waste.png)

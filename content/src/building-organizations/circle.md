@@ -1,21 +1,20 @@
 ## Cercle
 
-![right,fit](img/circle/circle.png)
-
 {{define:circle}}
 
 Un cercle:
 
 - peut être permanent ou temporaire
-- peut s'auto-organiser
-- est responsable de son propre développement et de l'ensemble de ses ententes
+- peut être [auto-organisé](glossary:self-organization)
+- est redevable de son propre développement et de son corpus d’[ententes](glossary:agreement)
 
-* * *
+- **semi-autonome:**
+    
+    - Les membres d'un cercle agissent selon les contraintes de leur [domaine](glossary:domain).
+    - Chaque cercle peut créer de la [valeur](glossary:value) en autonomie.
+- **auto-gouverné:** 
+    - Les membres d'un cercle décident continuellement ensemble comment gérer leur domaine, et définissent les contraintes sur comment et quand les choses seront faites.
+- **équivalence des membres du cercle :** 
+    - Tous les membres d'un cercle sont également responsables de la [gouvernance](glossary:governance) du domaine du cercle.
 
-## Cercle (suite)
-
-- **semi-autonome** 
-    - un cercle agit dans les contraintes de son domaine
-    - chaque cercle peut créer de la valeur en autonomie
-- **auto-gouverné** : 
-    - un cercle décide en permanence comment gérer son domaine, et définit des contraintes sur les méthodes et la temporalité des actions.
+![Tous les membres d'un cercle sont équitablement responsables de la gouvernance du domaine du cercle](img/circle/circle.png)

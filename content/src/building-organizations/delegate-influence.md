@@ -1,13 +1,13 @@
-## Déléguer son influence
+## Déléguer l'influence
 
-Décentraliser le pouvoir d’influence au sein de contraintes définies. Permettre aux gens de décider et d’agir par eux-mêmes en réponse aux facteurs organisationnels.
+**Distribuer le pouvoir d'influencer, pour permettre aux gens de décider et d'agir pour eux-mêmes dans des contraintes définies.**
 
-Le délégant soutient la production de valeur par ses collègues en :
+Un [déléguant](glossary:delegator) peut soutenir des [délégués](glossary:delegatee) pour livrer de la valeur en :
 
-- définissant les domaines de responsabilités et d'autonomie avec clarté
-- assurant l'apprentissage et le développement en continu
-- procurant tout le soutien nécessaire
+- Définissant clairement des [domaines](glossary:domain) d'autonomie et de responsabilité
+- S'assurant qu'il existe des opportunités d'apprentissage et de développement
+- Procurant tout le soutien nécessaire
 
-Ajustez les contraintes par incrémentation, en prenant en compte les capacités, la fiabilité et le résultat.
+Ajustez les contraintes graduellement, en tenant compte des capacités, de la fiabilité et du résultat attendu.
 
-Décentralisez autant que possible, et gardez autant d'influence que nécessaire.
+Décentralisez autant que possible, et conservez autant d'influence que nécessaire.
