@@ -1,17 +1,16 @@
 ---
-title: "Changement organisationnel basé sur les demandes (ou les besoins)"
+title: "Créez un système à flux tirés pour le changement organisationnel"
 ---
 
 
-**Créez un environnement qui encourage les membres d'une organisation et leur permet d'amorcer des changements.**
+**Créez un environnement qui invite les membres d'une organisation à mener des changements.**
 
-Apportez des modifications si elles ajoutent de la valeur :
+Changez les choses lorsqu'il y a un intérêt à le faire :
 
-- introduire les pratiques permettant de surmonter les plus importants problèmes importants du moment 
-  - ne remettez pas en question ce qui fonctionne!
-  - prenez les gens où ils sont …
-  - ... et laissez-les choisir leur propre rythme
-- envisager que tous les changements soient volontaires!
+- Introduisez les pratiques permettant de surmonter les problèmes importants du moment.
+- Ne cassez pas ce qui fonctionne déjà !
+- Allez à la rencontre des gens…
+- …et laissez-les choisir leur propre rythme.
 
-[&#9654; Soyez le changement](be-the-change.html)<br/>[&#9664; Adapter les pratiques au contexte](adapt-patterns-to-context.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
+[&#9654; Incarnez le changement](be-the-change.html)<br/>[&#9664; Adapter les pratiques au contexte](adapt-patterns-to-context.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
 

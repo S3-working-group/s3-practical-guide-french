@@ -1,20 +1,20 @@
 ---
-title: "Évaluation par les pairs"
+title: "Retour de ses pairs"
 ---
 
 
 Invitez un pair à vous donner des critiques constructives sur :
 
-- votre performance dans votre rôle
-- des retours sur votre participation et votre collaboration
-- tout aspect spécifique qui pourrait vous intéresser
+- votre performance dans un rôle
+- votre participation et votre contribution en général
+- tout point particulier qui pourrait vous intéresser
 
 Considérations :
 
-- demandez à vos pairs de ne pas répondre à froid et de se préparer
-- invitez à donner des **appréciations** comme des **suggestions d'améliorations implémentables**
-- posez des questions pour mieux comprendre les retours, et évitez de les discuter ou de les juger
-- décidez vous-même comment prendre en compte ces retours
+- invitez les pairs à prendre un peu de temps pour se préparer
+- recueillez à la fois des **appréciations** et des **suggestions d'améliorations applicables**
+- posez des questions pour mieux comprendre le retour, et évitez de le discuter ou de le juger
+- décider de vous-même ce que vous allez faire des retours que vous recevez
 
-[&#9654; Examen par les pairs](peer-review.html)<br/>[&#9664; Demander de l’aide](ask-for-help.html)<br/>[&#9650; Développement des pairs](peer-development.html)
+[&#9654; Évaluation par ses pairs](peer-review.html)<br/>[&#9664; Demander un soutien](ask-for-help.html)<br/>[&#9650; Se développer entre pairs](peer-development.html)
 

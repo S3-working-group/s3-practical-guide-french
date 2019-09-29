@@ -3,8 +3,25 @@ title: "Licence"
 ---
 
 
-![fit](img/framework/logo.png)
+"Sociocratie 3.0 - Un Guide Pratique" de Bernhard Bockelbrink, James Priest et Liliana David est sous licence **Creative Commons Attribution-ShareAlike 4.0 International License**, qui est une **licence Free Culture**.
 
-Ce travail de Bernhard Bockelbrink, Liliana David et James Priest est disponible sous licence Creative Commons Attribution-ShareAlike 4.0 International License. Pour voir une copie de cette licence, visitez <http://creativecommons.org/licenses/by-sa/4.0/>.
+Fondamentalement cette licence vous accorde :
 
-La version la plus récente de ce document est disponible à <http://sociocracy30.org>
+1. La liberté d'utiliser l’œuvre elle-même.
+2. La liberté d'utiliser les informations dans le travail à toutes fins, même commercialement.
+3. La liberté de partager des copies de l'œuvre à toutes fins, même commercialement.
+4. La liberté de faire et de partager des remixes et d'autres dérivés à toutes fins.
+
+Vous devez **attribuer le créateur original des matériaux**, et **tous les dérivés doivent être partagés sous la même licence**.
+
+Pour afficher le texte complet de cette licence, visitez <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
+
+Il y a plus sur le thème de la culture libre sur le site [Creative Commons](https://creativecommons.org/freeworks).
+
+### Attribution des travaux dérivés
+
+Si vous créez un travail dérivé, vous devez donner le crédit adéquat et indiquer quelles modifications vous avez apportées. Une bonne attribution contient le titre, l'auteur, la source et la licence, comme ceci :
+
+> Cette œuvre, intitulée « [nom de votre œuvre] », est dérivée de la « Sociocratie 3.0 - Un Guide Pratique » de James Priest, Bernhard Bockelbrink et Liliana David utilisée sous CC BY SA. « [nom de votre œuvre]» est sous licence CC BY SA par [votre nom].
+
+Vous pouvez en savoir plus sur l'attribution sur la [page Creative Commons des meilleures pratiques pour l'attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).

@@ -3,60 +3,65 @@ title: "Objection"
 ---
 
 
-_Une **objection** est une raison expliquant pourquoi faire quelque chose entraverait une réponse plus efficace à un moteur._
+_Une **objection** est un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il existe des moyens intéressants de l'améliorer._
 
-Les objections contiennent des informations révélant :
+Les objections apportent des informations sur **des conséquences non désirées**, ou sur **des façons viables d'apporter des améliorations**.
 
-- une conséquence certaine ou probable de préjudice (l'action n'est pas assez sécuritaire pour être essayée)
-- des façons d'améliorer les propositions, les décisions, les ententes existantes ou les actions
+Il est de la responsabilité des individus de soulever des objections potentielles à des propositions, des décisions, des <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> existantes ou des activités.
 
+Ne pas exprimer les objections peut nuire à la capacité des individus, des groupes ou de l'organisation de répondre aux <dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.">intentions organisationnelles</dfn>.
+
+Pouvoir soulever des objections *potentielles* à tout moment signifie que les décisions n'ont besoin que *d'être suffisantes à l'instant présent et d'être juste assez sûres pour les essayer*.
+
+Les responsables de l'activité ou de l'accord (ou proposition) en question sont tenus d' *examiner les arguments soulevés et d'adresser les objections.*
+
+Lorsque vous cherchez des objections potentielles, considérez :
+
+- pourquoi le <dfn data-info="Résultat attendu: Le résultat escompté d&apos;une entente, d&apos;une action, d&apos;un projet ou d&apos;une stratégie.">résultat prévu</dfn> ne serait pas (entièrement) atteint : **efficacité**
+- pourquoi il serait inutile de procéder comme proposé (ou convenu précédemment): **efficience**
+- les conséquences négatives que quelque chose aurait par ailleurs (dans le même <dfn data-info="Domaine: Une zone d&apos;influence, activité et prise de décisions distincte au sein d&apos;une organisation.">domaine</dfn>, dans l'ensemble de l'organisation, ou au-delà): **effets secondaires**
+
+Les informations apportées par les objections peuvent être utilisées pour améliorer :
+
+- les actions en cours et planifiées
+- la façon dont les gens exécutent les décisions
+- les ententes existantes
+- les propositions
+- la compréhension commune des intentions
 
 ### Qualifier les objections
 
-Il est de la responsabilité de chacun d'émettre ses objections potentielles.
+Tous les arguments soulevés ne sont pas des objections. Il convient de distinguer les objections, qui contiennent toujours des informations utiles, des arguments basés seulement sur des suppositions ou des préférences.
 
-Les responsables de l'action ou de l'entente proposée en question sont responsables de * la réflexion quant aux arguments et les réponses aux objections qualifiées.*
+Pour savoir si un argument est une objection, dans un contexte de groupe, un facilitateur pourrait demander :
 
-Se retenir d'objecter peut nuire à la capacité des individus, groupes ou l'organisation entière à répondre aux moteurs organisationnels.
+*« Pensez-vous que cet argument est une objection ? »*
 
-Pouvoir faire remonter des objections *potentielles* à tout moment signifie que les décisions n'ont besoin que *d'être correctes au moment présent et assez sécuritaires pour être tentées*.
-
-
-
-*Comment cela entraverait - ou escamoterait une opportunité d'améliorer - le flux de valeur vers un moteur organisationnel ?*
-
-Les objections arrêtent :
-
-- les actions en cours et planifiées
-- l'exécution des décisions
-- les ententes existantes avant qu'elles ne soient reconsidérées
-- les propositions de devenir des ententes
-
+Si personne ne conteste l'argument, c'est habituellement une objection. Sinon, essayez de découvrir la véritable objection réelle ou de mettre en évidence toute fausse idée.
 
 ### Comprendre les objections
 
 Quelques questions utiles :
 
-- En quoi l'objection est-elle relative à cette proposition ou accord spécifique ?
-- Est-ce que l'argument révèle comment des **actions ou ententes**: 
-    - empêchent une bonne réponse aux moteurs organisationnels?
-    - peuvent être améliorées dans l'immédiat ?
-    - ... empêchent ou diminuent les contributions de quelqu'un pour répondre à un moteur ?
-    - ... sont en conflit avec les valeurs de l'organisation ?
-    - sont considérées trop risquées ?
-
+- En quoi l'argument est-il relatif à cette proposition ou à cet accord en particulier ?
+- L'argument indique-t-il comment telle **activité ou tel accord (proposé ou en vigueur)**: 
+    - empêche de répondre aux intentions organisationnelles?
+    - peut être amélioré immédiatement ?
+    - empêche ou réduit la contribution de quelqu'un envers une intention ?
+    - est en conflit avec les valeurs de l'organisation ?
+    - est considéré comme trop 'risqué' pour essayer?
 
 ### Préoccupations
 
-Une **préoccupation** est une *opinion* stipulant qu'une action (même si elle est considérée *correctes au moment présent et assez sécuritaires pour être tentées*) **pourrait** entraver - ou faire perdre une opportunité d'améliorer - le flux de valeur vers un moteur organisationnel.
+_Un **préoccupation** est une hypothèse selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** se présenter comme une réponse (plus) efficace à une intention organisationnelle._
 
-Dans la prise de décision par consentement, les préoccupations :
+Dans la [Prise de Décision par Consentement](consent-decision-making.html), les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation).
 
-- peuvent informer sur les moyens de faire évoluer les ententes ( y compris les critères d'évaluation et la fréquence d'évaluation) 
-- sont entendues s'il y a le temps, ou sont considérées importantes
-- ... peuvent être enregistrées dans le journal de bord
+Faites part de vos préoccupations si vous les considérez importantes et proposez des critères d'évaluation correspondant.
 
-Si les gens croient qu'une proposition n'est 'pas assez sécuritaire pour être tentée', elles peut faire apparaître des préoccupations sous la forme d'objections, pour consulter les pairs sur la probabilité d'un préjudice.
+Si vous n'êtes pas sûr d'avoir une objection ou une préoccupation, vérifiez avec les autres si ils pensent qu'elle est bien une objection recevable.
 
-[&#9654; Résoudre les objections](resolve-objections.html)<br/>[&#9664; Prise de décision par consentement](consent-decision-making.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+![Un processus pour qualifier une objection](img/agreements/qualify-objection-process.png)
+
+[&#9654; Intégrer les objections](resolve-objections.html)<br/>[&#9664; Prise de décision par consentement](consent-decision-making.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
 

@@ -3,16 +3,19 @@ title: "Adapter les pratiques au contexte"
 ---
 
 
-**Adaptez et évoluez les pratiques de S3 pour correspondre à votre contexte particulier.**
+**Adaptez et faites évoluer vos pratiques S3 pour correspondre à votre contexte particulier.**
 
-![right,fit](img/process/adapt-pattern-to-context.png)
+Assurez-vous que tous ceux qui sont concernés :
 
-- s’assurer que chaque personne touchée par l’adaptation : 
-    - comprenne pourquoi il est nécessaire d’adapter la pratique
-    - soit présente ou représentée lors de l'adaptation
-- applique les principes S3 pour guider l’adaptation
-- tester les adaptations suffisamment longtemps pour en identifier les avantages et les inconvénients
-- envisagez de partager les adaptations utiles avec la communauté S3
+- comprennent pourquoi modifier la pratique est nécessaire (ou utile)
+- sont présents ou sont représentés lorsque la décision est prise de la modifier
+- utilisent les principes S3 comme guide pour l'adaptation.
 
-[&#9654; Création d'une organisation basée sur les demandes (ou les besoins)](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
+Expérimentez les adaptions suffisamment longtemps pour en identifier les avantages et les inconvénients.
+
+Partagez les adaptations intéressantes avec la communauté S3.
+
+![Phases d'adaptation des pratiques à un contexte spécifique](img/process/adapt-pattern-to-context.png)
+
+[&#9654; Créez un système à flux tirés pour le changement organisationnel](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
 

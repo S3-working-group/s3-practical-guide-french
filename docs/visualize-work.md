@@ -3,28 +3,27 @@ title: "Visualisation du travail"
 ---
 
 
-![right,fit](img/workflow-and-value/simple-process.png)
+**Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de tous les éléments de travail actuellement en attente, en cours ou terminés.**
 
-Transparence sur l'état des tâches planifiées, en cours et complétées.
+- précieux pour <dfn data-info="Auto-organisation: Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l&apos;influence d&apos;un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l&apos;auto-organisation et l&apos;influence externe coexistent.">l'auto-organisation</dfn> et les systèmes à flux tirés
+- le système doit être accessible à toutes les personnes concernées
+- **physique :** post-its sur un mur, ou fiches cartonnées, magnets et tableau blanc
+- **numérique :** [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
-- précieux pour l'auto-organisation et les systèmes par demande
-- le système est accessible à toutes les personnes concernées
-- **analogique**: "post-it" ou fiches sur un mur, aimants sur un tableau blanc
-- **numérique** : Trello, Kanbanery, Leankit, Google Sheets, etc.
+![Visualisation d'un processus de travail simple](img/workflow-and-value/simple-process.png)
 
-
-### Éléments à suivre:
-
-![right,fit](img/workflow-and-value/card.png)
+### Choses à suivre:
 
 - **types de demandes** (i.e. demande du client, tâches de projets, rapports de tâches, retouches)
-- **date de départ** (et **date butoir** si nécessaire)
+- **date de démarrage** (et **date d'échéance** si nécessaire)
 - **priorités**
-- **étapes** du travail (par exemple « à faire », « en cours », « revoir » et « complétées »)
+- **étapes** du travail (ex « à faire », « en cours », « à revoir » et « terminé »)
 - obstacles / entraves
-- qui fait quoi
-- accords et attentes guidant le flux de travail (par exemple la définition de fait, politique, normes de qualité)
+- qui travaille sur quoi
+- <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> et attentes guidant le flux de travail (ex. définition de terminée, politique, normes de qualité)
 - utiliser des couleurs, des symboles, du surlignement, etc.
 
-[&#9654; Système de travail basé sur les demandes](pull-system-for-work.html)<br/>[&#9664; Backlog priorisé](prioritize-backlogs.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+![Une carte représentant un élément de travail](img/workflow-and-value/card.png)
+
+[&#9654; Système de travail à flux tiré](pull-system-for-work.html)<br/>[&#9664; Prioriser les backlogs](prioritize-backlogs.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
 

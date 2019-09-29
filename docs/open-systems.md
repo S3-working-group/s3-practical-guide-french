@@ -3,14 +3,12 @@ title: "Systèmes ouverts"
 ---
 
 
-Une organisation peut bénéficier d'une communication intentionnelle et d'un apprentissage auprès d'autres personnes.
+**Communiquez sciemment et apprenez auprès d'autres personnes en dehors de votre système.**
 
-Reconnaissant son interdépendance, une organisation peut consciemment inviter des **informations externes, influences ou compétences** pour aider à la prise de décision et pour soutenir l'apprentissage collectif.
-
-
+Les individus, les équipes et les organisations entières peuvent reconnaître l'interdépendance et inviter sciemment des personnes de l'extérieur de leur système à introduire **connaissance, expérience et influence** pour aider à prendre des décisions et soutenir l'apprentissage collectif.
 
 - Les **experts externes** peuvent offrir une perspective extérieure et apporter des connaissances, leur compréhension et des compétences
-- Les **représentants des parties affectées** peuvent informer et influencer la prise de décision afin d'atteindre plus aisément les objectifs principaux (consulter Les personnes concernées décident)
+- **Les représentants des parties concernées** peuvent informer et influencer la prise de décision de manière à concourir aux objectifs globaux (voir [les concernés décident](those-affected-decide.html))
 
-[&#9654; Interactions ciblées](focused-interactions.html)<br/>[&#9664; Ouvrir les domaines](open-domain.html)<br/>[&#9650; Évolution des organisations](building-organizations.html)
+[&#9654; Introduire S3](bringing-in-s3.html)<br/>[&#9664; Domaine ouvert](open-domain.html)<br/>[&#9650; Construire les organisations](building-organizations.html)
 

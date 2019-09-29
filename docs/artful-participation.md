@@ -3,41 +3,43 @@ title: "Participation élégante"
 ---
 
 
-![right,fit](img/collaboration-values/artful-participation.png)
+**Engagez-vous à faire de votre mieux pour agir et interagir de manière à permettre une collaboration efficace.**
 
-Un **engagement individuel** pour développer des interactions utiles et une collaboration efficace :
+*"Mon comportement actuel est-il la meilleure contribution que je puisse apporter à l'efficacité de cette collaboration?"*
 
-- activement **respecter les ententes et les suivres** de la meilleure façon possible compte tenu des circonstances
+Participer avec élégance peut signifier interrompre, objecter ou enfreindre des <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn>.
+
+*La participation élégante* est un **engagement individuel** à :
+
+- activement **respecter et suivre toutes les ententes** créées, de la meilleure façon possible, compte tenu des circonstances
 - **prendre conscience et comprendre** les besoins individuels et collectifs
-- **développer les compétences nécessaires** pour le faire
-- **soutenir les autres** à faire de même 
-- si nécessaire, partager les difficultés avec le cercle
-
-Une participation élégante peut inclure l'interruption, l'objection à ou la rupture d'ententes.
-
+- **développer les compétences nécessaires**
+- **soutenir les autres** à participer élégamment
+- soulever les obstacles et faire des suggestions d'amélioration à l'attention des autres si nécessaire
 
 ### Avantages de la participation élégante
 
-![right,fit](img/illustrations/balance-autonomy-collaboration-alt.png)
+La participation élégante :
 
-- permet la co-création et évolution des ententes
-- aide à souder des équipes plus fortes
-- construit l'auto-responsabilisation, l'intégrité et la confiance
+- permet la co-création et l'évolution des ententes
+- aide à renforcer les équipes
+- développe l'auto-responsabilisation, l'intégrité et la confiance
 - génère une culture de soutien mutuel et d'étroite collaboration
-- encore plus efficace lorsque cette méthode est partagée par le groupe
+- est encore plus puissante lorsqu'elle est adoptée à plusieurs
 
+![Trouvez l'équilibre entre autonomie et collaboration par une participation élégante](img/illustrations/balance-autonomy-collaboration-alt.png)
 
 ### Participation élégante : auto-évaluation
 
-- Comment s'entraider dans la participation élégante? 
-- Lesquelles de mes interactions avec mes pairs sont inefficaces, ou inutiles ?
-- Quelles sont les ententes que je peine à respecter ou à faire ma part du travail? Que puis-je faire pour changer cette situation?
-- Quelles compétences pourrais-je développer qui m'aideraient à participer plus élégamment ?
-- Que signifierait une participation élégante en regard de : 
+- Comment puis-je me soutenir moi-même et les autres pour participer plus élégamment? 
+- Quand mes interactions avec les autres sont-elles inutiles ou inefficaces ?
+- Quelles ententes ai-je du mal à respecter ? Que puis-je faire pour y remédier ?
+- Quelles compétences puis-je développer, qui m'aideraient à participer plus élégamment?
+- Que signifierai participer plus élégamment dans : 
     - mes activités quotidiennes ?
     - ma collaboration et mes interactions avec les autres ?
-    - l'organisation ? les clients ou les bénéficiaires ?
-    - l'environnement en général ?
+    - l'organisation ? ...nos clients ?
+    - le reste de mon environnement ?
 
-[&#9654; Adopter les sept principes](adopt-the-seven-principles.html)<br/>[&#9650; Facilitateurs de co-création](enablers-of-co-creation.html)
+[&#9654; Adopter les sept principes](adopt-the-seven-principles.html)<br/>[&#9650; Catalyseurs de collaboration](enablers-of-collaboration.html)
 

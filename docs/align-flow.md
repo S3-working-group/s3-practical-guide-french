@@ -3,18 +3,20 @@ title: "Aligner les flux"
 ---
 
 
-![right,fit](img/workflow-and-value/align-flow.png)
+**Pour soutenir un flux continu de valeur, déplacez la prise de décision pour la rapprocher de là où est créée la valeur, et alignez les flux d'information en conséquence.**
 
-- dans une organisation efficace, le **flux d'information et d'influence facilite le flux continu de la valeur**
-- l'alignement est réalisé et maintenu grâce à des politiques d'amélioration continue
+**Flux de valeur:** Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.
 
+Atteignez et maintenez l'alignement des flux à travers l'amélioration continue du corpus des <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> d'une organisation :
 
-### Flux de valeur
+- assurez-vous que toutes les décisions affectant le flux de valeur soutiennent réellement le flux de valeur
+- permettez aux personnes dont les compétences et savoirs sont pertinents d'influencer les prises de décisions
+- rendez disponible tout information utile
+- visez à raccourcir les boucles de retour pour amplifier l'apprentissage.
 
-- le flux de valeur est dirigé par les accords (explicites et implicites), et les suppositions
-- le travail en cours (Work In Progress) est considéré comme du gaspillage car il bloque des ressources
-- un flux continu de valeur empêche l'accumulation de gaspillage 
-    - cela permet également des retours rapides et amplifie l'apprentissage
+Lorsque les prises de décision s'effectuent près de là où est créée la valeur, et que le flux d'information soutient un flux de valeur continu régulier, le potentiel d'accumulation de gaspillage est réduit.
 
-[&#9654; Coordinateur](coordinator.html)<br/>[&#9664; Limiter le travail en cours](limit-work-in-progress.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+![Aligner le flux d'informations pour soutenir le flux de valeur](img/workflow-and-value/align-flow.png)
+
+[&#9654; Coordinateur](coordinator.html)<br/>[&#9664; Activités par bloc de temps](timebox-activities.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
 

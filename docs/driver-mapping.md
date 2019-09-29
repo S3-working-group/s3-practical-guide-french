@@ -1,20 +1,15 @@
 ---
-title: "Cartographier les moteurs"
+title: "Cartographier les intentions"
 ---
 
 
-Un atelier pour identifier une réponse efficace à une situation complexe: démarrer une compagnie, des nouveaux projets, s'attaquer à des entraves ou des ooportunités, aligner la structure organisationnelle au flux de valeur.
+Un format d'atelier pour identifier une réponse efficace à une situation complexe : organiser des start-ups, des nouveaux projets, s'attaquer aux obstacles majeurs ou aux opportunités, développer une structure organisationnelle pour mieux permettre le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d&apos;autres intervenants.">flux de valeur</dfn>.
 
-Les groupes grands ou petits identifient et priorisent les moteurs, passant rapidement du concept abstrait à l'action concrète dans des équipes autonomes.
+Un groupe (petit ou grand) identifie et regroupe des <dfn data-info="Moteur: La motivation d&apos;un groupe ou d&apos;une personne pour répondre à une situation particulière.">intentions</dfn>, pour ensuite progresser rapidement du concept à l'action dans des équipes plus petites et auto-organisées.
 
+![Cartographier les intentions : processus](img/facilitation-guides/driver-mapping-fg-print.png)
 
+![Cartographier les intentions: un modèle pour les domaines](img/templates/domain-template.png)
 
-![inline,fit](img/facilitation-guides/driver-mapping-fg-print.png)
-
-
-### Cartographier les moteurs : modèle pour les domaines
-
-![inline,fit](img/templates/domain-template.png)
-
-[&#9654; Organiser le travail](organizing-work.html)<br/>[&#9664; Sélection des rôles](role-selection.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Se développer entre pairs](peer-development.html)<br/>[&#9664; Sélection des rôles](role-selection.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
 

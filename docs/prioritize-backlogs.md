@@ -3,13 +3,11 @@ title: "Backlog priorisé"
 ---
 
 
-Ordonnez **tous les éléments de travail inachevés** avec les éléments les plus importants en premier :
+**Ordonnez tous les éléments de travail non terminés en partant des plus importants, puis dépilez par le haut lorsqu'il y a une nouvelle capacité.**
 
-- quand des ressources sont disponibles, elles sont assignées aux items prioritaires
-- deux éléments ne peuvent être d’importance égale, il est donc essentiel de s’entendre sur les priorités et faire des choix, même si c'est difficile
-- **Avantages** 
-    - se concentrer sur les éléments les plus importants
-    - une compréhension commune des priorités permet une collaboration plus efficace
+Il ne peut y avoir deux éléments de même importance, ce qui signifie qu'il est nécessaire de s'entendre sur les priorités et faire des choix difficiles.
 
-[&#9654; Visualisation du travail](visualize-work.html)<br/>[&#9664; Backlog](backlog.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+Un <dfn data-info="Demandes en attente: Une liste explicite et priorisée de tâches (livrables) ou d&apos;intention en attente de traitement.">backlog</dfn> priorisé aide à **rester concentré** sur les éléments les plus importants.
+
+[&#9654; Visualiser le travail](visualize-work.html)<br/>[&#9664; Backlog](backlog.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
 

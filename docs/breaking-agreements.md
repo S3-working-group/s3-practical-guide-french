@@ -3,12 +3,13 @@ title: "Enfreindre les ententes"
 ---
 
 
-- c'est parfois **nécessaire**...
-- ... mais peut **coûter cher** à la communauté
-- soyez responsable ! 
-    - **résolvez** les perturbations
-    - **faites le point** dès que possible avec les personnes affectées ou responsables
-    - **initiez des changements** au lieu de rompre régulièrement la même entente
+Enfreindre les <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> est parfois **nécessaire** mais peut **nuire** à la communauté.
 
-[&#9654; Contracter et prendre ses responsabilités](contracting-and-accountability.html)<br/>[&#9664; Facilitateur de la gouvernance](governance-facilitator.html)<br/>[&#9650; Facilitateurs de co-création](enablers-of-co-creation.html)
+Soyez responsable :
+
+- **remédiez aux** perturbations
+- **faites le point** le plus tôt possible avec les personnes impactées
+- **modifiez l'entente** au lieu de l'enfreindre à plusieurs reprises
+
+[&#9654; Contrat de collaboration réussie](contract-for-successful-collaboration.html)<br/>[&#9664; Facilitateur de la gouvernance](governance-facilitator.html)<br/>[&#9650; Catalyseurs de collaboration](enablers-of-collaboration.html)
 
