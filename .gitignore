@@ -2,3 +2,6 @@
 /s3patterns.sublime-workspace
 /_attic
 /docs/_site
+.DS_Store
+content/.DS_Store
+content/src/.DS_Store
