@@ -15,31 +15,31 @@ theme: Plain Jane, 1
 
 ---
 
-## Sociocratie 3.0 - Un guide pratique pour évoluer des organisations agiles et endurantes
+## Sociocratie 3.0 - Un guide pratique pour développer des organisations agiles et résilientes
 
 ### Une collaboration efficace à tous niveaux
 
-- **Basée sur les principes** : une façon cohérente pour cultiver l'intégrité organisationnelle et développer un état d'esprit agile et sociocratique
-- **flexible**: adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
+- **Basée sur des principes** : une façon cohérente pour cultiver l'intégrité organisationnelle et développer un état d'esprit agile et sociocratique
+- **flexible**: des pratiques adaptables, indépendantes et qui se renforcent mutuellement, afin de vous aider dans tous les aspects de la collaboration
 - **Libre** : licence Creative Commons Free Culture License
 
 * * *
 
 ## Quelle est son utilité ?
 
-Sociocratie 3.0 - **a.k.a. "S3"** - vous apporte une collection exhaustive de règles et de pratiques ayant prouvé leur efficacité auprès de différentes organisations, pour ** améliorer les performances, l'alignement, la complétion et le bien-être.</p> 
+Sociocratie 3.0 - **a.k.a. "S3"** - vous apporte une collection exhaustive de règles et de pratiques ayant prouvées leur efficacité auprès de différentes organisations, pour ** améliorer les performances, l'alignement, la complétion et le bien-être.</p> 
 
-S3 vous aide à découvrir comment atteindre vos objectifs et naviguer dans la complexité d'un projet de manière optimale, **sans le besoin d'une réorganisation radicale ou d'une initiative de changements massifs**:
+S3 vous aide à découvrir comment atteindre vos objectifs et naviguer dans la complexité d'un projet de manière optimale, **sans nécessiter une réorganisation radicale ni d'initialiser des changements massifs**:
 
-- Démarrez par votre zone d'activité recelant les plus grands besoins, sélectionnez une pratique ou plus à essayer, **avancez à votre rythme** et développez vos compétences au fur et à mesure.
+- Démarrez par votre zone d'activité où les besoins sont les plus importants, sélectionnez une ou plusieurs pratiques à essayer, **avancez à votre rythme** et développez vos compétences au fur et à mesure.
 
-- **Peu importe votre situation hiérarchique dans l'organisation**, vous découvrirez des pratiques pertinentes et utiles.
+- **Quelle que soit votre position hiérarchique dans l'organisation**, vous découvrirez des pratiques pertinentes et utiles.
 
 * * *
 
 ## Contenus
 
-- un bref récapitulatif des concepts basiques sur lesquels S3 se repose
+- un bref récapitulatif des concepts de base sur lesquels S3 se repose
 - une description de toutes les pratiques S3
 - une annexe contenant les changements apportés, les remerciements, des informations sur nos auteur.e.s et licences, un glossaire et un index
 
@@ -57,11 +57,11 @@ Avant de se plonger dans nos contenus, prenez le temps de vous familiariser avec
 
 - qu'est-ce qu'une pratique ?
 - s'approprier les sept principes
-- moteurs, valeur et gaspillage
+- intentions, valeur et gaspillage
 - domaines, délégation et responsabilisation
 - gouvernance, auto-organisation et semi-autonomie
 
-Si vous ne comprenez pas un des termes, consultez notre glossaire.
+Si vous ne comprenez pas l'un des termes ci)dessus, consultez notre glossaire.
 
 ---
 
@@ -72,8 +72,8 @@ Si vous ne comprenez pas un des termes, consultez notre glossaire.
 _Une **pratique** est un modèle pour appréhender correctement un contexte spécifique._
 
 - Les pratiques S3 sont découvertes par l'observation de la manière dont plusieurs organisations résolvent leurs problèmes et répondent aux opportunités potentielles
-- Les pratiques S3 peuvent être évoluées et adaptées pour convenir à différents contextes
-- Les pratiques sont regroupées par sujets en 10 catégories différentes
+- Les pratiques S3 peuvent être développées et adaptées pour convenir à différents contextes
+- Les pratiques sont regroupées par thème en 10 catégories différentes
 
 ---
 
