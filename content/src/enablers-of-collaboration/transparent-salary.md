@@ -1,6 +1,6 @@
 ## Transparence salariale
 
-**Créez une formule salariale équitable et rendez la transparente.**
+**Créez une formule salariale équitable et rendez-la transparente.**
 
 La transparence salariale (aussi appelée "salaire ouvert") est la pratique de déterminer la rémunération de chaque employé selon un ensemble de règles — la *formule salariale* — au lieu de faire une rémunération soumise à des négociations individuelles entre l'employeur et l'employé. La formule salariale — et souvent la rémunération individuelle aussi — est transparente pour tous les membres d’une organisation, et parfois pour le public.
 
@@ -10,7 +10,7 @@ La perception de l'équité varie d'une personne à l'autre et selon le contexte
 
 Lorsque vous décidez (ou vous accordez sur) d'une formule salariale pour une organisation ou un département, envisagez :
 
-- qui serait une garantie de subsistance fixe appropriée
+- que serait une garantie de subsistance fixe appropriée
 - comment calculer la rémunération selon le besoin, l'investissement, la productivité ou le mérite
 - comment distribuer les profits de l'organisation et couvrir les pertes en fonction des attentes et des besoins des diverses partie-prenantes
 

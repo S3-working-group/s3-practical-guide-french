@@ -15,6 +15,6 @@ Un cercle:
 - **auto-gouverné:** 
     - Les membres d'un cercle décident continuellement ensemble comment gérer leur domaine, et définissent les contraintes sur comment et quand les choses seront faites.
 - **équivalence des membres du cercle :** 
-    - Tous les membres d'un cercle sont également responsables de la [gouvernance](glossary:governance) du domaine du cercle.
+    - Tous les membres d'un cercle sont également redevables de la [gouvernance](glossary:governance) du domaine du cercle.
 
-![Tous les membres d'un cercle sont équitablement responsables de la gouvernance du domaine du cercle](img/circle/circle.png)
+![Tous les membres d'un cercle sont équitablement redevables de la gouvernance du domaine du cercle](img/circle/circle.png)

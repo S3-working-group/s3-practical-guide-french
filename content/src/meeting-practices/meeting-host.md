@@ -16,6 +16,6 @@ Préparation :
 - installer l'endroit et fournir le matériel et les informations requis
 - assurer la sélection d'un facilitateur et d'un secrétaire pour rédiger un procès-verbal, si nécessaire
 
-**Après la réunion:** nettoyage de l'emplacement, rendre les clés, régler tous les détails, et s'assurer que le procès-verbal est distribué.
+**Après la réunion:** nettoyer l'emplacement, rendre les clés, régler tous les détails, et s'assurer que le procès-verbal est distribué.
 
 **Voir aussi : ** [Faciliter les réunions](section:facilitate-meetings), [Préparer les réunions](section:prepare-for-meetings)

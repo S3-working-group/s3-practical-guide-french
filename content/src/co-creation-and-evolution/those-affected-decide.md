@@ -1,4 +1,4 @@
-## Les personnes concernées décident
+## Les personnes impactées décident
 
 **Impliquez les personnes dans les décisions qui les concernent, pour maintenir équivalence et responsabilité, et pour augmenter la quantité d'informations disponibles sur le sujet.**
 

@@ -15,7 +15,7 @@ Participer avec élégance peut signifier interrompre, objecter ou enfreindre de
 - **prendre conscience et comprendre** les besoins individuels et collectifs
 - **développer les compétences nécessaires**
 - **soutenir les autres** à participer élégamment
-- soulever les obstacles et faire des suggestions d'amélioration à l'attention des autres si nécessaire
+- signaler les obstacles et faire des suggestions d'amélioration à l'attention des autres si nécessaire
 
 ### Avantages de la participation élégante
 
@@ -35,7 +35,7 @@ La participation élégante :
 - Quand mes interactions avec les autres sont-elles inutiles ou inefficaces ?
 - Quelles ententes ai-je du mal à respecter ? Que puis-je faire pour y remédier ?
 - Quelles compétences puis-je développer, qui m'aideraient à participer plus élégamment?
-- Que signifierai participer plus élégamment dans : 
+- Que signifierait participer plus élégamment dans : 
     - mes activités quotidiennes ?
     - ma collaboration et mes interactions avec les autres ?
     - l'organisation ? ...nos clients ?

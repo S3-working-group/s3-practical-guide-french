@@ -14,7 +14,7 @@ Atteignez et maintenez l'alignement des flux à travers l'amélioration continue
 - rendez disponible tout information utile
 - visez à raccourcir les boucles de retour pour amplifier l'apprentissage.
 
-Lorsque les prises de décision s'effectuent près de là où est créée la valeur, et que le flux d'information soutient un flux de valeur continu régulier, le potentiel d'accumulation de gaspillage est réduit.
+Lorsque les prises de décision s'effectuent près de là où est créée la valeur, et que le flux d'information soutient un flux de valeur continu régulier, le risque de gaspillage est réduit.
 
 ![Aligner le flux d'informations pour soutenir le flux de valeur](img/workflow-and-value/align-flow.png)
 

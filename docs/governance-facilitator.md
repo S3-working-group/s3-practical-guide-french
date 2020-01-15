@@ -1,5 +1,5 @@
 ---
-title: "Facilitateur de la gouvernance"
+title: "Facilitateur de gouvernance"
 ---
 
 
@@ -7,15 +7,15 @@ title: "Facilitateur de la gouvernance"
 
 Un facilitateur de [gouvernance](governance.html) :
 
-- s'assure que [réunions de gouvernance](governance-meeting.html) restent sur la bonne voie et sont évaluées
+- s'assure que les [réunions de gouvernance](governance-meeting.html) restent sur la bonne voie et sont évaluées
 - est (habituellement) sélectionné par une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers une intention commune (ou un objectif). Généralement, une équipe fait partie d&apos;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> parmi ses membres (et pour une durée spécifique)
 - se familiarise avec le [backlog de gouvernance](governance-backlog.html)
 - invite souvent d'autres à faciliter certains points de l'ordre du jour
 
-En tant que facilitateur de la gouvernance, envisagez d'apprendre et d'utiliser les pratiques S3 suivantes pour gérer efficacement la gouvernance :
+En tant que facilitateur de gouvernance, envisagez d'apprendre et d'utiliser les pratiques S3 suivantes pour gérer efficacement la gouvernance :
 
-- [Rondes](rounds.html)
-- [Élaboration d'une proposition](proposal-forming.html)
+- [Tours de table](rounds.html)
+- [Élaborer une proposition](proposal-forming.html)
 - [Prise de décision par consentement](consent-decision-making.html)
 - [Sélections des rôles](role-selection.html)
 - [Evaluer les réunions](evaluate-meetings.html)

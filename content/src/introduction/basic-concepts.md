@@ -6,7 +6,7 @@ Avant d'aller plus loin, prenez le temps de vous familiariser avec des concepts 
 - Les sept principes
 - Comprendre les organisations : 
     - Intentions, valeur et gaspillage
-    - Domaines, délégation et responsabilité
+    - Domaines, délégation et redevabilité
     - Gouvernance et opérations
 
 Si vous ne comprenez pas l'un de ces termes, consultez notre glossaire à la fin.

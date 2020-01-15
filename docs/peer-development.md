@@ -3,7 +3,7 @@ title: "Se développer entre pairs"
 ---
 
 - [Demander un soutien](ask-for-help.html)
-- [Retour de ses pairs](peer-feedback.html)
+- [Retour par les pairs](peer-feedback.html)
 - [Évaluation par ses pairs](peer-review.html)
 - [Plan de développement](development-plan.html)
 

@@ -10,7 +10,7 @@ Ne pas exprimer les objections peut nuire à la capacité des individus, des gro
 
 Pouvoir soulever des objections *potentielles* à tout moment signifie que les décisions n'ont besoin que *d'être suffisantes à l'instant présent et d'être juste assez sûres pour les essayer*.
 
-Les responsables de l'activité ou de l'accord (ou proposition) en question sont tenus d' *examiner les arguments soulevés et d'adresser les objections.*
+Ceux qui sont redevables de l'activité ou de l'entente (ou proposition) en question sont tenus d' *examiner les arguments soulevés et d'adresser les objections.*
 
 Lorsque vous cherchez des objections potentielles, considérez :
 

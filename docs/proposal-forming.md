@@ -1,5 +1,5 @@
 ---
-title: "Élaboration d'une proposition"
+title: "Élaborer une proposition"
 ---
 
 
@@ -7,9 +7,9 @@ title: "Élaboration d'une proposition"
 
 - s’appuie sur l’intelligence collective et la diversité des perspectives au sein d’un groupe
 - implique les participants dans la co-création des ententes
-- encourage la responsabilisation et le sens de l'appropriation
+- encourage la redevabilité et le sens de l'appropriation
 
-L'*élaboration d'une proposition* peut également être utilisé par un individu.
+La pratique *Élaborer une proposition* peut également être utilisée par un individu.
 
 ### Étapes d'élaboration d'une proposition
 
@@ -25,16 +25,16 @@ L'*élaboration d'une proposition* peut également être utilisé par un individ
 
 **Récolter les idées** comme constituants possibles d'une proposition.
 
-**Rédiger une proposition** pour répondre à l'intention, en prenant en compte les idées créatives et les informations récoltées jusqu'ici. En général, c'est un groupe plus restreint de "rédacteurs" qui s'occupe de cette étape.
+**Rédiger une proposition** pour répondre à l'intention, en prenant en compte les idées créatives et les informations récoltées jusque là. En général, c'est un groupe plus restreint de "rédacteurs" qui s'occupe de cette étape.
 
 ### Choisir les rédacteurs
 
 Considérez :
 
-- qui devrait y être ?
-- qui veut en être ?
+- qui devrait participer ?
+- qui veut participer ?
 - qui d'autre pourrait apporter une contribution utile ?
-- l'expertise, les points de vue externes, et l'inspiration
+- considérez une expertise, un point de vue ou une inspiration extérieure
 
 Deux ou trois rédacteurs suffisent généralement. Vérifiez qu'il n'y ait pas d'objections au(x) rédacteur(s) proposé(s).
 

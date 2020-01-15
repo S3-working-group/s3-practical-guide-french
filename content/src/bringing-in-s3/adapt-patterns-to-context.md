@@ -4,7 +4,7 @@
 
 Assurez-vous que tous ceux qui sont concernés :
 
-- comprennent pourquoi modifier la pratique est nécessaire (ou utile)
+- comprennent pourquoi il est nécessaire (ou utile) de modifier la pratique
 - sont présents ou sont représentés lorsque la décision est prise de la modifier
 - utilisent les principes S3 comme guide pour l'adaptation.
 

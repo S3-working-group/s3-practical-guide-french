@@ -1,4 +1,4 @@
-## Soyez le changement
+## Incarner le changement
 
 **Menez par l'exemple.**
 

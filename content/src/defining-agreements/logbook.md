@@ -1,12 +1,12 @@
 ## Registre
 
-**Maintenir un système cohérent et accessible qui conserve toutes les informations nécessaires à la collaboration.**
+**Maintenez un système cohérent et accessible qui conserve toutes les informations nécessaires à la collaboration.**
 
-Un registre est un système (numérique) pour conserver toutes les informations pertinentes au fonctionnement d'un organisation et de ses équipes. Tous les membres de l'organisation ont accès au registre et l'information n'est gardée confidentielle que s'il y a une bonne raison de le faire.
+Un registre est un support (numérique) pour conserver toutes les informations pertinentes au fonctionnement d'un organisation et de ses équipes. Tous les membres de l'organisation ont accès au registre et l'information n'est gardée confidentielle que s'il y a une bonne raison de le faire.
 
 Les outils typiques pour tenir les registres sont les wikis (par exemple [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), les systèmes de gestion de contenu (par exemple[Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) ou même [Trello](https://trello.com/).
 
-### Contenu du journal de bord
+### Contenu du registre
 
 Contenu relatif à l'ensemble de l'organisation :
 
@@ -17,5 +17,5 @@ Contenu relatif à l'ensemble de l'organisation :
 Contenu relatif à une équipe particulière ou un [rôle](glossary:role):
 
 - la description et la stratégie du domaine
-- ententes (y compris les [délégataires](glossary:delegatee), les descriptions de domaine, stratégies et [plans de développement](section:development-plan))
+- ententes (en précisant les [délégués](glossary:delegatee), les descriptions de domaine, stratégies et [plans de développement](section:development-plan))
 - Les [backlogs](glossary:backlog) et autres informations relatives au travail et à la [gouvernance](glossary:governance)

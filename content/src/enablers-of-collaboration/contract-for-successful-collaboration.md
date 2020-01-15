@@ -27,16 +27,16 @@ Lors de la négociation d'un contrat, assurez-vous:
 - que cet accord profite à toutes les parties
 - que tout le monde a l'intention de respecter l'accord conclu
 
-Si, pour quelque raison que ce soit, un ou plusieurs de ces critères ne peuvent être remplis, il est probablement sage de ne pas procéder.
+Si, pour quelque raison que ce soit, un ou plusieurs de ces critères ne peuvent être remplis, il est probablement sage de ne pas poursuivre.
 
 ### Co-création du contrat
 
 La façon dont un contrat est négocié peut contribuer de manière significative à bâtir la confiance entre les parties. Envisagez la contractualisation comme une entente entre partenaires, et non entre adversaires: co-créez le contrat, adaptez-le à son contexte spécifique, et assurez-vous qu'il soit juridiquement solide.
 
 - le contrat doit inclure toutes les attentes des parties concernées, chacune expliquée avec le détail adéquat
-- utiliser un langage clair et simple que toutes les parties peuvent comprendre et être sans ambiguïté quant aux conséquences juridiques
-- si vous devez utiliser des termes techniques ou juridiques spécifiques qui pourraient être peu familiers à l'une des parties, expliquer-les dans un glossaire qui fait partie du contrat
-- consulter un avocat qui soutient la culture à laquelle vous aspirez et est compétent dans le domaine où vous négociez
+- utilisez un vocabulaire clair et simple que toutes les parties peuvent comprendre et soyez sans ambiguïté quant aux conséquences juridiques
+- si vous devez utiliser des termes techniques ou juridiques spécifiques qui pourraient être peu familiers à l'une des parties, expliquez-les dans un glossaire qui fait partie du contrat
+- consultez un avocat qui soutient la culture à laquelle vous aspirez et est compétent dans le domaine où vous négociez
 
 ### Lors de la Co-création d'un contrat :
 
@@ -45,7 +45,7 @@ La façon dont un contrat est négocié peut contribuer de manière significativ
 - indiquez les raisons de la collaboration proposée, et soyez transparent sur les attentes et les besoins de toutes les parties
 - divulguez toutes les informations pertinentes (si nécessaire via un accord de confidentialité)
 - entendez-vous d'abord sur les termes de la relation et les attentes de toutes les parties, puis examinez comment vous pouvez les rendre juridiquement robustes
-- rassemblez une liste de lois et de règlements spécifiques auxquels le contrat doit se conformer
+- rassemblez une liste de textes de loi et de règlements spécifiques auxquels le contrat doit se conformer
 - négociez en plusieurs itérations, pour laisser le temps d'examiner les implications et de proposer des amendements
 - gardez les procès-verbaux de chaque réunion pour réduire le risque de méprises
 
@@ -54,7 +54,7 @@ La façon dont un contrat est négocié peut contribuer de manière significativ
 Tout contrat peut être modifié à tout moment, à condition que tous les signataires soient d'accord. Cependant, cela réduit considérablement le potentiel de conflit plus tard si vous considérez le cycle de vie complet de la collaboration dans le contrat :
 
 - établissez des dispositions pour démarrer avec succès en définissant les procédures de démarrage
-- définissez période de probation, où toutes le parties peuvent essayer la collaboration, et un protocole clair sur la façon dont chaque partie peut résilier le contrat pendant la période de probation
+- définissez une période de probation, où toutes le parties peuvent essayer la collaboration, ainsi qu'un protocole clair sur la façon dont chaque partie peut résilier le contrat pendant la période de probation
 - définissez et intégrez dans le contrat des réunions d'évaluation régulières où les signataires se réunissent pour tirer des leçons et décider comment le contrat pourrait être modifié pour s'adapter au contexte changeant
 - intégrez des procédures pour les cas de violation de contrat
 - envisagez de mettre à disposition des moyens alternatifs pour résoudre les différends, par exemple la médiation, la conciliation ou l'arbitrage
@@ -66,6 +66,6 @@ Chaque contrat influence la culture de la collaboration qu'il régit, même lors
 
 - créez volontairement la culture de la collaboration que vous voulez voir en incluant les attentes sur *comment* les choses doivent être faites 
 - alignez le contrat sur la culture organisationnelle (de toutes les parties) et aux exigences légales
-- construisez des contrats qui permettent et encouragent la responsabilité
+- construisez des contrats qui permettent et encouragent la redevabilité
 
-si vous trouvez que les contrats standard dans votre secteur ne sont pas en harmonie avec la culture que vous voulez créer, construisez votre propre référentiel de modèles de contrats et clauses et envisagez de le partager avec d'autres, afin que vous puissiez bénéficier de l'expérience passée lors de la création de nouveaux contrats.
+Si vous trouvez que les contrats standard dans votre secteur ne sont pas en harmonie avec la culture que vous voulez créer, construisez votre propre référentiel de modèles de contrats et clauses et envisagez de le partager avec d'autres, afin que vous puissiez bénéficier de l'expérience passée lors de la création de nouveaux contrats.

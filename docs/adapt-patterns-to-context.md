@@ -7,7 +7,7 @@ title: "Adapter les pratiques au contexte"
 
 Assurez-vous que tous ceux qui sont concernés :
 
-- comprennent pourquoi modifier la pratique est nécessaire (ou utile)
+- comprennent pourquoi il est nécessaire (ou utile) de modifier la pratique
 - sont présents ou sont représentés lorsque la décision est prise de la modifier
 - utilisent les principes S3 comme guide pour l'adaptation.
 
@@ -17,5 +17,5 @@ Partagez les adaptations intéressantes avec la communauté S3.
 
 ![Phases d'adaptation des pratiques à un contexte spécifique](img/process/adapt-pattern-to-context.png)
 
-[&#9654; Créez un système à flux tirés pour le changement organisationnel](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
+[&#9654; Créer un système à flux tiré pour changer l'organisation](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
 

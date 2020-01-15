@@ -5,7 +5,7 @@ title: "Pratiques de réunion"
 - [Tours de table](rounds.html)
 - [Faciliter les réunions](facilitate-meetings.html)
 - [Préparer les réunions](prepare-for-meetings.html)
-- [Tour d'accueil](check-in.html)
+- [Inclusion](check-in.html)
 - [Evaluer les réunions](evaluate-meetings.html)
 - [Hôte de la réunion](meeting-host.html)
 - [Backlog de gouvernance](governance-backlog.html)

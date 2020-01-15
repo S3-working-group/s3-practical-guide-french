@@ -5,7 +5,7 @@ title: "Catalyseurs de collaboration"
 - [Participation élégante](artful-participation.html)
 - [Adopter les sept principes](adopt-the-seven-principles.html)
 - [S'entendre sur les valeurs](agree-on-values.html)
-- [Facilitateur de la gouvernance](governance-facilitator.html)
+- [Facilitateur de gouvernance](governance-facilitator.html)
 - [Enfreindre les ententes](breaking-agreements.html)
 - [Contrat de collaboration réussie](contract-for-successful-collaboration.html)
 - [Transparence salariale](transparent-salary.html)

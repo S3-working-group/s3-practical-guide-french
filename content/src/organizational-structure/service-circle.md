@@ -1,6 +1,6 @@
 ## Cercle de service
 
-**Externalisez les services requis au minimum deux domaines.**
+**Externalisez les services requis par au minimum deux domaines.**
 
 Un cercle de service peut être constitué par des membres des [domaines](glossary:domain) qu'ils servent, et/ou par d'autres personnes aussi.
 

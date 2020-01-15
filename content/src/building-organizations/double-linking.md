@@ -1,6 +1,6 @@
 ## Double lien
 
-**Permet l’échange d’informations et l’influence *bi-directionnels* entre deux équipes.**
+**Activez des flux *bi-directionnels* d’informations et l’influence entre deux équipes.**
 
 Deux équipes interdépendantes sélectionnent chacune un de leurs membres pour représenter leurs intérêts dans les décisions de [gouvernance](glossary:governance) de l’autre équipe.
 

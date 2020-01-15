@@ -17,7 +17,7 @@ Vous pouvez en savoir plus sur l'ICPT à l’adresse <https://sociocracy30.org/s
 
 **Engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0**
 
-Je m'engage à développer une mentalité sociocratique et agile, et je me tiens comme responsable de la pratique et de l'enseignement de la Sociocratie 3.0 avec intégrité, en suivant ces consignes :
+Je m'engage à développer une mentalité sociocratique et agile, et je me tiens comme redevable de la pratique et de l'enseignement de la Sociocratie 3.0 avec intégrité, en suivant ces consignes :
 
 Je m'efforce de suivre les sept principes de ma vie quotidienne. Je m'engage à participer de manière élégante à ma collaboration avec d'autres.
 

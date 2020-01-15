@@ -12,13 +12,13 @@ title: "Historique des modifications"
 ### Changements du 03-05-2019
 
 - termes glossaires raffinés pour <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">entente</dfn>, <dfn data-info="Organisation : Un groupe de personnes qui collaborent dans une intention partagée (ou un objectif). Souvent une organisation se divise en plusieurs équipes.">organisation</dfn> et <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers une intention commune (ou un objectif). Généralement, une équipe fait partie d&apos;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>, terme ajouté au glossaire pour <dfn data-info="Objectif: Un résultat (particulier) qu&apos;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectif</dfn>
-- Principe de responsabilité : clarification de la responsabilité individuelle pour le travail et la collaboration
+- Principe de redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - [Contrat de collaboration réussie](contract-for-successful-collaboration.html): texte révisé
 - [Décrire les Livrables](describe-deliverables.html): ajouts des User Stories comme exemple pour décrire les livrables
 - [Hiérarchie à double lien](double-linked-hierarchy.html): résumé révisé
 - [Circle Délégué](delegate-circle.html): résumé raffiné
 - [Objection](objection.html): définition raffinée de objection et de préoccupation, illustration ajoutée pour un processus de qualification d'une objection
-- [Elaboration se proposition](proposal-forming.html): illustration de processus manquante
+- [Elaborer des propositions](proposal-forming.html): illustration de processus manquante
 - [Sélection de rôle](role-selection.html): petit amendement à l'illustration
 - [Salaire Transparent](transparent-salary.html): expliqué ce qu’est une formule salariale
 
@@ -38,7 +38,7 @@ title: "Historique des modifications"
 - ajouté <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers une intention commune (ou un objectif). Généralement, une équipe fait partie d&apos;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
 - mise à jour de la définition de <dfn data-info="Livrable: Un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.">livrable</dfn>
 - suppression de **déclaration d’intention** du texte et du glossaire
-- miss à jour des définitions <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens à les atteindre.">gouvernance</dfn>, <dfn data-info="Opérations: Faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance.">opérations</dfn>, et <dfn data-info="Auto-organisation: Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l&apos;influence d&apos;un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l&apos;auto-organisation et l&apos;influence externe coexistent.">auto-organisation</dfn>
+- miss à jour des définitions <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn>, <dfn data-info="Opérations: Faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance.">opérations</dfn>, et <dfn data-info="Auto-organisation: Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l&apos;influence d&apos;un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l&apos;auto-organisation et l&apos;influence externe coexistent.">auto-organisation</dfn>
 
 **Illustrations :**
 
@@ -71,7 +71,7 @@ title: "Historique des modifications"
 
 - ajout de l'intention pour créer Sociocratie 3.0
 - Les sept principes: 
-    - *Le Principe de l'Empirisme*: référence supprimée à la “falsification” 
+    - *Le Principe d'Empirisme*: référence supprimée à la “falsification” 
     - *Le principe de consentement* est maintenant expliqué plus clairement comme « soulever, chercher et résoudre les objections aux décisions et aux actions » 
 - *Gouvernance, semi-autonomie et auto-organisation*: nous avons affiné les définitions de gouvernance, d'opérations et d'auto-organisation, supprimé toute référence à la “coordination” et clarifié la distinction entre gouvernance et opérations
 - *Intentions et Domaines* - nous avons clarifié comment les domaines peuvent être compris par rapport aux intentions organisationnelles
@@ -100,7 +100,7 @@ title: "Historique des modifications"
 - [Organisation Fractale](fractal-organization.html): description étendue et améliorée
 - [Backlog de gouvernance](governance-backlog.html): description améliorée
 - [Réunion de gouvernance](governance-meeting.html): description améliorée, éléments de l'ordre du jour clarifiés
-- [Encourager le changement](invite-change.html): la description se concentre maintenant sur *comment* encourager le changement
+- [Inviter au changement](invite-change.html): la description se concentre maintenant sur *comment* inviter au changement
 - [Lien](linking.html): description alignée à [Double lien](double-linking.html)
 - [Registre](logbook.html): précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
 - [Naviguer par tension](navigate-via-tension.html): description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par tension*, *Décrire les intentions organisationnelles* et *Répondre aux intentions organisationnelles*
@@ -109,7 +109,7 @@ title: "Historique des modifications"
 - [Systèmes ouverts](open-systems.html): description améliorée
 - [Forum ouvert pour le changement](open-space-for-change.html): nouveau nom de *Adoption ouverte de la S3*, description améliorée
 - [Organisation centrifuge](peach-organization.html): relation clarifiée entre la périphérie et le centre
-- [Élaboration d'une proposition](proposal-forming.html): texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
+- [Élaborer une proposition](proposal-forming.html): texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
 - [Représentant](representative.html): description améliorée
 - [Intégrer les objections](resolve-objections.html): mise à jour des deux illustrations
 - [Répondre aux intentions organisationnelles](respond-to-organizational-drivers.html): description améliorée, qualification simplifiée des intentions organisationnelles
@@ -123,11 +123,11 @@ title: "Historique des modifications"
 - *Évaluer les ententes* en *Évaluer et faire évoluer les ententes*
 - *Résultat attendu* en *Clarifier le résultat attendu* 
 - *Adoption ouverte de la S3* en *Forum ouvert pour le changement*
-- *Engagement et responsabilité* en *Contrat de collaboration réussie*
+- *Engagement et redevabilité* en *Contrat de collaboration réussie*
 
 **Pratiques ajoutées :**
 
-- [Tour d'accueil](check-in.html)
+- [Inclusion](check-in.html)
 - [Co-créer des propositions](co-create-proposals.html)
 - [Préparer les réunions](prepare-for-meetings.html)
 - [Activités par bloc de temps](timebox-activities.html)
@@ -185,12 +185,12 @@ title: "Historique des modifications"
 - *Hiérarchie à double lien*: nouvelle illustration
 - *Évaluer les ententes*: alignement des questions avec l'évaluation par les pairs
 - *Backlog de gouvernance*: description améliorée
-- *Registre*: ajouts de détails sur la gouvernance au journal personnel
+- *Registre*: ajouts de détails sur la gouvernance au registre personnel
 - *Objections* : clarification de la qualification des objections
 - *Evaluation par ses pairs*: description améliorée
 - *Répondre aux intentions organisationnelles*: intégration d'informations sur la qualification des intentions
 - *Rôle* : clarification que le porteur de rôle peur maintenir un backlog de gouvernance, introduction du terme "porteur de rôle" pour une personne dans un rôle
-- *Élaboration d'une proposition* : ajout de critères pour la sélection des rédacteurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
+- *Élaborer une proposition* : ajout de critères pour la sélection des rédacteurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Intégrer les objections* : illustration mise à jour pour mieux refléter le processus
 
 **Pratiques renommées :**

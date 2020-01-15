@@ -1,6 +1,6 @@
 ## Rétrospective
 
-**Allouez du temps à réfléchir à une expérience passée, apprenez et décidez comment améliorer le processus de travail.**
+**Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer le processus de travail.**
 
 - en sortie : modifications du processus de travail, nouvelles tâches, ententes [à la volée](glossary:agreement), et [intentions](glossary:organizational-driver) nécessitant une entente
 - réunion facilitée (environ 1h)
@@ -11,7 +11,7 @@
 
 ### Les cinq phases d’une réunion de rétrospective
 
-1. Préparer le terrain 
+1. Planter le décor 
 2. Rassembler les données
 3. En tirer des connaissances
 4. Décider quoi faire

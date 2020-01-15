@@ -4,15 +4,15 @@ title: Introduction
 
 ## Sociocratie 3.0 - Un guide pratique pour développer des organisations agiles et résilientes
 
-### Collaboration efficace à n'importe quelle échelle
+### Collaboration efficace à toute échelle
 
-La Sociocratie 3.0 — **ou “S3”** — est un guide pratique pour développer des organisations agiles et résilientes de toute taille, des petites start-ups jusqu'aux grands réseaux internationaux, et la collaboration nationale inter-services. Elle fournit une manière cohérente de renforcer l'intégrité organisationnelle et **de développer une mentalité sociocratique et agile**.
+La Sociocratie 3.0 — **ou “S3”** — est un guide pratique pour développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, et même la collaboration inter-ministerielle à l’échelle nationale. Elle fournit une manière cohérente de renforcer l'intégrité organisationnelle et **de développer une mentalité sociocratique et agile**.
 
-S3 vous apporte une vaste collection de consignes et de pratiques qui ont démontré leur utilité pour les organisations en **améliorant leur performance, leur alignement interne, le sentiment d'accomplissement et le bien-être**.
+S3 vous amène un large éventail de consignes et de pratiques qui ont prouvé leur utilité dans des organisations en **améliorant leur performance, leur alignement interne, le sentiment d'accomplissement et le bien-être de leurs collaborateurs**.
 
 Ces pratiques vous aident à découvrir comment atteindre au mieux vos objectifs et à naviguer dans la complexité, une étape à la fois, **sans nécessiter de réorganisation radicale soudaine ni de planifier une initiative de changement à long terme**:
 
-Démarrez simplement où le besoin est le plus important, sélectionnez une ou des pratiques à essayer, **avancez à votre rythme** et développez vos compétences au fur et à mesure.
+Démarrez simplement où le besoin semble le plus important, sélectionnez une ou des pratiques à essayer, **avancez à votre rythme** et développez vos compétences au fur et à mesure.
 
 **Peu importe votre position dans l'organisation**, vous découvrirez des pratiques pertinentes et utiles pour vous-mêmes.
 
@@ -26,31 +26,31 @@ La Sociocratie 3.0 est :
 
 **La Sociocratie 3.0 :**
 
-- fournit une collection cohérente de pratiques de collaboration basées sur des principes, pour naviguer dans la complexité, s'adapter et évoluer.
+- fournit un catalogue cohérent de pratiques de collaboration basées sur des principes, pour naviguer dans la complexité, s'adapter et évoluer.
 - aide les personnes à traiter de manière incrémentale les informations disponibles en améliorant continuellement les processus de travail, les produits, les services et les compétences.
 - aide les organisations à utiliser au mieux les talents déjà présents et à développer des structures organisationnelles flexibles pour aligner le flux d’informations et d’influence avec le flux de valeur.
 - fournit une approche organique et itérative du changement qui répond aux organisations où elles sont et les aide à progresser à leur propre rythme et en fonction de leur contexte et de leurs besoins uniques.
 - s’appuie sur l’intelligence collective du groupe.
-- facilite le développement de stratégies qui sont « suffisamment bonnes pour l’instant » et « suffisamment sûres pour essayer ».
-- favorise la responsabilité et le sens de l'engagement.
+- facilite le développement de stratégies qui sont « suffisantes pour le moment » et « suffisamment sûres à essayer ».
+- favorise la redevabilité et le sens de l'engagement.
 - est un mécanisme de transformation à la fois pour les individus et pour l'ensemble de l'organisation.
 
 **La Sociocratie 3.0 peut être appliquée dans :**
 
-- les startups
-- les petites et moyennes entreprises
-- les grands réseaux d'organisations internationales
-- les familles
-- les organisations financées par des investisseurs
+- des startups
+- des petites et moyennes entreprises
+- de grandes organisations internationales en réseau
+- des familles
+- des organisations soutenues par des investisseurs
 - des communautés
 - et d'autres…
 
 ### Contenu de ce guide
 
-- un petit historique et un bref aperçu de certains concepts de base derrière S3
+- un petit historique et un bref aperçu de certains concepts à la base de S3
 - une description de toutes les pratiques S3
 - une annexe 
-    - historique des modifications
+    - l’historique des modifications
     - des infos sur les auteurs et des remerciements
     - la licence
     - l'engagement intentionnel des praticiens et des enseignants de la Sociocratie 3.0
@@ -61,87 +61,87 @@ La Sociocratie 3.0 est :
 
 La signification littérale du terme **sociocratie** est "la règle des compagnons": *socio* — du latin *socius* — qui signifie "companion", ou "ami", et le suffixe *-cracy* — du grec ancien κράτος (krátos) — qui signifie "puissance", ou "règle".
 
-Le mot sociocratie peut être retracé en 1851, quand **Auguste Comte** a suggéré d'appliquer une approche scientifique à la société: les États seraient régis par un corps de scientifiques qui sont des experts de la société (qu'il a appelé "sociologues"). Selon lui, ce futur, bien qu'il n'ait pas encore été réalisable, serait inévitable.
+Le mot sociocratie peut être retracé en 1851, quand **Auguste Comte** a suggéré d'appliquer une approche scientifique à la société: les états seraient régis par un corps de scientifiques qui seraient des experts de la société (qu'il nommait "sociologues"). Selon lui, ce futur, bien qu'il ne fût pas encore réalisable, était inévitable.
 
-Quelques décennies plus tard, **Lester Frank Ward**, a utilisé le mot "sociocratie" pour décrire la loi des personnes ayant des relations entre elles. Au lieu d’avoir des sociologues au centre, il voulait donner plus de pouvoir et de responsabilité à l’individu, il imaginait les sociologues dans un rôle de chercheurs et de consultant.
+Quelques décennies plus tard, **Lester Frank Ward**, utilisa le mot "sociocratie" pour décrire la loi des personnes ayant des relations entre elles. Au lieu d’avoir des sociologues au centre, il voulait donner plus de pouvoir et de responsabilité à l’individu, il imaginait les sociologues dans un rôle de chercheurs et de consultants.
 
-En 1926, l'éducateur réformiste néerlandais et Quaker **Kees Boeke**, a établi une école résidentielle basée sur le principe de consentement. Le personnel et les élèves étaient traités comme des participants égaux à la gouvernance de l'école, toutes les décisions devaient être acceptables par tous. Il a construit cette version de la sociocratie sur les principes et les pratiques de Quaker, et décrit la sociocratie comme une évolution de la démocratie dans son essai de 1945 "La démocratie comme elle pourrait être".
+En 1926, l'éducateur réformiste néerlandais et quaker **Kees Boeke**, établit un pensionnat fonctionnant sur le principe de consentement. Le personnel et les élèves étaient traités comme des participants égaux à la gouvernance de l'école, toutes les décisions devaient être acceptables par tous. Il construisit cette version de la sociocratie sur les principes et les pratiques des quakers, et décrivit la sociocratie comme une évolution de la démocratie dans son essai de 1945 "La démocratie comme elle pourrait être".
 
-**Gerard Endenburg**, également un Quaker et un étudiant dans l'école de Boeke, voulaient appliquer la sociocratie dans l'entreprise de sa famille, Endenburg Elektrotechniek. Il a créé et developpé la *méthode sociocratique d’organisation par cercles (SCM)* (devenant plus tard la “méthode sociocratique”), en intégrant la forme de sociocratie de Boeke avec l'ingénierie et le cybernétique. En 1978, Endenburg a fondé le Centre Sociocratique d'Utrecht (qui est maintenant le Centre Sociocratique de Rotterdam) comme un moyen de promouvoir la sociocratie aux Pays-Bas et au-delà. Depuis 1994, les organisations néerlandaises utilisant la SCM sont exemptées de l'obligation légale d'avoir un comité d’entreprise.
+**Gerard Endenburg**, également quaker et étudiant dans l'école de Boeke, voulait appliquer la sociocratie dans son entreprise familiale, Endenburg Elektrotechniek. Il créa et développa la *méthode sociocratique d’organisation par cercles (SCM)* (qui deviendra plus tard la “méthode sociocratique”), en appliquant la sociocratie de Boeke à l'ingénierie et la cybernétique. En 1978, Endenburg fonda le Centre Sociocratique d'Utrecht (qui est maintenant le Centre Sociocratique de Rotterdam) afin de promouvoir la sociocratie aux Pays-Bas et au-delà. Depuis 1994, les organisations néerlandaises utilisant la SCM sont exemptées de l'obligation légale d'avoir un comité d’entreprise.
 
-À la fin des années 1990 et au début des années 2000, plusieurs personnes non-néerlandaises ont découvert la sociocratie, mais ce n'est qu'en 2007 que **Sharon Villines et John Buck** ont lancé leur livre, "We the People", que la sociocratie est devenue largement accessible au monde anglophone, et qu'elle a commencé à migrer dans plusieurs autres langues.
+À la fin des années 1990 et au début des années 2000, plusieurs personnes non-néerlandaises découvrirent la sociocratie, mais ce n'est qu'en 2007 lorsque **Sharon Villines et John Buck** publièrent leur livre, "We the People", que la sociocratie devint largement accessible au monde anglophone, et qu'elle commença à migrer dans plusieurs autres langues.
 
 La Sociocratie s'est avérée efficace pour de nombreuses organisations et communautés du monde entier, mais elle tarde encore à devenir virale.
 
-En 2014 **James Priest et Bernhard Bockelbrink** se sont réunis pour co-créer un corps de ressources d'apprentissage sous licence Creative Commons, synthétisant les idées de la Sociocratie, de l’Agile et du Lean. Ils ont découvert que les organisations de toutes tailles ont besoin d’un menu flexible de pratiques et de structures – adaptées à leur contexte spécifique – qui permettent l’évolution d’une mentalité sociocratique et agile pour obtenir une plus grande efficacité, de l’alignement, le sentiment d’accomplissement et le bien-être. La première version de **Sociocratie 3.0.** a été lancée en mars 2015.
+En 2014 **James Priest et Bernhard Bockelbrink** se réunirent pour co-créer un corpus de ressources d'apprentissage sous licence Creative Commons, synthétisant les idées de la Sociocratie, de l’Agile et du Lean. Ils découvrirent que les organisations de toutes tailles ont besoin d’un menu flexible de pratiques et de structures – adaptées à leur contexte spécifique – qui permettent l’évolution d’une mentalité sociocratique et agile pour obtenir une plus grande efficacité, de l’alignement, le sentiment d’accomplissement et le bien-être. La première version de **Sociocratie 3.0.** fût lancée en mars 2015.
 
-**Liliana David** rejoint l'équipe rapidement après et ensemble, ils collaborent régulièrement pour développer le cadre et le site web.
+**Liliana David** rejoint l'équipe rapidement après et depuis, ils collaborent régulièrement pour développer le cadre et le site web.
 
-Ensemble, ils cherchent à rendre S3 disponible et applicable au plus grand nombre d'organisations possible et fournissent des ressources sous une licence **Creative Commons Free Culture License** pour les gens qui veulent apprendre, appliquer et parler aux autres de la Sociocratie 3.0.
+Ensemble, ils cherchent à rendre S3 disponible et applicable au plus grand nombre d'organisations possible et publient des ressources sous une licence **Creative Commons Free Culture License** pour les gens qui veulent apprendre, appliquer et parler aux autres de la Sociocratie 3.0.
 
-### Le Mouvement Sociocratie 3.0
+### Le mouvement Sociocratie 3.0
 
-L’intérêt pour la Sociocratie 3.0 augmente, car il y a une communauté de personnes provenant de divers milieux qui se développe rapidement — des consultants pionniers, des coaches, des facilitateurs d’apprentissage et des personnes qui appliquent S3 dans leurs divers contextes — qui partagent l’appréciation du potentiel transformationnel de la Sociocratie 3.0 pour aider les organisations et leurs membres à prospérer. Beaucoup consacrent une part de leur temps à expérimenter et échanger sur S3, et collaborent pour apprendre les uns des autres et documenter leurs expériences afin de nourrir le développement et l’évolution du cadre et de ses applications diverses.
+L’intérêt pour la Sociocratie 3.0 s'accroit, grâce à une communauté de personnes d'origines diverses qui se développe rapidement — des consultants pionniers, des coaches, des facilitateurs d’apprentissage et des personnes qui appliquent S3 dans différents contextes — tous reconnaissent le potentiel transformationnel de la Sociocratie 3.0 pour aider les organisations et leurs membres à prospérer. Beaucoup consacrent une part de leur temps à expérimenter et échanger sur S3, et collaborent pour apprendre les uns des autres et documenter leurs expériences afin de nourrir le développement et l’évolution du cadre et de ses applications diverses.
 ## Pourquoi la Sociocratie 3.0?
 
-La Sociocratie en tant que forme de gouvernance est évoquée depuis 1851. Par la suite, elle a été développée et adaptée par de nombreuses personnes et organisations différentes, dont Gerard Endenburg, The Sociocracy Group (TSG) et Brian Robertson (HolacracyOne).
+La Sociocratie comme forme de gouvernance fût évoquée dès 1851. Par la suite, elle a été développée et adaptée par de nombreuses personnes et organisations différentes, dont Gerard Endenburg, The Sociocracy Group (TSG) et Brian Robertson (HolacracyOne).
 
 Pourtant, en dehors des Pays-Bas, la sociocratie est restée jusqu'à récemment largement inconnue.
 
-Nous adorons la sociocratie parce que nous voyons des organisations et leurs membres prospérer lorsqu'ils utilisent ses éléments pour enrichir ou transformer leurs façons de faire courantes.
+Nous adorons la sociocratie parce que nous voyons des organisations et leurs membres prospérer lorsqu'ils en utilisent les éléments pour enrichir ou transformer leurs façons de faire.
 
-Nous aimons aussi l'agile, le lean, Kanban, The Core Protocols, La CNV, et bien d'autres idées encore. Nous pensons que le monde sera un meilleur endroit, à mesure que plus d'organisations apprendront à puiser dans cette corne d'abondance de pratiques fantastiques qui émergent aujourd'hui dans le monde, et qu'elles apprendront à les intégrer avec ce qu'elles savent déjà.
+Nous aimons aussi l'Agile, le Lean, le Kanban, les Core Protocols, la CNV, et bien d'autres idées aussi. Nous pensons que le monde sera un meilleur endroit, à mesure que plus d'organisations apprendront à puiser dans cette corne d'abondance de pratiques fantastiques qui émergent aujourd'hui dans le monde, et qu'elles apprendront à les intégrer avec ce qu'elles savent déjà.
 
-Nous avons donc décidé de consacrer une partie de notre temps à développer et à faire évoluer la Sociocratie, en l'intégrant avec beaucoup de ces autres idées puissantes, de la rendre disponible et applicable au plus grand nombre d'organisations possible.
+C'est pourquoi nous avons décidé de consacrer une partie de notre temps à développer et à faire évoluer la Sociocratie, en l'intégrant avec de nombreuses autres idées puissantes, afin de la rendre accessible et applicable au plus grand nombre d'organisations possible.
 
-À cette fin, nous croyons en l'importance d'avoir une identité forte, d'une manière radicalement différente de distribuer et d'adapter la *méthode sociocratique d'organisation par cercles* afin d'améliorer son applicabilité.
+À cette fin, nous croyons en l'importance d'avoir une identité forte, à une manière radicalement différente de distribuer et d'adapter la *méthode sociocratique d'organisation par cercles* afin d'améliorer son applicabilité.
 
 ### Le nom
 
 Le nom «*Sociocratie 3.0*» montre à la fois le respect des origines et un pas en avant significatif.
 
-Il permet également d'éviter la perception que nous dénaturons *méthode sociocratique d'organisation par cercles* (SCM) telle que promue par The Sociocracy Group.
+Il permet également d'éviter la perception que nous dénaturons la *méthode sociocratique d'organisation par cercles* (SCM) telle que promue par The Sociocracy Group.
 
 ![Trois variantes de sociocratie](img/context/sociocracy-variants.png)
 
 ### Le nouveau modèle de distribution
 
-*Sociocratie 3.0* utilise un modèle non centralisé de distribution. Il s'agit d'un changement de paradigme dans la manière dont la sociocratie est apportée aux gens et aux organisations, et qui parle à de nombreuses personne.
+*Sociocratie 3.0* utilise un modèle non centralisé de distribution. Il s'agit d'un changement de paradigme dans la manière dont la sociocratie est apportée aux gens et aux organisations, et qui parle à de nombreuses personnes.
 
 Nous soutenons la distribution « virale » par deux stratégies clés :
 
-* **La Sociocratie 3.0 est ouverte :** Nous voulons encourager la croissance d’un écosystème dynamique de mises en applications et de variantes de la sociocratie, où les gens partagent et discutent de leurs points de vue et des adaptations qu’ils apportent dans leur contexte spécifique. À cette fin, la Sociocratie 3.0 met l’accent sur la communication des principes sous-jacents et invite explicitement la créativité de chacun à mélanger, étendre et adapter les choses à leurs besoins.
-* **La Sociocratie 3.0 est libre :** Pour éliminer la barrière à l'entrée pour les personnes et les organisations, nous fournissons des ressources gratuites sous la licence * Creative Commons Free Culture License* afin d'apprendre, pratiquer et enseigner *Sociocratie 3.0*. Tout le monde peut utiliser nos ressources sans notre permission explicite, même dans un contexte commercial, ou comme base pour construire ses propres ressources [^tant qu'elles partagent leurs nouvelles ressources sous la même licence]. Nous encourageons d'autres organisations, des consultants, des coachs, des facilitateurs d'apprentissage et des formateurs à suivre notre exemple et à libérer leurs ressources également.
+* **La Sociocratie 3.0 est ouverte :** Nous voulons encourager la croissance d’un écosystème dynamique d’applications et de variantes de la sociocratie, où les gens partagent et discutent de leurs points de vue et des adaptations qu’ils apportent pour leur contexte spécifique. À cette fin, la Sociocratie 3.0 met l’accent sur la communication des principes sous-jacents et invite explicitement la créativité de chacun à mélanger, étendre et adapter les choses à leurs besoins.
+* **La Sociocratie 3.0 est libre :** Afin de faciliter le démarrage pour les individus et les organisations, nous publions gratuitement sous licence *Creative Commons Free Culture License* des ressources permettant d'apprendre, pratiquer et enseigner *Sociocratie 3.0*. Tout le monde peut utiliser nos ressources sans notre permission explicite, même dans un contexte commercial, ou comme base pour construire ses propres ressources [^tant qu'elles partagent leurs nouvelles ressources sous la même licence]. Nous encourageons d'autres organisations, des consultants, des coachs, des facilitateurs d'apprentissage et des formateurs à suivre notre exemple et à libérer leurs ressources également.
 
-### L'évolution de la méthode de sociocratique d'organisation par cercles
+### L'évolution de la méthode sociocratique d'organisation par cercles
 
-Il nous faut sans doute préciser ceci explicitement : la Sociocratie 3.0 n'est pas spécifiquement destinée à la communauté existante des personnes qui explorent la *méthode sociocratique d'organisation en cercles*, ni au Sociocracy Group (TSG). La *méthode sociocratique d'organisation par cercles* (SCM) est déjà bien développée et beaucoup de personnes semblent en être globalement satisfaites.
+Il nous faut sans doute préciser ceci explicitement : la Sociocratie 3.0 n'est pas spécifiquement destinée à la communauté existante des personnes qui explorent la *méthode sociocratique d'organisation par cercles*, ni au Sociocracy Group (TSG). La *méthode sociocratique d'organisation par cercles* (SCM) est déjà bien développée et beaucoup de personnes semblent en être globalement satisfaites.
 
-Pourtant, d'après notre expérience directe, même pour les organisations qui ont entendu parler de sociocratie, il existe de nombreux obstacles pour s'y investir. Avec *Sociocratie 3.0* nous travaillons activement à adresser et à éliminer qui s'y oppose.
+Pourtant, d'après notre expérience directe, même pour les organisations qui ont entendu parler de sociocratie, il existe de nombreux obstacles pour s'y investir. Avec *Sociocratie 3.0* nous travaillons activement à adresser et à éliminer tout ce qui fait obstacle.
 
 #### Réduire le risque et la résistance
 
-La *Sociocratie 3.0* prends des organisations où elles sont et les emmène dans un voyage d’amélioration continue. Il n’y a pas de changement radical ni de réorganisation. La *Sociocratie 3.0* fournit une collection de pratiques indépendantes et basées sur des principes qu’une organisation peut amener une à une pour devenir plus efficace. Tous les modèles sont liés à un ensemble de principes fondamentaux, de sorte qu'ils peuvent facilement être adaptés au contexte.
+La *Sociocratie 3.0* rencontre les organisations là où elles en sont et les emmène dans un voyage d’amélioration continue. Il n’y a pas de changement radical ni de réorganisation. La *Sociocratie 3.0* fournit un catalogue de pratiques indépendantes et basées sur des principes qu’une organisation peut amener une à une pour devenir plus efficace. Toutes les pratiques s’appuient sur un ensemble de principes fondamentaux, de sorte qu'elles puissent facilement être adaptées à chaque contexte.
 
-#### Passer d'une concentration sur l'objectif vers le besoin
+#### Répondre au besoin plutôt qu'à l'objectif (ou la raison d'être)
 
-La *Sociocratie 3.0* déplace la focale de la vision, la mission, les objectifs ou le but, vers la source de motivation, et aligne l’organisation vers la découverte et la résolution de ce dont elle a besoin. Les organisations qui sont déjà centrées sur les besoins, portées par des valeurs ou centrées sur leurs clients trouvent ceci immédiatement accessible.
+La *Sociocratie 3.0* déplace la focale de la vision, la mission, les objectifs ou le but, vers la source de motivation, et aligne l’organisation vers la découverte et la résolution de ce dont elle a besoin. Les organisations qui sont déjà centrées sur les besoins, portées par des valeurs ou centrées sur leurs clients trouvent cela naturel.
 
-En *Sociocratie 3.0*, le but est implicite dans tous les cas – pour faire circuler la valeur vers les intentions de l’organisation.
+En *Sociocratie 3.0*, le but est toujours implicite – faire circuler la valeur selon les intentions de l’organisation.
 
 #### Réduite aux fondamentaux
 
-En regardant les normes, la *méthode sociocratique d'organisation par cercles* peut sembler grande et effrayante. En se concentrant sur les fondamentaux seulement, *Sociocratie 3.0* offre un cadre léger pour s’adapter et d'où construire selon les besoins.
+En regardant les normes de la *méthode sociocratique d'organisation par cercles*, elle peut sembler imposante et effrayante. En se concentrant sur les fondamentaux seulement, *Sociocratie 3.0* offre un cadre léger pour s’adapter et d'où on peut construire selon ses besoins.
 
-Cela ne veut pas dire que c’est tout simple : choisir de puiser dans les pratiques *Sociocratie 3.0* nécessite un investissement dans l’apprentissage et le de-apprentissage. C’est pourquoi il est important de ne puiser que ce dont vous avez besoin, car il n’est pas utile de changer les choses si ce que vous faites est déjà assez bon.
+Cela ne veut pas dire que c’est facile : choisir de puiser dans les pratiques *Sociocratie 3.0* nécessite de s'investir pour apprendre et désapprendre. C’est pourquoi il est important de ne piocher que ce dont vous avez besoin, car il n’est pas utile de changer les choses si ce que vous faites marche suffisamment bien.
 
 #### Intégration avec la pensée Agile et Lean
 
-La *méthode sociocratique d'organisation par cercles* est une méthode « vide »en ce qui concerne les opérations la création d'une culture de collaboration étroite. De nombreuses organisations mettent déjà en œuvre ou font preuve de préférence pour la pensée lean et agile pour leurs opérations et la collaboration. Nous pensons que c’est une idée formidable, donc la *Sociocratie 3.0* est conçue pour une adoption facile dans les organisations lean et agiles.
+La *méthode sociocratique d'organisation par cercles* ne vous dira pas comment organiser vos activités ni comment créer une culture de collaboration étroite. De nombreuses organisations mettent déjà en œuvre ou tendent vers la pensée lean et agile dans leur fonctionnement et dans leur collaboration. Nous pensons que ce sont des idées puissantes, donc la *Sociocratie 3.0* est conçue pour une adoption facile dans les organisations lean et agiles.
 
 #### Une nouvelle façon de développer la structure organisationnelle
 
-La structure organisationnelle selon la *méthode sociocratique d'organisation par cercles* est modelée sur une hiérarchie de domaines. Nous constatons une émergence croissante d’environnements collaboratifs multi-parties prenantes et la nécessité d’une plus grande variété de modèles de structure organisationnelle. L'évolution de la structure organisationnelle se produit naturellement lorsque le flux d'information et l'influence au sein d'une organisation est graduellement alignée sur le flux de valeur. La *Sociocratie 3.0* fournit une variété de modèles de structures qui peuvent être combinées pour faire évoluer la structure selon le besoin et de manière flexible.
+La structure organisationnelle selon la *méthode sociocratique d'organisation par cercles* est structurée selon une hiérarchie de domaines. Nous constatons une émergence croissante d’environnements collaboratifs multi-parties prenantes et la nécessité d’une plus grande variété de modèles de structure organisationnelle. L'évolution de la structure organisationnelle se produit naturellement lorsque les flux d'information et l'influence au sein d'une organisation sont graduellement alignés sur le flux de valeur. La *Sociocratie 3.0* fournit une variété de modèles de structures qui peuvent être combinés pour faire évoluer la structure selon le besoin et de manière flexible.
 
 *James Priest, Bernhard Bockelbrink, Liliana David*
 ## Les concepts de base
@@ -152,7 +152,7 @@ Avant d'aller plus loin, prenez le temps de vous familiariser avec des concepts 
 - Les sept principes
 - Comprendre les organisations : 
     - Intentions, valeur et gaspillage
-    - Domaines, délégation et responsabilité
+    - Domaines, délégation et redevabilité
     - Gouvernance et opérations
 
 Si vous ne comprenez pas l'un de ces termes, consultez notre glossaire à la fin.
@@ -167,7 +167,7 @@ _Une **pratique** est un modèle pour traverser correctement un contexte particu
 ![Les pratiques sont regroupées en 10 catégories](img/pattern-group-headers/all-groups-dark.png)
 ### Les sept principes
 
-La Sociocratie est fondée sur sept principes qui façonnent la culture organisationnelle. Puisque les sept principes se reflètent dans toutes les pratiques, la compréhension de ces principes est utile pour adopter et primordiale pour adapter les pratiques de Sociocratie 3.0.
+La Sociocratie est fondée sur sept principes qui façonnent la culture organisationnelle. Puisque les sept principes se reflètent dans toutes les pratiques Sociocratie 3.0, la compréhension de ces principes est utile pour les adopter et primordiale si l'on souhaite les adapter .
 
 La pratique de la Sociocratie 3.0 aide les gens à apprécier la valeur essentielle que ces principes fondamentaux apportent, tant aux individus qu'aux organisations.
 
@@ -177,53 +177,53 @@ La pratique de la Sociocratie 3.0 aide les gens à apprécier la valeur essentie
 
 **Le Principe de Consentement:** *Lever, chercher et résoudre les objections aux décisions et aux actions.*
 
-**Le Principe de l'Empirisme:** *Testez toutes les hypothèses grâce à l'expérimentation et l'évaluation continue.*
+**Le Principe d'Empirisme:** *Tester toutes les hypothèses grâce à l'expérimentation et l'évaluation continue.*
 
-**Le Principe de l'Amélioration Continue:** *Évoluer par incréments pour faciliter un apprentissage empirique constant.*
+**Le Principe d'Amélioration Continue:** *Évoluer par incréments pour faciliter un apprentissage empirique constant.*
 
 **Le Principe d'Equivalence:** *Impliquer les personnes impactées dans les prises de décisions et les évolutions.*
 
 **Le Principe de Transparence:** *Rendre toutes les informations accessibles à tous les membres d'une organisation, à moins qu'il faille préserver leur confidentialité.*
 
-**Le Principe Responsabilité:** *Agir lorsque nécessaire, faire ce qu'on s'est engagé de faire et assumer la responsabilité de l'avancement de l'organisation.*
+**Le Principe Redevabilité:** *Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .*
 
-#### Le Principe de Responsabilité
+#### Le Principe de Redevabilité
 
-*Agir lorsque nécessaire, faire ce qu'on s'est engagé de faire et assumer la responsabilité de l'avancement de l'organisation.*
+*Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .*
 
-Agissez dans le cadre des contraintes de toutes ententes régissant les domaines dont vous êtes responsable, y compris l'organisation elle-même, les équipes dont vous faites partie et les rôles que vous portez.
+Agissez dans le cadre des contraintes des ententes régissant les domaines dont vous êtes redevables, y compris l'organisation elle-même, les équipes dont vous faites partie et les rôles que vous portez.
 
-Chaque membre de l'organisation est responsable de répondre efficacement aux intentions organisationnelles, tant pour faire le travail que pour assurer (soutenir) une collaboration efficace.
+Chaque membre de l'organisation est redevable de répondre efficacement aux intentions organisationnelles, tant pour faire le travail que pour assurer (soutenir) une collaboration efficace.
 
-Les individus sont également responsables de leur travail, de leur apprentissage et de leur développement, et de se soutenir mutuellement.
+Les individus sont également redevables de leur travail, de leur apprentissage et de leur développement, et de se soutenir mutuellement.
 
-Tout le monde dans une organisation est responsable de l'alignement des activités avec les valeurs organisationnelles.
+Tout le monde dans une organisation est redevable de l'alignement des activités avec les valeurs organisationnelles.
 ### Comprendre les organisations
 #### Intentions
 
-_Un **moteur** est la motivation d'un groupe ou d'une personne pour répondre à une situation particulière._
+_Une **intention** est la motivation d'un groupe ou d'une individu à répondre à une situation particulière._
 
 Intentions :
 
-- peuvent être utilisés pour formuler des buts, objectifs, aspirations, une mission, une vision, une raison d’être
+- peuvent être utilisées pour formuler des buts, objectifs, aspirations, une mission, une vision, une raison d’être
 - peuvent changer au fil du temps
 
 ##### Intentions, valeur et gaspillage
 
-_La **valeur** est l'importance ou l'utilité d'un élément en relation à un moteur._
+_La **valeur** est l'importance ou l'utilité de quelque chose lié à une intention._
 
-_Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui s'oppose - à une réponse (plus) efficace à une intention._
+_Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à - répondre (plus) efficacement à une intention._
 
-En adoptant les concepts de valeur et de gaspillage, de nombreuses pratiques et idées issues de la **production lean** et du **développement de logiciel lean** peuvent être utilisées par les organisations introduisant les patterns S3:
+En adoptant les concepts de valeur et de gaspillage, de nombreuses pratiques et idées issues de la **production lean** et du **développement de logiciel lean** sont applicables aux organisations pratiquant S3:
 
 - cartographie de la chaîne de valeur
 - différentes stratégies pour éliminer le gaspillage
 - la méthode Kanban
 #### Domaines
 
-_Un **domaine** est une zone d'influence, activité et prise de décisions distincte au sein d'une organisation._
+_Un **domaine** est une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation._
 
-Tous les domaines se situent dans le domaine général d'une organisation. Ils peuvent se chevaucher et/ou être pleinement inclus au sein d'autres domaines.
+Tous les domaines d'une organisation sont contenus dans son domaine général. Ils peuvent se chevaucher et/ou être pleinement inclus au sein d'autres domaines.
 
 Les domaines sont délégués à des personnes (ex: à une unité, un département, une équipe ou des individus), qui prennent la responsabilité du domaine, et agissent selon les contraintes qu'il impose en terme d'influence et d'autonomie.
 
@@ -231,41 +231,41 @@ Les domaines sont délégués à des personnes (ex: à une unité, un départeme
 
 ##### Déléguer les domaines
 
-Ceux qui délèguent un domaine (les *déléguants*) conservent néanmoins la responsabilité de ce domaine, allouent des **ressources** et définissent souvent :
+Ceux qui délèguent un domaine (les *délégants*) conservent néanmoins la redevabilité de ce domaine, allouent des **ressources** et définissent souvent :
 
-- le **besoin organisationnel** auquel le domaine supposé répondre
-- des **responsabilités clés** (les livrables clés, tout risque critique à gérer, tout autre travail essentiel et les prises de décision étant délégués)
-- des **contraintes sur l'autonomie et l'influence** pour ceux à qui sont délégués le domaine (les *délégués*), souvent liées à l'organisation elle-même (dépendances, implication du déléguant, reporting, etc.)
+- le **besoin organisationnel** auquel le domaine doit répondre
+- les **responsabilités clés** (livrables, risques critiques à gérer, autre travail essentiel et prises de décision délégués)
+- des **contraintes sur l'autonomie et l'influence** pour ceux à qui sont délégués le domaine (les *délégués*), souvent liées à l'organisation elle-même (dépendances, implication du délégant, reporting, etc.)
 
 ##### Intentions et domaines
 
 Il est également possible de comprendre un domaine par rapport aux intentions organisationnelles :
 
-- l' **intention primaire** - l'intention principale à laquelle les gens qui s'occupent de ce domaine (les *délégués*) répondent
-- l'ensemble des sous-intentions qu'il peut être bénéfique pour l'organisation d'adresser pour répondre à l'intention primaire, ce qui comprend : 
+- l'**intention primaire** - l'intention principale à laquelle les gens redevables d’un domaine donné (les *délégués*) répondent
+- l'ensemble des sous-intentions qui peuvent être bénéfique pour l'organisation d'adresser afin de répondre à l'intention primaire, et comprennent : 
     - les **responsabilités clés** (n'importe quelle intention dérivant directement de l'intention primaire)
-    - les intentions pour les **contraintes du domaine** (qui se rapportent généralement au contexte de l'organisation entière)
+    - les motivations pour les **contraintes du domaine** (généralement lié au contexte de l'organisation globale)
 
 ![Intentions et domaines](img/driver-domain/drivers-and-domains.png)
 ### Gouvernance et opérations
 
-S3 cherche à permettre la productivité en laissant les gens libres de faire et de décider autant que possible par eux-même, tout en assurant la cohérence de la collaboration pour une organisation efficace et qui réussit.
+S3 cherche à libérer la productivité en laissant les gens libres de faire et de décider autant que possible par eux-même, tout en assurant de la cohérence dans la collaboration pour une organisation efficace et qui réussit.
 
-Une plus grande autonomie des individus et des équipes nécessite des ententes clairs (c'est-à-dire des lignes directrices et des contraintes) qui permettent une collaboration harmonieuse entre ces équipes et ces individus, et qui soutiennent la réalisation d'objectifs à long terme et à court terme. Des évaluations périodiques et l'évolution progressive des ententes assurent qu'elles restent adaptées à la finalité.
+Une plus grande autonomie des individus et des équipes nécessite des ententes claires (c'est-à-dire des consignes et des contraintes) qui permettent une collaboration harmonieuse entre ces équipes et ces individus, et qui soutiennent la réalisation d'objectifs à court et long terme. Des évaluations périodiques et l'évolution progressive des ententes assurent qu'elles restent adaptées à la finalité.
 
-Bien qu’une décision ayant des conséquences à court terme puisse facilement être modifiée sur-le-champ, créer des ententes plus conséquentes qui contraignent le comportement et l’activité des gens, bénéficie souvent d’un [processus de décision](consent-decision-making.html) plus participatif et plus délibéré.
+Bien qu’une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, créer des ententes plus conséquentes qui contraignent le comportement et l’activité des gens, profite souvent d’un [processus de décision](consent-decision-making.html) plus participatif et plus délibéré.
 
-Te telle ententes doivent être documentées, à la fois pour se les rappeler et pour permettre une [évaluation](evaluate-and-evolve-agreements.html) efficace, et doivent être communiquées aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](those-affected-decide.html) de ces ententes).
+De telles ententes doivent être documentées, à la fois pour se les rappeler mais aussi pour permettre une [évaluation](evaluate-and-evolve-agreements.html) efficace, et doivent être communiquées aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](those-affected-decide.html) de ces ententes).
 
 Il est donc utile de distinguer deux catégories d’activités dans une organisation, l'une que nous appelons la gouvernance, et l’autre que nous appelons les opérations :
 
-_La **Gouvernance** dans une organisation (ou un de ses domaines) est l'acte de fixer des objectifs, et de prendre et faire évoluer des décisions qui guident les gens à les atteindre._
+_La **Gouvernance** dans une organisation (ou l'un de ses domaines) est l'acte de fixer des objectifs, et de prendre et faire évoluer des décisions qui guident les gens pour les atteindre._
 
 _Les **Opérations** consistent à faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance._
 
-Pour chaque domaine dans une organisation il y a un *instance gouvernante*: les personnes ayant un mandat de faire et d'évoluer des accords qui régissent la manière dont les personnes qui font le travail dans ce domaine créent de la valeur.
+Pour chaque domaine dans une organisation il y a un *instance gouvernante*: les personnes ayant un mandat pour sceller et pour faire évoluer des ententes régissant la manière dont ceux qui font le travail dans ce domaine créent de la valeur.
 
-Il existe de nombreuses façons de distribuer le travail et la gouvernance. Parfois, l’instance gouvernante est une personne unique, par exemple dans le cas d’un chef d’équipe, et parfois c’est un groupe de personnes, par exemple dans un cercle où tous les membres partagent la responsabilité de la gouvernance selon les contraintes du domaine.
+Il existe de nombreuses façons de distribuer le travail et la gouvernance. Parfois, l’instance gouvernante est une personne unique, par exemple dans le cas d’un chef d’équipe, et parfois c’est un groupe de personnes, par exemple dans un cercle où tous les membres sont responsables collectivement de la gouvernance selon les contraintes du domaine.
 
 **Les décisions de gouvernance** fixent des contraintes sur l'activité et guident les décisions futures.
 
@@ -278,15 +278,15 @@ Ceci inclut :
 
 Les décisions de gouvernance peuvent être prises à tout moment et à n'importe quel endroit, pas seulement dans des réunions spécifiques, bien qu'une [réunion régulière pour la création et l'évolution des ententes](governance-meeting.html) soit souvent une bonne idée.
 
-#### Concepts associés
+#### Concepts connexes
 
 **Auto-gouvernance**: Ensemble de personnes se gouvernant elles-mêmes selon les contraintes d'un domaine.
 
-**Semi-autonomie**: L'autonomie des personnes à créer de la valeur dans leur domaine, contrainte par leurs propres décisions de gouvernance, et les objections (y compris celles du déléguant et des représentants).
+**Semi-autonomie**: L'autonomie des personnes à créer de la valeur dans leur domaine, contrainte par leurs propres décisions de gouvernance, et les objections (y compris celles du délégant et des représentants).
 
-**Auto-Organisation:** Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l'influence d'un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l'auto-organisation et l'influence externe coexistent.
+**Auto-organisation:** Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l'influence d'un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l'auto-organisation et l'influence externe coexistent.
 
-Selon les contraintes imposées par le déléguant, les équipes ont plus ou moins de l'autorisation de mener la gouvernance et de décider de comment elles organisent leurs opérations, et sont par conséquent plus ou moins auto-gouvernées et auto-organisées.
+Selon les contraintes imposées par le délégant, les équipes ont plus ou moins de latitude à mener la gouvernance et à décider comment elles organisent leurs opérations, et sont par conséquent plus ou moins auto-gouvernées et auto-organisées.
 
 
 [&#9654; Co-création et évolution](co-creation-and-evolution.html)

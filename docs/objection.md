@@ -13,13 +13,13 @@ Ne pas exprimer les objections peut nuire à la capacité des individus, des gro
 
 Pouvoir soulever des objections *potentielles* à tout moment signifie que les décisions n'ont besoin que *d'être suffisantes à l'instant présent et d'être juste assez sûres pour les essayer*.
 
-Les responsables de l'activité ou de l'accord (ou proposition) en question sont tenus d' *examiner les arguments soulevés et d'adresser les objections.*
+Ceux qui sont redevables de l'activité ou de l'entente (ou proposition) en question sont tenus d' *examiner les arguments soulevés et d'adresser les objections.*
 
 Lorsque vous cherchez des objections potentielles, considérez :
 
 - pourquoi le <dfn data-info="Résultat attendu: Le résultat escompté d&apos;une entente, d&apos;une action, d&apos;un projet ou d&apos;une stratégie.">résultat prévu</dfn> ne serait pas (entièrement) atteint : **efficacité**
 - pourquoi il serait inutile de procéder comme proposé (ou convenu précédemment): **efficience**
-- les conséquences négatives que quelque chose aurait par ailleurs (dans le même <dfn data-info="Domaine: Une zone d&apos;influence, activité et prise de décisions distincte au sein d&apos;une organisation.">domaine</dfn>, dans l'ensemble de l'organisation, ou au-delà): **effets secondaires**
+- les conséquences négatives que quelque chose aurait par ailleurs (dans le même <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaine</dfn>, dans l'ensemble de l'organisation, ou au-delà): **effets secondaires**
 
 Les informations apportées par les objections peuvent être utilisées pour améliorer :
 

@@ -29,6 +29,6 @@ Une condition préalable au processus de sélection est une [description claire]
 
 Pour éviter d'influencer les autres, abstenez-vous d'exprimer un intérêt personnel ou des opinions avant qu'une sélection ne se produise.
 
-Parfois, une sélection de rôles révèle un manque de capacité, une expérience pertinente, des qualités ou des compétences. Un groupe devra alors envisager des candidats extérieurs, reconsidérer les priorités ou trouver une autre façon de s'occuper du domaine.
+Parfois, une sélection de rôles révèle un manque de capacité, d'expérience significative, de qualités ou de compétences. Un groupe devra alors envisager des candidats extérieurs, reconsidérer les priorités ou trouver une autre façon de s'occuper du domaine.
 
 Cette pratique peut également être utilisée dans toute situation où il est nécessaire de choisir entre plusieurs options.
