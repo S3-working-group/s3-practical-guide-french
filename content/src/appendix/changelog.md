@@ -9,13 +9,13 @@
 ### Changements du 03-05-2019
 
 - termes glossaires raffinés pour [entente](glossary:agreement), [organisation](glossary:organization) et [équipe](glossary:team), terme ajouté au glossaire pour [objectif](glossary:objective)
-- Principe de responsabilité : clarification de la responsabilité individuelle pour le travail et la collaboration
+- Principe de redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - [Contrat de collaboration réussie](section:contract-for-successful-collaboration): texte révisé
 - [Décrire les Livrables](section:describe-deliverables): ajouts des User Stories comme exemple pour décrire les livrables
 - [Hiérarchie à double lien](section:double-linked-hierarchy): résumé révisé
 - [Circle Délégué](section:delegate-circle): résumé raffiné
 - [Objection](section:objection): définition raffinée de objection et de préoccupation, illustration ajoutée pour un processus de qualification d'une objection
-- [Elaboration se proposition](section:proposal-forming): illustration de processus manquante
+- [Elaborer des propositions](section:proposal-forming): illustration de processus manquante
 - [Sélection de rôle](section:role-selection): petit amendement à l'illustration
 - [Salaire Transparent](section:transparent-salary): expliqué ce qu’est une formule salariale
 
@@ -68,7 +68,7 @@
 
 - ajout de l'intention pour créer Sociocratie 3.0
 - Les sept principes: 
-    - *Le Principe de l'Empirisme*: référence supprimée à la “falsification” 
+    - *Le Principe d'Empirisme*: référence supprimée à la “falsification” 
     - *Le principe de consentement* est maintenant expliqué plus clairement comme « soulever, chercher et résoudre les objections aux décisions et aux actions » 
 - *Gouvernance, semi-autonomie et auto-organisation*: nous avons affiné les définitions de gouvernance, d'opérations et d'auto-organisation, supprimé toute référence à la “coordination” et clarifié la distinction entre gouvernance et opérations
 - *Intentions et Domaines* - nous avons clarifié comment les domaines peuvent être compris par rapport aux intentions organisationnelles
@@ -97,7 +97,7 @@
 - [Organisation Fractale](section:fractal-organization): description étendue et améliorée
 - [Backlog de gouvernance](section:governance-backlog): description améliorée
 - [Réunion de gouvernance](section:governance-meeting): description améliorée, éléments de l'ordre du jour clarifiés
-- [Encourager le changement](section:invite-change): la description se concentre maintenant sur *comment* encourager le changement
+- [Inviter au changement](section:invite-change): la description se concentre maintenant sur *comment* inviter au changement
 - [Lien](section:linking): description alignée à [Double lien](section:double-linking)
 - [Registre](section:logbook): précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
 - [Naviguer par tension](section:navigate-via-tension): description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par tension*, *Décrire les intentions organisationnelles* et *Répondre aux intentions organisationnelles*
@@ -106,7 +106,7 @@
 - [Systèmes ouverts](section:open-systems): description améliorée
 - [Forum ouvert pour le changement](section:open-space-for-change): nouveau nom de *Adoption ouverte de la S3*, description améliorée
 - [Organisation centrifuge](section:peach-organization): relation clarifiée entre la périphérie et le centre
-- [Élaboration d'une proposition](section:proposal-forming): texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
+- [Élaborer une proposition](section:proposal-forming): texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
 - [Représentant](section:representative): description améliorée
 - [Intégrer les objections](section:resolve-objections): mise à jour des deux illustrations
 - [Répondre aux intentions organisationnelles](section:respond-to-organizational-drivers): description améliorée, qualification simplifiée des intentions organisationnelles
@@ -120,11 +120,11 @@
 - *Évaluer les ententes* en *Évaluer et faire évoluer les ententes*
 - *Résultat attendu* en *Clarifier le résultat attendu* 
 - *Adoption ouverte de la S3* en *Forum ouvert pour le changement*
-- *Engagement et responsabilité* en *Contrat de collaboration réussie*
+- *Engagement et redevabilité* en *Contrat de collaboration réussie*
 
 **Pratiques ajoutées :**
 
-- [Tour d'accueil](section:check-in)
+- [Inclusion](section:check-in)
 - [Co-créer des propositions](section:co-create-proposals)
 - [Préparer les réunions](section:prepare-for-meetings)
 - [Activités par bloc de temps](section:timebox-activities)
@@ -182,12 +182,12 @@
 - *Hiérarchie à double lien*: nouvelle illustration
 - *Évaluer les ententes*: alignement des questions avec l'évaluation par les pairs
 - *Backlog de gouvernance*: description améliorée
-- *Registre*: ajouts de détails sur la gouvernance au journal personnel
+- *Registre*: ajouts de détails sur la gouvernance au registre personnel
 - *Objections* : clarification de la qualification des objections
 - *Evaluation par ses pairs*: description améliorée
 - *Répondre aux intentions organisationnelles*: intégration d'informations sur la qualification des intentions
 - *Rôle* : clarification que le porteur de rôle peur maintenir un backlog de gouvernance, introduction du terme "porteur de rôle" pour une personne dans un rôle
-- *Élaboration d'une proposition* : ajout de critères pour la sélection des rédacteurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
+- *Élaborer une proposition* : ajout de critères pour la sélection des rédacteurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Intégrer les objections* : illustration mise à jour pour mieux refléter le processus
 
 **Pratiques renommées :**

@@ -1,6 +1,6 @@
-## Retour de ses pairs
+## Retour par les pairs
 
-Invitez un pair à vous donner des critiques constructives sur :
+Invitez l'un de vos pairs à vous donner des critiques constructives sur :
 
 - votre performance dans un rôle
 - votre participation et votre contribution en général
@@ -8,7 +8,7 @@ Invitez un pair à vous donner des critiques constructives sur :
 
 Considérations :
 
-- invitez les pairs à prendre un peu de temps pour se préparer
+- invitez vos pairs à prendre un peu de temps pour se préparer
 - recueillez à la fois des **appréciations** et des **suggestions d'améliorations applicables**
 - posez des questions pour mieux comprendre le retour, et évitez de le discuter ou de le juger
-- décider de vous-même ce que vous allez faire des retours que vous recevez
+- décidez vous-même ce que vous allez faire des retours que vous recevez

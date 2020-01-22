@@ -70,7 +70,7 @@ content:
           title: Cocréer une proposition
           slug: co-create-proposals
         - 
-          title: Élaboration d'une proposition
+          title: Élaborer une proposition
           slug: proposal-forming
         - 
           title: Sélection des rôles
@@ -86,7 +86,7 @@ content:
           title: Demander un soutien
           slug: ask-for-help
         - 
-          title: Retour de ses pairs
+          title: Retour par les pairs
           slug: peer-feedback
         - 
           title: Évaluation par ses pairs
@@ -108,7 +108,7 @@ content:
           title: S'entendre sur les valeurs
           slug: agree-on-values
         - 
-          title: Facilitateur de la gouvernance
+          title: Facilitateur de gouvernance
           slug: governance-facilitator
         - 
           title: Enfreindre les ententes
@@ -164,13 +164,13 @@ content:
           title: Adapter les pratiques au contexte
           slug: adapt-patterns-to-context
         - 
-          title: Créez un système à flux tirés pour le changement organisationnel
+          title: Créer un système à flux tiré pour changer l'organisation
           slug: create-a-pull-system-for-organizational-change
         - 
           title: Incarnez le changement
           slug: be-the-change
         - 
-          title: Encourager le changement
+          title: Inviter au changement
           slug: invite-change
         - 
           title: Forum ouvert pour le changement
@@ -239,7 +239,7 @@ content:
           title: Préparer les réunions
           slug: prepare-for-meetings
         - 
-          title: Tour d'accueil
+          title: Inclusion
           slug: check-in
         - 
           title: Evaluer les réunions

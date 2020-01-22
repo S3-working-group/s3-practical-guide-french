@@ -1,10 +1,10 @@
 ## Intégrer les objections
 
-**Intégrer les objections une à la fois en utilisant les informations qu'elles contiennent et développer les amendements.**
+**Intégrez les objections une par une en utilisant les informations qu'elles contiennent et développer les amendements.**
 
-Choisissez une option pour intégrer l'[objection](glossary:objection) qui semble la plus prometteuse et, si cela échoue, choisissez en simplement une autre. Chaque tentative vous aidera à mieux comprendre les informations que contient l'objection et à rapprocher le groupe de proposer un amendement qui intègrera l'objection.
+Commencez à intégrer l'[objection](glossary:objection) qui semble la plus prometteuse et, si cela échoue, choisissez en simplement une autre. Chaque tentative vous aidera à mieux comprendre les informations que contient l'objection et à rapprocher le groupe de proposer un amendement qui satisfera l'objection.
 
-Souvent, demander à la personne qui fait l'objection de proposer un amendement est un bon point de départ.
+C'est souvent un bon point de départ de demander à la personne qui fait l'objection de proposer un amendement.
 
 Généralement, il est plus efficace de **prendre une objection à la fois**, d'intégrer toutes les objections à un amendement proposé, puis de continuer avec la prochaine objection.
 

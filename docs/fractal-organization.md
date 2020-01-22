@@ -13,9 +13,9 @@ Si nécessaire, la pratique peut être répétée pour connecter plusieurs organ
 
 ### Prérequis
 
-Une organisation fractale peut être constituée soit de multiples organisations in(ter-)dépendantes qui partagent une <dfn data-info="Moteur: La motivation d&apos;un groupe ou d&apos;une personne pour répondre à une situation particulière.">intention</dfn> (primaire) commune, soit par de multiples branches, départements, ou projets au sein d'une organisation plus large.
+Une organisation fractale peut être constituée soit de multiples organisations in(ter-)dépendantes qui partagent une <dfn data-info="Intention: La motivation d&apos;un groupe ou d&apos;une personne pour répondre à une situation particulière.">intention</dfn> (primaire) commune, soit par de multiples branches, départements, ou projets au sein d'une organisation plus large.
 
-Ces <dfn data-info="Constituant: Une équipe (par exemple un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l&apos;autorité à un représentant pour agir en leur nom dans d&apos;autres équipes ou organisations.">constituants</dfn> (ex : organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <dfn data-info="Domaine: Une zone d&apos;influence, activité et prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
+Ces <dfn data-info="Constituant: Une équipe (par exemple un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l&apos;autorité à un représentant pour agir en leur nom dans d&apos;autres équipes ou organisations.">constituants</dfn> (ex : organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
 
 ### Niveaux
 

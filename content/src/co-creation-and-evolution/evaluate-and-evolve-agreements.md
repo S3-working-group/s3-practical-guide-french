@@ -1,6 +1,6 @@
 ## Évaluer et développer les ententes
 
-**Développer continuellement l'ensemble des ententes et éliminer le gaspillage.**
+**Développez continuellement un corpus d'ententes et éliminez le gaspillage.**
 
 L'examen régulier des ententes est une pratique essentielle pour une organisation apprenante :
 
@@ -15,13 +15,13 @@ Assurez-vous que toutes les [ententes](glossary:agreement) ont une date d'évalu
 
 Les ententes sont souvent examinées dans des [réunions de gouvernance](section:governance-meeting), cependant il est parfois plus performant de planifier une session dédiée.
 
-Ajustez la fréquence d'examen au besoin et examinez tôt si nécessaire.
+Ajustez la fréquence d'évaluation au contexte et évaluez rapidement si nécessaire.
 
 Les éléments de cette pratique peuvent également être utilisés par des individus pour évaluer leurs propres décisions.
 
 ### Format court
 
-- *Comment cette entente nous a-t-elle aidée ?*
+- *Comment cette entente nous a-t-elle aidé ?*
 - *Y a-t-il une quelconque raison d'abandonner cette entente?*
 - *Comment cette entente peut-elle être améliorée ?*
 - Se mettre d'accord sur la prochaine date d'évaluation.

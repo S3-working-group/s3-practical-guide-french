@@ -7,8 +7,8 @@ title: "Evaluer les réunions"
 
 Réfléchissez aux interactions, célébrez les succès et partagez vos suggestions d'amélioration avant de clore la réunion.
 
-- prévoyez 5 minutes pour 1 heure et 15 minutes pour un atelier d'une journée complète
-- notez les enseignements et revoyez-les avant la prochaine réunion
+- prévoir 5 minutes d'évaluation pour 1 heure de réunion et 15 minutes pour un atelier d'une journée complète
+- consigner les enseignements et les relire avant la prochaine réunion
 
 Quelques formats courts que vous pouvez utiliser :
 
@@ -19,7 +19,7 @@ Quelques formats courts que vous pouvez utiliser :
 
 ### Evaluer les réunions : format long
 
-Faites une [ronde](round.html) pour réfléchir à n'importe lequel des sujets suivants dans un bref partage, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
+Faites un [tour de table](round.html) pour réfléchir à n'importe lequel des sujets suivants dans un bref échange, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
 
 - efficacité et format
 - facilitation et participation
@@ -28,5 +28,5 @@ Faites une [ronde](round.html) pour réfléchir à n'importe lequel des sujets s
 - axes et suggestions d'amélioration (j'aimerais...)
 - idées folles et suggestions radicales (et si...)
 
-[&#9654; Hôte de la réunion](meeting-host.html)<br/>[&#9664; Tour d'accueil](check-in.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
+[&#9654; Hôte de la réunion](meeting-host.html)<br/>[&#9664; Inclusion](check-in.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
 

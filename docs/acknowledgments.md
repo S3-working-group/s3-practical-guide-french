@@ -5,7 +5,7 @@ title: "Remerciements"
 
 Le contenu de Sociocratie 3.0 reflète l’expérience accumulée et la sagesse de contributeurs sur plusieurs générations. Ces personnes ont partagé une quête commune : développer des moyens plus efficaces, harmonieux et conscients de collaborer ensemble.
 
-Une reconnaissante toute particulière envers Gerard Endenburg et d'autres, qui, sur plusieurs années, ont investi un temps considérable afin d'améliorer et de documenter la méthode d’organisation en cercles sociocratiques, qui a contribué et a inspiré le développement de la Sociocratie 3.0.
+Une reconnaissance toute particulière envers Gerard Endenburg et d'autres, qui, sur plusieurs années, ont investi un temps considérable afin d'améliorer et de documenter la méthode d’organisation en cercles sociocratiques, qui a contribué et a inspiré le développement de la Sociocratie 3.0.
 
 Nous aimerions également reconnaître tous ceux qui ont travaillé de manière approfondie pour faciliter l’émergence d’un état d'esprit plus agile et plus lean, et ceux qui ont développé et partagé diverses pratiques avec le monde.
 

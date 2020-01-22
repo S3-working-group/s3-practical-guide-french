@@ -2,7 +2,7 @@
 
 ![fit](img/framework/logo.png)
 
-# Un guide pratique
+# Un Guide Pratique
 
 #### James Priest, Bernhard Bockelbrink, Liliana David
 

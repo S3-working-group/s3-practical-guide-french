@@ -4,8 +4,8 @@
 
 Réfléchissez aux interactions, célébrez les succès et partagez vos suggestions d'amélioration avant de clore la réunion.
 
-- prévoyez 5 minutes pour 1 heure et 15 minutes pour un atelier d'une journée complète
-- notez les enseignements et revoyez-les avant la prochaine réunion
+- prévoir 5 minutes d'évaluation pour 1 heure de réunion et 15 minutes pour un atelier d'une journée complète
+- consigner les enseignements et les relire avant la prochaine réunion
 
 Quelques formats courts que vous pouvez utiliser :
 
@@ -16,7 +16,7 @@ Quelques formats courts que vous pouvez utiliser :
 
 ### Evaluer les réunions : format long
 
-Faites une [ronde](section:round) pour réfléchir à n'importe lequel des sujets suivants dans un bref partage, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
+Faites un [tour de table](section:round) pour réfléchir à n'importe lequel des sujets suivants dans un bref échange, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
 
 - efficacité et format
 - facilitation et participation

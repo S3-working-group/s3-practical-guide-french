@@ -3,7 +3,7 @@ title: "Rétrospective"
 ---
 
 
-**Allouez du temps à réfléchir à une expérience passée, apprenez et décidez comment améliorer le processus de travail.**
+**Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer le processus de travail.**
 
 - en sortie : modifications du processus de travail, nouvelles tâches, ententes <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">à la volée</dfn>, et <dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.">intentions</dfn> nécessitant une entente
 - réunion facilitée (environ 1h)
@@ -14,7 +14,7 @@ title: "Rétrospective"
 
 ### Les cinq phases d’une réunion de rétrospective
 
-1. Préparer le terrain 
+1. Planter le décor 
 2. Rassembler les données
 3. En tirer des connaissances
 4. Décider quoi faire

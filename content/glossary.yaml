@@ -3,34 +3,34 @@ title: Glossaire
 continued: (…)
 terms:
   accountability:
-    name: Responsabilité (principe)
+    name: Redevabilité (principe)
     definition:
-    glossary: Agir lorsque nécessaire, faire ce qu'on s'est engagé de faire et assumer la responsabilité de l'avancement de l'organisation.
+    glossary: Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .
   account:
-    name: Endosser la responsabilité (v.)
+    name: Etre redevable de (v.)
     glossary: prendre la responsabilité de quelque chose.
   agreement:
     name: Entente
-    definition: Une **entente** est une ligne directrice, un processus, protocole ou politique établi de le but de guider le flux de valeur.
+    definition: Une **entente** est une ligne directrice, un processus, un protocole ou une politique établis de le but de guider le flux de valeur.
     glossary: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.
   alignment:
     name: Alignement
     glossary: Le processus d'aligner les actions de l'ensemble des parties d'une organisation aux objectifs de l'organisation.
   backlog:
-    name: Demandes en attente
-    definition: Un **backlog** (liste des demandes en attente) est une liste explicite et priorisée de tâches (livrables) ou d'intention en attente de traitement.
-    glossary: Une liste explicite et priorisée de tâches (livrables) ou d'intention en attente de traitement.
+    name: Backlog
+    definition: Un **backlog** (to-do-list) est une liste (souvent priorisée) d'éléments de travail inachevés (livrables), ou d'intentions qui doivent être traitées.
+    glossary: Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
   chosen-values:
     name: Valeurs choisies
     glossary: Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider ses actions et collaboration en son sein.
   circle:
     name: Cercle
-    definition: Un **cercle** est une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent pour rendre compte d'un domaine.
-    glossary: Une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent pour rendre compte d'un domaine.
+    definition: Un **cercle** est une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent pour s'occuper d'un domaine.
+    glossary: Une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent pour s'occuper d'un domaine.
   check-in:
-    name: Ronde d'accueil
+    name: Tour d'accueil
     definition:
-    glossary: Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant des pensées, des sentiments, des distractions ou des besoins.
+    glossary: Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant vos pensées, vos sentiments, des distractions ou des besoins.
   complexity:
     name: Complexité
     glossary: Un environnement où les inconnus sont inconnus, les liens de cause à effets ne peuvent être compris que rétrospectivement, et où les actions mènent à des changements imprévisibles. [Snowden and Boone]
@@ -56,33 +56,33 @@ terms:
     glossary: Le processus de permettre aux individus et aux équipes de collaborer efficacement dans différents domaines pour atteindre des objectifs communs.
   delegatee:
     name: Délégué
-    glossary: Un individu ou groupe acceptant la responsabilité pour un domaine leur étant délégué.
+    glossary: Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.
   delegation:
     name: Délégation
-    glossary: L'octroi d'autorité par une partie (le déléguant) à une autre (le délégué) de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le déléguant maintient la responsabilité globale.
+    glossary: L'octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.
   delegator:
-    name: Déléguant
-    glossary: Un individu ou groupe déléguant un domaine à d'autres groupes ou individus.
+    name: Délégant
+    glossary: Un individu ou groupe délégant un domaine à d'autres groupes ou individus.
   deliverable:
     name: Livrable
-    definition: Un **livrable** est un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.
+    definition: Un **livrable** est un produit, un service, un composant ou un document fourni en réponse à une intention organisationnelle.
     glossary: Un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.
   domain:
     name: Domaine
-    definition: Un **domaine** est une zone d'influence, activité et prise de décisions distincte au sein d'une organisation.
-    glossary: Une zone d'influence, activité et prise de décisions distincte au sein d'une organisation.
+    definition: Un **domaine** est une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.
+    glossary: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.
   driver:
-    name: Moteur
-    definition: Un **moteur** est la motivation d'un groupe ou d'une personne pour répondre à une situation particulière.
+    name: Intention
+    definition: Une **intention** est la motivation d'un groupe ou d'une individu à répondre à une situation particulière.
     glossary: La motivation d'un groupe ou d'une personne pour répondre à une situation particulière.
   effectiveness:
     name: Efficacité (principe)
-    definition: Allouer du temps seulement à ce qui vous rapproche d'atteindre vos objectifs.
+    definition: Allouer du temps seulement à ce qui vous rapproche de vos objectifs.
     glossary: Allouer du temps seulement à ce qui vous rapproche d'atteindre vos objectifs.
   empiricism:
     name: Empirisme (principe)
     definition:
-    glossary: Testez toutes les hypothèses grâce à l'expérimentation et l'évaluation continue.
+    glossary: Tester toutes les hypothèses grâce à l'expérimentation et l'évaluation continue.
   equivalence:
     name: Equivalence (principe)
     definition:
@@ -95,11 +95,11 @@ terms:
     glossary: Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.
   governance:
     name: Gouvernance
-    definition: "La **Gouvernance** dans une organisation (ou un de ses domaines) est l'acte de fixer des objectifs, et de prendre et faire évoluer des décisions qui guident les gens à les atteindre."
-    glossary: L'acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens à les atteindre.
+    definition: "La **Gouvernance** dans une organisation (ou l'un de ses domaines) est l'acte de fixer des objectifs, et de prendre et faire évoluer des décisions qui guident les gens pour les atteindre."
+    glossary: L'acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.
   governance-backlog:
     name: Backlog de gouvernance
-    definition: Un **backlog de gouvernance** est une liste explicite ordonnée par priorité de tâches en attente de traitement (drivers) en lien à la gouvernance d'un domaine.
+    definition: Un **backlog de gouvernance** est une liste visible, priorisée de points (intentions) qui sont en lien avec la gouvernance d'un domaine et en attente de traitement.
     glossary: Une liste explicite ordonnée par priorité de tâches en attente de traitement (moteurs) en lien à la gouvernance d'un domaine.
   intended-outcome:
     name: Résultat attendu
@@ -130,7 +130,7 @@ terms:
     glossary: Faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance.
   operations-backlog:
     name: Backlog des opérations
-    definition: Un **backlog des opérations**est une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
+    definition: Un **backlog des opérations** est une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
     glossary: Une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
   objection:
     name: Objection
@@ -182,13 +182,13 @@ terms:
   semi-autonomy:
     name: Semi-autonomie
     definition:
-    glossary: L'autonomie des personnes à créer de la valeur dans leur domaine, contrainte par leurs propres décisions de gouvernance, et les objections (y compris celles du déléguant et des représentants).
+    glossary: L'autonomie des personnes à créer de la valeur dans leur domaine, contrainte par leurs propres décisions de gouvernance, et les objections (y compris celles du délégant et des représentants).
   sociocracy:
     name: Sociocratie
     glossary: Un état d'esprit où les personnes affectées par des décisions peuvent les influencer, en se basant sur des raisons justifiées.
   strategy:
     name: Stratégie
-    definition: Une **stratégie** est une approche générale définissant comment les personnes vont créer de la valeur pour s'occuper avec succès d'un domaine.
+    definition: Une **stratégie** est une approche de haut niveau sur la façon dont les personnes vont créer de la valeur pour s'occuper avec succès d'un domaine.
     glossary: Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.
   subdomain:
     name: Sous-domaine
@@ -215,7 +215,7 @@ terms:
     definition:
     glossary: Une expérience personnelle, un symptôme de dissonance entre la perception d'une situation par un individu, et ses attentes ou préférences.
   timebox:
-    name: Bloc de temps
+    name: Temps limité
     definition: Un **bloc de temps** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
     glossary: Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
   transparency:
@@ -224,13 +224,13 @@ terms:
     glossary: Rendre toutes les informations accessibles à tous les membres d'une organisation, à moins qu'il faille préserver leur confidentialité.
   value:
     name: Valeur
-    definition: "La **valeur** est l'importance ou l'utilité d'un élément en relation à un moteur."
-    glossary: L'importance ou l'utilité d'un élément en relation à un moteur. Aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").
+    definition: "La **valeur** est l'importance ou l'utilité de quelque chose lié à une intention."
+    glossary: L'importance ou l'utilité de quelque chose lié à une intention. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").
   values:
     name: Valeurs
     definition: "Les **Valeurs** sont des principes importants qui guident le comportement. Les valeurs définissent une portée d'action et des contraintes éthiques."
     glossary: "Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'une intention."
   waste:
     name: Gaspillage
-    definition: "Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui s'oppose - à une réponse (plus) efficace à une intention."
-    glossary: Tout ce qui n'est pas nécessaire pour - ou qui empêche - de (mieux) répondre à une intention.
+    definition: "Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à - répondre (plus) efficacement à une intention."
+    glossary: Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à - répondre (plus) efficacement à une intention.

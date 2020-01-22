@@ -1,6 +1,6 @@
 ## Naviguer par tension
 
-**Prêtez attention aux tensions que vous éprouvez par rapport à l'organisation, enquêtez sur leur cause et transmettez toute intention organisationnelle que vous découvrez aux personnes responsables du domaine approprié.**
+**Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié toute intention organisationnelle que vous découvrez .**
 
 **Les défis et les opportunités** pour une organisation sont révélés par des gens qui expriment les raisons pour lesquelles ils éprouvent des tensions.
 

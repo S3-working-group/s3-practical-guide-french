@@ -11,7 +11,7 @@ Au lieu de simplement affecter des personnes aux [rôles](role.html), ou de fair
 - augmenter l'appropriation de la décision
 - assurer le soutien des personnes impactées au porteur de rôle.
 
-Une condition préalable au processus de sélection est une [description claire](clarify-domains.html) du <dfn data-info="Domaine: Une zone d&apos;influence, activité et prise de décisions distincte au sein d&apos;une organisation.">domaine</dfn>.
+Une condition préalable au processus de sélection est une [description claire](clarify-domains.html) du <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaine</dfn>.
 
 ### Sélection de rôles - Étapes
 
@@ -32,9 +32,9 @@ Une condition préalable au processus de sélection est une [description claire]
 
 Pour éviter d'influencer les autres, abstenez-vous d'exprimer un intérêt personnel ou des opinions avant qu'une sélection ne se produise.
 
-Parfois, une sélection de rôles révèle un manque de capacité, une expérience pertinente, des qualités ou des compétences. Un groupe devra alors envisager des candidats extérieurs, reconsidérer les priorités ou trouver une autre façon de s'occuper du domaine.
+Parfois, une sélection de rôles révèle un manque de capacité, d'expérience significative, de qualités ou de compétences. Un groupe devra alors envisager des candidats extérieurs, reconsidérer les priorités ou trouver une autre façon de s'occuper du domaine.
 
 Cette pratique peut également être utilisée dans toute situation où il est nécessaire de choisir entre plusieurs options.
 
-[&#9654; Cartographier les intentions](driver-mapping.html)<br/>[&#9664; Élaboration d'une proposition](proposal-forming.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Cartographier les intentions](driver-mapping.html)<br/>[&#9664; Élaborer une proposition](proposal-forming.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
 

@@ -2,7 +2,7 @@
 
 **Décrivez les intentions pour mieux les comprendre, les communiquer et s'en souvenir.**
 
-Décrivez les [intentions](glossary:organizational-driver) peut être fait par un groupe ou par un individu. Selon leur perspective, ils peuvent décider d'expliquer une intention comme un **problème** à résoudre ou une **opportunité** à saisir.
+Décrire les [intentions](glossary:organizational-driver) peut être fait par un groupe ou par un individu. Selon leur perspective, ils peuvent décider d'expliquer une intention comme un **problème** à résoudre ou une **opportunité** à saisir.
 
 Un moyen simple de décrire une intention est d'expliquer :
 
@@ -38,7 +38,7 @@ Expliquer l'effet de cette situation sur l'organisation:
 
 - Clarifiez **pourquoi** la situation nécessite de l'attention : comment cela affecte-t-il l'organisation ? 
 - Précisez si les effets sont actuels ou anticipés. 
-- Expliquez les défis, les pertes, les opportunités ou les gains. 
+- Expliquez les problèmes, les pertes, les opportunités ou les gains. 
 
 ### 3. Besoin
 
@@ -46,7 +46,7 @@ Expliquer l'effet de cette situation sur l'organisation:
 
 Expliquez le [besoin](glossary:need) de l'organisation par rapport à cette situation :
 
-- Un **besoin d'une organisation** est tout ce qu'une équipe (ou une personne) nécessite pour s'occuper efficacement d'un [domaine](glossary:domain). 
+- Le **besoin d'une organisation** est ce qu'une équipe (ou une personne) nécessite pour s'occuper efficacement d'un [domaine](glossary:domain). 
 - Soyez précis sur qui a ce besoin ("nous avons besoin", "ils ont besoin", "j'ai besoin").
 - En cas de désaccord sur le besoin, il est utile de prendre du recul par rapport à une solution particulière et se concentrer sur ce qui manque à l'organisation dans cette situation.
 
@@ -61,9 +61,9 @@ Décrivez l'impact de répondre à ce besoin :
 
 ### Résumer l'intention
 
-Visez une ou deux phrases, afin que l'information soit facile à retenir et à traiter.
+Pas plus d'une ou deux phrases, afin que l'information soit facile à retenir et à traiter.
 
-En plus du résumé, plus de détails sur l'intention peuvent être conservés dans le registre.
+En plus du résumé, d'autres détails sur l'intention peuvent être conservés dans le registre.
 
 ### Évaluer les intentions
 

@@ -3,13 +3,13 @@ title: "Backlog de gouvernance"
 ---
 
 
-_Un **backlog de gouvernance** est une liste explicite ordonnée par priorité de tâches en attente de traitement (drivers) en lien à la gouvernance d'un domaine._
+_Un **backlog de gouvernance** est une liste visible, priorisée de points (intentions) qui sont en lien avec la gouvernance d'un domaine et en attente de traitement._
 
 Un backlog de gouvernance contient :
 
 - des questions nécessitant une décision
 - des propositions à créer et considérer
-- des sélection de candidats pour des rôles
+- la sélection de candidats pour des rôles
 
 **Note:** Les compte-rendus à venir et les ententes à revoir sont généralement ajoutés directement à l'ordre du jour (plutôt que dans le backlog).
 

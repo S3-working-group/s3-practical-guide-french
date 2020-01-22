@@ -10,15 +10,15 @@ title: Glossaire
 
 **Auto-organisation:** Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l'influence d'un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l'auto-organisation et l'influence externe coexistent.
 
+**Backlog:** Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
+
 **Backlog de gouvernance:** Une liste explicite ordonnée par priorité de tâches en attente de traitement (moteurs) en lien à la gouvernance d'un domaine.
 
 **Backlog des opérations:** Une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
 
 **Besoin:** L'absence de quelque chose de voulu ou jugé nécessaire (une exigence).
 
-**Bloc de temps:** Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
-
-**Cercle:** Une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent pour rendre compte d'un domaine.
+**Cercle:** Une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent pour s'occuper d'un domaine.
 
 **Complexité:** Un environnement où les inconnus sont inconnus, les liens de cause à effets ne peuvent être compris que rétrospectivement, et où les actions mènent à des changements imprévisibles. [Snowden and Boone]
 
@@ -28,41 +28,39 @@ title: Glossaire
 
 **Coordination:** Le processus de permettre aux individus et aux équipes de collaborer efficacement dans différents domaines pour atteindre des objectifs communs.
 
-**Demandes en attente:** Une liste explicite et priorisée de tâches (livrables) ou d'intention en attente de traitement.
-
-**Domaine:** Une zone d'influence, activité et prise de décisions distincte au sein d'une organisation.
+**Domaine:** Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.
 
 **Domaine ouvert:** Un domaine dont s'occupent un ensemble de personnes invitées à contribuer quand elles le peuvent.
 
 **Domaines pairs:** Deux domaines pairs sont contenus dans le même super-domaine immédiat, et peuvent se recouper.
 
-**Délégation:** L'octroi d'autorité par une partie (le déléguant) à une autre (le délégué) de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le déléguant maintient la responsabilité globale.
+**Délégant:** Un individu ou groupe délégant un domaine à d'autres groupes ou individus.
 
-**Déléguant:** Un individu ou groupe déléguant un domaine à d'autres groupes ou individus.
+**Délégation:** L'octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.
 
-**Délégué:** Un individu ou groupe acceptant la responsabilité pour un domaine leur étant délégué.
+**Délégué:** Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.
 
 **Efficacité (principe):** Allouer du temps seulement à ce qui vous rapproche d'atteindre vos objectifs.
 
-**Empirisme (principe):** Testez toutes les hypothèses grâce à l'expérimentation et l'évaluation continue.
-
-**Endosser la responsabilité (v.):** prendre la responsabilité de quelque chose.
+**Empirisme (principe):** Tester toutes les hypothèses grâce à l'expérimentation et l'évaluation continue.
 
 **Entente:** Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.
 
 **Equivalence (principe):** Impliquer les personnes impactées dans les prises de décisions et les évolutions.
 
+**Etre redevable de (v.):** prendre la responsabilité de quelque chose.
+
 **Evoluer (v.):** développer graduellement.
 
 **Flux de valeur:** Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.
 
-**Gaspillage:** Tout ce qui n'est pas nécessaire pour - ou qui empêche - de (mieux) répondre à une intention.
+**Gaspillage:** Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à - répondre (plus) efficacement à une intention.
 
-**Gouvernance:** L'acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens à les atteindre.
+**Gouvernance:** L'acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.
+
+**Intention:** La motivation d'un groupe ou d'une personne pour répondre à une situation particulière.
 
 **Livrable:** Un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.
-
-**Moteur:** La motivation d'un groupe ou d'une personne pour répondre à une situation particulière.
 
 **Moteur organisationnel:** Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.
 
@@ -84,19 +82,17 @@ title: Glossaire
 
 **Préoccupation:** Une supposition que faire quelque chose (même dans l'absence d'objections) pourrait s'opposer à une façon (plus) efficace de répondre à une intention organisationnelle.
 
+**Redevabilité (principe):** Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .
+
 **Registre:** Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.
 
-**Responsabilité (principe):** Agir lorsque nécessaire, faire ce qu'on s'est engagé de faire et assumer la responsabilité de l'avancement de l'organisation.
-
 **Responsabilités clés:** Un travail essentiel ou une prise de décision cruciale dans le contexte d'un domaine.
-
-**Ronde d'accueil:** Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant des pensées, des sentiments, des distractions ou des besoins.
 
 **Résultat attendu:** Le résultat escompté d'une entente, d'une action, d'un projet ou d'une stratégie.
 
 **Rôle:** Un domaine qui est délégué à un individu.
 
-**Semi-autonomie:** L'autonomie des personnes à créer de la valeur dans leur domaine, contrainte par leurs propres décisions de gouvernance, et les objections (y compris celles du déléguant et des représentants).
+**Semi-autonomie:** L'autonomie des personnes à créer de la valeur dans leur domaine, contrainte par leurs propres décisions de gouvernance, et les objections (y compris celles du délégant et des représentants).
 
 **Sociocratie:** Un état d'esprit où les personnes affectées par des décisions peuvent les influencer, en se basant sur des raisons justifiées.
 
@@ -110,11 +106,15 @@ title: Glossaire
 
 **Supermoteur:** voir sous-moteur.
 
+**Temps limité:** Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
+
 **Tensions:** Une expérience personnelle, un symptôme de dissonance entre la perception d'une situation par un individu, et ses attentes ou préférences.
+
+**Tour d'accueil:** Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant vos pensées, vos sentiments, des distractions ou des besoins.
 
 **Transparence (principe):** Rendre toutes les informations accessibles à tous les membres d'une organisation, à moins qu'il faille préserver leur confidentialité.
 
-**Valeur:** L'importance ou l'utilité d'un élément en relation à un moteur. Aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").
+**Valeur:** L'importance ou l'utilité de quelque chose lié à une intention. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").
 
 **Valeurs:** Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'une intention.
 

@@ -1,5 +1,5 @@
 ---
-title: "Créez un système à flux tirés pour le changement organisationnel"
+title: "Créer un système à flux tiré pour les changements organisationnels"
 ---
 
 

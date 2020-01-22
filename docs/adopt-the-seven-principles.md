@@ -3,7 +3,7 @@ title: "Adopter les sept principes"
 ---
 
 
-**Aligner la collaboration avec les sept principes.**
+**Alignez la collaboration sur les sept principes.**
 
 L'adoption des sept principes réduit le nombre d'ententes explicites requises et guide l'adaptation des pratiques S3 au contexte particulier de l'organisation.
 

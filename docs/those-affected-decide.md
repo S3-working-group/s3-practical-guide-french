@@ -1,5 +1,5 @@
 ---
-title: "Les personnes concernées décident"
+title: "Les personnes impactées décident"
 ---
 
 

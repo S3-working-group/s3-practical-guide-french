@@ -2,7 +2,7 @@
 
 **Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les ententes existantes.**
 
-Les propositions deviennent des [ententes](glossary:agreement) quand elles sont considérées *suffisamment bonnes pour l'instant et suffisamment sûres à essayer* jusqu'à la prochaine évaluation.
+Les propositions deviennent des [ententes](glossary:agreement) quand elles sont considérées *suffisantes pour le moment et suffisamment sûres à essayer* jusqu'à la prochaine évaluation.
 
 Des [objections](glossary:objection) non résolues empêchent les propositions de devenir des ententes.
 

@@ -11,7 +11,7 @@ title: "Co-création et évolution"
 - [Évaluer et développer les ententes](evaluate-and-evolve-agreements.html)
 - [Les personnes impactées décident](those-affected-decide.html)
 - [Cocréer une proposition](co-create-proposals.html)
-- [Élaboration d'une proposition](proposal-forming.html)
+- [Élaborer une proposition](proposal-forming.html)
 - [Sélection des rôles](role-selection.html)
 - [Cartographier les intentions](driver-mapping.html)
 
