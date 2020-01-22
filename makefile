@@ -15,29 +15,20 @@ define update-make-conf
 $(MKTPL) templates/make-conf config/make-conf $(LOC) $(PRJ)
 endef
 
-deckset:
-	$(update-make-conf)
-
-	# build deckset presentation and add pattern index
-	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=img --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	
-	$(MKTPL) templates/deckset-template.md $(TMPFOLDER)/deckset-template.md $(LOC) $(PRJ)
-	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=$(TMPFOLDER)/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
-	# append pattern-index
-	mdslides index deckset $(CONFIG) $(TARGETFILE).md --append
-
-revealjs:
-	$(update-make-conf)
-
-	$(MKTPL) templates/revealjs-template.html $(TMPFOLDER)/revealjs-template.html $(LOC) $(PRJ)
-
-	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=text --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build revealjs $(CONFIG) $(TMPFOLDER) docs/slides.html --template=$(TMPFOLDER)/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
-
 site:
 	# build jekyll site
 	$(update-make-conf)
 
+	# build content files
+	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
+
+	# split introduction into intro and concepts/principles
+	awk '{print >out}; /<!-- split here -->/{out="tmp/docs/concepts-and-principles-content.md"}' out=tmp/docs/introduction-content.md docs/introduction.md
+	$(MKTPL) templates/docs/introduction.md $(TMPFOLDER)/docs/intro_tmpl.md $(LOC) $(PRJ)
+	cd $(TMPFOLDER)/docs; multimarkdown --to=mmd --output=../../docs/introduction.md intro_tmpl.md
+	$(MKTPL) templates/docs/concepts-and-principles.md $(TMPFOLDER)/docs/concepts_tmpl.md $(LOC) $(PRJ)
+	cd $(TMPFOLDER)/docs; multimarkdown --to=mmd --output=../../docs/concepts-and-principles.md concepts_tmpl.md
+	
 	# prepare templates
 	$(MKTPL) templates/docs/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
 	$(MKTPL) templates/docs/_layouts/plain.html docs/_layouts/plain.html $(LOC) $(PRJ)
@@ -48,17 +39,8 @@ site:
 	$(MKTPL)  templates/docs/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
 	cp content/website/_includes/header.html docs/_includes/header.html
 
-	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
+	# build the site
 	cd docs;jekyll build
-
-wordpress:
-	# join each pattern group into one md file to be used in wordpress
-	$(update-make-conf)
-ifeq ("$(wildcard $(TMPFOLDER)/web-out)","")
-	mkdir $(TMPFOLDER)/web-out
-endif 
-	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=none --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build wordpress $(CONFIG) $(TMPFOLDER) $(TMPFOLDER)/web-out/ --footer=templates/wordpress-footer.md  --glossary=$(GLOSSARY)
 
 epub:
 	# render an ebook as epub
@@ -73,6 +55,27 @@ epub:
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
 	# render to epub
 	cd $(TMPFOLDER)/ebook; pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE).epub
+
+htmlbook:
+	# render an ebook as html book
+	$(update-make-conf)
+
+	# create description
+	multimarkdown --to=html --output=tmp/store-description.html content/src/introduction/s3-overview-supporter-edition.md
+
+	# -- start copied section
+
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook content/structure-supporter-edition.yaml $(SOURCE) $(TMPFOLDER)/htmlbook/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
+
+	# prepare and copy template
+	$(MKTPL) templates/htmlbook--master.md $(TMPFOLDER)/htmlbook/htmlbook--master.md $(LOC) $(PRJ)
+	# transclude all to one file 
+	cd $(TMPFOLDER)/htmlbook; multimarkdown --to=html --output=book.html htmlbook--master.md
+	rm $(TMPFOLDER)/htmlbook/*.md
+	cp templates/epub.css $(TMPFOLDER)/htmlbook
+	-rm supporter-edition.zip
+	cd $(TMPFOLDER)/htmlbook; zip  -r ../../supporter-edition *
 
 ebook:
 	# render an ebook as pdf (via LaTEX)
@@ -119,7 +122,8 @@ clean:
 	-rm -r docs/img
 	-rm -r docs/_site
 	-rm docs/*.md
-	-rm -r $(TMPFOLDER)
+	# take no risk here!
+	-rm -r tmp
 
 setup:
 	# prepare temp folders and jekyll site
@@ -127,12 +131,23 @@ setup:
 	# prepare temp folders
 	echo "this might produce error output if folders already exist"
 	-mkdir -p $(TMPFOLDER)/ebook
+	-mkdir -p $(TMPFOLDER)/htmlbook
 	-mkdir -p $(TMPFOLDER)/web-out
+	-mkdir -p $(TMPFOLDER)/docs
 	-mkdir docs/_site
 	# -mkdir gitbook
 ifeq ("$(wildcard $(TMPFOLDER)/ebook/img)","")
 	cd $(TMPFOLDER)/ebook; ln -s ../../img
 endif 
+
+	# images for htmlbook
+ifneq ("$(wildcard $(TMPFOLDER)/htmlbook/img)","")
+	# take no risk here!
+	rm -r tmp/htmlbook/img
+endif 
+	cp -r img $(TMPFOLDER)/htmlbook/img
+
+
 	# clean up and copy images do to docs folder
 ifneq ("$(wildcard docs/img)","")
 	rm -r docs/img
