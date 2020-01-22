@@ -1,6 +1,6 @@
 ## Système de travail à flux tiré
 
-**Les personnes tirent de nouveaux éléments de travail lorsqu'il y ont la capacité de les traiter (plutôt que travail leur soit poussé ou affecté).**
+**Les personnes tirent de nouveaux éléments de travail lorsqu'elles ont la capacité de les traiter (au lieu que travail leur soit poussé ou affecté).**
 
 Priorisez les éléments de travail pour assurer que les éléments importants soient traités en premier.
 

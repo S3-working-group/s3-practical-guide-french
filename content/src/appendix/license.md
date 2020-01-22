@@ -1,6 +1,6 @@
 ## Licence
 
-"Sociocratie 3.0 - Un Guide Pratique" de Bernhard Bockelbrink, James Priest et Liliana David est sous licence **Creative Commons Attribution-ShareAlike 4.0 International License**, qui est une **licence Free Culture**.
+"Un Guide Pratique pour faire évoluer des organisations Agiles et Résilientes avec la Sociocratie 3.0" par Bernhard Bockelbrink, James Priest and Liliana David est sous licence **Creative Commons Attribution-ShareAlike 4.0 International License**, qui est une **licence Free Culture**.
 
 Fondamentalement cette licence vous accorde :
 
@@ -13,12 +13,12 @@ Vous devez **attribuer le créateur original des matériaux**, et **tous les dé
 
 Pour afficher le texte complet de cette licence, visitez <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
 
-Il y a plus sur le thème de la culture libre sur le site [Creative Commons](https://creativecommons.org/freeworks).
+Vous trouverez davantage d'informations au sujet de la culture libre sur le site [Creative Commons](https://creativecommons.org/freeworks).
 
 ### Attribution des travaux dérivés
 
 Si vous créez un travail dérivé, vous devez donner le crédit adéquat et indiquer quelles modifications vous avez apportées. Une bonne attribution contient le titre, l'auteur, la source et la licence, comme ceci :
 
-> Cette œuvre, intitulée « [nom de votre œuvre] », est dérivée de la « Sociocratie 3.0 - Un Guide Pratique » de James Priest, Bernhard Bockelbrink et Liliana David utilisée sous CC BY SA. « [nom de votre œuvre]» est sous licence CC BY SA par [votre nom].
+> Ce travail, "[nom de votre travail]", est dérivé de "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" de James Priest, Bernhard Bockelbrink et Liliana David utilisés sous CC BY SA. "[nom de votre travail]" est sous licence CC BY SA par [votre nom].
 
 Vous pouvez en savoir plus sur l'attribution sur la [page Creative Commons des meilleures pratiques pour l'attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).

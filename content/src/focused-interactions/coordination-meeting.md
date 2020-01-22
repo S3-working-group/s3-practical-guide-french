@@ -10,7 +10,7 @@
 Ordre du jour:
 
 - synchronisation et alignement des domaines
-- priorisation et distribution du travail 
+- priorisation et distribution du travail
 - adresser les difficultés
 
 ![Phases d'une réunion de coordination](img/meetings/coordination-meeting.png)

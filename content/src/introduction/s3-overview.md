@@ -1,53 +1,42 @@
-## Sociocratie 3.0 - Un guide pratique pour développer des organisations agiles et résilientes
+## Un Guide Pratique pour faire évoluer des organisations Agiles et Résilientes avec la Sociocratie 3.0
 
-### Collaboration efficace à toute échelle
+La Sociocratie 3.0 — **ou "S3"** — est une <0>technologie sociale</0> faire évoluer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, et même la collaboration inter-ministerielle à l'échelle nationale.
 
-La Sociocratie 3.0 — **ou “S3”** — est un guide pratique pour développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, et même la collaboration inter-ministerielle à l’échelle nationale. Elle fournit une manière cohérente de renforcer l'intégrité organisationnelle et **de développer une mentalité sociocratique et agile**.
+Dans ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
 
-S3 vous amène un large éventail de consignes et de pratiques qui ont prouvé leur utilité dans des organisations en **améliorant leur performance, leur alignement interne, le sentiment d'accomplissement et le bien-être de leurs collaborateurs**.
+Depuis son lancement en 2015, les pratiques S3 ont aidé des personnes dans une grande variété de contextes organisationnels à tirer le meilleur parti de la collaboration. Des start-ups aux petites et moyennes entreprises, de grandes organisations internationales, des organisations financées par des investisseurs ou à but non lucratif, des familles et des communautés.
 
-Ces pratiques vous aident à découvrir comment atteindre au mieux vos objectifs et à naviguer dans la complexité, une étape à la fois, **sans nécessiter de réorganisation radicale soudaine ni de planifier une initiative de changement à long terme**:
+L'utilisation de S3 peut **vous aider à atteindre vos objectifs** et naviguer avec succès dans la complexité. Vous pouvez apporter des changements à la fois, **sans avoir besoin d'une réorganisation radicale soudaine** ni de planifier une initiative de changement à long terme :
 
-Démarrez simplement où le besoin semble le plus important, sélectionnez une ou des pratiques à essayer, **avancez à votre rythme** et développez vos compétences au fur et à mesure.
+- Il vous suffit de commencer par identifier vos domaines les plus nécessiteux et de sélectionner une ou plusieurs pratiques ou consignes qui vous aident.
+- Avancez à votre propre rythme, et développez à la fois vos compétences et une mentalité plus sociocratique et plus agile à mesure que vous cheminez.
 
 **Peu importe votre position dans l'organisation**, vous découvrirez des pratiques pertinentes et utiles pour vous-mêmes.
 
-La Sociocratie 3.0 est :
+**Sociocratie 3.0 est libre**, et sous licence Creative Commons Free Culture License.
 
-- **flexible:** des pratiques adaptables, indépendantes et se renforçant mutuellement, pour vous aider dans tous les aspects de la collaboration
-- **basée sur des principes :** sept principes fondamentaux de collaboration agile et sociocratique se reflètent dans chaque pratique
-- **libre de droits :** sous licence Creative Commons Free Culture License
+### Comment la Sociocratie 3.0 peut-elle aider ?
 
-### Qu'est-ce que j'y gagne ?
+S3 est une technologie de transformation pour les individus et l'ensemble de l'organisation qui vous aidera à trouver comment relever les plus grands défis de votre organisation, comment profiter des opportunités qui s'offrent à vous et résoudre les problèmes les plus tenaces.
 
-**La Sociocratie 3.0 :**
+La Sociocratie 3.0 est conçue pour être flexible et supporte l’expérimentation et l’apprentissage. Vous pouvez prendre ce dont vous avez besoin, adapter les choses à votre contexte et enrichir votre approche existante.
 
-- fournit un catalogue cohérent de pratiques de collaboration basées sur des principes, pour naviguer dans la complexité, s'adapter et évoluer.
-- aide les personnes à traiter de manière incrémentale les informations disponibles en améliorant continuellement les processus de travail, les produits, les services et les compétences.
-- aide les organisations à utiliser au mieux les talents déjà présents et à développer des structures organisationnelles flexibles pour aligner le flux d’informations et d’influence avec le flux de valeur.
-- fournit une approche organique et itérative du changement qui répond aux organisations où elles sont et les aide à progresser à leur propre rythme et en fonction de leur contexte et de leurs besoins uniques.
-- s’appuie sur l’intelligence collective du groupe.
-- facilite le développement de stratégies qui sont « suffisantes pour le moment » et « suffisamment sûres à essayer ».
-- favorise la redevabilité et le sens de l'engagement.
-- est un mécanisme de transformation à la fois pour les individus et pour l'ensemble de l'organisation.
+S3 intègre des concepts de base et des pratiques que vous retrouverez dans les méthodologies agiles, le lean management, Kanban (et KMM), le Design Thinking, les Organisations Opales et la famille des méthodes de gouvernance basées sur la sociocratie (SCM/Dynamic Governance, Holacracy® etc.). Elle est complémentaire et compatible avec n'importe quel framework agile ou lean, y compris mais non limité à Scrum et à ses différents frameworks de passage à l'échelle.
 
-**La Sociocratie 3.0 peut être appliquée dans :**
+**À l'intérieur de ce guide pratique, vous découvrirez :**
 
-- des startups
-- des petites et moyennes entreprises
-- de grandes organisations internationales en réseau
-- des familles
-- des organisations soutenues par des investisseurs
-- des communautés
-- et d'autres…
+- Des concepts utiles qui vous aideront à **donner plus de sens à votre organisation** et à communiquer efficacement sur l'endroit où le changement est nécessaire.
+- Une **approche organique et itérative du changement** qui prend les organisations où elles sont et les aide à progresser à leur propre rythme en fonction de leur contexte et de leurs besoins uniques.
+- **Sept principes de base** de collaboration agile et sociocratique
+- Une collection cohérente de **plus de 70 pratiques et consignes** pour vous aider à naviguer dans la complexité et améliorer la collaboration : 
+    - **Des formats simples, facilités** qui aident les équipes à utiliser l'intelligence collective du groupe et à traiter progressivement les informations disponibles en améliorant en continu les processus de travail, produits, services et compétences.
+    - **Des pratiques de groupe** pour aider les organisations à faire le meilleur usage du talent dont elles disposent déjà, en faisant en sorte que **les personnes se soutiennent mutuellement** dans le développement des compétences, la redevabilité et l'engagement.
+    - **Des outils simples pour clarifier qui fait quoi**, laissant les gens libres de décider et d'agir par eux-même autant que possible dans un cadre clairement défini permettant l'expérimentation et le développement.
+    - Des modèles pour **faire grandir la structure organisationnelle au-delà des hiérarchies** en réseaux flexibles et décentralisés où les flux d'informations et d'influence soutiennent directement la création de valeur.
+- Un **glossaire** avec des explications pour tous les termes que vous ne connaissez peut-être pas.
 
-### Contenu de ce guide
+Ce guide pratique sur la Sociocratie 3.0 est écrit et publié par les trois co-développeurs de la Sociocratie 3.0.
 
-- un petit historique et un bref aperçu de certains concepts à la base de S3
-- une description de toutes les pratiques S3
-- une annexe 
-    - l’historique des modifications
-    - des infos sur les auteurs et des remerciements
-    - la licence
-    - l'engagement intentionnel des praticiens et des enseignants de la Sociocratie 3.0
-    - un glossaire et un index
+Fidèle à l'état d'esprit derrière S3, ce livre sera toujours un travail en cours qui se développe et change au fur et à mesure que nous apprenons des personnes qui expérimentent avec S3 dans les organisations du monde entier. Depuis que nous avons commencé il y a 5 ans, nous avons publié plusieurs mises à jour par an et nous continuerons à le faire dans les années à venir.
+
+Même si plusieurs sections de ce livre sont brèves et peuvent parfois être brutes, ce livre a été suffisant pour que de nombreuses personnes puissent commencer avec S3 et obtenir des changements positifs dans leurs organisations. Nous espérons que cela vous sera également utile.

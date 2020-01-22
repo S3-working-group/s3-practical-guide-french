@@ -3,11 +3,11 @@ slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
 
-# [fit] Sociocratie 3.0
+# [fit] Sociocratie 3.0
 
 ![fit](img/framework/logo.png)
 
-# Un Guide Pratique
+# Un guide pratique
 
 #### James Priest, Bernhard Bockelbrink, Liliana David
 
@@ -15,67 +15,56 @@ theme: Plain Jane, 1
 
 ---
 
-## Sociocratie 3.0 - Un guide pratique pour développer des organisations agiles et résilientes
+## Un Guide Pratique pour faire évoluer des organisations Agiles et Résilientes avec la Sociocratie 3.0
 
-### Collaboration efficace à toute échelle
+La Sociocratie 3.0 — **ou "S3"** — est une <0>technologie sociale</0> faire évoluer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, et même la collaboration inter-ministerielle à l'échelle nationale.
 
-La Sociocratie 3.0 — **ou “S3”** — est un guide pratique pour développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, et même la collaboration inter-ministerielle à l’échelle nationale. Elle fournit une manière cohérente de renforcer l'intégrité organisationnelle et **de développer une mentalité sociocratique et agile**.
+Dans ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
 
-S3 vous amène un large éventail de consignes et de pratiques qui ont prouvé leur utilité dans des organisations en **améliorant leur performance, leur alignement interne, le sentiment d'accomplissement et le bien-être de leurs collaborateurs**.
+Depuis son lancement en 2015, les pratiques S3 ont aidé des personnes dans une grande variété de contextes organisationnels à tirer le meilleur parti de la collaboration. Des start-ups aux petites et moyennes entreprises, de grandes organisations internationales, des organisations financées par des investisseurs ou à but non lucratif, des familles et des communautés.
 
-Ces pratiques vous aident à découvrir comment atteindre au mieux vos objectifs et à naviguer dans la complexité, une étape à la fois, **sans nécessiter de réorganisation radicale soudaine ni de planifier une initiative de changement à long terme**:
+L'utilisation de S3 peut **vous aider à atteindre vos objectifs** et naviguer avec succès dans la complexité. Vous pouvez apporter des changements à la fois, **sans avoir besoin d'une réorganisation radicale soudaine** ni de planifier une initiative de changement à long terme :
 
-Démarrez simplement où le besoin semble le plus important, sélectionnez une ou des pratiques à essayer, **avancez à votre rythme** et développez vos compétences au fur et à mesure.
+- Il vous suffit de commencer par identifier vos domaines les plus nécessiteux et de sélectionner une ou plusieurs pratiques ou consignes qui vous aident.
+- Avancez à votre propre rythme, et développez à la fois vos compétences et une mentalité plus sociocratique et plus agile à mesure que vous cheminez.
 
 **Peu importe votre position dans l'organisation**, vous découvrirez des pratiques pertinentes et utiles pour vous-mêmes.
 
-La Sociocratie 3.0 est :
+**Sociocratie 3.0 est libre**, et sous licence Creative Commons Free Culture License.
 
-- **flexible:** des pratiques adaptables, indépendantes et se renforçant mutuellement, pour vous aider dans tous les aspects de la collaboration
-- **basée sur des principes :** sept principes fondamentaux de collaboration agile et sociocratique se reflètent dans chaque pratique
-- **libre de droits :** sous licence Creative Commons Free Culture License
+### Comment la Sociocratie 3.0 peut-elle aider ?
 
-### Qu'est-ce que j'y gagne ?
+S3 est une technologie de transformation pour les individus et l'ensemble de l'organisation qui vous aidera à trouver comment relever les plus grands défis de votre organisation, comment profiter des opportunités qui s'offrent à vous et résoudre les problèmes les plus tenaces.
 
-**La Sociocratie 3.0 :**
+La Sociocratie 3.0 est conçue pour être flexible et supporte l’expérimentation et l’apprentissage. Vous pouvez prendre ce dont vous avez besoin, adapter les choses à votre contexte et enrichir votre approche existante.
 
-- fournit un catalogue cohérent de pratiques de collaboration basées sur des principes, pour naviguer dans la complexité, s'adapter et évoluer.
-- aide les personnes à traiter de manière incrémentale les informations disponibles en améliorant continuellement les processus de travail, les produits, les services et les compétences.
-- aide les organisations à utiliser au mieux les talents déjà présents et à développer des structures organisationnelles flexibles pour aligner le flux d’informations et d’influence avec le flux de valeur.
-- fournit une approche organique et itérative du changement qui répond aux organisations où elles sont et les aide à progresser à leur propre rythme et en fonction de leur contexte et de leurs besoins uniques.
-- s’appuie sur l’intelligence collective du groupe.
-- facilite le développement de stratégies qui sont « suffisantes pour le moment » et « suffisamment sûres à essayer ».
-- favorise la redevabilité et le sens de l'engagement.
-- est un mécanisme de transformation à la fois pour les individus et pour l'ensemble de l'organisation.
+S3 intègre des concepts de base et des pratiques que vous retrouverez dans les méthodologies agiles, le lean management, Kanban (et KMM), le Design Thinking, les Organisations Opales et la famille des méthodes de gouvernance basées sur la sociocratie (SCM/Dynamic Governance, Holacracy® etc.). Elle est complémentaire et compatible avec n'importe quel framework agile ou lean, y compris mais non limité à Scrum et à ses différents frameworks de passage à l'échelle.
 
-**La Sociocratie 3.0 peut être appliquée dans :**
+**À l'intérieur de ce guide pratique, vous découvrirez :**
 
-- des startups
-- des petites et moyennes entreprises
-- de grandes organisations internationales en réseau
-- des familles
-- des organisations soutenues par des investisseurs
-- des communautés
-- et d'autres…
+- Des concepts utiles qui vous aideront à **donner plus de sens à votre organisation** et à communiquer efficacement sur l'endroit où le changement est nécessaire.
+- Une **approche organique et itérative du changement** qui prend les organisations où elles sont et les aide à progresser à leur propre rythme en fonction de leur contexte et de leurs besoins uniques.
+- **Sept principes de base** de collaboration agile et sociocratique
+- Une collection cohérente de **plus de 70 pratiques et consignes** pour vous aider à naviguer dans la complexité et améliorer la collaboration : 
+    - **Des formats simples, facilités** qui aident les équipes à utiliser l'intelligence collective du groupe et à traiter progressivement les informations disponibles en améliorant en continu les processus de travail, produits, services et compétences.
+    - **Des pratiques de groupe** pour aider les organisations à faire le meilleur usage du talent dont elles disposent déjà, en faisant en sorte que **les personnes se soutiennent mutuellement** dans le développement des compétences, la redevabilité et l'engagement.
+    - **Des outils simples pour clarifier qui fait quoi**, laissant les gens libres de décider et d'agir par eux-même autant que possible dans un cadre clairement défini permettant l'expérimentation et le développement.
+    - Des modèles pour **faire grandir la structure organisationnelle au-delà des hiérarchies** en réseaux flexibles et décentralisés où les flux d'informations et d'influence soutiennent directement la création de valeur.
+- Un **glossaire** avec des explications pour tous les termes que vous ne connaissez peut-être pas.
 
-### Contenu de ce guide
+Ce guide pratique sur la Sociocratie 3.0 est écrit et publié par les trois co-développeurs de la Sociocratie 3.0.
 
-- un petit historique et un bref aperçu de certains concepts à la base de S3
-- une description de toutes les pratiques S3
-- une annexe 
-    - l’historique des modifications
-    - des infos sur les auteurs et des remerciements
-    - la licence
-    - l'engagement intentionnel des praticiens et des enseignants de la Sociocratie 3.0
-    - un glossaire et un index
+Fidèle à l'état d'esprit derrière S3, ce livre sera toujours un travail en cours qui se développe et change au fur et à mesure que nous apprenons des personnes qui expérimentent avec S3 dans les organisations du monde entier. Depuis que nous avons commencé il y a 5 ans, nous avons publié plusieurs mises à jour par an et nous continuerons à le faire dans les années à venir.
+
+Même si plusieurs sections de ce livre sont brèves et peuvent parfois être brutes, ce livre a été suffisant pour que de nombreuses personnes puissent commencer avec S3 et obtenir des changements positifs dans leurs organisations. Nous espérons que cela vous sera également utile.
 
 ---
 
-## Influences et historique de la Sociocratie 3.0
+## Influences et historique de la Sociocratie 3.0
 
-![Influences et historique de la Sociocratie 3.0](img/context/history.png)
+![Influences et historique de la Sociocratie 3.0](img/context/history.png)
 
-La signification littérale du terme **sociocratie** est "la règle des compagnons": *socio* — du latin *socius* — qui signifie "companion", ou "ami", et le suffixe *-cracy* — du grec ancien κράτος (krátos) — qui signifie "puissance", ou "règle".
+La signification littérale du terme **sociocratie** est "la règle des compagnons" : *socio* — du latin *socius* — qui signifie "companion", ou "ami", et le suffixe *-cracy* — du grec ancien κράτος (krátos) — qui signifie "puissance", ou "règle".
 
 Le mot sociocratie peut être retracé en 1851, quand **Auguste Comte** a suggéré d'appliquer une approche scientifique à la société: les états seraient régis par un corps de scientifiques qui seraient des experts de la société (qu'il nommait "sociologues"). Selon lui, ce futur, bien qu'il ne fût pas encore réalisable, était inévitable.
 
@@ -89,15 +78,15 @@ En 1926, l'éducateur réformiste néerlandais et quaker **Kees Boeke**, établi
 
 La Sociocratie s'est avérée efficace pour de nombreuses organisations et communautés du monde entier, mais elle tarde encore à devenir virale.
 
-En 2014 **James Priest et Bernhard Bockelbrink** se réunirent pour co-créer un corpus de ressources d'apprentissage sous licence Creative Commons, synthétisant les idées de la Sociocratie, de l’Agile et du Lean. Ils découvrirent que les organisations de toutes tailles ont besoin d’un menu flexible de pratiques et de structures – adaptées à leur contexte spécifique – qui permettent l’évolution d’une mentalité sociocratique et agile pour obtenir une plus grande efficacité, de l’alignement, le sentiment d’accomplissement et le bien-être. La première version de **Sociocratie 3.0.** fût lancée en mars 2015.
+En 2014 **James Priest et Bernhard Bockelbrink** se réunirent pour co-créer un corpus de ressources d'apprentissage sous licence Creative Commons, synthétisant les idées de la Sociocratie, de l’Agile et du Lean. Ils découvrirent que les organisations de toutes tailles ont besoin d’un menu flexible de pratiques et de structures – adaptées à leur contexte spécifique – qui permettent l’évolution d’une mentalité sociocratique et agile pour obtenir une plus grande efficacité, de l’alignement, le sentiment d’accomplissement et le bien-être. La première version de la **Sociocratie 3.0** fût lancée en mars 2015.
 
 **Liliana David** rejoint l'équipe rapidement après et depuis, ils collaborent régulièrement pour développer le cadre et le site web.
 
-Ensemble, ils cherchent à rendre S3 disponible et applicable au plus grand nombre d'organisations possible et publient des ressources sous une licence **Creative Commons Free Culture License** pour les gens qui veulent apprendre, appliquer et parler aux autres de la Sociocratie 3.0.
+Ensemble, ils cherchent à rendre S3 disponible et applicable au plus grand nombre d'organisations possible et publient des ressources sous une licence **Creative Commons Free Culture License** pour les gens qui veulent apprendre, appliquer et parler aux autres de la Sociocratie 3.0.
 
-### Le mouvement Sociocratie 3.0
+### Le mouvement Sociocratie 3.0
 
-L’intérêt pour la Sociocratie 3.0 s'accroit, grâce à une communauté de personnes d'origines diverses qui se développe rapidement — des consultants pionniers, des coaches, des facilitateurs d’apprentissage et des personnes qui appliquent S3 dans différents contextes — tous reconnaissent le potentiel transformationnel de la Sociocratie 3.0 pour aider les organisations et leurs membres à prospérer. Beaucoup consacrent une part de leur temps à expérimenter et échanger sur S3, et collaborent pour apprendre les uns des autres et documenter leurs expériences afin de nourrir le développement et l’évolution du cadre et de ses applications diverses.
+L’intérêt pour la Sociocratie 3.0 s'accroit, grâce à une communauté de personnes d'origines diverses qui se développe rapidement — des consultants pionniers, des coaches, des facilitateurs d’apprentissage et des personnes qui appliquent S3 dans différents contextes — tous reconnaissent le potentiel transformationnel de la Sociocratie 3.0 pour aider les organisations et leurs membres à prospérer. Beaucoup consacrent une part de leur temps à expérimenter et échanger sur S3, et collaborent pour apprendre les uns des autres et documenter leurs expériences afin de nourrir le développement et l’évolution du cadre et de ses applications diverses.
 
 ---
 
@@ -117,7 +106,7 @@ C'est pourquoi nous avons décidé de consacrer une partie de notre temps à dé
 
 ### Le nom
 
-Le nom «*Sociocratie 3.0*» montre à la fois le respect des origines et un pas en avant significatif.
+Le nom "*Sociocratie 3.0*" montre à la fois le respect des origines et un pas en avant significatif.
 
 Il permet également d'éviter la perception que nous dénaturons la *méthode sociocratique d'organisation par cercles* (SCM) telle que promue par The Sociocracy Group.
 
@@ -127,10 +116,10 @@ Il permet également d'éviter la perception que nous dénaturons la *méthode s
 
 *Sociocratie 3.0* utilise un modèle non centralisé de distribution. Il s'agit d'un changement de paradigme dans la manière dont la sociocratie est apportée aux gens et aux organisations, et qui parle à de nombreuses personnes.
 
-Nous soutenons la distribution « virale » par deux stratégies clés :
+Nous supportons la distribution "virale" à travers deux stratégies clés :
 
 * **La Sociocratie 3.0 est ouverte :** Nous voulons encourager la croissance d’un écosystème dynamique d’applications et de variantes de la sociocratie, où les gens partagent et discutent de leurs points de vue et des adaptations qu’ils apportent pour leur contexte spécifique. À cette fin, la Sociocratie 3.0 met l’accent sur la communication des principes sous-jacents et invite explicitement la créativité de chacun à mélanger, étendre et adapter les choses à leurs besoins.
-* **La Sociocratie 3.0 est libre :** Afin de faciliter le démarrage pour les individus et les organisations, nous publions gratuitement sous licence *Creative Commons Free Culture License* des ressources permettant d'apprendre, pratiquer et enseigner *Sociocratie 3.0*. Tout le monde peut utiliser nos ressources sans notre permission explicite, même dans un contexte commercial, ou comme base pour construire ses propres ressources [^tant qu'elles partagent leurs nouvelles ressources sous la même licence]. Nous encourageons d'autres organisations, des consultants, des coachs, des facilitateurs d'apprentissage et des formateurs à suivre notre exemple et à libérer leurs ressources également.
+* **La Sociocratie 3.0 est libre :** Afin de faciliter le démarrage pour les individus et les organisations, nous publions gratuitement sous licence *Creative Commons Free Culture License* des ressources permettant d'apprendre, pratiquer et enseigner *Sociocratie 3.0*. Tout le monde peut utiliser nos ressources sans notre permission explicite, même dans un contexte commercial, ou comme base pour construire ses propres ressources tant qu'elles partagent leurs nouvelles ressources sous la même licence. Nous attendons et encourageons d'autres organisations, des consultants, des coachs, des facilitateurs d'apprentissage et des formateurs à suivre notre exemple et à libérer leurs ressources également.
 
 ### L'évolution de la méthode sociocratique d'organisation par cercles
 
@@ -162,7 +151,7 @@ La *méthode sociocratique d'organisation par cercles* ne vous dira pas comment 
 
 La structure organisationnelle selon la *méthode sociocratique d'organisation par cercles* est structurée selon une hiérarchie de domaines. Nous constatons une émergence croissante d’environnements collaboratifs multi-parties prenantes et la nécessité d’une plus grande variété de modèles de structure organisationnelle. L'évolution de la structure organisationnelle se produit naturellement lorsque les flux d'information et l'influence au sein d'une organisation sont graduellement alignés sur le flux de valeur. La *Sociocratie 3.0* fournit une variété de modèles de structures qui peuvent être combinés pour faire évoluer la structure selon le besoin et de manière flexible.
 
-*James Priest, Bernhard Bockelbrink, Liliana David*
+<!-- split here -->
 
 ---
 
@@ -195,9 +184,9 @@ _Une **pratique** est un modèle pour traverser correctement un contexte particu
 
 ### Les sept principes
 
-La Sociocratie est fondée sur sept principes qui façonnent la culture organisationnelle. Puisque les sept principes se reflètent dans toutes les pratiques Sociocratie 3.0, la compréhension de ces principes est utile pour les adopter et primordiale si l'on souhaite les adapter .
+La Sociocratie est fondée sur sept principes qui façonnent la culture organisationnelle. Puisque les sept principes se reflètent dans toutes les pratiques Sociocratie 3.0, la compréhension de ces principes est utile pour les adopter et primordiale si l'on souhaite les adapter .
 
-La pratique de la Sociocratie 3.0 aide les gens à apprécier la valeur essentielle que ces principes fondamentaux apportent, tant aux individus qu'aux organisations.
+La pratique de la Sociocratie 3.0 aide les gens à apprécier la valeur essentielle que ces principes fondamentaux apportent, tant aux individus qu'aux organisations.
 
 ![Les sept principes](img/framework/s3-principles-plain.png)
 
@@ -205,27 +194,30 @@ La pratique de la Sociocratie 3.0 aide les gens à apprécier la valeur essentie
 
 **Le Principe de Consentement:** *Lever, chercher et résoudre les objections aux décisions et aux actions.*
 
-**Le Principe d'Empirisme:** *Tester toutes les hypothèses grâce à l'expérimentation et l'évaluation continue.*
+**Le Principe d'Empirisme:** *Tester toutes les hypothèses sur lesquelles vous comptez, grâce à l'expérimentation et l'amélioration en continu.*
 
 **Le Principe d'Amélioration Continue:** *Évoluer par incréments pour faciliter un apprentissage empirique constant.*
 
 **Le Principe d'Equivalence:** *Impliquer les personnes impactées dans les prises de décisions et les évolutions.*
 
-**Le Principe de Transparence:** *Rendre toutes les informations accessibles à tous les membres d'une organisation, à moins qu'il faille préserver leur confidentialité.*
+**Le Principe de Transparence:** *Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il n'y ait un motif de confidentialité.*
 
 **Le Principe Redevabilité:** *Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .*
+
+---
 
 #### Le Principe de Redevabilité
 
 *Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .*
 
-Agissez dans le cadre des contraintes des ententes régissant les domaines dont vous êtes redevables, y compris l'organisation elle-même, les équipes dont vous faites partie et les rôles que vous portez.
+Agir dans le cadre des ententes régissant les domaines dont vous êtes redevables, y compris l'organisation elle-même, les équipes dont vous faites partie et les rôles que vous portez.
 
 Chaque membre de l'organisation est redevable de répondre efficacement aux intentions organisationnelles, tant pour faire le travail que pour assurer (soutenir) une collaboration efficace.
 
 Les individus sont également redevables de leur travail, de leur apprentissage et de leur développement, et de se soutenir mutuellement.
 
-Tout le monde dans une organisation est redevable de l'alignement des activités avec les valeurs organisationnelles.
+Tout le monde dans une organisation est redevable d'aligner ses activités avec les valeurs organisationnelles.
+
 
 ---
 
@@ -396,7 +388,7 @@ Créez un résumé bref mais complet contenant juste assez d'informations pour c
 
 ### Exemple:
 
-> *"La cuisine est en désordre: il n'y a pas de tasses propres, l'évier est plein de vaisselle et il n'est pas possible de se faire rapidement un café et se remettre directement au travail. Nous avons besoin d'une cuisine dans un état utilisable pour rester concentrés sur notre travail."*
+> *"La cuisine est en désordre: il n'y a pas de vaisselle propre, l'évier est plein et il n'est pas possible d'attraper rapidement un café et de se remettre au travail. Nous avons besoin d'une cuisine dans un état utilisable pour rester concentrés sur notre travail."*
 
 ### 1. Situation actuelle
 
@@ -508,7 +500,7 @@ Tous les arguments soulevés ne sont pas des objections. Il convient de distingu
 
 Pour savoir si un argument est une objection, dans un contexte de groupe, un facilitateur pourrait demander :
 
-*« Pensez-vous que cet argument est une objection ? »*
+*"Pensez-vous que cet argument est une objection ?"*
 
 Si personne ne conteste l'argument, c'est habituellement une objection. Sinon, essayez de découvrir la véritable objection réelle ou de mettre en évidence toute fausse idée.
 
@@ -522,7 +514,7 @@ Quelques questions utiles :
     - peut être amélioré immédiatement ?
     - empêche ou réduit la contribution de quelqu'un envers une intention ?
     - est en conflit avec les valeurs de l'organisation ?
-    - est considéré comme trop 'risqué' pour essayer?
+    - n'est pas considéré comme 'suffisamment sûr' pour essayer?
 
 ### Préoccupations
 
@@ -542,7 +534,7 @@ Si vous n'êtes pas sûr d'avoir une objection ou une préoccupation, vérifiez 
 
 **Intégrez les objections une par une en utilisant les informations qu'elles contiennent et développer les amendements.**
 
-Commencez à intégrer l'[objection](glossary:objection) qui semble la plus prometteuse et, si cela échoue, choisissez en simplement une autre. Chaque tentative vous aidera à mieux comprendre les informations que contient l'objection et à rapprocher le groupe de proposer un amendement qui satisfera l'objection.
+Commencez à résoudre l'[objection](glossary:objection) qui semble la plus prometteuse et, si cela échoue, choisissez en simplement une autre. Chaque tentative vous aidera à mieux comprendre les informations que contient l'objection et à rapprocher le groupe de proposer un amendement qui satisfera l'objection.
 
 C'est souvent un bon point de départ de demander à la personne qui fait l'objection de proposer un amendement.
 
@@ -879,7 +871,7 @@ Les valeurs choisies sont une entente sujette à une **évaluation régulière**
 
 **Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.**
 
-Un facilitateur de _gouvernance_ :
+Un facilitateur de [gouvernance](glossary:governance) :
 
 - s'assure que les _réunions de gouvernance_ restent sur la bonne voie et sont évaluées
 - est (habituellement) sélectionné par une [équipe](glossary:team) parmi ses membres (et pour une durée spécifique)
@@ -1278,7 +1270,7 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 - initier un processus d'amélioration continue, ex: avec Kanban ou des _rétrospectives_ régulières
 - les membres de l'équipe puisent dans les pratiques S3 au besoin
 - si cela présente un intérêt, étendre itérativement le champ d'expérimentation à d'autres équipes
-- rechercher activement les freins 
+- rechercher activement les freins
 
 ### Gaspillage et Amélioration continue
 
@@ -1547,7 +1539,7 @@ De nombreuses activités pour chaque phase peuvent être trouvées sur [plans-fo
 Ordre du jour:
 
 - synchronisation et alignement des domaines
-- priorisation et distribution du travail 
+- priorisation et distribution du travail
 - adresser les difficultés
 
 ![Phases d'une réunion de coordination](img/meetings/coordination-meeting.png)
@@ -1752,9 +1744,9 @@ Chaque entrée d'un backlog (priorisé) contient typiquement :
 
 ---
 
-## Pratique 9.2: Backlog priorisé
+## Pratique 9.2: Prioriser le backlog
 
-**Ordonnez tous les éléments de travail non terminés en partant des plus importants, puis dépilez par le haut lorsqu'il y a une nouvelle capacité.**
+**Ordonnez tous les éléments de travail inachevés en partant des plus importants, puis dépilez par le haut lorsqu'il y a une nouvelle capacité.**
 
 Il ne peut y avoir deux éléments de même importance, ce qui signifie qu'il est nécessaire de s'entendre sur les priorités et faire des choix difficiles.
 
@@ -1762,26 +1754,26 @@ Un [backlog](glossary:backlog) priorisé aide à **rester concentré** sur les �
 
 ---
 
-## Pratique 9.3: Visualisation du travail
+## Pratique 9.3: Visualiser le travail
 
 **Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de tous les éléments de travail actuellement en attente, en cours ou terminés.**
 
-- précieux pour [l'auto-organisation](glossary:self-organization) et les systèmes à flux tirés
-- le système doit être accessible à toutes les personnes concernées
-- **physique :** post-its sur un mur, ou fiches cartonnées, magnets et tableau blanc
+- utile pour [l'auto-organisation](glossary:self-organization) et les systèmes à flux tirés
+- le système doit être accessible à toutes les personnes impactées
+- **physique :** des post-its sur un mur, ou des fiches cartonnées, des magnets sur un tableau blanc
 - **numérique :** [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
 ![Visualisation d'un processus de travail simple](img/workflow-and-value/simple-process.png)
 
 ### Choses à suivre:
 
-- **types de demandes** (i.e. demande du client, tâches de projets, rapports de tâches, retouches)
+- **types d'éléments de travail** (ex: demande client, tâches de projet, tâches de reporting, retouches)
 - **date de démarrage** (et **date d'échéance** si nécessaire)
 - **priorités**
 - **étapes** du travail (ex « à faire », « en cours », « à revoir » et « terminé »)
 - obstacles / entraves
 - qui travaille sur quoi
-- [ententes](glossary:agreement) et attentes guidant le flux de travail (ex. définition de terminée, politique, normes de qualité)
+- [ententes](glossary:agreement) et attentes guidant le flux de travail (ex. définition de "terminé", politique, normes de qualité)
 - utiliser des couleurs, des symboles, du surlignement, etc.
 
 ![Une carte représentant un élément de travail](img/workflow-and-value/card.png)
@@ -1790,7 +1782,7 @@ Un [backlog](glossary:backlog) priorisé aide à **rester concentré** sur les �
 
 ## Pratique 9.4: Système de travail à flux tiré
 
-**Les personnes tirent de nouveaux éléments de travail lorsqu'il y ont la capacité de les traiter (plutôt que travail leur soit poussé ou affecté).**
+**Les personnes tirent de nouveaux éléments de travail lorsqu'elles ont la capacité de les traiter (au lieu que travail leur soit poussé ou affecté).**
 
 Priorisez les éléments de travail pour assurer que les éléments importants soient traités en premier.
 
@@ -1808,24 +1800,24 @@ Le travail en cours inclut :
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 
-Lorsqu'une nouvelle action ferait dépasser la limite du nombre d'éléments en cours de travail celà doit être porté à l'attention de l'équipe avant de continuer.
+Lorsqu'une nouvelle action ferait dépasser la limite du nombre d'éléments en cours de travail cela doit être porté à l'attention de l'équipe avant de continuer.
 
 ---
 
-## Pratique 9.6: Activités en temps contraint
+## Pratique 9.6: Activités en temps limité
 
 **Définissez une contrainte de temps pour rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.**
 
 _Un **bloc de temps** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite)._
 
-- pour valoriser le bloc de temps, soyez clair sur ce que vous souhaitez accomplir
-- entendez-vous sur la durée du bloc de temps et visualisez le temps
-- négociez et entendez-vous pour étendre un bloc de temps avant qu'il ne soit écoulé
-- décomposez les activités plus longues dans des blocs de temps gérables
-- envisagez une évaluation fréquente de l'avancement
+- pour tirer partie de la fenêtre de temps, soyez au clair sur ce que vous souhaitez accomplir
+- accordez-vous sur la durée et visualisez le temps qui s'écoule
+- négociez et soyez d'accord pour étendre une fenêtre de temps avant qu'il ne soit écoulé
+- décomposez les activités les plus longues en petites fenêtres de temps gérables
+- envisagez une évaluation fréquente de votre avancement
 - envisagez de choisir quelqu'un (le "gardien du temps") afin d'aider les autres à rester conscients du temps
 
-Vous pouvez utiliser les blocs de temps pour :
+Vous pouvez utiliser les fenêtres de temps pour :
 
 - les réunions, les appels, les discussions
 - les tâches
@@ -1890,7 +1882,7 @@ Les éléments de base de la structure organisationnelle sont des domaines inter
 
 Les domaines peuvent être liés pour constituer une hiérarchie ou une **hétéroarchie** (c.à.d un système adaptatif complexe, ou réseau, ou de multiples structures fonctionnelles peuvent co-exister).
 
-La Sociocratie 3.0 décrit une variété de **modèles de structure** pour développer une structure organisationnelle.
+La Sociocratie 3.0 décrit une variété de **modèles de structure** pour développer une structure organisationnelle.
 
 - les modèles de structure S3 s'appliquent à différents niveaux d'abstraction
 - différents modèles structurels servent différentes [intentions](glossary:driver)
@@ -2031,6 +2023,18 @@ Les deuxième et troisième niveaux :
 
 ## Historique des modifications
 
+### Changements du 22-12-2019
+
+- ajout d'un nouveau texte d'introduction
+- ajout du terme "technologie sociale" au glossaire
+- le site web a désormais des pages séparées pour "Introduction" et "Concepts et Principes"
+- le ePub a meilleure mine
+
+### Changements du 11-09-2019
+
+- Principe de transparence : description revue pour clarifier que les informations doivent être enregistrées, puis transmises à tous les membres de l'organisation
+- Principe d'empirisme : clarifié que seules les hypothèses sur lesquelles on s'appuie doivent être testées
+
 ### Changements du 27-06-2019
 
 - _Objection_: définition plus raffinée de objection, et mise à jour du glossaire pour [objection](glossary:objection) en conséquence
@@ -2039,14 +2043,14 @@ Les deuxième et troisième niveaux :
 
 ### Changements du 03-05-2019
 
-- termes glossaires raffinés pour [entente](glossary:agreement), [organisation](glossary:organization) et [équipe](glossary:team), terme ajouté au glossaire pour [objectif](glossary:objective)
+- termes du glossaire raffinés pour [entente](glossary:agreement), [organisation](glossary:organization) et [équipe](glossary:team), ajout du terme [objectif](glossary:objective) au glossaire
 - Principe de redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - _Contrat de collaboration réussie_: texte révisé
 - _Décrire les Livrables_: ajouts des User Stories comme exemple pour décrire les livrables
 - _Hiérarchie à double lien_: résumé révisé
 - _Circle Délégué_: résumé raffiné
 - _Objection_: définition raffinée de objection et de préoccupation, illustration ajoutée pour un processus de qualification d'une objection
-- _Elaborer des propositions_: illustration de processus manquante
+- _Élaboration de proposition_ : ajout d'une illustration de processus manquante
 - _Sélection de rôle_: petit amendement à l'illustration
 - _Salaire Transparent_: expliqué ce qu’est une formule salariale
 
@@ -2087,7 +2091,7 @@ Les deuxième et troisième niveaux :
 - ajout et révision du court résumé d'un bon nombre des pratiques
 - suppression de listes à puces en faveur de phrases complètes dans de nombreuses pratiques
 - beaucoup de petites améliorations de grammaire et de langue
-- unclusion de l'URL de la version web du guide pratique 
+- inclusion de l'URL de la version web du guide pratique 
 
 **Glossaire :**
 
@@ -2097,11 +2101,11 @@ Les deuxième et troisième niveaux :
 
 **Modifications de l'introduction**
 
-- ajout de l'intention pour créer Sociocratie 3.0
+- ajout de l'intention pour créer Sociocratie 3.0
 - Les sept principes: 
-    - *Le Principe d'Empirisme*: référence supprimée à la “falsification” 
-    - *Le principe de consentement* est maintenant expliqué plus clairement comme « soulever, chercher et résoudre les objections aux décisions et aux actions » 
-- *Gouvernance, semi-autonomie et auto-organisation*: nous avons affiné les définitions de gouvernance, d'opérations et d'auto-organisation, supprimé toute référence à la “coordination” et clarifié la distinction entre gouvernance et opérations
+    - *Le Principe d'Empirisme*: référence supprimée à la "falsification" 
+    - *Le principe de consentement* est maintenant expliqué plus clairement comme "soulever, chercher et résoudre les objections aux décisions et aux actions" 
+- *Gouvernance, semi-autonomie et auto-organisation*: nous avons affiné les définitions de gouvernance, d'opérations et d'auto-organisation, supprimé toute référence à la "coordination" et clarifié la distinction entre gouvernance et opérations
 - *Intentions et Domaines* - nous avons clarifié comment les domaines peuvent être compris par rapport aux intentions organisationnelles
 
 **Modifications des pratiques :**
@@ -2158,7 +2162,7 @@ Les deuxième et troisième niveaux :
 - _Inclusion_
 - _Co-créer des propositions_
 - _Préparer les réunions_
-- _Activités par bloc de temps_
+- _Activités en temps limité_
 
 ### Changements du 21-03-2018
 
@@ -2168,66 +2172,66 @@ Les deuxième et troisième niveaux :
 
 ### Changements du 16-11-2017
 
-- petites corrections
-- entrées du glossaire pour *Cercle* et *Rôle* alignées sur le texte de la pratique
+- légères corrections
+- les entrées du glossaire pour *Cercle* et *Rôle* ont été alignées sur le texte des pratiques
 - *Plan de développement* : clarification des responsabilités
 - *Rôle* : l’évolution de la stratégie a été clarifiée
 
 ### Changements du 10-11-2017
 
-- diverses petites clarifications et corrections
+- diverses petites précisions et corrections
 - *Cercle* : la relation entre le cercle et le domaine a été clarifiée
 - *Rôle* : description améliorée
-- *Rounds*: description améliorée
-- déplacement de *Domaine ouvert*, *Équipe de soutien* et *Systèmes ouverts* vers la catégorie "Construire les organisations"
-- ajout de plusieurs termes au glossaire
+- *Tours de table*: description améliorée
+- *Ouvrir les domaines*, *Equipe de soutien* et *Systèmes ouverts* ont été déplacés dans la catégorie "construction d'organisations"
+- des termes ont été ajoutés au Glossaire
 
 ### Changements du 21-10-2017
 
-- ajout de Liliana David aux auteurs
-- abandon du terme "cadre" (remplacé par "guide pratique")
-- changement de l'ordre des pratiques
+- Liliana David a été ajoutée aux auteurs
+- abandon du terme "framework" (remplacé par "guide pratique")
+- mise à jour de l'ordre des pratiques
 - ajout d'un index des pratiques 
 - ajout d'un glossaire 
-- ajout des remerciements
-- diverses petites clarifications et corrections au texte et aux illustrations
-- mise à jour des modèles d'entente et de plan de développement
+- ajout de remerciements
+- diverses petites précisions et corrections apportées au texte et illustrations
+- modèles mis à jour pour l'entente et le plan d'évolution
 
 **Modifications de l'introduction**
 
-- ajout de "Qu'est-ce que j'y gagne?"
-- ajout de définitions pour gouvernance, auto-organisation, semi-autonomie, opérations à l’introduction
-- clarification des domaines et relation aux intentions
-- dégagé de nouveaux concepts
+- ajouté "en quoi cela peut m'aider?"
+- ajout de définitions pour la gouvernance, l'auto-organisation, semi-autonomie, opérations d'introduction
+- clarification des domaines et relation aux moteurs
+- concepts fondamentaux développés
 - tous les principes sont maintenant actionnables
 
 **Modifications des pratiques :**
 
 - *Participation élégante*: description améliorée
-- *Entente*: clarification que le concept d'entente est applicable aux porteurs de rôles
+- *Entente*: clarification que le concept d'entente est applicable aux détenteurs de rôles
 - *Clarifier les domaines*: description améliorée
 - *Cercle*: mise à jour de la définition de "cercle", description améliorée
 - *Intention*: mise à jour de la définition de "intention"
 - *Plan de développement*: description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
-- *Hiérarchie à double lien*: nouvelle illustration
-- *Évaluer les ententes*: alignement des questions avec l'évaluation par les pairs
+- *Hiérarchie avec double-lien*: nouvelle illustration
+- *Evaluer les ententes* : aligner les questions sur l'examen par les pairs
 - *Backlog de gouvernance*: description améliorée
 - *Registre*: ajouts de détails sur la gouvernance au registre personnel
 - *Objections* : clarification de la qualification des objections
 - *Evaluation par ses pairs*: description améliorée
-- *Répondre aux intentions organisationnelles*: intégration d'informations sur la qualification des intentions
-- *Rôle* : clarification que le porteur de rôle peur maintenir un backlog de gouvernance, introduction du terme "porteur de rôle" pour une personne dans un rôle
-- *Élaborer une proposition* : ajout de critères pour la sélection des rédacteurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
-- *Intégrer les objections* : illustration mise à jour pour mieux refléter le processus
+- *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
+- *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
+- *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
+- *Résoudre les objections* : illustration mise à jour pour mieux refléter le processus
 
 **Pratiques renommées :**
 
-- * Organisation vertébrale* en *organisation de service*
-- *Évaluation d'efficacité* en *Évaluation par ses pairs*
-- *Stratégie* en *Développer la stratégie*
-- *Description du domaine* en *Clarifier les domaines*
-- *Description des livrables* en *Décrire les livrables*
+- * Organisation vertébrale* a *organisation de services*
+- *Évaluation d'efficacité* a *Examen par les pairs*
+- *Stratégie* à *Développer la stratégie*
+- *Description du domaine* à *Clarifier les domaines*
+- *Description des livrables* à *Décrire les livrables*
 
 **Pratiques ajoutées :**
 
@@ -2239,7 +2243,7 @@ Les deuxième et troisième niveaux :
 
 - *Cercle de coordination*
 - *Domaines imbriqués*
-- *Qualifier l’intention*
+- *Qualifier l'intention*
 
 ---
 
@@ -2259,7 +2263,7 @@ Divers autres formats et langues du guide pratique peuvent être trouvés à <ht
 
 ## Licence
 
-"Sociocratie 3.0 - Un Guide Pratique" de Bernhard Bockelbrink, James Priest et Liliana David est sous licence **Creative Commons Attribution-ShareAlike 4.0 International License**, qui est une **licence Free Culture**.
+"Un Guide Pratique pour faire évoluer des organisations Agiles et Résilientes avec la Sociocratie 3.0" par Bernhard Bockelbrink, James Priest and Liliana David est sous licence **Creative Commons Attribution-ShareAlike 4.0 International License**, qui est une **licence Free Culture**.
 
 Fondamentalement cette licence vous accorde :
 
@@ -2272,19 +2276,19 @@ Vous devez **attribuer le créateur original des matériaux**, et **tous les dé
 
 Pour afficher le texte complet de cette licence, visitez <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
 
-Il y a plus sur le thème de la culture libre sur le site [Creative Commons](https://creativecommons.org/freeworks).
+Vous trouverez davantage d'informations au sujet de la culture libre sur le site [Creative Commons](https://creativecommons.org/freeworks).
 
 ### Attribution des travaux dérivés
 
 Si vous créez un travail dérivé, vous devez donner le crédit adéquat et indiquer quelles modifications vous avez apportées. Une bonne attribution contient le titre, l'auteur, la source et la licence, comme ceci :
 
-> Cette œuvre, intitulée « [nom de votre œuvre] », est dérivée de la « Sociocratie 3.0 - Un Guide Pratique » de James Priest, Bernhard Bockelbrink et Liliana David utilisée sous CC BY SA. « [nom de votre œuvre]» est sous licence CC BY SA par [votre nom].
+> Ce travail, "[nom de votre travail]", est dérivé de "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" de James Priest, Bernhard Bockelbrink et Liliana David utilisés sous CC BY SA. "[nom de votre travail]" est sous licence CC BY SA par [votre nom].
 
 Vous pouvez en savoir plus sur l'attribution sur la [page Creative Commons des meilleures pratiques pour l'attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
 
 ---
 
-## L'engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)
+## L'engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)
 
 Cet engagement support :
 
@@ -2292,15 +2296,15 @@ Cet engagement support :
 
 **Clients et étudiants** en sélectionnant les personnes avec lesquelles ils souhaitent travailler et apprendre, selon leur niveau d'expérience et la qualité et l'intégrité de leur travail.
 
-Si vous suivez l'engagement volontaire, vous pouvez ajouter nos bannières à votre site Web, ou à d'autres documents qui vous présentent comme praticien ou enseignant de la Sociocratie 3.0. Veuillez envisager de signer l'engagement afin que nous puissions vous informer des modifications proposées à l'ICPT et recherchez toute objection ou préoccupation que vous pourriez avoir. Merci.
+Si vous suivez l'engagement volontaire, vous pouvez ajouter nos bannières à votre site Web, ou à d'autres documents qui vous présentent comme praticien ou enseignant de la Sociocratie 3.0. Veuillez envisager de signer l'engagement afin que nous puissions vous informer des modifications proposées à l'ICPT et recherchez toute objection ou préoccupation que vous pourriez avoir. Merci.
 
 Vous pouvez en savoir plus sur l'ICPT à l’adresse <https://sociocracy30.org/s3-intentional-commitment/>
 
 ### Texte complet de l'ICPT
 
-**Engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0**
+**Engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0**
 
-Je m'engage à développer une mentalité sociocratique et agile, et je me tiens comme redevable de la pratique et de l'enseignement de la Sociocratie 3.0 avec intégrité, en suivant ces consignes :
+Je m'engage à développer une mentalité sociocratique et agile, et je me tiens comme redevable de la pratique et de l'enseignement de la Sociocratie 3.0 avec intégrité, en suivant ces consignes :
 
 Je m'efforce de suivre les sept principes de ma vie quotidienne. Je m'engage à participer de manière élégante à ma collaboration avec d'autres.
 
@@ -2310,7 +2314,7 @@ Je maintiens une confidentialité adéquate sur les questions relatives à mes c
 
 Je travaillerai conformément à mon niveau de compétence et aux besoins du client, et j’informerai lorsque je serai au delà de mes compétences.
 
-Je reste à jour avec les développements actuels de la S3 et la manière dont elle est présentée. (par exemple en suivant l’historique des modifications dans la dernière version du guide pratique)
+Je me tiens à jour des développements actuels de la S3 et la manière dont elle est présentée. (par exemple en suivant l’historique des modifications dans la dernière version du guide pratique)
 
 Je continuerai à apprendre sur S3, approfondir ma compréhension et explorer des sujets connexes.
 
@@ -2334,13 +2338,13 @@ Je discuterai d'éventuelles objections concernant les pratiques S3 dans mon gro
 
 Le contenu de Sociocratie 3.0 reflète l’expérience accumulée et la sagesse de contributeurs sur plusieurs générations. Ces personnes ont partagé une quête commune : développer des moyens plus efficaces, harmonieux et conscients de collaborer ensemble.
 
-Une reconnaissance toute particulière envers Gerard Endenburg et d'autres, qui, sur plusieurs années, ont investi un temps considérable afin d'améliorer et de documenter la méthode d’organisation en cercles sociocratiques, qui a contribué et a inspiré le développement de la Sociocratie 3.0.
+Une reconnaissance toute particulière envers Gerard Endenburg et d'autres, qui, sur plusieurs années, ont investi un temps considérable afin d'améliorer et de documenter la méthode d’organisation en cercles sociocratiques, qui a contribué et a inspiré le développement de la Sociocratie 3.0.
 
 Nous aimerions également reconnaître tous ceux qui ont travaillé de manière approfondie pour faciliter l’émergence d’un état d'esprit plus agile et plus lean, et ceux qui ont développé et partagé diverses pratiques avec le monde.
 
-Enfin, nous sommes reconnaissants envers nos nombreux collègues, clients, et participants aux cours de Sociocratie 3.0 qui ont choisi d'expérimenter la Sociocratie 3.0. Merci d'avoir contribué vos retours constants pour aider à développer les pratiques et nous permettre à tous d'apprendre et de grandir.
+Enfin, nous sommes reconnaissants envers nos nombreux collègues, clients, et participants aux cours de Sociocratie 3.0 qui ont choisi d'expérimenter la Sociocratie 3.0. Merci d'avoir contribué vos retours constants pour aider à développer les pratiques et nous permettre à tous d'apprendre et de grandir.
 
-En aucun cas une liste exhaustive, nous aimerions témoigner notre appréciation aux personnes suivantes qui ont directement contribué au développement de la Sociocratie 3.0, ou dont le travail a influencé ce qu'elle est aujourd’hui :
+En aucun cas une liste exhaustive, nous aimerions témoigner notre appréciation aux personnes suivantes qui ont directement contribué au développement de la Sociocratie 3.0, ou dont le travail a influencé ce qu'elle est aujourd’hui :
 
 Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, François Knuchel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
 
@@ -2348,29 +2352,23 @@ Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrad
 
 ## Auteurs
 
-Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, y compris mais pas limité à *Sociocratie 3.0*. Nous consacrons une partie de notre temps et de notre argent à créer des ressources gratuites sur *Sociocratie 3.0* dans le cadre de notre engagement continu à rendre la sociocratie et ses idées connexes plus accessibles au monde entier.
+Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, y compris mais pas limité à la *Sociocratie 3.0*. Nous consacrons une partie de notre temps et de notre argent à créer des ressources gratuites sur *Sociocratie 3.0* dans le cadre de notre engagement continu à rendre la sociocratie et ses idées connexes plus accessibles au monde entier.
 
 ![James Priest, Liliana David, Bernhard Bockelbrink](img/james-liliana-bernhard.png)
 
-### James Priest
-
-... ... intervient partout dans le monde, en proposant du conseil en développement organisationnel, l'apprentissage de la facilitation et le mentorat des personnes souhaitant développer des organisations collaboratives et adaptatives à grande échelle.
+**James Priest** intervient à l'international, conseille en développement organisationnel, facilite l’apprentissage et l’encadrement des personnes souhaitant développer des organisations plus collaboratives et adaptatives à grande échelle.
 
 <https://thriveincollaboration.com>
 
 <james@thriveincollaboration.com>
 
-### Bernhard Bockelbrink
-
-... est un coach agile, un formateur et un consultant pour les individus, équipes et organisations faisant face à des défis complexes et les aide à développer une culture de collaboration efficace, consciente et joyeuse.
+**Bernhard Bockelbrink** est un coach agile, un formateur et un consultant auprès de personnes, équipes et organisations qui souhaitent adresser des défis complexes et développer une culture de collaboration efficace, délibérée et joyeuse.
 
 <https://evolvingcollaboration.com>
 
 <bernhard.bockelbrink@evolvingcollaboration.com>
 
-### Liliana David
-
-... intervient partout dans le monde, en proposant de la formation, de la facilitation et du mentorat aux équipes et aux organisations qui souhaitent développer une plus grande efficacité et une plus grande équivalence en collaboration.
+**Liliana David** intervient partout dans le monde, en proposant de la formation, de la facilitation et du mentorat aux équipes et aux organisations qui souhaitent développer une plus grande efficacité et une plus grande équivalence en collaboration.
 
 <https://thriveincollaboration.com>
 
@@ -2409,7 +2407,7 @@ Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, 
 **Délégation:** L'octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.
 **Délégué:** Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.
 **Efficacité (principe):** Allouer du temps seulement à ce qui vous rapproche d'atteindre vos objectifs.
-**Empirisme (principe):** Tester toutes les hypothèses grâce à l'expérimentation et l'évaluation continue.
+**Empirisme (principe):** Tester toutes les hypothèses sur lesquelles vous comptez, grâce à l'expérimentation et l'amélioration en continu.
 **Entente:** Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.
 **Equivalence (principe):** Impliquer les personnes impactées dans les prises de décisions et les évolutions.
 **Etre redevable de (v.):** prendre la responsabilité de quelque chose.
@@ -2457,10 +2455,11 @@ Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, 
 **Stratégie:** Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.
 **Super-domaine:** Un domaine contenant entièrement un autre domaine.
 **Supermoteur:** voir sous-moteur.
+**Technologie sociale:** La technologie sociale est tout processus, toute technique, toute méthode, toute compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l'atteinte d'objectifs communs et mener des interactions et échanges sensés.
 **Temps limité:** Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
 **Tensions:** Une expérience personnelle, un symptôme de dissonance entre la perception d'une situation par un individu, et ses attentes ou préférences.
 **Tour d'accueil:** Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant vos pensées, vos sentiments, des distractions ou des besoins.
-**Transparence (principe):** Rendre toutes les informations accessibles à tous les membres d'une organisation, à moins qu'il faille préserver leur confidentialité.
+**Transparence (principe):** Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il n'y ait un motif de confidentialité.
 **Valeur:** L'importance ou l'utilité de quelque chose lié à une intention. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").
 **Valeurs:** Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'une intention.
 **Valeurs choisies:** Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider ses actions et collaboration en son sein.

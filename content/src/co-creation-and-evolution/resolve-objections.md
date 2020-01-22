@@ -2,7 +2,7 @@
 
 **Intégrez les objections une par une en utilisant les informations qu'elles contiennent et développer les amendements.**
 
-Commencez à intégrer l'[objection](glossary:objection) qui semble la plus prometteuse et, si cela échoue, choisissez en simplement une autre. Chaque tentative vous aidera à mieux comprendre les informations que contient l'objection et à rapprocher le groupe de proposer un amendement qui satisfera l'objection.
+Commencez à résoudre l'[objection](glossary:objection) qui semble la plus prometteuse et, si cela échoue, choisissez en simplement une autre. Chaque tentative vous aidera à mieux comprendre les informations que contient l'objection et à rapprocher le groupe de proposer un amendement qui satisfera l'objection.
 
 C'est souvent un bon point de départ de demander à la personne qui fait l'objection de proposer un amendement.
 

@@ -2,7 +2,7 @@
 
 **Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.**
 
-Un facilitateur de [gouvernance](section:governance) :
+Un facilitateur de [gouvernance](glossary:governance) :
 
 - s'assure que les [réunions de gouvernance](section:governance-meeting) restent sur la bonne voie et sont évaluées
 - est (habituellement) sélectionné par une [équipe](glossary:team) parmi ses membres (et pour une durée spécifique)

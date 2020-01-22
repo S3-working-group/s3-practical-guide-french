@@ -13,7 +13,7 @@ Les éléments de base de la structure organisationnelle sont des domaines inter
 
 Les domaines peuvent être liés pour constituer une hiérarchie ou une **hétéroarchie** (c.à.d un système adaptatif complexe, ou réseau, ou de multiples structures fonctionnelles peuvent co-exister).
 
-La Sociocratie 3.0 décrit une variété de **modèles de structure** pour développer une structure organisationnelle.
+La Sociocratie 3.0 décrit une variété de **modèles de structure** pour développer une structure organisationnelle.
 
 - les modèles de structure S3 s'appliquent à différents niveaux d'abstraction
 - différents modèles structurels servent différentes [intentions](glossary:driver)

@@ -32,7 +32,7 @@ Tous les arguments soulevés ne sont pas des objections. Il convient de distingu
 
 Pour savoir si un argument est une objection, dans un contexte de groupe, un facilitateur pourrait demander :
 
-*« Pensez-vous que cet argument est une objection ? »*
+*"Pensez-vous que cet argument est une objection ?"*
 
 Si personne ne conteste l'argument, c'est habituellement une objection. Sinon, essayez de découvrir la véritable objection réelle ou de mettre en évidence toute fausse idée.
 
@@ -46,7 +46,7 @@ Quelques questions utiles :
     - peut être amélioré immédiatement ?
     - empêche ou réduit la contribution de quelqu'un envers une intention ?
     - est en conflit avec les valeurs de l'organisation ?
-    - est considéré comme trop 'risqué' pour essayer?
+    - n'est pas considéré comme 'suffisamment sûr' pour essayer?
 
 ### Préoccupations
 

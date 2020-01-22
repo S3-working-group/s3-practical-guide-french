@@ -14,7 +14,7 @@ C'est pourquoi nous avons décidé de consacrer une partie de notre temps à dé
 
 ### Le nom
 
-Le nom «*Sociocratie 3.0*» montre à la fois le respect des origines et un pas en avant significatif.
+Le nom "*Sociocratie 3.0*" montre à la fois le respect des origines et un pas en avant significatif.
 
 Il permet également d'éviter la perception que nous dénaturons la *méthode sociocratique d'organisation par cercles* (SCM) telle que promue par The Sociocracy Group.
 
@@ -24,10 +24,10 @@ Il permet également d'éviter la perception que nous dénaturons la *méthode s
 
 *Sociocratie 3.0* utilise un modèle non centralisé de distribution. Il s'agit d'un changement de paradigme dans la manière dont la sociocratie est apportée aux gens et aux organisations, et qui parle à de nombreuses personnes.
 
-Nous soutenons la distribution « virale » par deux stratégies clés :
+Nous supportons la distribution "virale" à travers deux stratégies clés :
 
 * **La Sociocratie 3.0 est ouverte :** Nous voulons encourager la croissance d’un écosystème dynamique d’applications et de variantes de la sociocratie, où les gens partagent et discutent de leurs points de vue et des adaptations qu’ils apportent pour leur contexte spécifique. À cette fin, la Sociocratie 3.0 met l’accent sur la communication des principes sous-jacents et invite explicitement la créativité de chacun à mélanger, étendre et adapter les choses à leurs besoins.
-* **La Sociocratie 3.0 est libre :** Afin de faciliter le démarrage pour les individus et les organisations, nous publions gratuitement sous licence *Creative Commons Free Culture License* des ressources permettant d'apprendre, pratiquer et enseigner *Sociocratie 3.0*. Tout le monde peut utiliser nos ressources sans notre permission explicite, même dans un contexte commercial, ou comme base pour construire ses propres ressources [^tant qu'elles partagent leurs nouvelles ressources sous la même licence]. Nous encourageons d'autres organisations, des consultants, des coachs, des facilitateurs d'apprentissage et des formateurs à suivre notre exemple et à libérer leurs ressources également.
+* **La Sociocratie 3.0 est libre :** Afin de faciliter le démarrage pour les individus et les organisations, nous publions gratuitement sous licence *Creative Commons Free Culture License* des ressources permettant d'apprendre, pratiquer et enseigner *Sociocratie 3.0*. Tout le monde peut utiliser nos ressources sans notre permission explicite, même dans un contexte commercial, ou comme base pour construire ses propres ressources tant qu'elles partagent leurs nouvelles ressources sous la même licence. Nous attendons et encourageons d'autres organisations, des consultants, des coachs, des facilitateurs d'apprentissage et des formateurs à suivre notre exemple et à libérer leurs ressources également.
 
 ### L'évolution de la méthode sociocratique d'organisation par cercles
 
@@ -59,4 +59,4 @@ La *méthode sociocratique d'organisation par cercles* ne vous dira pas comment 
 
 La structure organisationnelle selon la *méthode sociocratique d'organisation par cercles* est structurée selon une hiérarchie de domaines. Nous constatons une émergence croissante d’environnements collaboratifs multi-parties prenantes et la nécessité d’une plus grande variété de modèles de structure organisationnelle. L'évolution de la structure organisationnelle se produit naturellement lorsque les flux d'information et l'influence au sein d'une organisation sont graduellement alignés sur le flux de valeur. La *Sociocratie 3.0* fournit une variété de modèles de structures qui peuvent être combinés pour faire évoluer la structure selon le besoin et de manière flexible.
 
-*James Priest, Bernhard Bockelbrink, Liliana David*
+<!-- split here -->

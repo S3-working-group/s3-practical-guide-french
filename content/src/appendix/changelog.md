@@ -1,5 +1,17 @@
 ## Historique des modifications
 
+### Changements du 22-12-2019
+
+- ajout d'un nouveau texte d'introduction
+- ajout du terme "technologie sociale" au glossaire
+- le site web a désormais des pages séparées pour "Introduction" et "Concepts et Principes"
+- le ePub a meilleure mine
+
+### Changements du 11-09-2019
+
+- Principe de transparence : description revue pour clarifier que les informations doivent être enregistrées, puis transmises à tous les membres de l'organisation
+- Principe d'empirisme : clarifié que seules les hypothèses sur lesquelles on s'appuie doivent être testées
+
 ### Changements du 27-06-2019
 
 - [Objection](section:objection): définition plus raffinée de objection, et mise à jour du glossaire pour [objection](glossary:objection) en conséquence
@@ -8,14 +20,14 @@
 
 ### Changements du 03-05-2019
 
-- termes glossaires raffinés pour [entente](glossary:agreement), [organisation](glossary:organization) et [équipe](glossary:team), terme ajouté au glossaire pour [objectif](glossary:objective)
+- termes du glossaire raffinés pour [entente](glossary:agreement), [organisation](glossary:organization) et [équipe](glossary:team), ajout du terme [objectif](glossary:objective) au glossaire
 - Principe de redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - [Contrat de collaboration réussie](section:contract-for-successful-collaboration): texte révisé
 - [Décrire les Livrables](section:describe-deliverables): ajouts des User Stories comme exemple pour décrire les livrables
 - [Hiérarchie à double lien](section:double-linked-hierarchy): résumé révisé
 - [Circle Délégué](section:delegate-circle): résumé raffiné
 - [Objection](section:objection): définition raffinée de objection et de préoccupation, illustration ajoutée pour un processus de qualification d'une objection
-- [Elaborer des propositions](section:proposal-forming): illustration de processus manquante
+- [Élaboration de proposition](section:proposal-forming) : ajout d'une illustration de processus manquante
 - [Sélection de rôle](section:role-selection): petit amendement à l'illustration
 - [Salaire Transparent](section:transparent-salary): expliqué ce qu’est une formule salariale
 
@@ -56,7 +68,7 @@
 - ajout et révision du court résumé d'un bon nombre des pratiques
 - suppression de listes à puces en faveur de phrases complètes dans de nombreuses pratiques
 - beaucoup de petites améliorations de grammaire et de langue
-- unclusion de l'URL de la version web du guide pratique 
+- inclusion de l'URL de la version web du guide pratique 
 
 **Glossaire :**
 
@@ -66,11 +78,11 @@
 
 **Modifications de l'introduction**
 
-- ajout de l'intention pour créer Sociocratie 3.0
+- ajout de l'intention pour créer Sociocratie 3.0
 - Les sept principes: 
-    - *Le Principe d'Empirisme*: référence supprimée à la “falsification” 
-    - *Le principe de consentement* est maintenant expliqué plus clairement comme « soulever, chercher et résoudre les objections aux décisions et aux actions » 
-- *Gouvernance, semi-autonomie et auto-organisation*: nous avons affiné les définitions de gouvernance, d'opérations et d'auto-organisation, supprimé toute référence à la “coordination” et clarifié la distinction entre gouvernance et opérations
+    - *Le Principe d'Empirisme*: référence supprimée à la "falsification" 
+    - *Le principe de consentement* est maintenant expliqué plus clairement comme "soulever, chercher et résoudre les objections aux décisions et aux actions" 
+- *Gouvernance, semi-autonomie et auto-organisation*: nous avons affiné les définitions de gouvernance, d'opérations et d'auto-organisation, supprimé toute référence à la "coordination" et clarifié la distinction entre gouvernance et opérations
 - *Intentions et Domaines* - nous avons clarifié comment les domaines peuvent être compris par rapport aux intentions organisationnelles
 
 **Modifications des pratiques :**
@@ -127,7 +139,7 @@
 - [Inclusion](section:check-in)
 - [Co-créer des propositions](section:co-create-proposals)
 - [Préparer les réunions](section:prepare-for-meetings)
-- [Activités par bloc de temps](section:timebox-activities)
+- [Activités en temps limité](section:timebox-activities)
 
 ### Changements du 21-03-2018
 
@@ -137,66 +149,66 @@
 
 ### Changements du 16-11-2017
 
-- petites corrections
-- entrées du glossaire pour *Cercle* et *Rôle* alignées sur le texte de la pratique
+- légères corrections
+- les entrées du glossaire pour *Cercle* et *Rôle* ont été alignées sur le texte des pratiques
 - *Plan de développement* : clarification des responsabilités
 - *Rôle* : l’évolution de la stratégie a été clarifiée
 
 ### Changements du 10-11-2017
 
-- diverses petites clarifications et corrections
+- diverses petites précisions et corrections
 - *Cercle* : la relation entre le cercle et le domaine a été clarifiée
 - *Rôle* : description améliorée
-- *Rounds*: description améliorée
-- déplacement de *Domaine ouvert*, *Équipe de soutien* et *Systèmes ouverts* vers la catégorie "Construire les organisations"
-- ajout de plusieurs termes au glossaire
+- *Tours de table*: description améliorée
+- *Ouvrir les domaines*, *Equipe de soutien* et *Systèmes ouverts* ont été déplacés dans la catégorie "construction d'organisations"
+- des termes ont été ajoutés au Glossaire
 
 ### Changements du 21-10-2017
 
-- ajout de Liliana David aux auteurs
-- abandon du terme "cadre" (remplacé par "guide pratique")
-- changement de l'ordre des pratiques
+- Liliana David a été ajoutée aux auteurs
+- abandon du terme "framework" (remplacé par "guide pratique")
+- mise à jour de l'ordre des pratiques
 - ajout d'un index des pratiques 
 - ajout d'un glossaire 
-- ajout des remerciements
-- diverses petites clarifications et corrections au texte et aux illustrations
-- mise à jour des modèles d'entente et de plan de développement
+- ajout de remerciements
+- diverses petites précisions et corrections apportées au texte et illustrations
+- modèles mis à jour pour l'entente et le plan d'évolution
 
 **Modifications de l'introduction**
 
-- ajout de "Qu'est-ce que j'y gagne?"
-- ajout de définitions pour gouvernance, auto-organisation, semi-autonomie, opérations à l’introduction
-- clarification des domaines et relation aux intentions
-- dégagé de nouveaux concepts
+- ajouté "en quoi cela peut m'aider?"
+- ajout de définitions pour la gouvernance, l'auto-organisation, semi-autonomie, opérations d'introduction
+- clarification des domaines et relation aux moteurs
+- concepts fondamentaux développés
 - tous les principes sont maintenant actionnables
 
 **Modifications des pratiques :**
 
 - *Participation élégante*: description améliorée
-- *Entente*: clarification que le concept d'entente est applicable aux porteurs de rôles
+- *Entente*: clarification que le concept d'entente est applicable aux détenteurs de rôles
 - *Clarifier les domaines*: description améliorée
 - *Cercle*: mise à jour de la définition de "cercle", description améliorée
 - *Intention*: mise à jour de la définition de "intention"
 - *Plan de développement*: description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
-- *Hiérarchie à double lien*: nouvelle illustration
-- *Évaluer les ententes*: alignement des questions avec l'évaluation par les pairs
+- *Hiérarchie avec double-lien*: nouvelle illustration
+- *Evaluer les ententes* : aligner les questions sur l'examen par les pairs
 - *Backlog de gouvernance*: description améliorée
 - *Registre*: ajouts de détails sur la gouvernance au registre personnel
 - *Objections* : clarification de la qualification des objections
 - *Evaluation par ses pairs*: description améliorée
-- *Répondre aux intentions organisationnelles*: intégration d'informations sur la qualification des intentions
-- *Rôle* : clarification que le porteur de rôle peur maintenir un backlog de gouvernance, introduction du terme "porteur de rôle" pour une personne dans un rôle
-- *Élaborer une proposition* : ajout de critères pour la sélection des rédacteurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
-- *Intégrer les objections* : illustration mise à jour pour mieux refléter le processus
+- *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
+- *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
+- *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
+- *Résoudre les objections* : illustration mise à jour pour mieux refléter le processus
 
 **Pratiques renommées :**
 
-- * Organisation vertébrale* en *organisation de service*
-- *Évaluation d'efficacité* en *Évaluation par ses pairs*
-- *Stratégie* en *Développer la stratégie*
-- *Description du domaine* en *Clarifier les domaines*
-- *Description des livrables* en *Décrire les livrables*
+- * Organisation vertébrale* a *organisation de services*
+- *Évaluation d'efficacité* a *Examen par les pairs*
+- *Stratégie* à *Développer la stratégie*
+- *Description du domaine* à *Clarifier les domaines*
+- *Description des livrables* à *Décrire les livrables*
 
 **Pratiques ajoutées :**
 
@@ -208,4 +220,4 @@
 
 - *Cercle de coordination*
 - *Domaines imbriqués*
-- *Qualifier l’intention*
+- *Qualifier l'intention*
