@@ -35,7 +35,7 @@ msgid "70+ Powerful Practices to Help You and Your Organization Thrive"
 msgstr "Plus de 70 Pratiques puissantes pour vous aider vous et votre organisation à prospérer"
 
 # site descriptions for practical guide microsite
-msgid "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgid "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
 msgstr "La description officielle de la Sociocratie 3.0 - Toutes les pratiques, les Sept Principes et les concepts clés. Maintenus par Bernhard Bockelbrink, James Priest et Liliana David."
 
 # Headline for page "Concepts and Principles" in website
