@@ -19,7 +19,7 @@ Créez un résumé bref mais complet contenant juste assez d'informations pour c
 
 ### Exemple:
 
-> *"La cuisine est en désordre: il n'y a pas de tasses propres, l'évier est plein de vaisselle et il n'est pas possible de se faire rapidement un café et se remettre directement au travail. Nous avons besoin d'une cuisine dans un état utilisable pour rester concentrés sur notre travail."*
+> *"La cuisine est en désordre: il n'y a pas de vaisselle propre, l'évier est plein et il n'est pas possible d'attraper rapidement un café et de se remettre au travail. Nous avons besoin d'une cuisine dans un état utilisable pour rester concentrés sur notre travail."*
 
 ### 1. Situation actuelle
 

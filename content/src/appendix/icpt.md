@@ -1,4 +1,4 @@
-## L'engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)
+## L'engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)
 
 Cet engagement support :
 
@@ -6,15 +6,15 @@ Cet engagement support :
 
 **Clients et étudiants** en sélectionnant les personnes avec lesquelles ils souhaitent travailler et apprendre, selon leur niveau d'expérience et la qualité et l'intégrité de leur travail.
 
-Si vous suivez l'engagement volontaire, vous pouvez ajouter nos bannières à votre site Web, ou à d'autres documents qui vous présentent comme praticien ou enseignant de la Sociocratie 3.0. Veuillez envisager de signer l'engagement afin que nous puissions vous informer des modifications proposées à l'ICPT et recherchez toute objection ou préoccupation que vous pourriez avoir. Merci.
+Si vous suivez l'engagement volontaire, vous pouvez ajouter nos bannières à votre site Web, ou à d'autres documents qui vous présentent comme praticien ou enseignant de la Sociocratie 3.0. Veuillez envisager de signer l'engagement afin que nous puissions vous informer des modifications proposées à l'ICPT et recherchez toute objection ou préoccupation que vous pourriez avoir. Merci.
 
 Vous pouvez en savoir plus sur l'ICPT à l’adresse <https://sociocracy30.org/s3-intentional-commitment/>
 
 ### Texte complet de l'ICPT
 
-**Engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0**
+**Engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0**
 
-Je m'engage à développer une mentalité sociocratique et agile, et je me tiens comme redevable de la pratique et de l'enseignement de la Sociocratie 3.0 avec intégrité, en suivant ces consignes :
+Je m'engage à développer une mentalité sociocratique et agile, et je me tiens comme redevable de la pratique et de l'enseignement de la Sociocratie 3.0 avec intégrité, en suivant ces consignes :
 
 Je m'efforce de suivre les sept principes de ma vie quotidienne. Je m'engage à participer de manière élégante à ma collaboration avec d'autres.
 
@@ -24,7 +24,7 @@ Je maintiens une confidentialité adéquate sur les questions relatives à mes c
 
 Je travaillerai conformément à mon niveau de compétence et aux besoins du client, et j’informerai lorsque je serai au delà de mes compétences.
 
-Je reste à jour avec les développements actuels de la S3 et la manière dont elle est présentée. (par exemple en suivant l’historique des modifications dans la dernière version du guide pratique)
+Je me tiens à jour des développements actuels de la S3 et la manière dont elle est présentée. (par exemple en suivant l’historique des modifications dans la dernière version du guide pratique)
 
 Je continuerai à apprendre sur S3, approfondir ma compréhension et explorer des sujets connexes.
 

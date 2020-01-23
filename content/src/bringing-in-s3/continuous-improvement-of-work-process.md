@@ -7,7 +7,7 @@
 - initier un processus d'amélioration continue, ex: avec Kanban ou des [rétrospectives](section:retrospective) régulières
 - les membres de l'équipe puisent dans les pratiques S3 au besoin
 - si cela présente un intérêt, étendre itérativement le champ d'expérimentation à d'autres équipes
-- rechercher activement les freins 
+- rechercher activement les freins
 
 ### Gaspillage et Amélioration continue
 

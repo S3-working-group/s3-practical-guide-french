@@ -1,4 +1,12 @@
 ---
+#this is the database for the glossary.
+#each entry has a key that is used to reference it in the source files
+#{define:driver}
+#and some translatable strings
+#- name: the name of the glossary entry
+#- definition: the definition of the term in the form "a **x** is …"
+#- glossary: glossary text for a term
+#- note: a note that will be added as a second paragraph to the glossary after the definition
 title: Glossaire
 continued: (…)
 terms:
@@ -82,7 +90,7 @@ terms:
   empiricism:
     name: Empirisme (principe)
     definition:
-    glossary: Tester toutes les hypothèses grâce à l'expérimentation et l'évaluation continue.
+    glossary: Tester toutes les hypothèses sur lesquelles vous comptez, grâce à l'expérimentation et l'amélioration en continu.
   equivalence:
     name: Equivalence (principe)
     definition:
@@ -120,6 +128,14 @@ terms:
     name: Besoin
     definition: Un **besoin** est l'absence de quelque chose de voulu ou de jugé nécessaire (une exigence).
     glossary: L'absence de quelque chose de voulu ou jugé nécessaire (une exigence).
+  objection:
+    name: Objection
+    definition: Une **objection** est un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il existe des moyens intéressants de l'améliorer.
+    glossary: Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il y a des moyens intéressants d'améliorer cette entente.
+  objective:
+    name: Objectif
+    definition:
+    glossary: Un résultat (particulier) qu'une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.
   open-domain:
     name: Domaine ouvert
     definition:
@@ -132,18 +148,6 @@ terms:
     name: Backlog des opérations
     definition: Un **backlog des opérations** est une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
     glossary: Une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
-  objection:
-    name: Objection
-    definition: Une **objection** est un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il existe des moyens intéressants de l'améliorer.
-    glossary: Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il y a des moyens intéressants d'améliorer cette entente.
-  peer-domain:
-    name: Domaines pairs
-    definition:
-    glossary: Deux domaines pairs sont contenus dans le même super-domaine immédiat, et peuvent se recouper.
-  objective:
-    name: Objectif
-    definition:
-    glossary: Un résultat (particulier) qu'une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.
   organization:
     name: Organisation 
     definition:
@@ -156,6 +160,10 @@ terms:
     name: Pratique
     definition: Une **pratique** est un modèle pour traverser correctement un contexte particulier.
     glossary: Un modèle pour appréhender correctement un contexte spécifique.
+  peer-domain:
+    name: Domaines pairs
+    definition:
+    glossary: Deux domaines pairs sont contenus dans le même super-domaine immédiat, et peuvent se recouper.
   primary-driver:
     name: Moteur principal
     definition:
@@ -183,6 +191,10 @@ terms:
     name: Semi-autonomie
     definition:
     glossary: L'autonomie des personnes à créer de la valeur dans leur domaine, contrainte par leurs propres décisions de gouvernance, et les objections (y compris celles du délégant et des représentants).
+  social-technology:
+    name: Technologie sociale
+    definition: Tout processus, technique, méthode, compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l'atteinte d’objectifs communs et conduire des interactions et des échanges sensés.
+    glossary: La technologie sociale est tout processus, toute technique, toute méthode, toute compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l'atteinte d'objectifs communs et mener des interactions et échanges sensés.
   sociocracy:
     name: Sociocratie
     glossary: Un état d'esprit où les personnes affectées par des décisions peuvent les influencer, en se basant sur des raisons justifiées.
@@ -221,7 +233,7 @@ terms:
   transparency:
     name: Transparence (principe)
     definition:
-    glossary: Rendre toutes les informations accessibles à tous les membres d'une organisation, à moins qu'il faille préserver leur confidentialité.
+    glossary: Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il n'y ait un motif de confidentialité.
   value:
     name: Valeur
     definition: "La **valeur** est l'importance ou l'utilité de quelque chose lié à une intention."

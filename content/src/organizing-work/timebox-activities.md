@@ -1,17 +1,17 @@
-## Activités en temps contraint
+## Activités en temps limité
 
 **Définissez une contrainte de temps pour rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.**
 
 {{define:timebox}}
 
-- pour valoriser le bloc de temps, soyez clair sur ce que vous souhaitez accomplir
-- entendez-vous sur la durée du bloc de temps et visualisez le temps
-- négociez et entendez-vous pour étendre un bloc de temps avant qu'il ne soit écoulé
-- décomposez les activités plus longues dans des blocs de temps gérables
-- envisagez une évaluation fréquente de l'avancement
+- pour tirer partie de la fenêtre de temps, soyez au clair sur ce que vous souhaitez accomplir
+- accordez-vous sur la durée et visualisez le temps qui s'écoule
+- négociez et soyez d'accord pour étendre une fenêtre de temps avant qu'il ne soit écoulé
+- décomposez les activités les plus longues en petites fenêtres de temps gérables
+- envisagez une évaluation fréquente de votre avancement
 - envisagez de choisir quelqu'un (le "gardien du temps") afin d'aider les autres à rester conscients du temps
 
-Vous pouvez utiliser les blocs de temps pour :
+Vous pouvez utiliser les fenêtres de temps pour :
 
 - les réunions, les appels, les discussions
 - les tâches

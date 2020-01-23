@@ -14,7 +14,7 @@ content:
         title: Historique
         slug: history
       - 
-        title: Pourquoi la "Sociocratie 3.0"?
+        title: Pourquoi la Sociocratie 3.0?
         slug: why-s3
       - 
         title: Les concepts de base
@@ -25,6 +25,9 @@ content:
       - 
         title: Principes
         slug: principles
+      - 
+        title: Principe de redevabilité
+        slug: principle-accountability
       - 
         title: Comprendre les organisations
         slug: making-sense-of-organizations
