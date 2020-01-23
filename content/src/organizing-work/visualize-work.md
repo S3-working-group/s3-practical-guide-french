@@ -1,25 +1,23 @@
-## Visualisation du travail
+## Visualiser le travail
 
-![right,fit](img/workflow-and-value/simple-process.png)
+**Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de tous les éléments de travail actuellement en attente, en cours ou terminés.**
 
-Transparence sur l'état des tâches planifiées, en cours et complétées.
+- utile pour [l'auto-organisation](glossary:self-organization) et les systèmes à flux tirés
+- le système doit être accessible à toutes les personnes impactées
+- **physique :** des post-its sur un mur, ou des fiches cartonnées, des magnets sur un tableau blanc
+- **numérique :** [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
-- précieux pour l'auto-organisation et les systèmes par demande
-- le système est accessible à toutes les personnes concernées
-- **analogique**: "post-it" ou fiches sur un mur, aimants sur un tableau blanc
-- **numérique** : Trello, Kanbanery, Leankit, Google Sheets, etc.
+![Visualisation d'un processus de travail simple](img/workflow-and-value/simple-process.png)
 
-* * *
+### Choses à suivre:
 
-### Éléments à suivre:
-
-![right,fit](img/workflow-and-value/card.png)
-
-- **types de demandes** (i.e. demande du client, tâches de projets, rapports de tâches, retouches)
-- **date de départ** (et **date butoir** si nécessaire)
+- **types d'éléments de travail** (ex: demande client, tâches de projet, tâches de reporting, retouches)
+- **date de démarrage** (et **date d'échéance** si nécessaire)
 - **priorités**
-- **étapes** du travail (par exemple « à faire », « en cours », « revoir » et « complétées »)
+- **étapes** du travail (ex « à faire », « en cours », « à revoir » et « terminé »)
 - obstacles / entraves
-- qui fait quoi
-- accords et attentes guidant le flux de travail (par exemple la définition de fait, politique, normes de qualité)
+- qui travaille sur quoi
+- [ententes](glossary:agreement) et attentes guidant le flux de travail (ex. définition de "terminé", politique, normes de qualité)
 - utiliser des couleurs, des symboles, du surlignement, etc.
+
+![Une carte représentant un élément de travail](img/workflow-and-value/card.png)

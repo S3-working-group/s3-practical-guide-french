@@ -1,9 +1,9 @@
-# [fit] Sociocratie 3.0
+# [fit] Sociocratie 3.0
 
 ![fit](img/framework/logo.png)
 
-# Un Guide Pratique
+# Un guide pratique
 
 #### James Priest, Bernhard Bockelbrink, Liliana David
 
-#### <http://sociocracy30.org>
+#### <http://patterns.sociocracy30.org>

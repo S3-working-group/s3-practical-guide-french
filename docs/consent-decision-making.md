@@ -3,20 +3,20 @@ title: "Prise de décision par consentement"
 ---
 
 
-![right,fit](img/agreements/cdm-condensed.png)
+**Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les ententes existantes.**
 
-**Un processus (facilité) de prise de décision en groupe.**
+Les propositions deviennent des <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> quand elles sont considérées *suffisantes pour le moment et suffisamment sûres à essayer* jusqu'à la prochaine évaluation.
 
-- invite les objections et intègre leur sagesse pour développer des propositions ou améliorer les ententes existantes
-- ignorer les objections pourrait porter atteinte aux buts d'un cercle ou de l'organisation
-- les objections non traitées empêchent les propositions de devenir des ententes
-- consentir signifie qu'une proposition est suffisamment bonne et sûre pour l'essayer (“Good enough for now, safe enough to try”). On qu’on “peut vivre avec" jusqu'à l'évaluation
+Des <dfn data-info="Objection: Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu&apos;il y a des moyens intéressants d&apos;améliorer cette entente.">objections</dfn> non résolues empêchent les propositions de devenir des ententes.
 
+Taire des objections peut nuire aux objectifs d’une équipe ou d’une organisation.
 
-### Contrat implicite du consentement
+### Contrat de consentement implicite
 
-- En l'absence d'objection à une entente, j'ai l'intention de donner suite à l'accord au meilleur de mes capacités.
-- Je partagerai les objections lorsque j'en prendrai conscience.
+1. En l'absence d'objections à un accord, je m’engage à le respecter au mieux de ma capacité.
+2. J’accepte de faire part de mes objections lorsque j'en prendrai conscience.
 
-[&#9654; Objection](objection.html)<br/>[&#9664; Décrire les moteurs](describe-drivers.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+![Prise de décision par consentement](img/agreements/consent-decision-making.png)
+
+[&#9654; Objection](objection.html)<br/>[&#9664; Décrire les intentions organisationnelles](describe-organizational-drivers.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
 

@@ -1,22 +1,20 @@
-## Moteurs
+#### Intentions
 
 {{define:driver}}
 
-Moteurs :
+Intentions :
 
-- peuvent être utilisés pour déduire des buts, objectifs, missions, visions, finalités
+- peuvent être utilisées pour formuler des buts, objectifs, aspirations, une mission, une vision, une raison d’être
 - peuvent changer au fil du temps
 
-* * *
-
-### Moteurs, valeur et gaspillage
+##### Intentions, valeur et gaspillage
 
 {{define:value}}
 
 {{define:waste}}
 
-L'adoption des concepts de valeur et gaspillage permet l'accès à plusieurs outils et idées du **Lean Management** et du **développement logiciel Lean (Lean Software Development)** pour aider les organisations à fonctionner avec la Sociocratie 3.0 :
+En adoptant les concepts de valeur et de gaspillage, de nombreuses pratiques et idées issues de la **production lean** et du **développement de logiciel lean** sont applicables aux organisations pratiquant S3:
 
-- cartographie de flux de valeur
+- cartographie de la chaîne de valeur
 - différentes stratégies pour éliminer le gaspillage
-- la Méthode Kanban
+- la méthode Kanban

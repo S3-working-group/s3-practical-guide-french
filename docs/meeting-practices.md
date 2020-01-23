@@ -2,12 +2,14 @@
 title: "Pratiques de réunion"
 ---
 
-- [Rondes](rounds.html)
+- [Tours de table](rounds.html)
 - [Faciliter les réunions](facilitate-meetings.html)
+- [Préparer les réunions](prepare-for-meetings.html)
+- [Inclusion](check-in.html)
 - [Evaluer les réunions](evaluate-meetings.html)
 - [Hôte de la réunion](meeting-host.html)
-- [Backlog de Gouvernance](governance-backlog.html)
+- [Backlog de gouvernance](governance-backlog.html)
 
 
-[&#9654; Rondes](rounds.html)<br/>[&#9664; Réunion de coordination](coordination-meeting.html)
+[&#9654; Tours de table](rounds.html)<br/>[&#9664; Réunion de coordination](coordination-meeting.html)
 

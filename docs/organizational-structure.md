@@ -3,32 +3,24 @@ title: "Structure organisationnelle"
 ---
 
 
-Une structure organisationnelle est l'arrangement actuels des domaines et de leurs connexions. Elle indique où les pouvoirs influents se situent, et les canaux par lesquels les informations et l'influence circulent.
+La structure organisationnelle est la disposition réelle des <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn> et de leurs connexions. Elle reflète la localisation du pouvoir d'influence, et les canaux par lesquels l'information et l'influence circulent.
 
-Une structure organisationnelle efficace :
+Faites évoluer votre structure organisationnelle en permanence pour :
 
-- prend en charge les flux de valeur
-- permet la collaboration
-- gère les dépendances et les rend explicites
-- s'assure que l'information est disponible pour ceux qui en ont besoin
-- distribue le pouvoir d'influence à ceux qui en ont besoin
-- évolue continuellement pour s'adapter à des contextes en plein changement
+- soutenir en continu le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d&apos;autres intervenants.">flux de valeur</dfn>
+- permettre une collaboration efficace autour des dépendances
+- assurer que les informations sont disponibles à ceux qui en ont besoin
+- distribuer le pouvoir d'influence au besoin
 
+Les éléments de base de la structure organisationnelle sont des domaines interdépendants et connectés.
 
-## Structure organisationnelle (cont.)
+Les domaines peuvent être liés pour constituer une hiérarchie ou une **hétéroarchie** (c.à.d un système adaptatif complexe, ou réseau, ou de multiples structures fonctionnelles peuvent co-exister).
 
-The basic building blocks for organizational structure are interdependent, connected domains.
+La Sociocratie 3.0 décrit une variété de **modèles de structure** pour développer une structure organisationnelle.
 
-Les domaines peuvent être liés pour constituer une hiérarchie ou **hétérarchie** (système adaptatif complexe, ou réseau, ou de multiples structures fonctionnelles peuvent co-exister).
-
-
-### Principes structurants
-
-La Sociocratie 3.0 décrit une variété de principes pour développer une structure organisationnelle.
-
-- les pratiques s'appliquent à différents niveaux d'abstraction
-- différentes pratiques structurelles servent différents moteurs
-- les pratiques structurelles peuvent être adaptées et combinées si besoin
+- les modèles de structure S3 s'appliquent à différents niveaux d'abstraction
+- différents modèles structurels servent différentes <dfn data-info="Intention: La motivation d&apos;un groupe ou d&apos;une personne pour répondre à une situation particulière.">intentions</dfn>
+- les modèles de structure peuvent être adaptés et combinés au besoin
 - d'autres pratiques existent et seront découvertes
 - [Cercle de service](service-circle.html)
 - [Cercle délégué](delegate-circle.html)

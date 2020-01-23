@@ -1,19 +1,13 @@
-## Examen par les pairs
+## Évaluation par ses pairs
 
-![right,fit](img/process/peer-review.png)
+**Soutenez-vous mutuellement pour apprendre et vous améliorer dans les rôles et équipes où vous servez.**
 
-**Les gens doivent se soutenir mutuellement pour apprendre et s'améliorer dans les rôles et groupes qui leurs sont attribués.**
+Le porteur de rôle - ou l'équipe - mène l'évaluation par les pairs en préparant le processus et en ouvrant le dialogue à chaque étape.
 
-Le détenteur du rôle - ou le groupe - mène l'examen par les pairs en préparant le processus, et en ouvrant le dialogue à chaque étape.
+![Processus d'évaluation par les pairs](img/process/peer-review.png)
 
-Soyez sûr d'inviter les personnes ayant des perspectives complémentaires à contribuer à l'examen, et invitez aussi un facilitateur.
+Assurez-vous d'inviter des personnes ayant des perspectives complémentaires à contribuer à l'évaluation, ainsi qu'un [facilitateur](section:facilitate-meetings).
 
-Il est possible de suggérer des améliorations concernant le développement personnel, la collaboration, des mises à jour sur la description du domaine (y compris la déclaration motrice) et la stratégie.
+Les suggestions d'améliorations peuvent porter sur le développement personnel, la collaboration, une mise à jour de la description du [domaine](glossary:domain) (y compris l'[intention](glossary:organizational-driver)) et la [stratégie.](glossary:strategy)
 
-* * *
-
-## Examen par les pairs (cont.)
-
-### L'amélioration continue des capacités des gens à remplir efficacement leur rôle ou collaborer en groupe.
-
-![inline,fit](img/evolution/development-process.png)
+![L'amélioration continue des capacités des personnes à porter efficacement leurs rôles ou à collaborer en équipe](img/evolution/development-process.png)

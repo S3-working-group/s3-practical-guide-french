@@ -3,10 +3,10 @@ title: "Introduire S3"
 ---
 
 - [Adapter les pratiques au contexte](adapt-patterns-to-context.html)
-- [Création d'une organisation basée sur les demandes (ou les besoins)](create-a-pull-system-for-organizational-change.html)
-- [Soyez le changement](be-the-change.html)
-- [Inviter le changement](invite-change.html)
-- [Adoption S3 ouverte](open-s3-adoption.html)
+- [Créer un système à flux tiré pour changer l'organisation](create-a-pull-system-for-organizational-change.html)
+- [Incarnez le changement](be-the-change.html)
+- [Inviter au changement](invite-change.html)
+- [Forum ouvert pour le changement](open-space-for-change.html)
 - [Amélioration continue des méthodes de travail](continuous-improvement-of-work-process.html)
 
 

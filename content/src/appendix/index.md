@@ -1,6 +1,6 @@
 # Annexe
 
-- Historique des maj
+- Historique des modifications
 - Liens
 - Licence
 - Auteurs

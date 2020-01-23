@@ -1,13 +1,11 @@
-## Plan d'évolution
+## Plan de développement
 
-**Un plan pour développer des méthodes plus efficaces pour prendre un domaine en compte, et arriver à un accord entre déléguant et délégué.**
+**Un plan pour développer des façons plus efficaces de s'occuper d'un domaine, convenu entre délégant et délégué.**
 
-Le plan d'évolution peut être créé peut une personne occupant un rôle précis, ou pour un groupe (par ex., un département, un cercle, une équipe ou un domaine ouvert).
+Le plan de développement peut être créé pour une personne dans un rôle, ou pour une équipe (ex: un département, un [cercle](section:circle) ou un [domaine ouvert](section:open-domain)).
 
-Un développement peut prendre la forme d'une description plus précise du moteur et du domaine, d'amendements à une stratégie, des ententes inédites ou mises à jour et d'actions spécifiques à effectuer, soit dans le domaine du déléguant ou dans le domaine du délégué.
+Le développement peut survenir en raffinant la description de l'[intention](section:organizational-driver) et du [domaine](glossary:domain), en apportant des changements à la[stratégie](glossary:strategy), ou par la modification d'ententes existantes ou la création de nouvelles et des actions spécifiques à prendre, soit dans le domaine du délégant, soit dans le domaine du délégué.
 
-Un plan d'évolution (et toutes les recommandations associées pour les modifications de la description du domaine et de la définition du moteur) requiert le consentement du déléguant et du délégué.
+Un plan de développement (et toutes les recommandations accompagnant les changements aux descriptions du [domaine](glossary:domain) et de l'[intention](glossary:organizational-driver)) nécessite le consentement à la fois du [délégué](glossary:delegatee) et du [délégant](glossary:delegator).
 
-* * *
-
-![inline,fit](img/templates/development-plan-template.png)
+![Un modèle pour les plans de développement](img/templates/development-plan-template.png)

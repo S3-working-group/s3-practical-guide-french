@@ -3,23 +3,15 @@ title: "Naviguer par tension"
 ---
 
 
-**Identifier et s'occuper des motivations organisationnelles.**
+**Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié toute intention organisationnelle que vous découvrez .**
 
-Tous les membres cherchent à identifier ce qui pourrait aider ou nuire à l'organisation, et à s'occuper des motivations efficacement.
+**Les défis et les opportunités** pour une organisation sont révélés par des gens qui expriment les raisons pour lesquelles ils éprouvent des tensions.
 
-Une tension est une expérience personnelle, le signal d'une dissonance entre la perception d'une situation et nos attentes ou préférences.
+**Note:** Dans ce contexte, une *tension* est une expérience personnelle: un signe de dissonance entre sa perception d'une situation, et ses attentes (ou préférences).
 
+Pour **découvrir les intentions**, recherchez ce qui stimule la tension, et décrivez ce qui se passe et ce qui est nécessaire. Parfois, une question révèle des idées fausses et la tension disparaît.
 
+![Naviguer par tension, décrire les intentions organisationnelles, Répondre aux intentions organisationnelles](img/process/navigate-describe-respond.png)
 
-Les défis et les possibilités d'une organisation sont révélés quand ses membres deviennent conscients des tensions vécues.
-
-Pour découvrir les motivations, examiner la tension en décrivant la situation et ce qui serait requis. Parfois, l'analyse dissout une incompréhension et la tension disparaît.
-
-Connaissance des **motivations organisationnelles** peut être transmis au domaine approprié.
-
-
-
-![inline,fit](img/process/navigate-via-tension-slides.png)
-
-[&#9654; Décrire les moteurs](describe-drivers.html)<br/>[&#9664; Répondre aux moteurs organisationnels](respond-to-organizational-drivers.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Décrire les intentions organisationnelles](describe-organizational-drivers.html)<br/>[&#9664; Répondre aux intentions organisationnelles](respond-to-organizational-drivers.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
 

@@ -1,27 +1,27 @@
 ---
-title: "Hôte de la réunion (rôle)"
+title: "Hôte de réunion"
 ---
 
 
-L'hôte de la réunion s'occupe de la préparation et du suivi des réunions, ateliers et autres événements.
+**Sélectionnez quelqu'un pour prendre la responsabilité de la préparation et du suivi des réunions, ateliers ou autres événements.**
 
-Le rôle peut être assigné temporairement (par exemple, pour un événement précis) ou pour une durée précise.
-
+Une personne peut prendre le rôle d'hôte de réunion pour un événement particulier ou pour plusieurs événements sur une période de temps.
 
 ### Responsabilités d'un hôte de réunion
 
-- préparation 
-    - identifier les objectifs et résultats attendus
-    - préparer et distribuer l’ordre du jour et l'horaire
-    - estimer le temps nécessaire
-    - identifier et inviter des participants
-    - planifier la réunion/atelier
-    - réserver un endroit (et le transport, si nécessaire)
-    - logistique: préparer la salle et fournir le matériel et l'information
-    - assurer la sélection d'un facilitateur et d'un preneur de notes pour rédiger un compte-rendu si approprié
-- suivi 
-    - nettoyer l’endroit, remettre les clés, etc.
-    - s'assurer que le compte-rendu est distribué à chacun
+Préparation :
 
-[&#9654; Backlog de Gouvernance](governance-backlog.html)<br/>[&#9664; Evaluer les réunions](evaluate-meetings.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
+- identifier les objectifs et les livrables
+- préparer et distribuer l'ordre du jour
+- identifier et inviter les participants
+- estimer le temps requis et planifier la réunion/atelier
+- réserver l'emplacement (et le transport si nécessaire)
+- installer l'endroit et fournir le matériel et les informations requis
+- assurer la sélection d'un facilitateur et d'un secrétaire pour rédiger un procès-verbal, si nécessaire
+
+**Après la réunion:** nettoyer l'emplacement, rendre les clés, régler tous les détails, et s'assurer que le procès-verbal est distribué.
+
+**Voir aussi : ** [Faciliter les réunions](facilitate-meetings.html), [Préparer les réunions](prepare-for-meetings.html)
+
+[&#9654; Backlog de gouvernance](governance-backlog.html)<br/>[&#9664; Evaluer les réunions](evaluate-meetings.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
 

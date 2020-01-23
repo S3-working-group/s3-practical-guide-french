@@ -2,31 +2,27 @@
 
 {{define:backlog}}
 
+Pensez à rendre les backlogs visibles, pas seulement aux membres de l'équipe, mais aussi à toute l'organisation.
+
 Les types de backlog incluent :
 
-- opérations en attente
-- backlogs de sprint
+- backlog de [gouvernance](glossary:governance)
+- backlog des [opérations](glossary:operations)
+- backlog de [sprint](section:planning-and-review-meetings)
 - backlog de produit
 - backlog des obstacles
 
-* * *
+**Implémentation :**
 
-## Backlog (cont.)
+- **backlog physique : ** post-its sur le mur, fiches cartonnées, magnets et tableau blanc
+- **backlog numérique:** e.g. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
-- **Mise en oeuvre** 
-    - **backlog analogique**: "post-it" ou fiches sur un mur, aimants sur un tableau blanc
-    - **backlog virtuel**: Google Sheets, Trello, Kanban Flow, Jira
+Chaque entrée d'un backlog (priorisé) contient typiquement :
 
-* * *
-
-## Backlog (cont.)
-
-Chaque élément d'un backlog (priorisé) contient :
-
-- une **courte description** ou une déclaration motrice
-- un **numéro de référence unique** (ou lien) pour chaque item de travail
-- (l'ordre des **éléments de travail**)
-- **dépendances** aux autres éléments de travail ou projets
-- **date butoir** (si nécessaire)
-- (optionnel) une unité de mesure de **valeur** 
-- (optionnel) une unité de mesure des **investissements** (souvent une estimation de temps ou complexité)
+- une **brève description** d'un [livrable](glossary:deliverable) ou d'une [intention](glossary:organizational-driver)
+- un **numéro de référence unique** (ou lien) pour chaque tâche
+- (l'ordre des **éléments**)
+- les **dépendances** envers d'autres éléments de travail ou projets
+- une **date d'échéance** (si nécessaire)
+- (optionnel) une estimation de **valeur** 
+- (optionnel) une estimation des **investissements** (souvent de temps ou de complexité)

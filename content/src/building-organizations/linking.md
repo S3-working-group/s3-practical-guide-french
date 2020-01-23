@@ -1,7 +1,7 @@
-## Liaison
+## Lien
 
-![right,fit](img/structural-patterns/link.png)
+**Activez un flux d’information et d’influence entre deux équipes.**
 
-**Facilite l’échange d’information et d’influence entre deux cercles (ou équipes).**
+Une équipe sélectionne l'un de ses membres pour représenter ses intérêts dans les décisions de [gouvernance](glossary:governance) d'une autre équipe.
 
-Un cercle (ou équipe) sélectionne l’un de ses membres pour représenter leurs intérêts dans les décisions de gouvernance d’un autre groupe.
+![Un cercle lié à un autre cercle](img/structural-patterns/link.png)

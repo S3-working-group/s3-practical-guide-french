@@ -3,10 +3,12 @@ title: "Liens"
 ---
 
 
-![fit](img/framework/logo.png)
+La **dernière version en ligne** du Guide Pratique située à <http://patterns.sociocracy30.org> peut être annotée via hypothes.is et est accompagnée d'un index alphabétique et d'une cartographie des pratiques pour une navigation facilitée.
 
-**Dernière version de ce guide**: <http://sociocracy30.org/guide/>
+Divers autres formats et langues du guide pratique peuvent être trouvés à <http://sociocracy30.org/guide/>
 
-**Site de S3**: <http://sociocracy30.org>
+**Plus de ressources S3:** <http://sociocracy30.org/resources/>
 
-Suivez-nous sur **Twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
+**Site principal S3:** <http://sociocracy30.org>
+
+**Suivez-nous sur twitter:** *@sociocracy30*

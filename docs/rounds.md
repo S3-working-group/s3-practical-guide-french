@@ -1,16 +1,17 @@
 ---
-title: "Rondes"
+title: "Tours de table"
 ---
 
 
-![right,fit](img/circle/rounds.png)
+**Lors d'une réunion de groupe, donnez la parole à chacun à son tour.**
 
-**Une technique de facilitation de groupe pour maintenir l'équivalence.**
+Les tours de table sont une technique de facilitation de groupe pour maintenir l'équivalence et soutenir un dialogue efficace.
 
-- parcourez le cercle en permettant à chacun de s'exprimer
-- débutez chaque ronde par une personne différente, et changez le sens de rotation (sens des aiguilles du montre ou sens contraire) pour varier le premier et dernier orateur, et l'ordre des contributions des participants.
+Soyez clairs sur la finalité et le résultat attendu de chaque tour de table.
 
-Les groupes expérimentés souhaiteront peut-être accélérer certaines rondes dans les processus de groupe S3.
+Asseyez-vous en cercle, commencez chaque tour de table par une personne différente, et changez le sens de rotation (horaire ou anti-horaire) pour faire varier qui parle en premier et dernier ainsi que l'ordre des contributions.
+
+![Tours de table](img/circle/rounds.png)
 
 [&#9654; Faciliter les réunions](facilitate-meetings.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
 
