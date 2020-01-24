@@ -5,6 +5,6 @@
 Pour de plus grands groupes :
 
 - facilitez le processus en plusieurs étapes et créez des sous-groupes, qui sélectionneront des délégués
-- utilisez un outil en ligne et mener un processus asynchrone, [limité dans le temps](section:timebox-activities) et par étapes
+- utilisez un outil en ligne et mener un processus asynchrone, [timeboxé](section:timebox-activities) et par étapes
 
 Pensez également à inclure les personnes impactées dans l'évaluation et l'évolution des décisions.

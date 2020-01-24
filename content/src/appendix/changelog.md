@@ -103,7 +103,7 @@
 - [Décrire les intentions organisationnelles](section:describe-organizational-drivers): rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux intentions organisationnelles * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les intentions organisationnelles
 - [Double lien](section:double-linking): description alignée à *Lien*
 - [Hiérarchie à double-lien](section:double-linked-hierarchy): explication détaillée de ce qu'est une hiérarchie à double lien, et comment elle est créée
-- [Évaluer et accepter les ententes](section:evaluate-and-evolve-agreements): réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
+- [Evaluer et accepter les ententes](section:evaluate-and-evolve-agreements): réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
 - [Critères d'évaluation](section:evaluation-criteria): suggéré de clarifier un seuil de réussite, et nous avons expliqué que nous faisons évoluer également les critères d'évaluation avec les ententes
 - [Faciliter les réunions](section:facilitate-meetings): description améliorée
 - [Organisation Fractale](section:fractal-organization): description étendue et améliorée
@@ -116,7 +116,7 @@
 - [Objection](section:objection): clarification de la différence entre objection et préoccupation, clarification de ce qui est qualifié d'objection, et comment qualifier les objections dans un contexte de groupe
 - [Domaine ouvert](section:open-domain): description améliorée et illustration mise à jour
 - [Systèmes ouverts](section:open-systems): description améliorée
-- [Forum ouvert pour le changement](section:open-space-for-change): nouveau nom de *Adoption ouverte de la S3*, description améliorée
+- [Changement par forum ouvert](section:open-space-for-change): nouveau nom de *Adoption ouverte de la S3*, description améliorée
 - [Organisation centrifuge](section:peach-organization): relation clarifiée entre la périphérie et le centre
 - [Élaborer une proposition](section:proposal-forming): texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
 - [Représentant](section:representative): description améliorée
@@ -129,9 +129,9 @@
 
 **Pratiques renommées :**
 
-- *Évaluer les ententes* en *Évaluer et faire évoluer les ententes*
+- *Evaluer les ententes* en *Évaluer et faire évoluer les ententes*
 - *Résultat attendu* en *Clarifier le résultat attendu* 
-- *Adoption ouverte de la S3* en *Forum ouvert pour le changement*
+- *Adoption ouverte de la S3* en *Changement par forum ouvert*
 - *Engagement et redevabilité* en *Contrat de collaboration réussie*
 
 **Pratiques ajoutées :**
@@ -139,7 +139,7 @@
 - [Inclusion](section:check-in)
 - [Co-créer des propositions](section:co-create-proposals)
 - [Préparer les réunions](section:prepare-for-meetings)
-- [Activités en temps limité](section:timebox-activities)
+- [Timeboxer les activités](section:timebox-activities)
 
 ### Changements du 21-03-2018
 
@@ -192,11 +192,11 @@
 - *Plan de développement*: description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec double-lien*: nouvelle illustration
-- *Evaluer les ententes* : aligner les questions sur l'examen par les pairs
+- *Evaluer les ententes* : aligner les questions sur l'évaluation par les pairs
 - *Backlog de gouvernance*: description améliorée
 - *Registre*: ajouts de détails sur la gouvernance au registre personnel
 - *Objections* : clarification de la qualification des objections
-- *Evaluation par ses pairs*: description améliorée
+- *Evaluation par les pairs*: description améliorée
 - *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
 - *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
 - *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
@@ -205,7 +205,7 @@
 **Pratiques renommées :**
 
 - * Organisation vertébrale* a *organisation de services*
-- *Évaluation d'efficacité* a *Examen par les pairs*
+- *Évaluation d'efficacité* a *Evaluation par les pairs*
 - *Stratégie* à *Développer la stratégie*
 - *Description du domaine* à *Clarifier les domaines*
 - *Description des livrables* à *Décrire les livrables*

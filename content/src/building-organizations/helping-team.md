@@ -1,4 +1,4 @@
-## Équipe de soutien
+## Equipe de soutien
 
 **Rassemblez une équipe de personnes équivalentes pour répondre à un ensemble particulier d'exigences définies par un délégant.**
 
@@ -15,4 +15,4 @@ Les membres de l'équipe de soutien :
 - peuvent ajouter des entrées au [backlog de gouvernance](glossary:governance-backlog)du délégant
 - peuvent être invités à sélectionner un [représentant](section:representative) pour participer aux décisions de gouvernance du délégant
 
-![Équipe de soutien](img/structural-patterns/helping-team.png)
+![Equipe de soutien](img/structural-patterns/helping-team.png)

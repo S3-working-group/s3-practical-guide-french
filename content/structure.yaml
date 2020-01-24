@@ -55,7 +55,7 @@ content:
           title: Décrire les intentions organisationnelles
           slug: describe-organizational-drivers
         - 
-          title: Prise de décision par consentement
+          title: Décision par consentement
           slug: consent-decision-making
         - 
           title: Objection
@@ -64,16 +64,16 @@ content:
           title: Intégrer les objections
           slug: resolve-objections
         - 
-          title: Évaluer et développer les ententes
+          title: Evaluer et développer les ententes
           slug: evaluate-and-evolve-agreements
         - 
           title: Les personnes impactées décident
           slug: those-affected-decide
         - 
-          title: Cocréer une proposition
+          title: Co-créer des propositions
           slug: co-create-proposals
         - 
-          title: Élaborer une proposition
+          title: Elaborer une proposition
           slug: proposal-forming
         - 
           title: Sélection des rôles
@@ -92,7 +92,7 @@ content:
           title: Retour par les pairs
           slug: peer-feedback
         - 
-          title: Évaluation par ses pairs
+          title: Evaluation par les pairs
           slug: peer-review
         - 
           title: Plan de développement
@@ -151,7 +151,7 @@ content:
           title: Représentant
           slug: representative
         - 
-          title: Équipe de soutien
+          title: Equipe de soutien
           slug: helping-team
         - 
           title: Domaine ouvert
@@ -167,22 +167,22 @@ content:
           title: Adapter les pratiques au contexte
           slug: adapt-patterns-to-context
         - 
-          title: Créer un système à flux tiré pour changer l'organisation
+          title: Changements organisationnels par flux tirés
           slug: create-a-pull-system-for-organizational-change
         - 
-          title: Incarnez le changement
+          title: Incarner le changement
           slug: be-the-change
         - 
           title: Inviter au changement
           slug: invite-change
         - 
-          title: Forum ouvert pour le changement
+          title: Changement par forum ouvert
           slug: open-space-for-change
         - 
-          title: Amélioration continue des méthodes de travail
+          title: Amélioration continue du processus de travail
           slug: continuous-improvement-of-work-process
     - 
-      title: Élaborer des ententes
+      title: Elaborer des ententes
       slug: defining-agreements
       sections:
         - 
@@ -248,7 +248,7 @@ content:
           title: Evaluer les réunions
           slug: evaluate-meetings
         - 
-          title: Hôte de la réunion
+          title: Hôte de réunion
           slug: meeting-host
         - 
           title: Backlog de gouvernance
@@ -267,13 +267,13 @@ content:
           title: Visualiser le travail
           slug: visualize-work
         - 
-          title: Système de travail à flux tiré
+          title: Travail en flux tiré
           slug: pull-system-for-work
         - 
           title: Limiter le travail en cours
           slug: limit-work-in-progress
         - 
-          title: Activités par bloc de temps
+          title: Timeboxer les activités
           slug: timebox-activities
         - 
           title: Aligner les flux

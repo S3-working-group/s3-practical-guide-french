@@ -52,7 +52,7 @@ Quelques questions utiles :
 
 {{define:concern}}
 
-Dans la [Prise de Décision par Consentement](section:consent-decision-making), les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation).
+Dans la [Décision par Consentement](section:consent-decision-making), les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation).
 
 Faites part de vos préoccupations si vous les considérez importantes et proposez des critères d'évaluation correspondant.
 

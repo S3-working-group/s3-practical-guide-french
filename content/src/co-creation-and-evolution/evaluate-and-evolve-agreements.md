@@ -1,4 +1,4 @@
-## Évaluer et développer les ententes
+## Evaluer et développer les ententes
 
 **Développez continuellement un corpus d'ententes et éliminez le gaspillage.**
 

@@ -86,11 +86,11 @@ terms:
   effectiveness:
     name: Efficacité (principe)
     definition: Allouer du temps seulement à ce qui vous rapproche de vos objectifs.
-    glossary: Allouer du temps seulement à ce qui vous rapproche d'atteindre vos objectifs.
+    glossary: Allouer du temps seulement à ce qui vous rapproche de vos objectifs.
   empiricism:
     name: Empirisme (principe)
     definition:
-    glossary: Tester toutes les hypothèses sur lesquelles vous comptez, grâce à l'expérimentation et l'amélioration en continu.
+    glossary: Tester toutes les hypothèses sur lesquelles vous vous appuyez, par l'expérimentation et l'amélioration en continu.
   equivalence:
     name: Equivalence (principe)
     definition:
@@ -114,7 +114,7 @@ terms:
     definition:
     glossary: Le résultat escompté d'une entente, d'une action, d'un projet ou d'une stratégie.
   helping-team:
-    name: Équipe de soutien
+    name: Equipe de soutien
     definition:
     glossary: Une équipe de personnes équivalentes ayant le mandat d'agir sur un ensemble de besoins spécifiques.
   key-responsibilities:
@@ -177,7 +177,7 @@ terms:
     definition:
     glossary: Un domaine qui est délégué à un individu.
   scm:
-    name: Méthode sociocratique d'organisation par cercles (SCM)
+    name: Méthode Sociocratique d'organisation par Cercles (MSC)
     glossary: Une méthode de gouvernance égalitaire pour les organisations basée sur une mentalité sociocratique, développée aux Pays-Bas par Gerard Endenburg.
   self-governance:
     name: Auto-gouvernance
@@ -227,13 +227,13 @@ terms:
     definition:
     glossary: Une expérience personnelle, un symptôme de dissonance entre la perception d'une situation par un individu, et ses attentes ou préférences.
   timebox:
-    name: Temps limité
-    definition: Un **bloc de temps** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
+    name: Timebox
+    definition: Une **timebox** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
     glossary: Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
   transparency:
     name: Transparence (principe)
     definition:
-    glossary: Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il n'y ait un motif de confidentialité.
+    glossary: Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il y ait un motif de confidentialité.
   value:
     name: Valeur
     definition: "La **valeur** est l'importance ou l'utilité de quelque chose lié à une intention."

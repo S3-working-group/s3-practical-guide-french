@@ -1,4 +1,4 @@
-## Sélections des rôles
+## Sélection des rôles
 
 **Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.**
 

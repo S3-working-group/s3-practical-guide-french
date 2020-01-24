@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-01-22 19:04\n"
+"PO-Revision-Date: 2020-01-24 17:19\n"
 
 # continuation marker for follow-up slides
 msgid "(…)"
@@ -28,14 +28,14 @@ msgstr "Sociocratie 3.0 - Un Guide Pratique"
 
 # title for ebook
 msgid "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"
-msgstr "Un Guide Pratique pour faire évoluer des organisations Agiles et Résilientes avec la Sociocratie 3.0"
+msgstr "Un Guide Pratique pour Evoluer vers des Organisations Agiles et Résilientes avec la Sociocratie 3.0"
 
 # subtitle for ebook
 msgid "70+ Powerful Practices to Help You and Your Organization Thrive"
-msgstr "Plus de 70 Pratiques puissantes pour vous aider vous et votre organisation à prospérer"
+msgstr "Plus de 70 pratiques puissantes pour vous aider, vous et votre organisation, à prospérer"
 
 # site descriptions for practical guide microsite
-msgid "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgid "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
 msgstr "La description officielle de la Sociocratie 3.0 - Toutes les pratiques, les Sept Principes et les concepts clés. Maintenus par Bernhard Bockelbrink, James Priest et Liliana David."
 
 # Headline for page "Concepts and Principles" in website
