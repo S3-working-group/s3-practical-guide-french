@@ -1,5 +1,5 @@
 ---
-title: "Élaborer une proposition"
+title: "Elaborer une proposition"
 ---
 
 
@@ -40,5 +40,5 @@ Deux ou trois rédacteurs suffisent généralement. Vérifiez qu'il n'y ait pas 
 
 ![Processus d'élaboration d'une proposition](img/agreements/proposal-forming.png)
 
-[&#9654; Sélection des rôles](role-selection.html)<br/>[&#9664; Cocréer une proposition](co-create-proposals.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Sélection des rôles](role-selection.html)<br/>[&#9664; Co-créer des propositions](co-create-proposals.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
 

@@ -1,5 +1,5 @@
 ---
-title: "Système de travail à flux tiré"
+title: "Travail en flux tiré"
 ---
 
 

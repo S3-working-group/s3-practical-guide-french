@@ -1,5 +1,5 @@
 ---
-title: "Équipe de soutien"
+title: "Equipe de soutien"
 ---
 
 
@@ -18,7 +18,7 @@ Les membres de l'équipe de soutien :
 - peuvent ajouter des entrées au <dfn data-info="Backlog de gouvernance: Une liste explicite ordonnée par priorité de tâches en attente de traitement (moteurs) en lien à la gouvernance d&apos;un domaine.">backlog de gouvernance</dfn>du délégant
 - peuvent être invités à sélectionner un [représentant](representative.html) pour participer aux décisions de gouvernance du délégant
 
-![Équipe de soutien](img/structural-patterns/helping-team.png)
+![Equipe de soutien](img/structural-patterns/helping-team.png)
 
 [&#9654; Domaine ouvert](open-domain.html)<br/>[&#9664; Représentant](representative.html)<br/>[&#9650; Construire les organisations](building-organizations.html)
 

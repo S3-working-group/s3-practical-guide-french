@@ -1,5 +1,5 @@
 ---
-title: "Évaluer et développer les ententes"
+title: "Evaluer et développer les ententes"
 ---
 
 

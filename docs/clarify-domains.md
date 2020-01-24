@@ -20,5 +20,5 @@ Une autre façon de clarifier un domaine est de remplir un [Canevas de Délégat
 
 ![Un modèle pour les descriptions de domaine](img/templates/domain-description-template.png)
 
-[&#9654; Clarifier le résultat attendu](clarify-intended-outcome.html)<br/>[&#9664; Développer la stratégie](develop-strategy.html)<br/>[&#9650; Élaborer des ententes](defining-agreements.html)
+[&#9654; Clarifier le résultat attendu](clarify-intended-outcome.html)<br/>[&#9664; Développer la stratégie](develop-strategy.html)<br/>[&#9650; Elaborer des ententes](defining-agreements.html)
 

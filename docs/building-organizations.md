@@ -8,7 +8,7 @@ title: "Construire les organisations"
 - [Lien](linking.html)
 - [Double lien](double-linking.html)
 - [Représentant](representative.html)
-- [Équipe de soutien](helping-team.html)
+- [Equipe de soutien](helping-team.html)
 - [Domaine ouvert](open-domain.html)
 - [Systèmes ouverts](open-systems.html)
 
