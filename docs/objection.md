@@ -55,7 +55,7 @@ Quelques questions utiles :
 
 _Un **préoccupation** est une hypothèse selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** se présenter comme une réponse (plus) efficace à une intention organisationnelle._
 
-Dans la [Prise de Décision par Consentement](consent-decision-making.html), les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation).
+Dans la [Décision par Consentement](consent-decision-making.html), les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation).
 
 Faites part de vos préoccupations si vous les considérez importantes et proposez des critères d'évaluation correspondant.
 
@@ -63,5 +63,5 @@ Si vous n'êtes pas sûr d'avoir une objection ou une préoccupation, vérifiez 
 
 ![Un processus pour qualifier une objection](img/agreements/qualify-objection-process.png)
 
-[&#9654; Intégrer les objections](resolve-objections.html)<br/>[&#9664; Prise de décision par consentement](consent-decision-making.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Intégrer les objections](resolve-objections.html)<br/>[&#9664; Décision par consentement](consent-decision-making.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
 

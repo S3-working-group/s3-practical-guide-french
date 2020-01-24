@@ -13,5 +13,5 @@ Le gardien du registre est redevable de maintenir le <dfn data-info="Registre: U
 - assurant l'accessibilité à tous les membres de l'équipe (et au reste de l'organisation comme convenu)
 - s'occupant de tous les aspects techniques liés à la bonne tenue du registre
 
-[&#9654; Interactions ciblées](focused-interactions.html)<br/>[&#9664; Registre](logbook.html)<br/>[&#9650; Élaborer des ententes](defining-agreements.html)
+[&#9654; Interactions ciblées](focused-interactions.html)<br/>[&#9664; Registre](logbook.html)<br/>[&#9650; Elaborer des ententes](defining-agreements.html)
 

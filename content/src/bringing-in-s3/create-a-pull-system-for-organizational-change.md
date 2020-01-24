@@ -1,4 +1,4 @@
-## Créer un système à flux tiré pour les changements organisationnels
+## Changements organisationnels par flux tirés
 
 **Créez un environnement qui invite les membres d'une organisation à mener des changements.**
 

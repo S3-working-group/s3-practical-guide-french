@@ -20,5 +20,5 @@ Pour les étapes 2 et 3, inspirez-vous des techniques classiques de facilitation
 
 En plus d'ateliers en présentiel, vous pouvez adapter ce processus pour fonctionner via des réunions à distance. Vous pouvez même l'utiliser de façon asynchrone (et pendant une longue période) pour inclure de nombreuses personnes.
 
-[&#9654; Élaborer une proposition](proposal-forming.html)<br/>[&#9664; Les personnes impactées décident](those-affected-decide.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Elaborer une proposition](proposal-forming.html)<br/>[&#9664; Les personnes impactées décident](those-affected-decide.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
 

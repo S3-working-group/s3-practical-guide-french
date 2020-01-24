@@ -18,5 +18,5 @@ Lorsque les prises de décision s'effectuent près de là où est créée la val
 
 ![Aligner le flux d'informations pour soutenir le flux de valeur](img/workflow-and-value/align-flow.png)
 
-[&#9654; Coordinateur](coordinator.html)<br/>[&#9664; Activités par bloc de temps](timebox-activities.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+[&#9654; Coordinateur](coordinator.html)<br/>[&#9664; Timeboxer les activités](timebox-activities.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
 

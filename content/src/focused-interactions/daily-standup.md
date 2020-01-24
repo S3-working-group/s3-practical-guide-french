@@ -2,7 +2,7 @@
 
 **Réunissez-vous chaque jour pour coordonner le travail, faciliter l'apprentissage, et améliorer votre productivité et votre efficacité.**
 
-- [en temps limité](glossary:timebox) (habituellement 15 minutes)
+- [timeboxé](glossary:timebox) (habituellement 15 minutes)
 - chaque jour à la même heure
 - l'équipe se réunit autour d'un tableau/outil de gestion de projet visible pour : 
     - organiser le travail quotidien

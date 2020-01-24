@@ -1,5 +1,5 @@
 ---
-title: "Sélections des rôles"
+title: "Sélection des rôles"
 ---
 
 
@@ -36,5 +36,5 @@ Parfois, une sélection de rôles révèle un manque de capacité, d'expérience
 
 Cette pratique peut également être utilisée dans toute situation où il est nécessaire de choisir entre plusieurs options.
 
-[&#9654; Cartographier les intentions](driver-mapping.html)<br/>[&#9664; Élaborer une proposition](proposal-forming.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Cartographier les intentions](driver-mapping.html)<br/>[&#9664; Elaborer une proposition](proposal-forming.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
 

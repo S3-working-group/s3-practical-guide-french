@@ -17,5 +17,5 @@ Partagez les adaptations intéressantes avec la communauté S3.
 
 ![Phases d'adaptation des pratiques à un contexte spécifique](img/process/adapt-pattern-to-context.png)
 
-[&#9654; Créer un système à flux tiré pour changer l'organisation](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
+[&#9654; Changements organisationnels par flux tirés](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
 

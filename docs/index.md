@@ -17,7 +17,7 @@ Pour plus d'informations sur la Sociocratie 3.0 et plus de ressources gratuites
 - [Catalyseurs de collaboration](enablers-of-collaboration.html)
 - [Construire les organisations](building-organizations.html)
 - [Introduire S3](bringing-in-s3.html)
-- [Élaborer des ententes](defining-agreements.html)
+- [Elaborer des ententes](defining-agreements.html)
 - [Interactions ciblées](focused-interactions.html)
 - [Pratiques de réunion](meeting-practices.html)
 - [Organiser le travail](organizing-work.html)

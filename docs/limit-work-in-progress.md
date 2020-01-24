@@ -13,5 +13,5 @@ Le travail en cours inclut :
 
 Lorsqu'une nouvelle action ferait dépasser la limite du nombre d'éléments en cours de travail cela doit être porté à l'attention de l'équipe avant de continuer.
 
-[&#9654; Activités par bloc de temps](timebox-activities.html)<br/>[&#9664; Système de travail à flux tiré](pull-system-for-work.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+[&#9654; Timeboxer les activités](timebox-activities.html)<br/>[&#9664; Travail en flux tiré](pull-system-for-work.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
 

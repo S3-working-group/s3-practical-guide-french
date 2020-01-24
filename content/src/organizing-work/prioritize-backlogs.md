@@ -1,4 +1,4 @@
-## Prioriser le backlog
+## Prioriser les backlogs
 
 **Ordonnez tous les éléments de travail inachevés en partant des plus importants, puis dépilez par le haut lorsqu'il y a une nouvelle capacité.**
 

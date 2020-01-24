@@ -17,5 +17,5 @@ Un délégant est redevable de mener des évaluations régulières pour soutenir
 
 ![Domaine ouvert](img/structural-patterns/open-domain.png)
 
-[&#9654; Systèmes ouverts](open-systems.html)<br/>[&#9664; Équipe de soutien](helping-team.html)<br/>[&#9650; Construire les organisations](building-organizations.html)
+[&#9654; Systèmes ouverts](open-systems.html)<br/>[&#9664; Equipe de soutien](helping-team.html)<br/>[&#9650; Construire les organisations](building-organizations.html)
 

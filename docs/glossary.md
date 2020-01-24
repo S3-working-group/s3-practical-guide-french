@@ -40,11 +40,13 @@ title: Glossaire
 
 **Délégué:** Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.
 
-**Efficacité (principe):** Allouer du temps seulement à ce qui vous rapproche d'atteindre vos objectifs.
+**Efficacité (principe):** Allouer du temps seulement à ce qui vous rapproche de vos objectifs.
 
-**Empirisme (principe):** Tester toutes les hypothèses sur lesquelles vous comptez, grâce à l'expérimentation et l'amélioration en continu.
+**Empirisme (principe):** Tester toutes les hypothèses sur lesquelles vous vous appuyez, par l'expérimentation et l'amélioration en continu.
 
 **Entente:** Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.
+
+**Equipe de soutien:** Une équipe de personnes équivalentes ayant le mandat d'agir sur un ensemble de besoins spécifiques.
 
 **Equivalence (principe):** Impliquer les personnes impactées dans les prises de décisions et les évolutions.
 
@@ -66,7 +68,7 @@ title: Glossaire
 
 **Moteur principal:** L'intention primaire d'un domaine est l'intention principale à laquelle les personnes qui s'occupent de ce domaine répondent.
 
-**Méthode sociocratique d'organisation par cercles (SCM):** Une méthode de gouvernance égalitaire pour les organisations basée sur une mentalité sociocratique, développée aux Pays-Bas par Gerard Endenburg.
+**Méthode Sociocratique d'organisation par Cercles (MSC):** Une méthode de gouvernance égalitaire pour les organisations basée sur une mentalité sociocratique, développée aux Pays-Bas par Gerard Endenburg.
 
 **Objectif:** Un résultat (particulier) qu'une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.
 
@@ -108,13 +110,13 @@ title: Glossaire
 
 **Technologie sociale:** La technologie sociale est tout processus, toute technique, toute méthode, toute compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l'atteinte d'objectifs communs et mener des interactions et échanges sensés.
 
-**Temps limité:** Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
-
 **Tensions:** Une expérience personnelle, un symptôme de dissonance entre la perception d'une situation par un individu, et ses attentes ou préférences.
+
+**Timebox:** Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
 
 **Tour d'accueil:** Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant vos pensées, vos sentiments, des distractions ou des besoins.
 
-**Transparence (principe):** Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il n'y ait un motif de confidentialité.
+**Transparence (principe):** Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il y ait un motif de confidentialité.
 
 **Valeur:** L'importance ou l'utilité de quelque chose lié à une intention. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").
 
@@ -123,6 +125,4 @@ title: Glossaire
 **Valeurs choisies:** Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider ses actions et collaboration en son sein.
 
 **Équipe:** Un groupe de personnes qui collaborent vers une intention commune (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.
-
-**Équipe de soutien:** Une équipe de personnes équivalentes ayant le mandat d'agir sur un ensemble de besoins spécifiques.
 

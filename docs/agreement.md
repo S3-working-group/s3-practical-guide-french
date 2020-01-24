@@ -17,5 +17,5 @@ Consignez toutes les **attentes** liées à des <dfn data-info="Livrable: Un pro
 
 ![Modèle pour les ententes](img/templates/agreement-template.png)
 
-[&#9654; Développer la stratégie](develop-strategy.html)<br/>[&#9650; Élaborer des ententes](defining-agreements.html)
+[&#9654; Développer la stratégie](develop-strategy.html)<br/>[&#9650; Elaborer des ententes](defining-agreements.html)
 

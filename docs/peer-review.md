@@ -1,5 +1,5 @@
 ---
-title: "Évaluation par ses pairs"
+title: "Evaluation par les pairs"
 ---
 
 
@@ -7,7 +7,7 @@ title: "Évaluation par ses pairs"
 
 Le porteur de rôle - ou l'équipe - mène l'évaluation par les pairs en préparant le processus et en ouvrant le dialogue à chaque étape.
 
-![Processus d'évaluation par les pairs](img/process/peer-review.png)
+![Processus d'évaluation par ses pairs](img/process/peer-review.png)
 
 Assurez-vous d'inviter des personnes ayant des perspectives complémentaires à contribuer à l'évaluation, ainsi qu'un [facilitateur](facilitate-meetings.html).
 
