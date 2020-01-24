@@ -12,11 +12,11 @@ Un facilitateur de [gouvernance](glossary:governance) :
 En tant que facilitateur de gouvernance, envisagez d'apprendre et d'utiliser les pratiques S3 suivantes pour gérer efficacement la gouvernance :
 
 - [Tours de table](section:rounds)
-- [Élaborer une proposition](section:proposal-forming)
-- [Prise de décision par consentement](section:consent-decision-making)
+- [Elaborer une proposition](section:proposal-forming)
+- [Décision par consentement](section:consent-decision-making)
 - [Sélections des rôles](section:role-selection)
 - [Evaluer les réunions](section:evaluate-meetings)
 - [Intégrer les objections](section:resolve-objections)
-- [Évaluation par ses pairs](section:peer-review)
+- [Evaluation par les pairs](section:peer-review)
 
 ![Le facilitateur de gouvernance est typiquement membre de l'équipe](img/circle/facilitator.png)

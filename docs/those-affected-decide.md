@@ -8,9 +8,9 @@ title: "Les personnes impactées décident"
 Pour de plus grands groupes :
 
 - facilitez le processus en plusieurs étapes et créez des sous-groupes, qui sélectionneront des délégués
-- utilisez un outil en ligne et mener un processus asynchrone, [limité dans le temps](timebox-activities.html) et par étapes
+- utilisez un outil en ligne et mener un processus asynchrone, [timeboxé](timebox-activities.html) et par étapes
 
 Pensez également à inclure les personnes impactées dans l'évaluation et l'évolution des décisions.
 
-[&#9654; Cocréer une proposition](co-create-proposals.html)<br/>[&#9664; Évaluer et développer les ententes](evaluate-and-evolve-agreements.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Co-créer des propositions](co-create-proposals.html)<br/>[&#9664; Evaluer et développer les ententes](evaluate-and-evolve-agreements.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
 

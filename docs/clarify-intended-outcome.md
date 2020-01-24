@@ -11,5 +11,5 @@ Le résultat attendu peut être utilisé pour définir les [critères d'évaluat
 
 ![Résultats attendus, et critères d'évaluation](img/templates/outcome-and-criteria.png)
 
-[&#9654; Décrire les livrables](describe-deliverables.html)<br/>[&#9664; Clarifier les domaines](clarify-domains.html)<br/>[&#9650; Élaborer des ententes](defining-agreements.html)
+[&#9654; Décrire les livrables](describe-deliverables.html)<br/>[&#9664; Clarifier les domaines](clarify-domains.html)<br/>[&#9650; Elaborer des ententes](defining-agreements.html)
 

@@ -10,5 +10,5 @@ title: "Critères d'évaluation"
 - envisager d'ajouter des critères qui précisent lorsque le résultat d'une entente sera considéré comme **non réussi**
 - lors de l'évaluation d'une entente, pensez à **faire évoluer les critères d'évaluation** en fonction de ce que vous avez appris
 
-[&#9654; Registre](logbook.html)<br/>[&#9664; Décrire les livrables](describe-deliverables.html)<br/>[&#9650; Élaborer des ententes](defining-agreements.html)
+[&#9654; Registre](logbook.html)<br/>[&#9664; Décrire les livrables](describe-deliverables.html)<br/>[&#9650; Elaborer des ententes](defining-agreements.html)
 

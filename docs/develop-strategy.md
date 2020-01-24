@@ -17,5 +17,5 @@ Une stratégie est une entente partagée entre délégant(s) et délégué(s) qu
 
 Les stratégies sont validées et affinées par l'expérimentation et l'apprentissage.
 
-[&#9654; Clarifier les domaines](clarify-domains.html)<br/>[&#9664; Entente](agreement.html)<br/>[&#9650; Élaborer des ententes](defining-agreements.html)
+[&#9654; Clarifier les domaines](clarify-domains.html)<br/>[&#9664; Entente](agreement.html)<br/>[&#9650; Elaborer des ententes](defining-agreements.html)
 

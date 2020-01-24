@@ -1,5 +1,5 @@
 ---
-title: "Élaborer des ententes"
+title: "Elaborer des ententes"
 ---
 
 
@@ -16,5 +16,5 @@ title: "Élaborer des ententes"
 - [Gardien du registre](logbook-keeper.html)
 
 
-[&#9654; Entente](agreement.html)<br/>[&#9664; Amélioration continue des méthodes de travail](continuous-improvement-of-work-process.html)
+[&#9654; Entente](agreement.html)<br/>[&#9664; Amélioration continue du processus de travail](continuous-improvement-of-work-process.html)
 

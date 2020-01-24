@@ -1,5 +1,5 @@
 ---
-title: "Forum ouvert pour le changement"
+title: "Changement par forum ouvert"
 ---
 
 
@@ -11,5 +11,5 @@ title: "Forum ouvert pour le changement"
     - définissez les contraintes imposées aux expérimentations qui favorise le développement d'un état d'esprit <dfn data-info="Sociocratie: Un état d&apos;esprit où les personnes affectées par des décisions peuvent les influencer, en se basant sur des raisons justifiées.">sociocratique</dfn> et agile (ex : les principes S3)
     - évaluez et apprenez de ces expérimentations lors du prochain forum ouvert
 
-[&#9654; Amélioration continue des méthodes de travail](continuous-improvement-of-work-process.html)<br/>[&#9664; Inviter au changement](invite-change.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
+[&#9654; Amélioration continue du processus de travail](continuous-improvement-of-work-process.html)<br/>[&#9664; Inviter au changement](invite-change.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
 

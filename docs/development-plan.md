@@ -13,5 +13,5 @@ Un plan de développement (et toutes les recommandations accompagnant les change
 
 ![Un modèle pour les plans de développement](img/templates/development-plan-template.png)
 
-[&#9654; Catalyseurs de collaboration](enablers-of-collaboration.html)<br/>[&#9664; Évaluation par ses pairs](peer-review.html)<br/>[&#9650; Se développer entre pairs](peer-development.html)
+[&#9654; Catalyseurs de collaboration](enablers-of-collaboration.html)<br/>[&#9664; Evaluation par les pairs](peer-review.html)<br/>[&#9650; Se développer entre pairs](peer-development.html)
 

@@ -6,7 +6,7 @@ Une réunion de gouvernance est habituellement :
 
 - facilitée 
 - préparée à l'avance 
-- [en temps limité](section:timebox-activities) pour une durée de 90 à 120 minutes
+- [timeboxé](section:timebox-activities) pour une durée de 90 à 120 minutes
 - programmée toutes les 2 à 4 semaines
 
 Le déroulé d'une réunion de gouvernance typique comprend :

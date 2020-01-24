@@ -1,4 +1,4 @@
-## Élaborer une proposition
+## Elaborer une proposition
 
 **Un processus de groupe (facilité) pour co-créer une réponse à une intention.**
 

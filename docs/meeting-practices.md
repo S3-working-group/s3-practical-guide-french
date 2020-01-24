@@ -7,7 +7,7 @@ title: "Pratiques de réunion"
 - [Préparer les réunions](prepare-for-meetings.html)
 - [Inclusion](check-in.html)
 - [Evaluer les réunions](evaluate-meetings.html)
-- [Hôte de la réunion](meeting-host.html)
+- [Hôte de réunion](meeting-host.html)
 - [Backlog de gouvernance](governance-backlog.html)
 
 

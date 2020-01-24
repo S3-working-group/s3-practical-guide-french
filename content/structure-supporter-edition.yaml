@@ -55,7 +55,7 @@ content:
           title: Décrire les intentions organisationnelles
           slug: describe-organizational-drivers
         - 
-          title: Prise de décision par consentement
+          title: Décision par consentement
           slug: consent-decision-making
         - 
           title: Objection
@@ -64,7 +64,7 @@ content:
           title: Intégrer les objections
           slug: resolve-objections
         - 
-          title: Évaluer et développer les ententes
+          title: Evaluer et développer les ententes
           slug: evaluate-and-evolve-agreements
         - 
           title: Les personnes impactées décident
@@ -73,10 +73,10 @@ content:
           title: Cocréer une proposition
           slug: co-create-proposals
         - 
-          title: Élaborer une proposition
+          title: Elaborer une proposition
           slug: proposal-forming
         - 
-          title: Sélections des rôles
+          title: Sélection des rôles
           slug: role-selection
         - 
           title: Cartographier les intentions
@@ -92,7 +92,7 @@ content:
           title: Retour par les pairs
           slug: peer-feedback
         - 
-          title: Évaluation par ses pairs
+          title: Evaluation par les pairs
           slug: peer-review
         - 
           title: Plan de développement
@@ -151,7 +151,7 @@ content:
           title: Représentant
           slug: representative
         - 
-          title: Équipe de soutien
+          title: Equipe de soutien
           slug: helping-team
         - 
           title: Domaine ouvert
@@ -176,13 +176,13 @@ content:
           title: Inviter au changement
           slug: invite-change
         - 
-          title: Forum ouvert pour le changement
+          title: Changement par forum ouvert
           slug: open-space-for-change
         - 
           title: Amélioration continue du processus de travail
           slug: continuous-improvement-of-work-process
     - 
-      title: Élaborer des ententes
+      title: Elaborer des ententes
       slug: defining-agreements
       sections:
         - 
@@ -267,13 +267,13 @@ content:
           title: Visualiser le travail
           slug: visualize-work
         - 
-          title: Système de travail à flux tiré
+          title: Travail en flux tiré
           slug: pull-system-for-work
         - 
           title: Limiter le travail en cours
           slug: limit-work-in-progress
         - 
-          title: Activités en temps limité
+          title: Timeboxer les activités
           slug: timebox-activities
         - 
           title: Aligner les flux

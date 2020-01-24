@@ -13,7 +13,7 @@ Intentions :
 
 {{define:waste}}
 
-En adoptant les concepts de valeur et de gaspillage, de nombreuses pratiques et idées issues de la **production lean** et du **développement de logiciel lean** sont applicables aux organisations pratiquant S3:
+En adoptant les concepts de valeur et de gaspillage, de nombreuses pratiques et idées issues de la **production lean** et du **développement logiciel lean** sont applicables aux organisations pratiquant S3:
 
 - cartographie de la chaîne de valeur
 - différentes stratégies pour éliminer le gaspillage

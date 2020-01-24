@@ -31,17 +31,17 @@ La pratique de la Sociocratie 3.0 aide les gens à apprécier la valeur essenti
 
 ![Les sept principes](img/framework/s3-principles-plain.png)
 
-**Le Principe d'Efficacité:** *Allouer du temps seulement à ce qui vous rapproche d'atteindre vos objectifs.*
+**Le Principe d'Efficacité:** *Allouer du temps seulement à ce qui vous rapproche de vos objectifs.*
 
 **Le Principe de Consentement:** *Lever, chercher et résoudre les objections aux décisions et aux actions.*
 
-**Le Principe d'Empirisme:** *Tester toutes les hypothèses sur lesquelles vous comptez, grâce à l'expérimentation et l'amélioration en continu.*
+**Le Principe d'Empirisme:** *Tester toutes les hypothèses sur lesquelles vous vous appuyez, par l'expérimentation et l'amélioration en continu.*
 
 **Le Principe d'Amélioration Continue:** *Évoluer par incréments pour faciliter un apprentissage empirique constant.*
 
 **Le Principe d'Equivalence:** *Impliquer les personnes impactées dans les prises de décisions et les évolutions.*
 
-**Le Principe de Transparence:** *Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il n'y ait un motif de confidentialité.*
+**Le Principe de Transparence:** *Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il y ait un motif de confidentialité.*
 
 **Le Principe Redevabilité:** *Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .*
 #### Le Principe de Redevabilité
@@ -50,7 +50,7 @@ La pratique de la Sociocratie 3.0 aide les gens à apprécier la valeur essenti
 
 Agir dans le cadre des ententes régissant les domaines dont vous êtes redevables, y compris l'organisation elle-même, les équipes dont vous faites partie et les rôles que vous portez.
 
-Chaque membre de l'organisation est redevable de répondre efficacement aux intentions organisationnelles, tant pour faire le travail que pour assurer (soutenir) une collaboration efficace.
+Chaque membre de l'organisation est redevable de répondre efficacement aux intentions organisationnelles, en faisant le travail et/ou en assurant (soutenant) une collaboration efficace.
 
 Les individus sont également redevables de leur travail, de leur apprentissage et de leur développement, et de se soutenir mutuellement.
 
@@ -72,7 +72,7 @@ _La **valeur** est l'importance ou l'utilité de quelque chose lié à une inten
 
 _Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à - répondre (plus) efficacement à une intention._
 
-En adoptant les concepts de valeur et de gaspillage, de nombreuses pratiques et idées issues de la **production lean** et du **développement de logiciel lean** sont applicables aux organisations pratiquant S3:
+En adoptant les concepts de valeur et de gaspillage, de nombreuses pratiques et idées issues de la **production lean** et du **développement logiciel lean** sont applicables aux organisations pratiquant S3:
 
 - cartographie de la chaîne de valeur
 - différentes stratégies pour éliminer le gaspillage
@@ -93,25 +93,25 @@ Ceux qui délèguent un domaine (les *délégants*) conservent néanmoins la red
 
 - le **besoin organisationnel** auquel le domaine doit répondre
 - les **responsabilités clés** (livrables, risques critiques à gérer, autre travail essentiel et prises de décision délégués)
-- des **contraintes sur l'autonomie et l'influence** pour ceux à qui sont délégués le domaine (les *délégués*), souvent liées à l'organisation elle-même (dépendances, implication du délégant, reporting, etc.)
+- des **contraintes sur l'autonomie et l'influence** pour ceux à qui sont délégués le domaine (les *délégués*), et qui sont souvent liées à l'organisation elle-même (dépendances, implication du délégant, reporting, etc.)
 
 ##### Intentions et domaines
 
 Il est également possible de comprendre un domaine par rapport aux intentions organisationnelles :
 
 - l'**intention primaire** - l'intention principale à laquelle les gens redevables d’un domaine donné (les *délégués*) répondent
-- l'ensemble des sous-intentions qui peuvent être bénéfique pour l'organisation d'adresser afin de répondre à l'intention primaire, et comprennent : 
+- l'ensemble des sous-intentions qu'il peut être bénéfique pour l'organisation d'adresser afin de répondre à l'intention primaire, comme : 
     - les **responsabilités clés** (n'importe quelle intention dérivant directement de l'intention primaire)
     - les motivations pour les **contraintes du domaine** (généralement lié au contexte de l'organisation globale)
 
 ![Intentions et domaines](img/driver-domain/drivers-and-domains.png)
 ### Gouvernance et opérations
 
-S3 cherche à libérer la productivité en laissant les gens libres de faire et de décider autant que possible par eux-même, tout en assurant de la cohérence dans la collaboration pour une organisation efficace et qui réussit.
+S3 cherche à libérer la productivité en laissant les personnes libres de faire et de décider autant que possible par elles-même, tout en collaborant de manière cohérente dans une organisation efficace et qui réussit.
 
 Une plus grande autonomie des individus et des équipes nécessite des ententes claires (c'est-à-dire des consignes et des contraintes) qui permettent une collaboration harmonieuse entre ces équipes et ces individus, et qui soutiennent la réalisation d'objectifs à court et long terme. Des évaluations périodiques et l'évolution progressive des ententes assurent qu'elles restent adaptées à la finalité.
 
-Bien qu’une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, créer des ententes plus conséquentes qui contraignent le comportement et l’activité des gens, profite souvent d’un [processus de décision](consent-decision-making.html) plus participatif et plus délibéré.
+Bien qu'une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, créer des ententes plus conséquentes qui contraignent le comportement et l’activité des gens, bénéficie souvent d'un [processus de décision](consent-decision-making.html) plus participatif et plus délibéré.
 
 De telles ententes doivent être documentées, à la fois pour se les rappeler mais aussi pour permettre une [évaluation](evaluate-and-evolve-agreements.html) efficace, et doivent être communiquées aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](those-affected-decide.html) de ces ententes).
 

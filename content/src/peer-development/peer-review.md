@@ -1,10 +1,10 @@
-## Évaluation par ses pairs
+## Evaluation par les pairs
 
 **Soutenez-vous mutuellement pour apprendre et vous améliorer dans les rôles et équipes où vous servez.**
 
 Le porteur de rôle - ou l'équipe - mène l'évaluation par les pairs en préparant le processus et en ouvrant le dialogue à chaque étape.
 
-![Processus d'évaluation par les pairs](img/process/peer-review.png)
+![Processus d'évaluation par ses pairs](img/process/peer-review.png)
 
 Assurez-vous d'inviter des personnes ayant des perspectives complémentaires à contribuer à l'évaluation, ainsi qu'un [facilitateur](section:facilitate-meetings).
 

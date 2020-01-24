@@ -14,14 +14,14 @@ Ceux qui délèguent un domaine (les *délégants*) conservent néanmoins la red
 
 - le **besoin organisationnel** auquel le domaine doit répondre
 - les **responsabilités clés** (livrables, risques critiques à gérer, autre travail essentiel et prises de décision délégués)
-- des **contraintes sur l'autonomie et l'influence** pour ceux à qui sont délégués le domaine (les *délégués*), souvent liées à l'organisation elle-même (dépendances, implication du délégant, reporting, etc.)
+- des **contraintes sur l'autonomie et l'influence** pour ceux à qui sont délégués le domaine (les *délégués*), et qui sont souvent liées à l'organisation elle-même (dépendances, implication du délégant, reporting, etc.)
 
 ##### Intentions et domaines
 
 Il est également possible de comprendre un domaine par rapport aux intentions organisationnelles :
 
 - l'**intention primaire** - l'intention principale à laquelle les gens redevables d’un domaine donné (les *délégués*) répondent
-- l'ensemble des sous-intentions qui peuvent être bénéfique pour l'organisation d'adresser afin de répondre à l'intention primaire, et comprennent : 
+- l'ensemble des sous-intentions qu'il peut être bénéfique pour l'organisation d'adresser afin de répondre à l'intention primaire, comme : 
     - les **responsabilités clés** (n'importe quelle intention dérivant directement de l'intention primaire)
     - les motivations pour les **contraintes du domaine** (généralement lié au contexte de l'organisation globale)
 

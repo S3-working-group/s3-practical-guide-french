@@ -1,20 +1,20 @@
 ---
-title: "Activités en temps limité"
+title: "Timeboxer les activités"
 ---
 
 
 **Définissez une contrainte de temps pour rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.**
 
-_Un **bloc de temps** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite)._
+_Une **timebox** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite)._
 
-- pour tirer partie de la fenêtre de temps, soyez au clair sur ce que vous souhaitez accomplir
-- accordez-vous sur la durée et visualisez le temps qui s'écoule
-- négociez et soyez d'accord pour étendre une fenêtre de temps avant qu'il ne soit écoulé
-- décomposez les activités les plus longues en petites fenêtres de temps gérables
+- pour tirer partie de la timebox, soyez au clair sur ce que vous souhaitez accomplir
+- accordez-vous sur la durée de la timebox et visualisez le temps qui s'écoule
+- négociez et soyez d'accord pour étendre une timebox avant que le temps ne soit écoulé
+- décomposez les activités les plus longues en petites timeboxes gérables
 - envisagez une évaluation fréquente de votre avancement
 - envisagez de choisir quelqu'un (le "gardien du temps") afin d'aider les autres à rester conscients du temps
 
-Vous pouvez utiliser les fenêtres de temps pour :
+Vous pouvez utiliser les timeboxes pour :
 
 - les réunions, les appels, les discussions
 - les tâches

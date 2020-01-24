@@ -1,4 +1,4 @@
-## Forum ouvert pour le changement
+## Changement par forum ouvert
 
 **Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.**
 
