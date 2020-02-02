@@ -1,5 +1,5 @@
 ---
-title: "Evaluation par les pairs"
+title: "Evaluation entre pairs"
 ---
 
 

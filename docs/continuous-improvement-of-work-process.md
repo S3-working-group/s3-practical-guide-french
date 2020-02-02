@@ -22,5 +22,5 @@ Mettre en place un processus continu d'élimination du gaspillage permet l'évol
 
 ![Intentions, valeur, gaspillage](img/workflow-and-value/drivers-value-waste.png)
 
-[&#9654; Elaborer des ententes](defining-agreements.html)<br/>[&#9664; Changement par forum ouvert](open-space-for-change.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
+[&#9654; Elaborer des ententes](defining-agreements.html)<br/>[&#9664; Changement par forum ouvert](open-space-for-change.html)<br/>[&#9650; Intégrer la S3](bringing-in-s3.html)
 

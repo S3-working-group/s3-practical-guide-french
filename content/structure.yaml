@@ -42,7 +42,7 @@ content:
         slug: governance
   chapters:
     - 
-      title: Co-création et évolution
+      title: Co-créer et évoluer
       slug: co-creation-and-evolution
       sections:
         - 
@@ -92,13 +92,13 @@ content:
           title: Retour par les pairs
           slug: peer-feedback
         - 
-          title: Evaluation par les pairs
+          title: Evaluation entre pairs
           slug: peer-review
         - 
           title: Plan de développement
           slug: development-plan
     - 
-      title: Catalyseurs de collaboration
+      title: Catalyser la collaboration
       slug: enablers-of-collaboration
       sections:
         - 
@@ -160,7 +160,7 @@ content:
           title: Systèmes ouverts
           slug: open-systems
     - 
-      title: Introduire S3
+      title: Intégrer la S3
       slug: bringing-in-s3
       sections:
         - 
@@ -173,7 +173,7 @@ content:
           title: Incarner le changement
           slug: be-the-change
         - 
-          title: Inviter au changement
+          title: Inviter aux changements
           slug: invite-change
         - 
           title: Changement par forum ouvert
@@ -220,7 +220,7 @@ content:
           title: Rétrospective
           slug: retrospective
         - 
-          title: Standup quotidien
+          title: Point quotidien
           slug: daily-standup
         - 
           title: Réunions de planification et d'évaluation
@@ -242,7 +242,7 @@ content:
           title: Préparer les réunions
           slug: prepare-for-meetings
         - 
-          title: Inclusion
+          title: Tour d'accueil
           slug: check-in
         - 
           title: Evaluer les réunions
@@ -251,17 +251,17 @@ content:
           title: Hôte de réunion
           slug: meeting-host
         - 
-          title: Backlog de gouvernance
+          title: Backlog (panier) de gouvernance
           slug: governance-backlog
     - 
       title: Organiser le travail
       slug: organizing-work
       sections:
         - 
-          title: Backlog
+          title: Backlog (Panier)
           slug: backlog
         - 
-          title: Prioriser les backlogs
+          title: Prioriser les backlogs (paniers)
           slug: prioritize-backlogs
         - 
           title: Visualiser le travail
@@ -292,7 +292,7 @@ content:
           title: Cercle délégué
           slug: delegate-circle
         - 
-          title: Organisation centrifuge
+          title: Organisation décentralisée
           slug: peach-organization
         - 
           title: Hiérarchie à double lien

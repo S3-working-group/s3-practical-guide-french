@@ -117,7 +117,7 @@ De telles ententes doivent être documentées, à la fois pour se les rappeler m
 
 Il est donc utile de distinguer deux catégories d’activités dans une organisation, l'une que nous appelons la gouvernance, et l’autre que nous appelons les opérations :
 
-_La **Gouvernance** dans une organisation (ou l'un de ses domaines) est l'acte de fixer des objectifs, et de prendre et faire évoluer des décisions qui guident les gens pour les atteindre._
+_La **Gouvernance** dans une organisation (ou l'un de ses domaines) est l'acte de fixer des objectifs, de prendre et faire évoluer des décisions qui guident les gens pour les atteindre._
 
 _Les **Opérations** consistent à faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance._
 
@@ -147,6 +147,6 @@ Les décisions de gouvernance peuvent être prises à tout moment et à n'import
 Selon les contraintes imposées par le délégant, les équipes ont plus ou moins de latitude à mener la gouvernance et à décider comment elles organisent leurs opérations, et sont par conséquent plus ou moins auto-gouvernées et auto-organisées.
 
 
-[&#9654; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Co-créer et évoluer](co-creation-and-evolution.html)
 
 

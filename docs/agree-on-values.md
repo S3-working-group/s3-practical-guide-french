@@ -22,5 +22,5 @@ Les valeurs choisies sont une entente sujette à une **évaluation régulière**
 
 ![Les valeurs choisies définissent les contraintes de collaboration](img/collaboration-values/chosen-values.png)
 
-[&#9654; Facilitateur de gouvernance](governance-facilitator.html)<br/>[&#9664; Adopter les sept principes](adopt-the-seven-principles.html)<br/>[&#9650; Catalyseurs de collaboration](enablers-of-collaboration.html)
+[&#9654; Facilitateur de gouvernance](governance-facilitator.html)<br/>[&#9664; Adopter les sept principes](adopt-the-seven-principles.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
 

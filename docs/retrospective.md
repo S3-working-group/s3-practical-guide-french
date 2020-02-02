@@ -14,7 +14,7 @@ title: "Rétrospective"
 
 ### Les cinq phases d’une réunion de rétrospective
 
-1. Planter le décor 
+1. Situer le contexte 
 2. Rassembler les données
 3. En tirer des connaissances
 4. Décider quoi faire
@@ -22,5 +22,5 @@ title: "Rétrospective"
 
 De nombreuses activités pour chaque phase peuvent être trouvées sur [plans-for-retrospectives.com](http://www.plans-for-retrospectives.com/)
 
-[&#9654; Standup quotidien](daily-standup.html)<br/>[&#9664; Réunion de gouvernance](governance-meeting.html)<br/>[&#9650; Interactions ciblées](focused-interactions.html)
+[&#9654; Point quotidien](daily-standup.html)<br/>[&#9664; Réunion de gouvernance](governance-meeting.html)<br/>[&#9650; Interactions ciblées](focused-interactions.html)
 

@@ -15,5 +15,5 @@ Les cercles délégués fournissent un moyen de piloter les organisations en pha
 
 Un cercle délégué peut amener d'autres personnes (ex: des experts externes) pour l'aider à prendre des décisions particulières, ou même en tant que membre du cercle.
 
-[&#9654; Organisation centrifuge](peach-organization.html)<br/>[&#9664; Cercle de service](service-circle.html)<br/>[&#9650; Structure organisationnelle](organizational-structure.html)
+[&#9654; Organisation décentralisée](peach-organization.html)<br/>[&#9664; Cercle de service](service-circle.html)<br/>[&#9650; Structure organisationnelle](organizational-structure.html)
 

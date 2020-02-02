@@ -17,7 +17,7 @@ La pratique *Élaborer une proposition* peut également être utilisée par un i
 
 **Approfondir la compréhension collective de l'intention** : recueillir les questions essentielles à une meilleure compréhension de l'intention.
 
-**Récolter les remarques** sous forme de questions évoquant de possibles solutions. Les questions révèlent des contraintes (questions informatives) ou des possibilités (questions génératives).
+**Recueillir les considérations** formulées comme des questions relatives aux solutions possibles. Les questions révèlent des contraintes (questions informatives) ou des possibilités (questions génératives).
 
 **Répondre** à toutes les questions demandant des informations, si possible.
 
@@ -40,5 +40,5 @@ Deux ou trois rédacteurs suffisent généralement. Vérifiez qu'il n'y ait pas 
 
 ![Processus d'élaboration d'une proposition](img/agreements/proposal-forming.png)
 
-[&#9654; Sélection des rôles](role-selection.html)<br/>[&#9664; Co-créer des propositions](co-create-proposals.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Sélection des rôles](role-selection.html)<br/>[&#9664; Co-créer des propositions](co-create-proposals.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 

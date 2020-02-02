@@ -1,4 +1,4 @@
-## Standup quotidien
+## Point quotidien
 
 **Réunissez-vous chaque jour pour coordonner le travail, faciliter l'apprentissage, et améliorer votre productivité et votre efficacité.**
 
@@ -9,4 +9,4 @@
     - adresser les obstacles/freins
     - adapter les [ententes](glossary:agreement) existantes ou en créer de nouvelles sur-le-champ
 
-![Le standup quotidien est une réunion essentielle pour les équipes auto-organisées.](img/meetings/planning-review-standup.png)
+![Le point quotidien est une réunion essentielle pour les équipes auto-organisées.](img/meetings/planning-review-standup.png)

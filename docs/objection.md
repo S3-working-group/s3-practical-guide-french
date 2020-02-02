@@ -7,7 +7,7 @@ _Une **objection** est un argument démontrant (ou révélant) comment une enten
 
 Les objections apportent des informations sur **des conséquences non désirées**, ou sur **des façons viables d'apporter des améliorations**.
 
-Il est de la responsabilité des individus de soulever des objections potentielles à des propositions, des décisions, des <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> existantes ou des activités.
+Les individus sont redevables de soulever des objections potentielles à des propositions, des décisions, des <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> existantes ou des activités.
 
 Ne pas exprimer les objections peut nuire à la capacité des individus, des groupes ou de l'organisation de répondre aux <dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.">intentions organisationnelles</dfn>.
 
@@ -59,9 +59,9 @@ Dans la [Décision par Consentement](consent-decision-making.html), les préoccu
 
 Faites part de vos préoccupations si vous les considérez importantes et proposez des critères d'évaluation correspondant.
 
-Si vous n'êtes pas sûr d'avoir une objection ou une préoccupation, vérifiez avec les autres si ils pensent qu'elle est bien une objection recevable.
+Si vous n’êtes pas sûr d’avoir une objection ou une préoccupation, demandez aux autres de vous aider à déterminer si votre argument est une objection.
 
 ![Un processus pour qualifier une objection](img/agreements/qualify-objection-process.png)
 
-[&#9654; Intégrer les objections](resolve-objections.html)<br/>[&#9664; Décision par consentement](consent-decision-making.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Intégrer les objections](resolve-objections.html)<br/>[&#9664; Décision par consentement](consent-decision-making.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 

@@ -21,5 +21,5 @@ Décidez comment gérer la rémunération pour les changements de rôles et [dé
 
 ![Deux façons d'ouvrir les salaires](img/process/opening-salaries.png)
 
-[&#9654; Rôle de soutien](support-role.html)<br/>[&#9664; Contrat de collaboration réussie](contract-for-successful-collaboration.html)<br/>[&#9650; Catalyseurs de collaboration](enablers-of-collaboration.html)
+[&#9654; Rôle de soutien](support-role.html)<br/>[&#9664; Contrat de collaboration réussie](contract-for-successful-collaboration.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
 

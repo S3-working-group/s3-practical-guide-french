@@ -1,4 +1,4 @@
-## Inviter au changement
+## Inviter aux changements
 
 **Clarifiez la raison du changement et invitez les gens à participer.**
 

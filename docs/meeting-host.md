@@ -23,5 +23,5 @@ Préparation :
 
 **Voir aussi : ** [Faciliter les réunions](facilitate-meetings.html), [Préparer les réunions](prepare-for-meetings.html)
 
-[&#9654; Backlog de gouvernance](governance-backlog.html)<br/>[&#9664; Evaluer les réunions](evaluate-meetings.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
+[&#9654; Backlog (panier) de gouvernance](governance-backlog.html)<br/>[&#9664; Evaluer les réunions](evaluate-meetings.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
 

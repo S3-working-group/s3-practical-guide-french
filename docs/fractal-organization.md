@@ -42,5 +42,5 @@ Les deuxième et troisième niveaux :
 - peuvent tester simultanément les décisions dans plusieurs instances d'un domaine fonctionnel, en offrant de nombreux retours et un apprentissage rapide
 - organisent, alignent et pilotent le système entier tout en préservant l'autonomie et les buts de chaque constituant
 
-[&#9654; Co-création et évolution](co-creation-and-evolution.html)<br/>[&#9664; Organisation de service](service-organization.html)<br/>[&#9650; Structure organisationnelle](organizational-structure.html)
+[&#9654; Co-créer et évoluer](co-creation-and-evolution.html)<br/>[&#9664; Organisation de service](service-organization.html)<br/>[&#9650; Structure organisationnelle](organizational-structure.html)
 

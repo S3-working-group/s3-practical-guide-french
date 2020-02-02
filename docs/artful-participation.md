@@ -41,5 +41,5 @@ La participation élégante :
     - l'organisation ? ...nos clients ?
     - le reste de mon environnement ?
 
-[&#9654; Adopter les sept principes](adopt-the-seven-principles.html)<br/>[&#9650; Catalyseurs de collaboration](enablers-of-collaboration.html)
+[&#9654; Adopter les sept principes](adopt-the-seven-principles.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
 

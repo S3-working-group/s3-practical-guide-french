@@ -4,7 +4,7 @@ title: "Interactions ciblées"
 
 - [Réunion de gouvernance](governance-meeting.html)
 - [Rétrospective](retrospective.html)
-- [Standup quotidien](daily-standup.html)
+- [Point quotidien](daily-standup.html)
 - [Réunions de planification et d'évaluation](planning-and-review-meetings.html)
 - [Réunion de coordination](coordination-meeting.html)
 

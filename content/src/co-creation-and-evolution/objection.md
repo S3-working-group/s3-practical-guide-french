@@ -4,7 +4,7 @@
 
 Les objections apportent des informations sur **des conséquences non désirées**, ou sur **des façons viables d'apporter des améliorations**.
 
-Il est de la responsabilité des individus de soulever des objections potentielles à des propositions, des décisions, des [ententes](glossary:agreement) existantes ou des activités.
+Les individus sont redevables de soulever des objections potentielles à des propositions, des décisions, des [ententes](glossary:agreement) existantes ou des activités.
 
 Ne pas exprimer les objections peut nuire à la capacité des individus, des groupes ou de l'organisation de répondre aux [intentions organisationnelles](glossary:organizational-driver).
 
@@ -56,6 +56,6 @@ Dans la [Décision par Consentement](section:consent-decision-making), les préo
 
 Faites part de vos préoccupations si vous les considérez importantes et proposez des critères d'évaluation correspondant.
 
-Si vous n'êtes pas sûr d'avoir une objection ou une préoccupation, vérifiez avec les autres si ils pensent qu'elle est bien une objection recevable.
+Si vous n’êtes pas sûr d’avoir une objection ou une préoccupation, demandez aux autres de vous aider à déterminer si votre argument est une objection.
 
 ![Un processus pour qualifier une objection](img/agreements/qualify-objection-process.png)

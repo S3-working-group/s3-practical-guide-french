@@ -1,5 +1,5 @@
 ---
-title: "Inviter au changement"
+title: "Inviter aux changements"
 ---
 
 
@@ -16,5 +16,5 @@ En faisant l'invitation :
 
 Incluez les personnes impliquées et impactées dans l'évaluation régulière des résultats du changement.
 
-[&#9654; Changement par forum ouvert](open-space-for-change.html)<br/>[&#9664; Incarner le changement](be-the-change.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
+[&#9654; Changement par forum ouvert](open-space-for-change.html)<br/>[&#9664; Incarner le changement](be-the-change.html)<br/>[&#9650; Intégrer la S3](bringing-in-s3.html)
 
