@@ -14,7 +14,7 @@ La pratique *Élaborer une proposition* peut également être utilisée par un i
 
 **Approfondir la compréhension collective de l'intention** : recueillir les questions essentielles à une meilleure compréhension de l'intention.
 
-**Récolter les remarques** sous forme de questions évoquant de possibles solutions. Les questions révèlent des contraintes (questions informatives) ou des possibilités (questions génératives).
+**Recueillir les considérations** formulées comme des questions relatives aux solutions possibles. Les questions révèlent des contraintes (questions informatives) ou des possibilités (questions génératives).
 
 **Répondre** à toutes les questions demandant des informations, si possible.
 

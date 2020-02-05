@@ -24,7 +24,7 @@ Une condition préalable au processus de sélection est une [description claire]
     - invitant (certains) candidats à s'entendre sur qui devrait être proposé
     - invitant le dialogue de groupe pour révéler le candidat le plus solide
 7. **Vérifier les objections:** Demandez aux participants (y compris au candidat proposé) de signaler simultanément s'ils ont une [objection](glossary:objection). 
-8. **Adresser et intégrer les objections,** en commençant par n'importe quel candidat proposé. [Les objections peuvent être résolues](section:resolve-objections) de plusieurs façons, y compris la modification de la description de domaine du rôle ou en nommant quelqu'un d'autre. Lorsque toutes les objections sont résolues, vérifiez à nouveau avec le candidat (final) s'il accepte le rôle.
+8. **Intégrer les objections,** en commençant par n'importe quel candidat proposé. [Les objections peuvent être résolues](section:resolve-objections) de plusieurs façons, y compris la modification de la description de domaine du rôle ou en nommant quelqu'un d'autre. Lorsque toutes les objections sont résolues, vérifiez à nouveau avec le candidat (final) s'il accepte le rôle.
 9. **Célébrer:** Saluez l'entente obtenue et remerciez la personne qui va maintenant porter le rôle.
 
 Pour éviter d'influencer les autres, abstenez-vous d'exprimer un intérêt personnel ou des opinions avant qu'une sélection ne se produise.

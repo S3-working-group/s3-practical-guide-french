@@ -25,8 +25,8 @@ terms:
     name: Alignement
     glossary: Le processus d'aligner les actions de l'ensemble des parties d'une organisation aux objectifs de l'organisation.
   backlog:
-    name: Backlog
-    definition: Un **backlog** (to-do-list) est une liste (souvent priorisée) d'éléments de travail inachevés (livrables), ou d'intentions qui doivent être traitées.
+    name: Backlog (panier)
+    definition: Un **backlog** (panier) est une liste (souvent priorisée) d'éléments de travail inachevés (livrables), ou d'intentions qui doivent être traitées.
     glossary: Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
   chosen-values:
     name: Valeurs choisies
@@ -103,12 +103,12 @@ terms:
     glossary: Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.
   governance:
     name: Gouvernance
-    definition: "La **Gouvernance** dans une organisation (ou l'un de ses domaines) est l'acte de fixer des objectifs, et de prendre et faire évoluer des décisions qui guident les gens pour les atteindre."
+    definition: "La **Gouvernance** dans une organisation (ou l'un de ses domaines) est l'acte de fixer des objectifs, de prendre et faire évoluer des décisions qui guident les gens pour les atteindre."
     glossary: L'acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.
   governance-backlog:
-    name: Backlog de gouvernance
-    definition: Un **backlog de gouvernance** est une liste visible, priorisée de points (intentions) qui sont en lien avec la gouvernance d'un domaine et en attente de traitement.
-    glossary: Une liste explicite ordonnée par priorité de tâches en attente de traitement (moteurs) en lien à la gouvernance d'un domaine.
+    name: Backlog (panier) de gouvernance
+    definition: Un **backlog (panier) de gouvernance** est une liste visible, priorisée de points (intentions) qui sont en lien avec la gouvernance d'un domaine et en attente de traitement.
+    glossary: Une liste explicite ordonnée par priorité de tâches en attente de traitement (intentions) en lien à la gouvernance d'un domaine.
   intended-outcome:
     name: Résultat attendu
     definition:
@@ -145,7 +145,7 @@ terms:
     definition: "Les **Opérations** consistent à faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance."
     glossary: Faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance.
   operations-backlog:
-    name: Backlog des opérations
+    name: Backlog (panier) des opérations
     definition: Un **backlog des opérations** est une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
     glossary: Une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
   organization:
@@ -227,8 +227,8 @@ terms:
     definition:
     glossary: Une expérience personnelle, un symptôme de dissonance entre la perception d'une situation par un individu, et ses attentes ou préférences.
   timebox:
-    name: Timebox
-    definition: Une **timebox** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
+    name: Timebox (bloc de temps)
+    definition: Une **timebox (bloc de temps)** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
     glossary: Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
   transparency:
     name: Transparence (principe)

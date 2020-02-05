@@ -11,7 +11,7 @@
 
 ### Les cinq phases d’une réunion de rétrospective
 
-1. Planter le décor 
+1. Situer le contexte 
 2. Rassembler les données
 3. En tirer des connaissances
 4. Décider quoi faire
