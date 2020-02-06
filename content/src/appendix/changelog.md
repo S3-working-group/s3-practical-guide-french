@@ -38,7 +38,7 @@
 - élargissement de l'introduction avec plus d'informations sur S3 et l'historique de la sociocratie qui n'était auparavant disponibles que sur le site principal de S3
 - mise à jour de la section sur la gouvernance dans l’introduction
 - légendes ajoutées à toutes les illustrations
-- renommé du groupe de pratiques “Catalyseurs de co-creation” en “catalyseurs de collaboration”
+- renommé du groupe de pratiques “Catalyseurs de co-creation” en “catalyser la collaboration”
 - suppression de la version du slide deck et amélioration de l’agencement et du formatage des versions pdf et ePub
 - version site : ajout d’une carte cliquable des pratiques pour une navigation plus simple et des références au glossaire à de nombreuses pratiques
 
@@ -107,9 +107,9 @@
 - [Critères d'évaluation](section:evaluation-criteria): suggéré de clarifier un seuil de réussite, et nous avons expliqué que nous faisons évoluer également les critères d'évaluation avec les ententes
 - [Faciliter les réunions](section:facilitate-meetings): description améliorée
 - [Organisation Fractale](section:fractal-organization): description étendue et améliorée
-- [Backlog de gouvernance](section:governance-backlog): description améliorée
+- [Backlog (panier) de gouvernance](section:governance-backlog): description améliorée
 - [Réunion de gouvernance](section:governance-meeting): description améliorée, éléments de l'ordre du jour clarifiés
-- [Inviter au changement](section:invite-change): la description se concentre maintenant sur *comment* inviter au changement
+- [Inviter aux changements](section:invite-change): la description se concentre maintenant sur *comment* inviter aux changements
 - [Lien](section:linking): description alignée à [Double lien](section:double-linking)
 - [Registre](section:logbook): précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
 - [Naviguer par tension](section:navigate-via-tension): description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par tension*, *Décrire les intentions organisationnelles* et *Répondre aux intentions organisationnelles*
@@ -117,7 +117,7 @@
 - [Domaine ouvert](section:open-domain): description améliorée et illustration mise à jour
 - [Systèmes ouverts](section:open-systems): description améliorée
 - [Changement par forum ouvert](section:open-space-for-change): nouveau nom de *Adoption ouverte de la S3*, description améliorée
-- [Organisation centrifuge](section:peach-organization): relation clarifiée entre la périphérie et le centre
+- [Organisation décentralisée](section:peach-organization): relation clarifiée entre la périphérie et le centre
 - [Élaborer une proposition](section:proposal-forming): texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
 - [Représentant](section:representative): description améliorée
 - [Intégrer les objections](section:resolve-objections): mise à jour des deux illustrations
@@ -136,7 +136,7 @@
 
 **Pratiques ajoutées :**
 
-- [Inclusion](section:check-in)
+- [Tour d'accueil](section:check-in)
 - [Co-créer des propositions](section:co-create-proposals)
 - [Préparer les réunions](section:prepare-for-meetings)
 - [Timeboxer les activités](section:timebox-activities)
@@ -193,19 +193,19 @@
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec double-lien*: nouvelle illustration
 - *Evaluer les ententes* : aligner les questions sur l'évaluation par les pairs
-- *Backlog de gouvernance*: description améliorée
+- *Backlog (panier) de gouvernance*: description améliorée
 - *Registre*: ajouts de détails sur la gouvernance au registre personnel
 - *Objections* : clarification de la qualification des objections
-- *Evaluation par les pairs*: description améliorée
+- *Evaluation entre pairs*: description améliorée
 - *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
-- *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
+- *Rôle* : le détenteur du rôle peut garder à jour un backlog (panier) de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
 - *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Résoudre les objections* : illustration mise à jour pour mieux refléter le processus
 
 **Pratiques renommées :**
 
 - * Organisation vertébrale* a *organisation de services*
-- *Évaluation d'efficacité* a *Evaluation par les pairs*
+- *Évaluation d'efficacité* vers *Evaluation entre pairs*
 - *Stratégie* à *Développer la stratégie*
 - *Description du domaine* à *Clarifier les domaines*
 - *Description des livrables* à *Décrire les livrables*

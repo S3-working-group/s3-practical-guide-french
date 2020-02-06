@@ -4,6 +4,6 @@
 
 Se mettre d'accord et consigner une description concise des résultats attendus.
 
-Le résultat attendu peut être utilisé pour définir les [critères d'évaluation](section:evaluation-criteria) et les métriques pour évaluer les résultats effectivement obtenus.
+Le résultat attendu peut être utilisé pour définir les [critères d'évaluation](section:evaluation-criteria) et les métriques (indicateurs) pour évaluer les résultats effectivement obtenus.
 
 ![Résultats attendus, et critères d'évaluation](img/templates/outcome-and-criteria.png)

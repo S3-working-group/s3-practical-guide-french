@@ -1,5 +1,5 @@
 ---
-title: "Co-création et évolution"
+title: "Co-créer et évoluer"
 ---
 
 - [Répondre aux intentions organisationnelles](respond-to-organizational-drivers.html)

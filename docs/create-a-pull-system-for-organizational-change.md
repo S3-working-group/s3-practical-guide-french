@@ -12,5 +12,5 @@ Changez les choses lorsqu'il y a un intérêt à le faire :
 - Allez à la rencontre des gens…
 - …et laissez-les choisir leur propre rythme.
 
-[&#9654; Incarner le changement](be-the-change.html)<br/>[&#9664; Adapter les pratiques au contexte](adapt-patterns-to-context.html)<br/>[&#9650; Introduire S3](bringing-in-s3.html)
+[&#9654; Incarner le changement](be-the-change.html)<br/>[&#9664; Adapter les pratiques au contexte](adapt-patterns-to-context.html)<br/>[&#9650; Intégrer la S3](bringing-in-s3.html)
 

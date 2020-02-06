@@ -11,5 +11,5 @@ title: "Réunions de planification et d'évaluation"
 
 ![Réunions de planification et d'évaluation](img/meetings/planning-review.png)
 
-[&#9654; Réunion de coordination](coordination-meeting.html)<br/>[&#9664; Standup quotidien](daily-standup.html)<br/>[&#9650; Interactions ciblées](focused-interactions.html)
+[&#9654; Réunion de coordination](coordination-meeting.html)<br/>[&#9664; Point quotidien](daily-standup.html)<br/>[&#9650; Interactions ciblées](focused-interactions.html)
 

@@ -18,4 +18,4 @@ Contenu relatif à une équipe particulière ou un [rôle](glossary:role):
 
 - la description et la stratégie du domaine
 - ententes (en précisant les [délégués](glossary:delegatee), les descriptions de domaine, stratégies et [plans de développement](section:development-plan))
-- Les [backlogs](glossary:backlog) et autres informations relatives au travail et à la [gouvernance](glossary:governance)
+- Les [backlogs (paniers)](glossary:backlog) et autres informations relatives au travail et à la [gouvernance](glossary:governance)

@@ -44,5 +44,5 @@ Suivi :
 - Documenter les décisions et les tâches, et les partager avec les personnes concernées.
 - Prendre en considération les effets de toute entente connexe.
 
-[&#9654; Les personnes impactées décident](those-affected-decide.html)<br/>[&#9664; Intégrer les objections](resolve-objections.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Les personnes impactées décident](those-affected-decide.html)<br/>[&#9664; Intégrer les objections](resolve-objections.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 

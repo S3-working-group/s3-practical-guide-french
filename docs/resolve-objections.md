@@ -15,5 +15,5 @@ Généralement, il est plus efficace de **prendre une objection à la fois**, d'
 
 ![Un processus pour intégrer les objections](img/agreements/resolve-objections-process.png)
 
-[&#9654; Evaluer et développer les ententes](evaluate-and-evolve-agreements.html)<br/>[&#9664; Objection](objection.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Evaluer et développer les ententes](evaluate-and-evolve-agreements.html)<br/>[&#9664; Objection](objection.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 

@@ -21,7 +21,7 @@ Contenu relatif à une équipe particulière ou un <dfn data-info="Rôle: Un dom
 
 - la description et la stratégie du domaine
 - ententes (en précisant les <dfn data-info="Délégué: Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.">délégués</dfn>, les descriptions de domaine, stratégies et [plans de développement](development-plan.html))
-- Les <dfn data-info="Backlog: Une liste explicite et priorisée d&apos;éléments de travail (livrables) ou d&apos;intention en attente de traitement.">backlogs</dfn> et autres informations relatives au travail et à la <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn>
+- Les <dfn data-info="Backlog (panier): Une liste explicite et priorisée d&apos;éléments de travail (livrables) ou d&apos;intention en attente de traitement.">backlogs (paniers)</dfn> et autres informations relatives au travail et à la <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn>
 
 [&#9654; Gardien du registre](logbook-keeper.html)<br/>[&#9664; Critères d'évaluation](evaluation-criteria.html)<br/>[&#9650; Elaborer des ententes](defining-agreements.html)
 

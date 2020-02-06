@@ -1,5 +1,5 @@
 ---
-title: "Décision par consentement"
+title: "Décider par consentement"
 ---
 
 
@@ -16,7 +16,7 @@ Taire des objections peut nuire aux objectifs d’une équipe ou d’une organis
 1. En l'absence d'objections à un accord, je m’engage à le respecter au mieux de ma capacité.
 2. J’accepte de faire part de mes objections lorsque j'en prendrai conscience.
 
-![Décision par consentement](img/agreements/consent-decision-making.png)
+![Décider par consentement](img/agreements/consent-decision-making.png)
 
-[&#9654; Objection](objection.html)<br/>[&#9664; Décrire les intentions organisationnelles](describe-organizational-drivers.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Objection](objection.html)<br/>[&#9664; Décrire les intentions organisationnelles](describe-organizational-drivers.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 

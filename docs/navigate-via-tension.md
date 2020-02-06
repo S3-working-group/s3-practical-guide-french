@@ -13,5 +13,5 @@ Pour **découvrir les intentions**, recherchez ce qui stimule la tension, et dé
 
 ![Naviguer par tension, décrire les intentions organisationnelles, Répondre aux intentions organisationnelles](img/process/navigate-describe-respond.png)
 
-[&#9654; Décrire les intentions organisationnelles](describe-organizational-drivers.html)<br/>[&#9664; Répondre aux intentions organisationnelles](respond-to-organizational-drivers.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Décrire les intentions organisationnelles](describe-organizational-drivers.html)<br/>[&#9664; Répondre aux intentions organisationnelles](respond-to-organizational-drivers.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 

@@ -24,7 +24,7 @@ La Sociocratie 3.0 décrit une variété de **modèles de structure** pour dév
 - d'autres pratiques existent et seront découvertes
 - [Cercle de service](service-circle.html)
 - [Cercle délégué](delegate-circle.html)
-- [Organisation centrifuge](peach-organization.html)
+- [Organisation décentralisée](peach-organization.html)
 - [Hiérarchie à double lien](double-linked-hierarchy.html)
 - [Organisation de service](service-organization.html)
 - [Organisation fractale](fractal-organization.html)

@@ -13,7 +13,7 @@ Un rôle est un moyen simple pour une organisation (ou une [équipe](glossary:te
 - les porteurs de rôle sont sélectionnés par consentement pour une durée limitée
 - les pairs se soutiennent mutuellement pour évoluer dans les rôles qu'ils portent
 
-Les porteurs de rôle peuvent maintenir un [backlog](glossary:backlog) de gouvernance, et un [registre](glossary:logbook) pour définir et développer leur approche de l'apport de [valeur](glossary:value).
+Les porteurs de rôle peuvent maintenir un [backlog (panier)](glossary:backlog) de gouvernance, et un [registre](glossary:logbook) pour définir et développer leur approche de l'apport de [valeur](glossary:value).
 
 **Note:** Dans S3, les consignes, les processus ou protocoles créés par des individus dans leurs rôles sont traités comme des ententes.
 

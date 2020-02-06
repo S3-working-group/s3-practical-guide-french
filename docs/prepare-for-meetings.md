@@ -39,5 +39,5 @@ Pour chaque point de l'ordre du jour, convenez :
 - mettez des objections à l'ordre du jour et, si possible, résolvez-les avant la réunion
 - examinez les suggestions d'amélioration de l'évaluation de la dernière réunion et réfléchissez à comment **vous** pourriez les prendre en compte
 
-[&#9654; Inclusion](check-in.html)<br/>[&#9664; Faciliter les réunions](facilitate-meetings.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
+[&#9654; Tour d'accueil](check-in.html)<br/>[&#9664; Faciliter les réunions](facilitate-meetings.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
 

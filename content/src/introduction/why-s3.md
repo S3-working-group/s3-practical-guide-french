@@ -10,13 +10,13 @@ Nous aimons aussi l'Agile, le Lean, le Kanban, les Core Protocols, la CNV, et bi
 
 C'est pourquoi nous avons décidé de consacrer une partie de notre temps à développer et à faire évoluer la Sociocratie, en l'intégrant avec de nombreuses autres idées puissantes, afin de la rendre accessible et applicable au plus grand nombre d'organisations possible.
 
-À cette fin, nous croyons en l'importance d'avoir une identité forte, à une manière radicalement différente de distribuer et d'adapter la *Méthode Sociocratique d'Organisation par Cercles* afin d'améliorer son applicabilité.
+Nous croyons en l'importance d'avoir une identité forte, à une manière radicalement différente de distribuer et d'adapter la *Méthode d'Organisation en Cercles Sociocratique * afin d'améliorer son applicabilité.
 
 ### Le nom
 
 Le nom "*Sociocratie 3.0*" montre à la fois le respect des origines et un pas en avant significatif.
 
-Il permet également d'éviter la perception que nous dénaturons la *Méthode Sociocratique d'Organisation par Cercles* (SCM) telle que promue par The Sociocracy Group.
+Il permet également d'éviter la perception que nous dénaturons la *Méthode d'Organisation en Cercles Sociocratique (SCM)* telle que promue par The Sociocracy Group.
 
 ![Trois variantes de sociocratie](img/context/sociocracy-variants.png)
 
@@ -29,9 +29,9 @@ Nous supportons la distribution "virale" à travers deux stratégies clés :
 * **La Sociocratie 3.0 est ouverte :** Nous voulons encourager la croissance d’un écosystème dynamique d’applications et de variantes de la sociocratie, où les personnes partagent et discutent de leurs points de vue et des adaptations qu’ils apportent pour leur contexte spécifique. À cette fin, la Sociocratie 3.0 met l’accent sur la communication des principes sous-jacents et invite explicitement la créativité de chacun à mélanger, étendre et adapter les choses à leurs besoins.
 * **La Sociocratie 3.0 est libre :** Afin de faciliter le démarrage pour les individus et les organisations, nous publions gratuitement sous licence *Creative Commons Free Culture License* des ressources permettant d'apprendre, pratiquer et enseigner *Sociocratie 3.0*. Tout le monde peut utiliser nos ressources sans notre permission explicite, même dans un contexte commercial, ou comme base pour construire ses propres ressources tant qu'elles sont partagées sous la même licence. Nous attendons et encourageons d'autres organisations, des consultants, des coachs, des facilitateurs d'apprentissage et des formateurs à suivre notre exemple et à libérer leurs ressources également.
 
-### Evolution de la Méthode Sociocratique d'organisation par Cercles
+### Evolution de la Méthode d'Organisation en Cercles Sociocratique
 
-Il nous faut sans doute préciser ceci explicitement : la Sociocratie 3.0 n'est pas spécifiquement destinée à la communauté existante des personnes qui explorent la *Méthode Sociocratique d'Organisation par Cercles* (SCM), ni au Sociocracy Group (TSG). La *SCM* est déjà bien développée et beaucoup de personnes semblent en être globalement satisfaites.
+Il nous faut sans doute préciser ceci explicitement : la Sociocratie 3.0 n'est pas spécifiquement destinée à la communauté existante des personnes qui explorent la *Méthode d'Organisation en Cercles Sociocratique (SCM)* , ni au Sociocracy Group (TSG). La *SCM* est déjà bien développée et beaucoup de personnes semblent en être globalement satisfaites.
 
 Pourtant, d'après notre expérience directe, même pour les organisations qui ont entendu parler de sociocratie, il existe de nombreux obstacles pour s'y investir. Avec la *Sociocratie 3.0* nous travaillons activement à adresser et à éliminer tout ce qui fait obstacle.
 
@@ -47,16 +47,16 @@ En *Sociocratie 3.0*, le but est toujours implicitement de faire circuler la va
 
 #### Réduite aux fondamentaux
 
-En regardant ses normes, la *Méthode Sociocratique d'Organisation par Cercles*, peut sembler imposante et effrayante. En se concentrant sur les fondamentaux seulement, *Sociocratie 3.0* offre un cadre léger pour s’adapter et d'où on peut construire selon ses besoins.
+Lorsqu'on regarde ses normes, la *Méthode d'Organisation en Cercles Sociocratique*, peut sembler imposante et effrayante. En se concentrant sur les fondamentaux seulement, *Sociocratie 3.0* offre un cadre léger pour s’adapter et d'où on peut construire selon ses besoins.
 
 Cela ne veut pas dire que c’est facile : choisir de puiser dans les pratiques *Sociocratie 3.0* nécessite de s'investir pour apprendre et désapprendre. C’est pourquoi il est important de ne piocher que ce dont vous avez besoin, car il n’est pas utile de changer les choses si ce que vous faites marche suffisamment bien.
 
 #### Intégration avec la pensée Agile et Lean
 
-La *Méthode Sociocratique d'Organisation par Cercles* ne dit rien sur la façon d'organiser vos activités ni de créer une culture de collaboration étroite. De nombreuses organisations mettent déjà en œuvre ou tendent vers la pensée lean et agile dans leur fonctionnement et dans leur collaboration. Nous pensons que ce sont des idées puissantes, donc la *Sociocratie 3.0* est conçue pour une adoption facile dans les organisations lean et agiles.
+La *Méthode d'Organisation en Cercles Sociocratique (SCM)* ne dit rien sur la façon d'organiser vos activités ni de créer une culture de collaboration étroite. De nombreuses organisations mettent déjà en œuvre ou tendent vers la pensée lean et agile dans leur fonctionnement et dans leur collaboration. Nous pensons que ce sont des idées puissantes, donc la *Sociocratie 3.0* est conçue pour une adoption facile dans les organisations lean et agiles.
 
 #### Une nouvelle façon de développer la structure organisationnelle
 
-La structure organisationnelle selon la *Méthode Sociocratique d'Organisation par Cercles* est structurée selon une hiérarchie de domaines. Nous constatons une émergence croissante d’environnements collaboratifs multi-parties prenantes et la nécessité d’une plus grande variété de modèles de structure organisationnelle. Une structure organisationnelle évolue naturellement lorsque les flux d'information et l'influence sont graduellement alignés sur le flux de valeur. La *Sociocratie 3.0* propose une variété de modèles de structures qui peuvent être combinés pour faire évoluer de manière flexible la structure de votre organisation lorsque c'est nécessaire.
+La structure organisationnelle selon la *Méthode d'Organisation en Cercles Sociocratique (SCM)* est structurée selon une hiérarchie de domaines. Nous constatons une émergence croissante d’environnements collaboratifs multi-parties prenantes et la nécessité d’une plus grande variété de modèles de structure organisationnelle. Une structure organisationnelle évolue naturellement lorsque les flux d'information et l'influence sont graduellement alignés sur le flux de valeur. La *Sociocratie 3.0* propose une variété de modèles de structures qui peuvent être combinés pour faire évoluer de manière flexible la structure de votre organisation lorsque c'est nécessaire.
 
 <!-- split here -->

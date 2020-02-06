@@ -23,5 +23,5 @@ Une façon simple de déterminer si une intention appartient bien au <dfn data-i
 
 *Est-ce que cela aiderait l'organisation si nous répondions à cette intention? Ou est-ce que cela nous nuirait si nous ne le faisions pas?*
 
-[&#9654; Naviguer par tension](navigate-via-tension.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Naviguer par tension](navigate-via-tension.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 

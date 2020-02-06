@@ -1,4 +1,4 @@
-## Inclusion
+## Tour d'accueil
 
 **Aidez les gens à prendre conscience d'eux même et des autres, à se concentrer, à être présents et à s'impliquer.**
 
@@ -6,7 +6,7 @@ A votre tour, divulguez brièvement quelque chose à propos de vous et sur la fa
 
 Le tour d'accueil peut prendre la forme d'un tour d'ouverture ou de fermeture dans une réunion de groupe ou juste un bref échange dans une réunion à deux.
 
-Vous pouvez également demander un tour d'inclusion en groupe lors d'une réunion ou même choisir de vous lancer individuellement chaque fois que vous pensez que c'est utile pour le groupe.
+Vous pouvez également demander un tour d'accueil en groupe lors d'une réunion ou même choisir de vous lancer individuellement chaque fois que vous pensez que c'est utile pour le groupe.
 
 Dans un tour d'accueil en groupe, permettez aux gens de passer s'ils le souhaitent.
 

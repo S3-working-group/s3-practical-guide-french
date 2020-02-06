@@ -11,5 +11,5 @@ Un groupe (petit ou grand) identifie et regroupe des <dfn data-info="Intention: 
 
 ![Cartographier les intentions: un modèle pour les domaines](img/templates/domain-template.png)
 
-[&#9654; Se développer entre pairs](peer-development.html)<br/>[&#9664; Sélection des rôles](role-selection.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Se développer entre pairs](peer-development.html)<br/>[&#9664; Sélection des rôles](role-selection.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 

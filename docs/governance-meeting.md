@@ -14,14 +14,14 @@ Une réunion de gouvernance est habituellement :
 
 Le déroulé d'une réunion de gouvernance typique comprend :
 
-- ouverture: [inclusion](check-in.html) et rappel de l'objectif de la réunion
+- ouverture: [accueil](check-in.html) et rappel de l'objectif de la réunion
 - questions administratives 
     - vérifier le consentement au procès-verbal de la dernière réunion
     - s'entendre sur une date pour la prochaine réunion
     - vérifier s'il y a des points de dernière minute à l'ordre du jour et confirmer l'agenda
 - points de l'ordre du jour 
 - [évaluation de réunion](evaluate-meetings.html): repenser aux interactions, célébrer les succès et faire part de ses suggestions d'amélioration
-- fermeture : tour d'inclusion avant de quitter la réunion
+- fermeture : tour de départ avant de quitter la réunion
 
 ![Phases d'une réunion de gouvernance](img/meetings/governance-meeting.png)
 

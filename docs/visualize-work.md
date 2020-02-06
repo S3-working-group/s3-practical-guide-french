@@ -25,5 +25,5 @@ title: "Visualiser le travail"
 
 ![Une carte représentant un élément de travail](img/workflow-and-value/card.png)
 
-[&#9654; Travail en flux tiré](pull-system-for-work.html)<br/>[&#9664; Prioriser les backlogs](prioritize-backlogs.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+[&#9654; Travail en flux tiré](pull-system-for-work.html)<br/>[&#9664; Prioriser les backlogs (paniers)](prioritize-backlogs.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
 

@@ -1,4 +1,4 @@
-## Evaluation par les pairs
+## Evaluation entre pairs
 
 **Soutenez-vous mutuellement pour apprendre et vous améliorer dans les rôles et équipes où vous servez.**
 

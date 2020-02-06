@@ -87,13 +87,13 @@ Nous aimons aussi l'Agile, le Lean, le Kanban, les Core Protocols, la CNV, et bi
 
 C'est pourquoi nous avons décidé de consacrer une partie de notre temps à développer et à faire évoluer la Sociocratie, en l'intégrant avec de nombreuses autres idées puissantes, afin de la rendre accessible et applicable au plus grand nombre d'organisations possible.
 
-À cette fin, nous croyons en l'importance d'avoir une identité forte, à une manière radicalement différente de distribuer et d'adapter la *Méthode Sociocratique d'Organisation par Cercles* afin d'améliorer son applicabilité.
+Nous croyons en l'importance d'avoir une identité forte, à une manière radicalement différente de distribuer et d'adapter la *Méthode d'Organisation en Cercles Sociocratique * afin d'améliorer son applicabilité.
 
 ### Le nom
 
 Le nom "*Sociocratie 3.0*" montre à la fois le respect des origines et un pas en avant significatif.
 
-Il permet également d'éviter la perception que nous dénaturons la *Méthode Sociocratique d'Organisation par Cercles* (SCM) telle que promue par The Sociocracy Group.
+Il permet également d'éviter la perception que nous dénaturons la *Méthode d'Organisation en Cercles Sociocratique (SCM)* telle que promue par The Sociocracy Group.
 
 ![Trois variantes de sociocratie](img/context/sociocracy-variants.png)
 
@@ -106,9 +106,9 @@ Nous supportons la distribution "virale" à travers deux stratégies clés :
 * **La Sociocratie 3.0 est ouverte :** Nous voulons encourager la croissance d’un écosystème dynamique d’applications et de variantes de la sociocratie, où les personnes partagent et discutent de leurs points de vue et des adaptations qu’ils apportent pour leur contexte spécifique. À cette fin, la Sociocratie 3.0 met l’accent sur la communication des principes sous-jacents et invite explicitement la créativité de chacun à mélanger, étendre et adapter les choses à leurs besoins.
 * **La Sociocratie 3.0 est libre :** Afin de faciliter le démarrage pour les individus et les organisations, nous publions gratuitement sous licence *Creative Commons Free Culture License* des ressources permettant d'apprendre, pratiquer et enseigner *Sociocratie 3.0*. Tout le monde peut utiliser nos ressources sans notre permission explicite, même dans un contexte commercial, ou comme base pour construire ses propres ressources tant qu'elles sont partagées sous la même licence. Nous attendons et encourageons d'autres organisations, des consultants, des coachs, des facilitateurs d'apprentissage et des formateurs à suivre notre exemple et à libérer leurs ressources également.
 
-### Evolution de la Méthode Sociocratique d'organisation par Cercles
+### Evolution de la Méthode d'Organisation en Cercles Sociocratique
 
-Il nous faut sans doute préciser ceci explicitement : la Sociocratie 3.0 n'est pas spécifiquement destinée à la communauté existante des personnes qui explorent la *Méthode Sociocratique d'Organisation par Cercles* (SCM), ni au Sociocracy Group (TSG). La *SCM* est déjà bien développée et beaucoup de personnes semblent en être globalement satisfaites.
+Il nous faut sans doute préciser ceci explicitement : la Sociocratie 3.0 n'est pas spécifiquement destinée à la communauté existante des personnes qui explorent la *Méthode d'Organisation en Cercles Sociocratique (SCM)* , ni au Sociocracy Group (TSG). La *SCM* est déjà bien développée et beaucoup de personnes semblent en être globalement satisfaites.
 
 Pourtant, d'après notre expérience directe, même pour les organisations qui ont entendu parler de sociocratie, il existe de nombreux obstacles pour s'y investir. Avec la *Sociocratie 3.0* nous travaillons activement à adresser et à éliminer tout ce qui fait obstacle.
 
@@ -124,17 +124,17 @@ En *Sociocratie 3.0*, le but est toujours implicitement de faire circuler la va
 
 #### Réduite aux fondamentaux
 
-En regardant ses normes, la *Méthode Sociocratique d'Organisation par Cercles*, peut sembler imposante et effrayante. En se concentrant sur les fondamentaux seulement, *Sociocratie 3.0* offre un cadre léger pour s’adapter et d'où on peut construire selon ses besoins.
+Lorsqu'on regarde ses normes, la *Méthode d'Organisation en Cercles Sociocratique*, peut sembler imposante et effrayante. En se concentrant sur les fondamentaux seulement, *Sociocratie 3.0* offre un cadre léger pour s’adapter et d'où on peut construire selon ses besoins.
 
 Cela ne veut pas dire que c’est facile : choisir de puiser dans les pratiques *Sociocratie 3.0* nécessite de s'investir pour apprendre et désapprendre. C’est pourquoi il est important de ne piocher que ce dont vous avez besoin, car il n’est pas utile de changer les choses si ce que vous faites marche suffisamment bien.
 
 #### Intégration avec la pensée Agile et Lean
 
-La *Méthode Sociocratique d'Organisation par Cercles* ne dit rien sur la façon d'organiser vos activités ni de créer une culture de collaboration étroite. De nombreuses organisations mettent déjà en œuvre ou tendent vers la pensée lean et agile dans leur fonctionnement et dans leur collaboration. Nous pensons que ce sont des idées puissantes, donc la *Sociocratie 3.0* est conçue pour une adoption facile dans les organisations lean et agiles.
+La *Méthode d'Organisation en Cercles Sociocratique (SCM)* ne dit rien sur la façon d'organiser vos activités ni de créer une culture de collaboration étroite. De nombreuses organisations mettent déjà en œuvre ou tendent vers la pensée lean et agile dans leur fonctionnement et dans leur collaboration. Nous pensons que ce sont des idées puissantes, donc la *Sociocratie 3.0* est conçue pour une adoption facile dans les organisations lean et agiles.
 
 #### Une nouvelle façon de développer la structure organisationnelle
 
-La structure organisationnelle selon la *Méthode Sociocratique d'Organisation par Cercles* est structurée selon une hiérarchie de domaines. Nous constatons une émergence croissante d’environnements collaboratifs multi-parties prenantes et la nécessité d’une plus grande variété de modèles de structure organisationnelle. Une structure organisationnelle évolue naturellement lorsque les flux d'information et l'influence sont graduellement alignés sur le flux de valeur. La *Sociocratie 3.0* propose une variété de modèles de structures qui peuvent être combinés pour faire évoluer de manière flexible la structure de votre organisation lorsque c'est nécessaire.
+La structure organisationnelle selon la *Méthode d'Organisation en Cercles Sociocratique (SCM)* est structurée selon une hiérarchie de domaines. Nous constatons une émergence croissante d’environnements collaboratifs multi-parties prenantes et la nécessité d’une plus grande variété de modèles de structure organisationnelle. Une structure organisationnelle évolue naturellement lorsque les flux d'information et l'influence sont graduellement alignés sur le flux de valeur. La *Sociocratie 3.0* propose une variété de modèles de structures qui peuvent être combinés pour faire évoluer de manière flexible la structure de votre organisation lorsque c'est nécessaire.
 
 <!-- split here -->
 
@@ -260,7 +260,7 @@ De telles ententes doivent être documentées, à la fois pour se les rappeler m
 
 Il est donc utile de distinguer deux catégories d’activités dans une organisation, l'une que nous appelons la gouvernance, et l’autre que nous appelons les opérations :
 
-_La **Gouvernance** dans une organisation (ou l'un de ses domaines) est l'acte de fixer des objectifs, et de prendre et faire évoluer des décisions qui guident les gens pour les atteindre._
+_La **Gouvernance** dans une organisation (ou l'un de ses domaines) est l'acte de fixer des objectifs, de prendre et faire évoluer des décisions qui guident les gens pour les atteindre._
 
 _Les **Opérations** consistent à faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance._
 
@@ -294,7 +294,7 @@ Selon les contraintes imposées par le délégant, les équipes ont plus ou moin
 # Les Pratiques
 
 
-## Co-création et évolution 
+## Co-créer et évoluer 
 
 ###  Pattern 1.1: Répondre aux intentions organisationnelles
 
@@ -408,7 +408,7 @@ Quelques questions utiles pour une évaluation :
 - La tension est-elle toujours dans notre domaine?
 - L'intention est-elle toujours pertinente ?
 
-###  Pattern 1.4: Décision par consentement
+###  Pattern 1.4: Décider par consentement
 
 **Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les ententes existantes.**
 
@@ -423,7 +423,7 @@ Taire des objections peut nuire aux objectifs d’une équipe ou d’une organis
 1. En l'absence d'objections à un accord, je m’engage à le respecter au mieux de ma capacité.
 2. J’accepte de faire part de mes objections lorsque j'en prendrai conscience.
 
-![Décision par consentement](img/agreements/consent-decision-making.png)
+![Décider par consentement](img/agreements/consent-decision-making.png)
 
 ###  Pattern 1.5: Objection
 
@@ -431,7 +431,7 @@ _Une **objection** est un argument démontrant (ou révélant) comment une enten
 
 Les objections apportent des informations sur **des conséquences non désirées**, ou sur **des façons viables d'apporter des améliorations**.
 
-Il est de la responsabilité des individus de soulever des objections potentielles à des propositions, des décisions, des ententes existantes ou des activités.
+Les individus sont redevables de soulever des objections potentielles à des propositions, des décisions, des ententes existantes ou des activités.
 
 Ne pas exprimer les objections peut nuire à la capacité des individus, des groupes ou de l'organisation de répondre aux intentions organisationnelles.
 
@@ -483,7 +483,7 @@ Dans la _Décision par Consentement_, les préoccupations peuvent suggérer des 
 
 Faites part de vos préoccupations si vous les considérez importantes et proposez des critères d'évaluation correspondant.
 
-Si vous n'êtes pas sûr d'avoir une objection ou une préoccupation, vérifiez avec les autres si ils pensent qu'elle est bien une objection recevable.
+Si vous n’êtes pas sûr d’avoir une objection ou une préoccupation, demandez aux autres de vous aider à déterminer si votre argument est une objection.
 
 ![Un processus pour qualifier une objection](img/agreements/qualify-objection-process.png)
 
@@ -546,7 +546,7 @@ Suivi :
 
 ###  Pattern 1.8: Les personnes impactées décident
 
-**Impliquez les personnes dans les décisions qui les concernent, pour maintenir équivalence et responsabilité, et pour augmenter la quantité d'informations disponibles sur le sujet.**
+**Impliquez les personnes dans les décisions qui les concernent, pour maintenir équivalence et redevabilité, et pour augmenter la quantité d'informations disponibles sur le sujet.**
 
 Pour de plus grands groupes :
 
@@ -590,7 +590,7 @@ La pratique *Élaborer une proposition* peut également être utilisée par un i
 
 **Approfondir la compréhension collective de l'intention** : recueillir les questions essentielles à une meilleure compréhension de l'intention.
 
-**Récolter les remarques** sous forme de questions évoquant de possibles solutions. Les questions révèlent des contraintes (questions informatives) ou des possibilités (questions génératives).
+**Recueillir les considérations** formulées comme des questions relatives aux solutions possibles. Les questions révèlent des contraintes (questions informatives) ou des possibilités (questions génératives).
 
 **Répondre** à toutes les questions demandant des informations, si possible.
 
@@ -639,7 +639,7 @@ Une condition préalable au processus de sélection est une _description claire_
     - invitant (certains) candidats à s'entendre sur qui devrait être proposé
     - invitant le dialogue de groupe pour révéler le candidat le plus solide
 7. **Vérifier les objections:** Demandez aux participants (y compris au candidat proposé) de signaler simultanément s'ils ont une objection. 
-8. **Adresser et intégrer les objections,** en commençant par n'importe quel candidat proposé. _Les objections peuvent être résolues_ de plusieurs façons, y compris la modification de la description de domaine du rôle ou en nommant quelqu'un d'autre. Lorsque toutes les objections sont résolues, vérifiez à nouveau avec le candidat (final) s'il accepte le rôle.
+8. **Intégrer les objections,** en commençant par n'importe quel candidat proposé. _Les objections peuvent être résolues_ de plusieurs façons, y compris la modification de la description de domaine du rôle ou en nommant quelqu'un d'autre. Lorsque toutes les objections sont résolues, vérifiez à nouveau avec le candidat (final) s'il accepte le rôle.
 9. **Célébrer:** Saluez l'entente obtenue et remerciez la personne qui va maintenant porter le rôle.
 
 Pour éviter d'influencer les autres, abstenez-vous d'exprimer un intérêt personnel ou des opinions avant qu'une sélection ne se produise.
@@ -686,7 +686,7 @@ Considérations :
 - posez des questions pour mieux comprendre le retour, et évitez de le discuter ou de le juger
 - décidez vous-même ce que vous allez faire des retours que vous recevez
 
-###  Pattern 2.3: Evaluation par les pairs
+###  Pattern 2.3: Evaluation entre pairs
 
 **Soutenez-vous mutuellement pour apprendre et vous améliorer dans les rôles et équipes où vous servez.**
 
@@ -713,7 +713,7 @@ Un plan de développement (et toutes les recommandations accompagnant les change
 ![Un modèle pour les plans de développement](img/templates/development-plan-template.png)
 
 
-## Catalyseurs de collaboration 
+## Catalyser la collaboration 
 
 ###  Pattern 3.1: Participation élégante
 
@@ -796,7 +796,7 @@ Un facilitateur de gouvernance :
 
 - s'assure que les _réunions de gouvernance_ restent sur la bonne voie et sont évaluées
 - est (habituellement) sélectionné par une équipe parmi ses membres (et pour une durée spécifique)
-- se familiarise avec le _backlog de gouvernance_
+- se familiarise avec le _backlog (panier) de gouvernance_
 - invite souvent d'autres à faciliter certains points de l'ordre du jour
 
 En tant que facilitateur de gouvernance, envisagez d'apprendre et d'utiliser les pratiques S3 suivantes pour gérer efficacement la gouvernance :
@@ -807,7 +807,7 @@ En tant que facilitateur de gouvernance, envisagez d'apprendre et d'utiliser les
 - _Sélections des rôles_
 - _Evaluer les réunions_
 - _Intégrer les objections_
-- _Evaluation par les pairs_
+- _Evaluation entre pairs_
 
 ![Le facilitateur de gouvernance est typiquement membre de l'équipe](img/circle/facilitator.png)
 
@@ -992,7 +992,7 @@ Un rôle est un moyen simple pour une organisation (ou une équipe) de délégue
 - les porteurs de rôle sont sélectionnés par consentement pour une durée limitée
 - les pairs se soutiennent mutuellement pour évoluer dans les rôles qu'ils portent
 
-Les porteurs de rôle peuvent maintenir un backlog de gouvernance, et un registre pour définir et développer leur approche de l'apport de valeur.
+Les porteurs de rôle peuvent maintenir un backlog (panier) de gouvernance, et un registre pour définir et développer leur approche de l'apport de valeur.
 
 **Note:** Dans S3, les consignes, les processus ou protocoles créés par des individus dans leurs rôles sont traités comme des ententes.
 
@@ -1043,7 +1043,7 @@ Une équipe de soutien :
 Les membres de l'équipe de soutien :
 
 - peuvent objecter les décisions du délégant qui les affectent
-- peuvent ajouter des entrées au backlog de gouvernancedu délégant
+- peuvent ajouter des entrées au backlog (panier) de gouvernancedu délégant
 - peuvent être invités à sélectionner un _représentant_ pour participer aux décisions de gouvernance du délégant
 
 ![Equipe de soutien](img/structural-patterns/helping-team.png)
@@ -1074,7 +1074,7 @@ Les individus, les équipes et les organisations entières peuvent reconnaître 
 - Les **représentants des parties concernées** peuvent informer et influencer la prise de décision de manière à des objectifs plus globaux (voir _Les personnes impactées décident_)
 
 
-## Introduire S3 
+## Intégrer la S3 
 
 ###  Pattern 5.1: Adapter les pratiques au contexte
 
@@ -1109,7 +1109,7 @@ Changez les choses lorsqu'il y a un intérêt à le faire :
 
 Comportez-vous et agissez de la façon dont vous voudriez que les autres le fassent.
 
-###  Pattern 5.4: Inviter au changement
+###  Pattern 5.4: Inviter aux changements
 
 **Clarifiez la raison du changement et invitez les gens à participer.**
 
@@ -1220,7 +1220,7 @@ Une autre façon de clarifier un domaine est de remplir un [Canevas de Délégat
 
 Se mettre d'accord et consigner une description concise des résultats attendus.
 
-Le résultat attendu peut être utilisé pour définir les _critères d'évaluation_ et les métriques pour évaluer les résultats effectivement obtenus.
+Le résultat attendu peut être utilisé pour définir les _critères d'évaluation_ et les métriques (indicateurs) pour évaluer les résultats effectivement obtenus.
 
 ![Résultats attendus, et critères d'évaluation](img/templates/outcome-and-criteria.png)
 
@@ -1244,7 +1244,7 @@ Décrire précisément les livrables peut être utile pour améliorer la communi
 **Développez des critères d'évaluation bien définis pour déterminer si agir selon une entente a eu l'effet souhaité.**
 
 - choisir des critères **simples et sans ambiguïté** et les documentez (pour éviter des discussions inutiles lors de l'évaluation de vos ententes)
-- définir des **métriques actionnables** pour suivre en permanence les effets et repérer les écarts au résultat attendu
+- définir des **métriques (indicateurs) actionnables** pour suivre en permanence les effets et repérer les écarts au résultat attendu
 - envisager d'ajouter des critères qui précisent lorsque le résultat d'une entente sera considéré comme **non réussi**
 - lors de l'évaluation d'une entente, pensez à **faire évoluer les critères d'évaluation** en fonction de ce que vous avez appris
 
@@ -1268,7 +1268,7 @@ Contenu relatif à une équipe particulière ou un rôle:
 
 - la description et la stratégie du domaine
 - ententes (en précisant les délégués, les descriptions de domaine, stratégies et _plans de développement_)
-- Les backlogs et autres informations relatives au travail et à la gouvernance
+- Les backlogs (paniers) et autres informations relatives au travail et à la gouvernance
 
 ###  Pattern 6.8: Gardien du registre
 
@@ -1298,14 +1298,14 @@ Une réunion de gouvernance est habituellement :
 
 Le déroulé d'une réunion de gouvernance typique comprend :
 
-- ouverture: _inclusion_ et rappel de l'objectif de la réunion
+- ouverture: _accueil_ et rappel de l'objectif de la réunion
 - questions administratives 
     - vérifier le consentement au procès-verbal de la dernière réunion
     - s'entendre sur une date pour la prochaine réunion
     - vérifier s'il y a des points de dernière minute à l'ordre du jour et confirmer l'agenda
 - points de l'ordre du jour 
 - _évaluation de réunion_: repenser aux interactions, célébrer les succès et faire part de ses suggestions d'amélioration
-- fermeture : tour d'inclusion avant de quitter la réunion
+- fermeture : tour de départ avant de quitter la réunion
 
 ![Phases d'une réunion de gouvernance](img/meetings/governance-meeting.png)
 
@@ -1332,7 +1332,7 @@ Un ordre du jour typique inclut :
 
 #### Les cinq phases d’une réunion de rétrospective
 
-1. Planter le décor 
+1. Situer le contexte 
 2. Rassembler les données
 3. En tirer des connaissances
 4. Décider quoi faire
@@ -1340,7 +1340,7 @@ Un ordre du jour typique inclut :
 
 De nombreuses activités pour chaque phase peuvent être trouvées sur [plans-for-retrospectives.com](http://www.plans-for-retrospectives.com/)
 
-###  Pattern 7.3: Standup quotidien
+###  Pattern 7.3: Point quotidien
 
 **Réunissez-vous chaque jour pour coordonner le travail, faciliter l'apprentissage, et améliorer votre productivité et votre efficacité.**
 
@@ -1351,7 +1351,7 @@ De nombreuses activités pour chaque phase peuvent être trouvées sur [plans-fo
     - adresser les obstacles/freins
     - adapter les ententes existantes ou en créer de nouvelles sur-le-champ
 
-![Le standup quotidien est une réunion essentielle pour les équipes auto-organisées.](img/meetings/planning-review-standup.png)
+![Le point quotidien est une réunion essentielle pour les équipes auto-organisées.](img/meetings/planning-review-standup.png)
 
 ###  Pattern 7.4: Réunions de planification et d'évaluation
 
@@ -1447,7 +1447,7 @@ Pour chaque point de l'ordre du jour, convenez :
 - mettez des objections à l'ordre du jour et, si possible, résolvez-les avant la réunion
 - examinez les suggestions d'amélioration de l'évaluation de la dernière réunion et réfléchissez à comment **vous** pourriez les prendre en compte
 
-###  Pattern 8.4: Inclusion
+###  Pattern 8.4: Tour d'accueil
 
 **Aidez les gens à prendre conscience d'eux même et des autres, à se concentrer, à être présents et à s'impliquer.**
 
@@ -1455,7 +1455,7 @@ A votre tour, divulguez brièvement quelque chose à propos de vous et sur la fa
 
 Le tour d'accueil peut prendre la forme d'un tour d'ouverture ou de fermeture dans une réunion de groupe ou juste un bref échange dans une réunion à deux.
 
-Vous pouvez également demander un tour d'inclusion en groupe lors d'une réunion ou même choisir de vous lancer individuellement chaque fois que vous pensez que c'est utile pour le groupe.
+Vous pouvez également demander un tour d'accueil en groupe lors d'une réunion ou même choisir de vous lancer individuellement chaque fois que vous pensez que c'est utile pour le groupe.
 
 Dans un tour d'accueil en groupe, permettez aux gens de passer s'ils le souhaitent.
 
@@ -1510,41 +1510,41 @@ Préparation :
 
 **Voir aussi : ** _Faciliter les réunions_, _Préparer les réunions_
 
-###  Pattern 8.7: Backlog de gouvernance
+###  Pattern 8.7: Backlog (panier) de gouvernance
 
-_Un **backlog de gouvernance** est une liste visible, priorisée de points (intentions) qui sont en lien avec la gouvernance d'un domaine et en attente de traitement._
+_Un **backlog (panier) de gouvernance** est une liste visible, priorisée de points (intentions) qui sont en lien avec la gouvernance d'un domaine et en attente de traitement._
 
-Un backlog de gouvernance contient :
+Un backlog (panier) de gouvernance contient :
 
 - des questions nécessitant une décision
 - des propositions à créer et considérer
 - la sélection de candidats pour des rôles
 
-**Note:** Les compte-rendus à venir et les ententes à revoir sont généralement ajoutés directement à l'ordre du jour (plutôt que dans le backlog).
+**Note:** Les compte-rendus à venir et les ententes à revoir sont généralement ajoutés directement à l'ordre du jour, plutôt que dans le backlog (panier).
 
 
 ## Organiser le travail 
 
-###  Pattern 9.1: Backlog
+###  Pattern 9.1: Backlog (panier)
 
-_Un **backlog** (to-do-list) est une liste (souvent priorisée) d'éléments de travail inachevés (livrables), ou d'intentions qui doivent être traitées._
+_Un **backlog** (panier) est une liste (souvent priorisée) d'éléments de travail inachevés (livrables), ou d'intentions qui doivent être traitées._
 
-Pensez à rendre les backlogs visibles, pas seulement aux membres de l'équipe, mais aussi à toute l'organisation.
+Pensez à rendre les backlogs (paniers) visibles, pas seulement aux membres de l'équipe, mais aussi à toute l'organisation.
 
-Les types de backlog incluent :
+Les types de backlog (paniers) incluent :
 
-- backlog de gouvernance
-- backlog des opérations
-- backlog de _sprint_
-- backlog de produit
-- backlog des obstacles
+- backlog (panier) de gouvernance
+- backlog (panier) des opérations
+- backlog (panier) de _sprint_
+- backlog (panier) de produit
+- backlog (panier) des obstacles
 
 **Implémentation :**
 
-- **backlog physique : ** post-its sur le mur, fiches cartonnées, magnets et tableau blanc
-- **backlog numérique:** e.g. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
+- **backlog (panier) physique : ** post-its sur le mur, fiches cartonnées, magnets et tableau blanc
+- **backlog (panier) numérique:** e.g. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
-Chaque entrée d'un backlog (priorisé) contient typiquement :
+Chaque entrée d'un backlog (panier) priorisé contient typiquement :
 
 - une **brève description** d'un livrable ou d'une intention
 - un **numéro de référence unique** (ou lien) pour chaque tâche
@@ -1554,13 +1554,13 @@ Chaque entrée d'un backlog (priorisé) contient typiquement :
 - (optionnel) une estimation de **valeur** 
 - (optionnel) une estimation des **investissements** (souvent de temps ou de complexité)
 
-###  Pattern 9.2: Prioriser les backlogs
+###  Pattern 9.2: Prioriser les backlogs (paniers)
 
 **Ordonnez tous les éléments de travail inachevés en partant des plus importants, puis dépilez par le haut lorsqu'il y a une nouvelle capacité.**
 
 Il ne peut y avoir deux éléments de même importance, ce qui signifie qu'il est nécessaire de s'entendre sur les priorités et faire des choix difficiles.
 
-Un backlog priorisé aide à **rester concentré** sur les éléments les plus importants.
+Un backlog (panier) priorisé aide à **rester concentré** sur les éléments les plus importants.
 
 ###  Pattern 9.3: Visualiser le travail
 
@@ -1600,7 +1600,7 @@ Tirer le travail évite de surcharger le système, en particulier lorsque le _tr
 
 Le travail en cours inclut :
 
-- le nombre d'éléments dans un backlog
+- le nombre d'éléments dans un backlog (panier)
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 
@@ -1610,16 +1610,16 @@ Lorsqu'une nouvelle action ferait dépasser la limite du nombre d'éléments en 
 
 **Définissez une contrainte de temps pour rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.**
 
-_Une **timebox** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite)._
+_Une **timebox (bloc de temps)** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite)._
 
-- pour tirer partie de la timebox, soyez au clair sur ce que vous souhaitez accomplir
-- accordez-vous sur la durée de la timebox et visualisez le temps qui s'écoule
-- négociez et soyez d'accord pour étendre une timebox avant que le temps ne soit écoulé
-- décomposez les activités les plus longues en petites timeboxes gérables
+- pour tirer partie de la timebox (bloc de temps), soyez au clair sur ce que vous souhaitez accomplir
+- accordez-vous sur la durée de la timebox (bloc de temps) et visualisez le temps qui s'écoule
+- négociez et soyez d'accord pour étendre une timebox (bloc de temps) avant que le temps ne soit écoulé
+- décomposez les activités les plus longues en petites timeboxes (blocs de temps) gérables
 - envisagez une évaluation fréquente de votre avancement
 - envisagez de choisir quelqu'un (le "gardien du temps") afin d'aider les autres à rester conscients du temps
 
-Vous pouvez utiliser les timeboxes pour :
+Vous pouvez utiliser les timeboxes (blocs de temps) pour :
 
 - les réunions, les appels, les discussions
 - les tâches
@@ -1702,7 +1702,7 @@ Les cercles délégués fournissent un moyen de piloter les organisations en pha
 
 Un cercle délégué peut amener d'autres personnes (ex: des experts externes) pour l'aider à prendre des décisions particulières, ou même en tant que membre du cercle.
 
-###  Pattern 10.3: Organisation centrifuge
+###  Pattern 10.3: Organisation décentralisée
 
 **Délivrez de la valeur dans les environnements complexes et compétitifs à travers la *décentralisation* (des ressources et de l'influence) et *l'interaction directe* entre ceux qui créent la valeur et les clients qu'ils servent.**
 
@@ -1715,7 +1715,7 @@ Le centre fournit des services internes pour soutenir l'organisation.
 
 Les domaines sont liés si nécessaire pour que l'information circule et pour s'influencer, et pour collaborer autour des dépendances.
 
-![Organisation centrifuge](img/structural-patterns/peach-organization.png)
+![Organisation décentralisée](img/structural-patterns/peach-organization.png)
 
 ###  Pattern 10.4: Hiérarchie à double lien
 
@@ -1831,7 +1831,7 @@ Les deuxième et troisième niveaux :
 - élargissement de l'introduction avec plus d'informations sur S3 et l'historique de la sociocratie qui n'était auparavant disponibles que sur le site principal de S3
 - mise à jour de la section sur la gouvernance dans l’introduction
 - légendes ajoutées à toutes les illustrations
-- renommé du groupe de pratiques “Catalyseurs de co-creation” en “catalyseurs de collaboration”
+- renommé du groupe de pratiques “Catalyseurs de co-creation” en “catalyser la collaboration”
 - suppression de la version du slide deck et amélioration de l’agencement et du formatage des versions pdf et ePub
 - version site : ajout d’une carte cliquable des pratiques pour une navigation plus simple et des références au glossaire à de nombreuses pratiques
 
@@ -1900,9 +1900,9 @@ Les deuxième et troisième niveaux :
 - _Critères d'évaluation_: suggéré de clarifier un seuil de réussite, et nous avons expliqué que nous faisons évoluer également les critères d'évaluation avec les ententes
 - _Faciliter les réunions_: description améliorée
 - _Organisation Fractale_: description étendue et améliorée
-- _Backlog de gouvernance_: description améliorée
+- _Backlog (panier) de gouvernance_: description améliorée
 - _Réunion de gouvernance_: description améliorée, éléments de l'ordre du jour clarifiés
-- _Inviter au changement_: la description se concentre maintenant sur *comment* inviter au changement
+- _Inviter aux changements_: la description se concentre maintenant sur *comment* inviter aux changements
 - _Lien_: description alignée à _Double lien_
 - _Registre_: précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
 - _Naviguer par tension_: description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par tension*, *Décrire les intentions organisationnelles* et *Répondre aux intentions organisationnelles*
@@ -1910,7 +1910,7 @@ Les deuxième et troisième niveaux :
 - _Domaine ouvert_: description améliorée et illustration mise à jour
 - _Systèmes ouverts_: description améliorée
 - _Changement par forum ouvert_: nouveau nom de *Adoption ouverte de la S3*, description améliorée
-- _Organisation centrifuge_: relation clarifiée entre la périphérie et le centre
+- _Organisation décentralisée_: relation clarifiée entre la périphérie et le centre
 - _Élaborer une proposition_: texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
 - _Représentant_: description améliorée
 - _Intégrer les objections_: mise à jour des deux illustrations
@@ -1929,7 +1929,7 @@ Les deuxième et troisième niveaux :
 
 **Pratiques ajoutées :**
 
-- _Inclusion_
+- _Tour d'accueil_
 - _Co-créer des propositions_
 - _Préparer les réunions_
 - _Timeboxer les activités_
@@ -1986,19 +1986,19 @@ Les deuxième et troisième niveaux :
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec double-lien*: nouvelle illustration
 - *Evaluer les ententes* : aligner les questions sur l'évaluation par les pairs
-- *Backlog de gouvernance*: description améliorée
+- *Backlog (panier) de gouvernance*: description améliorée
 - *Registre*: ajouts de détails sur la gouvernance au registre personnel
 - *Objections* : clarification de la qualification des objections
-- *Evaluation par les pairs*: description améliorée
+- *Evaluation entre pairs*: description améliorée
 - *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
-- *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
+- *Rôle* : le détenteur du rôle peut garder à jour un backlog (panier) de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
 - *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Résoudre les objections* : illustration mise à jour pour mieux refléter le processus
 
 **Pratiques renommées :**
 
 - * Organisation vertébrale* a *organisation de services*
-- *Évaluation d'efficacité* a *Evaluation par les pairs*
+- *Évaluation d'efficacité* vers *Evaluation entre pairs*
 - *Stratégie* à *Développer la stratégie*
 - *Description du domaine* à *Clarifier les domaines*
 - *Description des livrables* à *Décrire les livrables*
@@ -2100,7 +2100,7 @@ Je discuterai d'éventuelles objections concernant les pratiques S3 dans mon gro
 
 Le contenu de Sociocratie 3.0 reflète l’expérience accumulée et la sagesse de contributeurs sur plusieurs générations. Ces personnes ont partagé une quête commune : développer des moyens plus efficaces, harmonieux et conscients de collaborer ensemble.
 
-Une reconnaissance toute particulière envers Gerard Endenburg et d'autres, qui, sur plusieurs années, ont investi un temps considérable afin d'améliorer et de documenter la méthode d’organisation en cercles sociocratiques, qui a contribué et a inspiré le développement de la Sociocratie 3.0.
+Une reconnaissance toute particulière envers Gerard Endenburg et d'autres, qui, sur plusieurs années, ont investi un temps considérable afin d'améliorer et de documenter la Méthode d'Organisation en Cercles Sociocratique, ce qui a inspiré contribué et au développement de la Sociocratie 3.0.
 
 Nous aimerions également reconnaître tous ceux qui ont travaillé de manière approfondie pour faciliter l’émergence d’un état d'esprit plus agile et plus lean, et ceux qui ont développé et partagé diverses pratiques avec le monde.
 
@@ -2150,13 +2150,13 @@ Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, 
 **Auto-organisation:** Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l'influence d'un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l'auto-organisation et l'influence externe coexistent.
 
 
-**Backlog:** Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
+**Backlog (panier):** Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
 
 
-**Backlog de gouvernance:** Une liste explicite ordonnée par priorité de tâches en attente de traitement (moteurs) en lien à la gouvernance d'un domaine.
+**Backlog (panier) de gouvernance:** Une liste explicite ordonnée par priorité de tâches en attente de traitement (intentions) en lien à la gouvernance d'un domaine.
 
 
-**Backlog des opérations:** Une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
+**Backlog (panier) des opérations:** Une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
 
 
 **Besoin:** L'absence de quelque chose de voulu ou jugé nécessaire (une exigence).
@@ -2303,7 +2303,7 @@ Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, 
 **Tensions:** Une expérience personnelle, un symptôme de dissonance entre la perception d'une situation par un individu, et ses attentes ou préférences.
 
 
-**Timebox:** Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
+**Timebox (bloc de temps):** Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
 
 
 **Tour d'accueil:** Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant vos pensées, vos sentiments, des distractions ou des besoins.

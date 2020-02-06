@@ -79,5 +79,5 @@ Quelques questions utiles pour une évaluation :
 - La tension est-elle toujours dans notre domaine?
 - L'intention est-elle toujours pertinente ?
 
-[&#9654; Décision par consentement](consent-decision-making.html)<br/>[&#9664; Naviguer par tension](navigate-via-tension.html)<br/>[&#9650; Co-création et évolution](co-creation-and-evolution.html)
+[&#9654; Décision par consentement](consent-decision-making.html)<br/>[&#9664; Naviguer par tension](navigate-via-tension.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 
