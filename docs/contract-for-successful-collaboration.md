@@ -73,5 +73,5 @@ Chaque contrat influence la culture de la collaboration qu'il régit, même lors
 
 Si vous trouvez que les contrats standard dans votre secteur ne sont pas en harmonie avec la culture que vous voulez créer, construisez votre propre référentiel de modèles de contrats et clauses et envisagez de le partager avec d'autres, afin que vous puissiez bénéficier de l'expérience passée lors de la création de nouveaux contrats.
 
-[&#9654; Transparence salariale](transparent-salary.html)<br/>[&#9664; Enfreindre les ententes](breaking-agreements.html)<br/>[&#9650; Catalyseurs de collaboration](enablers-of-collaboration.html)
+[&#9654; Transparence salariale](transparent-salary.html)<br/>[&#9664; Enfreindre les ententes](breaking-agreements.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
 

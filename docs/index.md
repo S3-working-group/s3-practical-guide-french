@@ -12,11 +12,11 @@ Pour plus d'informations sur la Sociocratie 3.0 et plus de ressources gratuites
 
 ## Groupes de pratiques
 
-- [Co-création et évolution](co-creation-and-evolution.html)
+- [Co-créer et évoluer](co-creation-and-evolution.html)
 - [Se développer entre pairs](peer-development.html)
-- [Catalyseurs de collaboration](enablers-of-collaboration.html)
+- [Catalyser la collaboration](enablers-of-collaboration.html)
 - [Construire les organisations](building-organizations.html)
-- [Introduire S3](bringing-in-s3.html)
+- [Intégrer la S3](bringing-in-s3.html)
 - [Elaborer des ententes](defining-agreements.html)
 - [Interactions ciblées](focused-interactions.html)
 - [Pratiques de réunion](meeting-practices.html)

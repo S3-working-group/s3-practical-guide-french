@@ -13,5 +13,5 @@ Consignez :
 - l'influence des propriétaires ou actionnaires
 - le partage des gains et des coûts
 
-[&#9654; Construire les organisations](building-organizations.html)<br/>[&#9664; Rôle de soutien](support-role.html)<br/>[&#9650; Catalyseurs de collaboration](enablers-of-collaboration.html)
+[&#9654; Construire les organisations](building-organizations.html)<br/>[&#9664; Rôle de soutien](support-role.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
 

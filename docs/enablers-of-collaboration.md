@@ -1,5 +1,5 @@
 ---
-title: "Catalyseurs de collaboration"
+title: "Catalyser la collaboration"
 ---
 
 - [Participation élégante](artful-participation.html)

@@ -28,5 +28,5 @@ Faites un [tour de table](round.html) pour réfléchir à n'importe lequel des s
 - axes et suggestions d'amélioration (j'aimerais...)
 - idées folles et suggestions radicales (et si...)
 
-[&#9654; Hôte de réunion](meeting-host.html)<br/>[&#9664; Inclusion](check-in.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
+[&#9654; Hôte de réunion](meeting-host.html)<br/>[&#9664; Tour d'accueil](check-in.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
 

@@ -15,5 +15,5 @@ Les contractuels externes acceptent de prendre leur rôle.
 
 **Voir aussi:** [Contrat de collaboration réussie](contract-for-successful-collaboration.html)
 
-[&#9654; Statuts et règlements](bylaws.html)<br/>[&#9664; Transparence salariale](transparent-salary.html)<br/>[&#9650; Catalyseurs de collaboration](enablers-of-collaboration.html)
+[&#9654; Statuts et règlements](bylaws.html)<br/>[&#9664; Transparence salariale](transparent-salary.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
 

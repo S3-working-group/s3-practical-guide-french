@@ -10,11 +10,11 @@ title: Glossaire
 
 **Auto-organisation:** Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l'influence d'un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l'auto-organisation et l'influence externe coexistent.
 
-**Backlog:** Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
+**Backlog (panier):** Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
 
-**Backlog de gouvernance:** Une liste explicite ordonnée par priorité de tâches en attente de traitement (moteurs) en lien à la gouvernance d'un domaine.
+**Backlog (panier) de gouvernance:** Une liste explicite ordonnée par priorité de tâches en attente de traitement (intentions) en lien à la gouvernance d'un domaine.
 
-**Backlog des opérations:** Une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
+**Backlog (panier) des opérations:** Une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
 
 **Besoin:** L'absence de quelque chose de voulu ou jugé nécessaire (une exigence).
 
@@ -112,7 +112,7 @@ title: Glossaire
 
 **Tensions:** Une expérience personnelle, un symptôme de dissonance entre la perception d'une situation par un individu, et ses attentes ou préférences.
 
-**Timebox:** Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
+**Timebox (bloc de temps):** Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
 
 **Tour d'accueil:** Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant vos pensées, vos sentiments, des distractions ou des besoins.
 

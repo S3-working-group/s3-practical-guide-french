@@ -15,7 +15,7 @@ Une équipe de soutien :
 Les membres de l'équipe de soutien :
 
 - peuvent objecter les décisions du délégant qui les affectent
-- peuvent ajouter des entrées au <dfn data-info="Backlog de gouvernance: Une liste explicite ordonnée par priorité de tâches en attente de traitement (moteurs) en lien à la gouvernance d&apos;un domaine.">backlog de gouvernance</dfn>du délégant
+- peuvent ajouter des entrées au <dfn data-info="Backlog (panier) de gouvernance: Une liste explicite ordonnée par priorité de tâches en attente de traitement (intentions) en lien à la gouvernance d&apos;un domaine.">backlog (panier) de gouvernance</dfn>du délégant
 - peuvent être invités à sélectionner un [représentant](representative.html) pour participer aux décisions de gouvernance du délégant
 
 ![Equipe de soutien](img/structural-patterns/helping-team.png)

@@ -7,7 +7,7 @@ title: "Limiter le travail en cours"
 
 Le travail en cours inclut :
 
-- le nombre d'éléments dans un <dfn data-info="Backlog: Une liste explicite et priorisée d&apos;éléments de travail (livrables) ou d&apos;intention en attente de traitement.">backlog</dfn>
+- le nombre d'éléments dans un <dfn data-info="Backlog (panier): Une liste explicite et priorisée d&apos;éléments de travail (livrables) ou d&apos;intention en attente de traitement.">backlog (panier)</dfn>
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 

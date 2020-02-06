@@ -10,5 +10,5 @@ Les individus, les équipes et les organisations entières peuvent reconnaître 
 - Les **experts externes** peuvent offrir une perspective extérieure et apporter des connaissances, leur compréhension et des compétences
 - Les **représentants des parties concernées** peuvent informer et influencer la prise de décision de manière à des objectifs plus globaux (voir [Les personnes impactées décident](those-affected-decide.html))
 
-[&#9654; Introduire S3](bringing-in-s3.html)<br/>[&#9664; Domaine ouvert](open-domain.html)<br/>[&#9650; Construire les organisations](building-organizations.html)
+[&#9654; Intégrer la S3](bringing-in-s3.html)<br/>[&#9664; Domaine ouvert](open-domain.html)<br/>[&#9650; Construire les organisations](building-organizations.html)
 
