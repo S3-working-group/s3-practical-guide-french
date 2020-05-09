@@ -27,20 +27,28 @@ site:
 
 	# split introduction into intro and concepts/principles
 	awk '{print >out}; /<!-- split here -->/{out="$(DOCS_TMP)/concepts-and-principles-content.md"}' out=$(DOCS_TMP)/introduction-content.md docs/introduction.md
-	$(MKTPL) templates/docs/introduction.md $(DOCS_TMP)/intro_tmpl.md $(LOC) $(PRJ)
+	$(MKTPL) templates/website/introduction.md $(DOCS_TMP)/intro_tmpl.md $(LOC) $(PRJ)
 	cd $(DOCS_TMP); multimarkdown --to=mmd --output=../../docs/introduction.md intro_tmpl.md
-	$(MKTPL) templates/docs/concepts-and-principles.md $(DOCS_TMP)/concepts_tmpl.md $(LOC) $(PRJ)
+	$(MKTPL) templates/website/concepts-and-principles.md $(DOCS_TMP)/concepts_tmpl.md $(LOC) $(PRJ)
 	cd $(DOCS_TMP); multimarkdown --to=mmd --output=../../docs/concepts-and-principles.md concepts_tmpl.md
 	
 	# prepare templates
-	$(MKTPL) templates/docs/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
-	$(MKTPL) templates/docs/_layouts/plain.html docs/_layouts/plain.html $(LOC) $(PRJ)
-	$(MKTPL) templates/docs/_config.yml docs/_config.yml $(LOC) $(PRJ)
-	$(MKTPL) templates/docs/CNAME docs/CNAME $(LOC) $(PRJ)
+	$(MKTPL) templates/website/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
+	$(MKTPL) templates/website/_layouts/plain.html docs/_layouts/plain.html $(LOC) $(PRJ)
+	$(MKTPL) templates/website/_config.yml docs/_config.yml $(LOC) $(PRJ)
+	$(MKTPL) templates/website/CNAME docs/CNAME $(LOC) $(PRJ)
 	$(MKTPL) content/website/_includes/footer.html docs/_includes/footer.html $(LOC) $(PRJ)
-	cp templates/docs/map.md docs/map.md
-	$(MKTPL)  templates/docs/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
+	cp templates/website/map.md docs/map.md
+	$(MKTPL) templates/website/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
 	cp content/website/_includes/header.html docs/_includes/header.html
+	cp content/website/_templates/404.md docs/404.md
+
+	# build the single page version
+	$(MKTPL) templates/single-page--master.md $(EBOOK_TMP)/single-page--master.md $(LOC) $(PRJ)
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) $(EBOOK_TMP)/ --glossary=$(GLOSSARY)
+	# transclude all to one file 
+	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
 
 	# build the site
 	cd docs;jekyll build
@@ -105,16 +113,6 @@ ebook:
 	# clean up
 	cd $(EBOOK_TMP); latexmk -C
 
-single:
-	$(update-make-conf)
-
-	$(MKTPL) templates/single-page--master.md $(EBOOK_TMP)/single-page--master.md $(LOC) $(PRJ)
-
-	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) $(EBOOK_TMP)/ --glossary=$(GLOSSARY)
-	# transclude all to one file 
-	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
-
 gitbook:
 	mdslides build gitbook $(CONFIG) $(SOURCE) gitbook/ --glossary=$(GLOSSARY)
 
@@ -139,9 +137,9 @@ setup:
 	-mkdir -p $(TMPSUP)
 	-mkdir docs/_site
 
-	# images for ebook
+	# update version number in content
 ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
-	rm -r $(EBOOK_TMP)/img
+	$(MKTPL) templates/version.txt content/version.txt $(LOC) $(PRJ)
 endif
 	cp -r img $(EBOOK_TMP)/img
 
@@ -158,6 +156,7 @@ ifneq ("$(wildcard docs/img)","")
 	rm -r docs/img
 endif
 	cp -r img docs/img
+
 ifneq ("$(wildcard gitbook/img)","")
 	# rm -r gitbook/img
 endif
