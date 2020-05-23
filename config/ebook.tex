@@ -1,22 +1,24 @@
-\documentclass[french,a5paper]{scrreprt}
+\documentclass[a5paper]{scrreprt}
+\usepackage[french]{babel} % French lanugage
 \usepackage{ebook-style}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\graphicspath{ {../../} }
 
 
-\begin{document}
-	\title{${_("Sociocracy 3.0 - A Practical Guide")}}
-	\author{Bernhard Bockelbrink\\James Priest\\Liliana David}
-	\date{${version}}
-	\maketitle
+\title{${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}}
+\author{Bernhard Bockelbrink\\James Priest\\Liliana David}
+\date{${version}}
+\titlepic{\includegraphics[width=6cm]{img/framework/logo.png}}
 	
+\begin{document}
+	\maketitle
+	% different title for toc
+	\renewcommand{\contentsname}{${_("Contents")}}
 	\pagenumbering{arabic}
 	% limit toc to sections
-	\setcounter{tocdepth}{0}
+	\setcounter{tocdepth}{1}
 	\tableofcontents
 	% reset counter for list of figures
-	\setcounter{tocdepth}{1}
-	%\listoffigures
-    
     \include{tmp-ebook-compiled}
-\end {document}
+	\setcounter{tocdepth}{1}
+	\listoffigures
+\end{document}

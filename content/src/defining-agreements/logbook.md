@@ -1,30 +1,21 @@
-## Journal de bord (carnet)
+## Registre
 
-Un carnet est un système numérique pour conserver toutes les informations pertinentes au fonctionnement de l'organisation ou d'un cercle. Tous les membres de l'organisation ont accès aux carnets. Mais l'information peut être gardée secrète s'il y a une bonne raison de le faire.
+**Maintenez un système cohérent et accessible qui conserve toutes les informations nécessaires à la collaboration.**
 
-Les carnets peuvent prendre différentes formes telles des Wikis (Dokuwiki, MediaWiki), CMS (Wordpress, Drupal...) ou d'autres systèmes (Google Drive, Evernote, Trello, etc.).
+Un registre est un support (numérique) pour conserver toutes les informations pertinentes au fonctionnement d'un organisation et de ses équipes. Tous les membres de l'organisation ont accès au registre et l'information n'est gardée confidentielle que s'il y a une bonne raison de le faire.
 
-* * *
+Les outils typiques pour tenir les registres sont les wikis (par exemple [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), les systèmes de gestion de contenu (par exemple[Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) ou même [Trello](https://trello.com/).
 
-### Contenu des carnets
+### Contenu du registre
 
-- Organisation :
-    
-    - moteur primaire, stratégie et valeurs organisationnelles
-    - structure organisationnelle (domaines et connexions)
-    - ententes 
+Contenu relatif à l'ensemble de l'organisation :
 
-- Cercle :
-    
-    - description du cercle et stratégie
-    - ententes (y compris les descriptions des domaines des délégués, les stratégies et les plans d'évolution)
-    - les demandes en attente (backlog) et les autres informations liées au travail d'un cercle et sa gouvernance
+- [intention primaire](glossary:primary-driver), [stratégie](glossary:strategy) et [valeurs](glossary:values) de l'organisation
+- structure organisationnelle ([domaines](glossary:domain) et les connexions entre eux)
+- [ententes](glossary:agreement) 
 
-* * *
+Contenu relatif à une équipe particulière ou un [rôle](glossary:role):
 
-### Contenu des carnets (suite)
-
-- Carnets personnels 
-    - descriptions des domaines, stratégies et plans d'évolution
-    - gouvernance et backlogs opérationnels pour les rôles
-    - décisions liées à la production de valeur dans un rôle
+- la description et la stratégie du domaine
+- ententes (en précisant les [délégués](glossary:delegatee), les descriptions de domaine, stratégies et [plans de développement](section:development-plan))
+- Les [backlogs (paniers)](glossary:backlog) et autres informations relatives au travail et à la [gouvernance](glossary:governance)

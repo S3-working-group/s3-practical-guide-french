@@ -1,11 +1,13 @@
 ---
-title: "Système de travail basé sur les demandes"
+title: "Travail en flux tiré"
 ---
 
 
-- les membres prennent des tâches lorsqu'ils le peuvent (plutôt que de se faire assigner des tâches)
-- priorisez les tâches disponibles pour vous assurer que les plus importantes soient réalisées rapidement
-- empêche une surcharge du système, surtout lorsque le travail en cours par personne est limité
+**Les personnes tirent de nouveaux éléments de travail lorsqu'elles ont la capacité de les traiter (au lieu que travail leur soit poussé ou affecté).**
 
-[&#9654; Limiter le travail en cours](limit-work-in-progress.html)<br/>[&#9664; Visualisation du travail](visualize-work.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+Priorisez les éléments de travail pour assurer que les éléments importants soient traités en premier.
+
+Tirer le travail évite de surcharger le système, en particulier lorsque le [travail en cours (WIP) par personne ou par équipe est limité](limit-work-in-progress.html).
+
+[&#9654; Limiter le travail en cours](limit-work-in-progress.html)<br/>[&#9664; Visualiser le travail](visualize-work.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
 

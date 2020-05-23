@@ -1,14 +1,34 @@
-## Élection des rôles
+## Sélection des rôles
 
-![right,fit](img/agreements/selection.png)
+**Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.**
 
-**Un processus de groupe pour sélectionner les détenteurs des rôles.**
+Au lieu de simplement affecter des personnes aux [rôles](section:role), ou de faire un choix basé uniquement sur la majorité, utilisez le processus de sélection de rôles pour :
 
-- Les personnes évitent d'afficher leur intérêt avant la sélection
-- Les nominations sont effectuées par la force de la raison, pas selon la majorité
-- Vous pouvez vous nominer vous-même ou passer votre tour
-- Lorsque vous vérifiez qu'il n'y ait pas d'objections, demandez à la personne nominée en dernier
+- exploiter l'intelligence collective en entendant et en délibérant sur les raisons de la nomination
+- augmenter l'appropriation de la décision
+- assurer le soutien des personnes impactées au porteur de rôle.
 
-Les objections à un nominé peuvent être résolues de multiples façons, y compris amender les descriptions du domaine du rôle ou la nomination d'une autre personne.
+Une condition préalable au processus de sélection est une [description claire](section:clarify-domains) du [domaine](glossary:domain).
 
-**Note:** Cette pratique peut aussi être utilisée pour sélectionner une option parmi d'autres dans d'autres circonstances.
+### Sélection de rôles - Étapes
+
+![Processus de sélection de rôles](img/agreements/selection.png)
+
+1. **Présenter la description du rôle:** Si possible, envoyez la description de domaine du rôle à l'avance.
+2. **Consigner les nominations:** Les participants mettent le nom de leur candidat sur un bout de papier. Les gens peuvent se nominer eux-mêmes, un autre, ou passer.
+3. **Raisons pour les nominations:** Chaque personne montre qui elle a proposé et explique pourquoi.
+4. **Collecte d'informations:** Les participants partagent ou demandent des informations qui pourraient soutenir le groupe a faire une sélection appropriée.
+5. **Changements de nomination:** Vérifiez si quelqu'un veut changer sa candidature à la lumière des raisons et des informations partagées jusqu'à présent, et entendre les raisons de chaque changement.
+6. **Proposer un candidat** pour le rôle : Le facilitateur guide le processus pour identifier un candidat adéquat sur la force des raisons entendues, par exemple en : 
+    - proposant un candidat lui-même ou en demandant à un membre du groupe
+    - invitant (certains) candidats à s'entendre sur qui devrait être proposé
+    - invitant le dialogue de groupe pour révéler le candidat le plus solide
+7. **Vérifier les objections:** Demandez aux participants (y compris au candidat proposé) de signaler simultanément s'ils ont une [objection](glossary:objection). 
+8. **Intégrer les objections,** en commençant par n'importe quel candidat proposé. [Les objections peuvent être résolues](section:resolve-objections) de plusieurs façons, y compris la modification de la description de domaine du rôle ou en nommant quelqu'un d'autre. Lorsque toutes les objections sont résolues, vérifiez à nouveau avec le candidat (final) s'il accepte le rôle.
+9. **Célébrer:** Saluez l'entente obtenue et remerciez la personne qui va maintenant porter le rôle.
+
+Pour éviter d'influencer les autres, abstenez-vous d'exprimer un intérêt personnel ou des opinions avant qu'une sélection ne se produise.
+
+Parfois, une sélection de rôles révèle un manque de capacité, d'expérience significative, de qualités ou de compétences. Un groupe devra alors envisager des candidats extérieurs, reconsidérer les priorités ou trouver une autre façon de s'occuper du domaine.
+
+Cette pratique peut également être utilisée dans toute situation où il est nécessaire de choisir entre plusieurs options.

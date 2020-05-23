@@ -1,18 +1,15 @@
 ## Développer la stratégie
 
-![right,fit](img/driver-domain/driver-strategy-agreements-domain.png)
-
 {{define:strategy}}
 
-- une organisation, groupe ou détenteur de rôle développent leur propre stratégie
-- une stratégie inclut souvent une description des résultats attendus
-- comme le déléguant partage la responsabilité du domaine, il est utile d'examiner la stratégie, d'identifier les obstacles potentiels et suggérer des améliorations 
-- la stratégie est une entente partagée entre le déléguant et le délégué qui est régulièrement ré-examinée et mise à jour comme nécessaire (*"pivotez ou persévérez"*)
+Il est généralement plus efficace qu'une équipe ou un porteur de rôle mène l'élaboration de sa propre stratégie.
 
-* * *
+Une stratégie comprend souvent une description du [résultat attendu](glossary:intended-outcome) par sa mise en œuvre.
 
-## Stratégie (cont.)
+Puisque le [délégant](glossary:delegator) partage la redevabilité des [domaines](glossary:domain) qu'il délègue, il est intéressant qu'il évalue la stratégie d'un [délégué](glossary:delegatee), afin de vérifier la présence d'obstacles potentiels et de suggérer des façons de l'améliorer.
 
-### Les stratégies sont implémentées et améliorées par les expériences et l'apprentissage.
+Une stratégie est une entente partagée entre délégant(s) et délégué(s) qui est régulièrement évaluée et modifiée si nécessaire (*changer de cap ou persévérer*)
 
-![right,fit](img/evolution/domain-driver-strategy-exeriments.png)
+![Les stratégies sont validées et affinées par l'expérimentation et l'apprentissage.](img/evolution/domain-driver-strategy-exeriments.png)
+
+Les stratégies sont validées et affinées par l'expérimentation et l'apprentissage.

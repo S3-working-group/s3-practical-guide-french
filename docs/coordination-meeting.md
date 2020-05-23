@@ -3,25 +3,20 @@ title: "Réunion de coordination"
 ---
 
 
-**Réunissez-vous régulièrement (de façon hebdomadaire en général) pour débriefer et coordonner les tâches à effectuer.**
+**Réunissez-vous régulièrement (généralement chaque semaine) pour rendre compte et coordonner le travail dans les domaines.**
 
-- facilitez les réunions en rondes plutôt qu'en discussions
-- si possible, compilez l'ordre du jour avant la réunion 
-    - incluez tous les prérequis à préparer par les membres de la réunion
-    - attendez-vous à faire émerger de nouveaux ordres du jour au fil des rapports et des événements
+- faciliter la réunion (<dfn data-info="Timebox (bloc de temps): Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).">timeboxez</dfn> le dialogue et faites des tours de table lorsque c'est pertinent)
+- quand c'est utile, rédiger un ordre du jour avant la réunion et le diffuser à l'avance aux participants 
+    - indiquer tous les prérequis qui peuvent aider les participants à se préparer
+    - d'autres points d'agenda peuvent émerger suite à l'écoute des compte-rendus
 
+Ordre du jour:
 
-## Réunion de coordination (cont.)
+- synchronisation et alignement des domaines
+- priorisation et distribution du travail
+- adresser les difficultés
 
-![right,fit](img/meetings/coordination-meeting.png)
+![Phases d'une réunion de coordination](img/meetings/coordination-meeting.png)
 
-- états d'avancement: 
-    - mesures du cercle (le cas échéant)
-    - projets et tâches
-- ordre du jour: 
-    - partage d'information
-    - ajout ou mise à jour des tâches et projets
-    - proposer de nouvelles ententes ou des mises à jour
-
-[&#9654; Facilitateurs de co-création](enablers-of-co-creation.html)<br/>[&#9664; Réunions de planification et d'évaluation](planning-and-review-meetings.html)<br/>[&#9650; Interactions ciblées](focused-interactions.html)
+[&#9654; Pratiques de réunion](meeting-practices.html)<br/>[&#9664; Réunions de planification et d'évaluation](planning-and-review-meetings.html)<br/>[&#9650; Interactions ciblées](focused-interactions.html)
 

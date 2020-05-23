@@ -1,33 +1,27 @@
 ---
-title: "Journal de bord (carnet)"
+title: "Registre"
 ---
 
 
-Un carnet est un système numérique pour conserver toutes les informations pertinentes au fonctionnement de l'organisation ou d'un cercle. Tous les membres de l'organisation ont accès aux carnets. Mais l'information peut être gardée secrète s'il y a une bonne raison de le faire.
+**Maintenez un système cohérent et accessible qui conserve toutes les informations nécessaires à la collaboration.**
 
-Les carnets peuvent prendre différentes formes telles des Wikis (Dokuwiki, MediaWiki), CMS (Wordpress, Drupal...) ou d'autres systèmes (Google Drive, Evernote, Trello, etc.).
+Un registre est un support (numérique) pour conserver toutes les informations pertinentes au fonctionnement d'un organisation et de ses équipes. Tous les membres de l'organisation ont accès au registre et l'information n'est gardée confidentielle que s'il y a une bonne raison de le faire.
 
+Les outils typiques pour tenir les registres sont les wikis (par exemple [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), les systèmes de gestion de contenu (par exemple[Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) ou même [Trello](https://trello.com/).
 
-### Contenu des carnets
+### Contenu du registre
 
-- Organisation :
-    
-    - moteur primaire, stratégie et valeurs organisationnelles
-    - structure organisationnelle (domaines et connexions)
-    - ententes 
+Contenu relatif à l'ensemble de l'organisation :
 
-- Cercle :
-    
-    - description du cercle et stratégie
-    - ententes (y compris les descriptions des domaines des délégués, les stratégies et les plans d'évolution)
-    - les demandes en attente (backlog) et les autres informations liées au travail d'un cercle et sa gouvernance
+- <dfn data-info="Moteur principal: L&apos;intention primaire d&apos;un domaine est l&apos;intention principale à laquelle les personnes qui s&apos;occupent de ce domaine répondent.">intention primaire</dfn>, <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s&apos;occuper avec succès d&apos;un domaine.">stratégie</dfn> et <dfn data-info="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&apos;une intention.">valeurs</dfn> de l'organisation
+- structure organisationnelle (<dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn> et les connexions entre eux)
+- <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> 
 
+Contenu relatif à une équipe particulière ou un <dfn data-info="Rôle: Un domaine qui est délégué à un individu.">rôle</dfn>:
 
+- la description et la stratégie du domaine
+- ententes (en précisant les <dfn data-info="Délégué: Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.">délégués</dfn>, les descriptions de domaine, stratégies et [plans de développement](development-plan.html))
+- Les <dfn data-info="Backlog (panier): Une liste explicite et priorisée d&apos;éléments de travail (livrables) ou d&apos;intention en attente de traitement.">backlogs (paniers)</dfn> et autres informations relatives au travail et à la <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn>
 
-- Carnets personnels 
-    - descriptions des domaines, stratégies et plans d'évolution
-    - gouvernance et backlogs opérationnels pour les rôles
-    - décisions liées à la production de valeur dans un rôle
-
-[&#9654; Secrétaire de réunion](logbook-keeper.html)<br/>[&#9664; Critère d'évaluation](evaluation-criteria.html)<br/>[&#9650; Élaborer les ententes](defining-agreements.html)
+[&#9654; Gardien du registre](logbook-keeper.html)<br/>[&#9664; Critères d'évaluation](evaluation-criteria.html)<br/>[&#9650; Elaborer des ententes](defining-agreements.html)
 

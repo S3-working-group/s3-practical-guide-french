@@ -1,11 +1,13 @@
 ## Cercle délégué
 
-![right,fit](img/structural-patterns/delegate-circle.png)
+**Déléguez la prise de décisions de gouvernance impactant plusieurs domaines aux représentants sélectionnés par ces domaines.**
 
-**Décidez-vous et alignez-vous sur la méthode de traitement des moteurs affectant plusieurs domaines.**
+Pour prendre des décisions de [gouvernance](glossary:governance) en leur nom, les parties prenantes envoient des [représentants](section:representative) pour former un cercle délégué.
 
-Les décisions d'un cercle délégué sont actées dans les différents domaines gérés par ce cercle.
+![Cercle délégué](img/structural-patterns/delegate-circle.png)
 
-Chaque cercle sélectionne un membre ou plus comme représentant(s) au cercle délégué.
+Les décisions de gouvernance prises dans un cercle délégué impactent les différents [domaines](glossary:domain) qu'il sert.
 
-Les cercles délégués permettent de contrôler les organisations pour les mettre en phase avec les flux de valeur, et apporter des perspectives diverses dans les décisions de gouvernance.
+Les cercles délégués fournissent un moyen de piloter les organisations en phase avec le [flux de valeur](glossary:flow-of-value), et d'apporter des perspectives diverses dans les décisions de gouvernance.
+
+Un cercle délégué peut amener d'autres personnes (ex: des experts externes) pour l'aider à prendre des décisions particulières, ou même en tant que membre du cercle.

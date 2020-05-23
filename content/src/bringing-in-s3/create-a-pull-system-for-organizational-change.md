@@ -1,11 +1,10 @@
-## Changement organisationnel basé sur les demandes (ou les besoins)
+## Changements organisationnels par flux tirés
 
-**Créez un environnement qui encourage les membres d'une organisation et leur permet d'amorcer des changements.**
+**Créez un environnement qui invite les membres d'une organisation à mener des changements.**
 
-Apportez des modifications si elles ajoutent de la valeur :
+Changez les choses lorsqu'il y a un intérêt à le faire :
 
-- introduire les pratiques permettant de surmonter les plus importants problèmes importants du moment 
-  - ne remettez pas en question ce qui fonctionne!
-  - prenez les gens où ils sont …
-  - ... et laissez-les choisir leur propre rythme
-- envisager que tous les changements soient volontaires!
+- Introduisez les pratiques permettant de surmonter les problèmes importants du moment.
+- Ne cassez pas ce qui fonctionne déjà !
+- Allez à la rencontre des gens…
+- …et laissez-les choisir leur propre rythme.

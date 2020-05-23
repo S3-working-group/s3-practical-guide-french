@@ -1,11 +1,12 @@
 ## Les concepts de base
 
-Avant de se plonger dans nos contenus, prenez le temps de vous familiariser avec des concepts simples de S3 :
+Avant d'aller plus loin, prenez le temps de vous familiariser avec des concepts de base derrière la S3 :
 
-- qu'est-ce qu'une pratique ?
-- s'approprier les sept principes
-- moteurs, valeur et gaspillage
-- domaines, délégation et responsabilisation
-- gouvernance, auto-organisation et semi-autonomie
+- Qu'est-ce qu'une pratique ?
+- Les sept principes
+- Comprendre les organisations : 
+    - Intentions, valeur et gaspillage
+    - Domaines, délégation et redevabilité
+    - Gouvernance et opérations
 
-Si vous ne comprenez pas un des termes, consultez notre glossaire.
+Si vous ne comprenez pas l'un de ces termes, consultez notre glossaire à la fin.

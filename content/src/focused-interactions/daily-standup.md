@@ -1,12 +1,12 @@
-## Mêlée quotidienne
+## Point quotidien
 
-![right,fit](img/meetings/planning-review-standup.png)
+**Réunissez-vous chaque jour pour coordonner le travail, faciliter l'apprentissage, et améliorer votre productivité et votre efficacité.**
 
-**Une réunion pour coordonner le travail, faciliter l'apprentissage, améliorer la productivité et l'efficacité.**
+- [timeboxé](glossary:timebox) (habituellement 15 minutes)
+- chaque jour à la même heure
+- l'équipe se réunit autour d'un tableau/outil de gestion de projet visible pour : 
+    - organiser le travail quotidien
+    - adresser les obstacles/freins
+    - adapter les [ententes](glossary:agreement) existantes ou en créer de nouvelles sur-le-champ
 
-- courtes sessions (environ 15 minutes)
-- tous les jours à la même heure
-- le groupe se réunit autour d'un outil de gestion de projet ou d'un tableau visible pour tous pour : 
-    - la coordination du travail quotidien
-    - aborder les obstacles/entraves
-    - ajustement des ententes existantes ou créations de nouvelles ententes, sur le champ
+![Le point quotidien est une réunion essentielle pour les équipes auto-organisées.](img/meetings/planning-review-standup.png)

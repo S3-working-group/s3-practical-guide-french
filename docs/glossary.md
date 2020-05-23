@@ -2,97 +2,127 @@
 title: Glossaire 
 ---
 
-**Alignement**: Le processus d'aligner les actions de l'ensemble des parties d'une organisation aux objectifs de l'organisation.
+**Alignement:** Le processus d'aligner les actions de l'ensemble des parties d'une organisation aux objectifs de l'organisation.
 
-**Amélioration continue**: Évoluer par incréments pour faciliter un apprentissage empirique constant.
+**Amélioration continue (principe):** Évoluer par incréments pour faciliter un apprentissage empirique constant.
 
-**Auto-gouvernance**: Ensemble de personnes se gouvernant elles-mêmes selon les contraintes d'un domaine.
+**Auto-gouvernance:** Ensemble de personnes se gouvernant elles-mêmes selon les contraintes d'un domaine.
 
-**Auto-organisation**: Des personnes coordonnant leur travail selon des contraintes définies par la gouvernance.
+**Auto-organisation:** Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l'influence d'un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l'auto-organisation et l'influence externe coexistent.
 
-**Backlog de gouvernance**: Une liste explicite ordonnée par priorité de tâches en attente de traitement (moteurs) en lien à la gouvernance d'un domaine.
+**Backlog (panier):** Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
 
-**Cercle**: Un groupe auto-géré et semi-autonome de personnes équivalentes, collaborant et portant la responsabilité d'un domain.
+**Backlog (panier) de gouvernance:** Une liste explicite ordonnée par priorité de tâches en attente de traitement (intentions) en lien à la gouvernance d'un domaine.
 
-**Complexité**: Un environnement où les inconnus sont inconnus, les liens de cause à effets ne peuvent être compris que rétrospectivement, et où les actions mènent à des changements imprévisibles. [Snowden and Boone]
+**Backlog (panier) des opérations:** Une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
 
-**Consentement**: Faire des choses quand il n'y a pas de raisons de ne pas les faire.
+**Besoin:** L'absence de quelque chose de voulu ou jugé nécessaire (une exigence).
 
-**Demandes en attente**: Une liste explicite (souvent ordonnée par priorité) de tâches non-achevées (drivers) en attente de traitement.
+**Cercle:** Une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent pour s'occuper d'un domaine.
 
-**Domaine**: Une zone d'influence, activité et prise de décisions distincte au sein d'une organisation.
+**Complexité:** Un environnement où les inconnus sont inconnus, les liens de cause à effets ne peuvent être compris que rétrospectivement, et où les actions mènent à des changements imprévisibles. [Snowden and Boone]
 
-**Domaines pairs**: Deux domaines pairs sont contenus dans le même super-domaine immédiat, et peuvent se recouper.
+**Consentement (principe):** Lever, chercher et résoudre les objections aux décisions et aux actions.
 
-**Déléguant**: Un individu ou groupe déléguant un domaine à d'autres groupes ou individus.
+**Constituant:** Une équipe (par exemple un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l'autorité à un représentant pour agir en leur nom dans d'autres équipes ou organisations.
 
-**Délégué**: Un individu ou groupe acceptant la responsabilité pour un domaine leur étant délégué.
+**Coordination:** Le processus de permettre aux individus et aux équipes de collaborer efficacement dans différents domaines pour atteindre des objectifs communs.
 
-**Efficacité**: Dédier du temps seulement à ce qui vous rapproche de la réalisation des objectifs.
+**Domaine:** Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.
 
-**Empirisme**: Tester toutes les hypothèses par des expériences, des révisions continuelles et des falsifications.
+**Domaine ouvert:** Un domaine dont s'occupent un ensemble de personnes invitées à contribuer quand elles le peuvent.
 
-**Endosser la responsabilité (v.)**: prendre la responsabilité sur une chose nécessitant d'être traitée.
+**Domaines pairs:** Deux domaines pairs sont contenus dans le même super-domaine immédiat, et peuvent se recouper.
 
-**Entente**: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.
+**Délégant:** Un individu ou groupe délégant un domaine à d'autres groupes ou individus.
 
-**Gaspillage**: Tout ce qui n'est pas nécessaire pour - ou qui empêche - la réponse à un moteur.
+**Délégation:** L'octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.
 
-**Gouvernance**: Continuellement décider des actions nécessaire pour atteindre les objectifs et définir des contraintes sur la façon de procéder.
+**Délégué:** Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.
 
-**Journal**: Le journal est un système (numérique) de documentation des informations pertinentes au fonctionnement de l'organisation et des cercles.
+**Efficacité (principe):** Allouer du temps seulement à ce qui vous rapproche de vos objectifs.
 
-**Livrable**: Quelque chose à fournir suite à une entente, en réponse à un moteur. Les livrables incluent des produits, matériaux bruts, services, expériences et transformations.
+**Empirisme (principe):** Tester toutes les hypothèses sur lesquelles vous vous appuyez, par l'expérimentation et l'amélioration en continu.
 
-**Moteur**: La motivation d'un groupe ou d'une personne pour répondre à une situation particulière.
+**Entente:** Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.
 
-**Moteur organisationnel**: Un moteur qui est lié (directement ou indirectement) au moteur principal d'une organisation.
+**Equipe de soutien:** Une équipe de personnes équivalentes ayant le mandat d'agir sur un ensemble de besoins spécifiques.
 
-**Moteur principal**: Le moteur qui définit un domaine est le moteur principal de ce domaine.
+**Equivalence (principe):** Impliquer les personnes impactées dans les prises de décisions et les évolutions.
 
-**Moteurs pairs**: Deux moteurs existant en tant que conséquence directe d'une réponse au même super-moteur sont appelés moteurs pairs.
+**Etre redevable de (v.):** prendre la responsabilité de quelque chose.
 
-**Objection**: Une raison expliquant pourquoi faire quelque chose entraverait une réponse plus efficace à un moteur.
+**Evoluer (v.):** développer graduellement.
 
-**Opérations (accomplir le travail)**: Des gens accomplissant ce qui doit être fait, guidés par leur coordination et leur gouvernance.
+**Flux de valeur:** Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.
 
-**Organisation **: Un groupe de personnes collaborant pour atteindre un objectif commun (moteur).
+**Gaspillage:** Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à - répondre (plus) efficacement à une intention.
 
-**Pratique**: Un modèle pour appréhender correctement un contexte spécifique.
+**Gouvernance:** L'acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.
 
-**Principe**: L'idée ou la règle qui explique ou contrôle le fonctionnement ou déroulement de quelque chose.
+**Intention:** La motivation d'un groupe ou d'une personne pour répondre à une situation particulière.
 
-**Préoccupation**: Une opinion selon laquelle quelque chose pourrait entraver - ou empêcher d'améliorer - le flux de valeurs vers un moteur organisationnel.
+**Livrable:** Un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.
 
-**Responsabilités clés**: Un travail essentiel ou une prise de décision cruciale dans le contexte d'un domaine.
+**Moteur organisationnel:** Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.
 
-**Responsabilté**: Répondre lorsque nécessaire, faire ce qu'on s'est engagé de faire et assumer la responsabilité de l'avancement de l'organisation.
+**Moteur principal:** L'intention primaire d'un domaine est l'intention principale à laquelle les personnes qui s'occupent de ce domaine répondent.
 
-**Rôle**: Une zone de responsabilisation définie par un domaine et assignée à un individu.
+**Méthode Sociocratique d'organisation par Cercles (MSC):** Une méthode de gouvernance égalitaire pour les organisations basée sur une mentalité sociocratique, développée aux Pays-Bas par Gerard Endenburg.
 
-**SCM**: (la Méthode Sociocratique d'Organisation en Cercle) Une méthode de gouvernance égalitariste pour les organisations basée sur la sociocratie, développée aux Pays-Bas par Gerard Endenburg.
+**Objectif:** Un résultat (particulier) qu'une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.
 
-**Semi-autonomie**: Des personnes étant autonomes pour créer de la valeur, limitées par les contraintes de leur domaine.
+**Objection:** Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il y a des moyens intéressants d'améliorer cette entente.
 
-**Sociocratie**: Un état d'esprit où les personnes affectées par des décisions peuvent les influencer, en se basant sur des raisons justifiées.
+**Opérations:** Faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance.
 
-**Sous-domaine**: Un domaine entièrement contenu au sein d'un autre domaine.
+**Organisation :** Un groupe de personnes qui collaborent dans une intention partagée (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
 
-**Sous-moteur**: Un sous-moteur apparaît lorsque des personnes réagissent à un autre moteur (le super-moteur) et qu'il est nécessaire de résoudre un problème pour gérer le super-moteur.
+**Pratique:** Un modèle pour appréhender correctement un contexte spécifique.
 
-**Stratégie**: Une approche de haut niveau définissant comment créer de la valeur pour répondre aux contraintes d'un domaine.
+**Principe:** Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.
 
-**Super-domaine**: Un domaine contenant entièrement un autre domaine.
+**Préoccupation:** Une supposition que faire quelque chose (même dans l'absence d'objections) pourrait s'opposer à une façon (plus) efficace de répondre à une intention organisationnelle.
 
-**Supermoteur**: voir sous-moteur.
+**Redevabilité (principe):** Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .
 
-**Transparence**: Rendre toutes les informations accessibles à tous les membres d'une organisation, à moins qu'il faille préserver leur confidentialité.
+**Registre:** Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.
 
-**Valeur**: L'importance ou l'utilité d'un élément en relation à un moteur. Aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").
+**Responsabilités clés:** Un travail essentiel ou une prise de décision cruciale dans le contexte d'un domaine.
 
-**Valeurs**: Un ensemble de principes significatifs guidant le comportement. Ne doit pas être confondu avec la "valeur" au singulier, qui est dans le contexte d'un moteur.
+**Résultat attendu:** Le résultat escompté d'une entente, d'une action, d'un projet ou d'une stratégie.
 
-**Valeurs choisies**: Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider actions et collaboration en son sein.
+**Rôle:** Un domaine qui est délégué à un individu.
 
-**Équivalence**: Impliquer les personnes impactées dans les prises de décisions et les évolutions.
+**Semi-autonomie:** L'autonomie des personnes à créer de la valeur dans leur domaine, contrainte par leurs propres décisions de gouvernance, et les objections (y compris celles du délégant et des représentants).
+
+**Sociocratie:** Un état d'esprit où les personnes affectées par des décisions peuvent les influencer, en se basant sur des raisons justifiées.
+
+**Sous-domaine:** Un domaine entièrement contenu dans un autre domaine.
+
+**Sous-moteur:** Une sous-intention surgit comme la conséquence d'une autre intention (la super-intention) et est fondamentale pour répondre efficacement à la super-intention.
+
+**Stratégie:** Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.
+
+**Super-domaine:** Un domaine contenant entièrement un autre domaine.
+
+**Supermoteur:** voir sous-moteur.
+
+**Technologie sociale:** La technologie sociale est tout processus, toute technique, toute méthode, toute compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l'atteinte d'objectifs communs et mener des interactions et échanges sensés.
+
+**Tensions:** Une expérience personnelle, un symptôme de dissonance entre la perception d'une situation par un individu, et ses attentes ou préférences.
+
+**Timebox (bloc de temps):** Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
+
+**Tour d'accueil:** Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant vos pensées, vos sentiments, des distractions ou des besoins.
+
+**Transparence (principe):** Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il y ait un motif de confidentialité.
+
+**Valeur:** L'importance ou l'utilité de quelque chose lié à une intention. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").
+
+**Valeurs:** Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'une intention.
+
+**Valeurs choisies:** Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider ses actions et collaboration en son sein.
+
+**Équipe:** Un groupe de personnes qui collaborent vers une intention commune (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.
 

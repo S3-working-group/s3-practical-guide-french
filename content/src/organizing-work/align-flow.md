@@ -1,15 +1,16 @@
 ## Aligner les flux
 
-![right,fit](img/workflow-and-value/align-flow.png)
+**Pour soutenir un flux continu de valeur, déplacez la prise de décision pour la rapprocher de là où est créée la valeur, et alignez les flux d'information en conséquence.**
 
-- dans une organisation efficace, le **flux d'information et d'influence facilite le flux continu de la valeur**
-- l'alignement est réalisé et maintenu grâce à des politiques d'amélioration continue
+**Flux de valeur:** {{glossary:flow-of-value}}
 
-* * *
+Atteignez et maintenez l'alignement des flux à travers l'amélioration continue du corpus des [ententes](glossary:agreement) d'une organisation :
 
-### Flux de valeur
+- assurez-vous que toutes les décisions affectant le flux de valeur soutiennent réellement le flux de valeur
+- permettez aux personnes dont les compétences et savoirs sont pertinents d'influencer les prises de décisions
+- rendez disponible tout information utile
+- visez à raccourcir les boucles de retour pour amplifier l'apprentissage.
 
-- le flux de valeur est dirigé par les accords (explicites et implicites), et les suppositions
-- le travail en cours (Work In Progress) est considéré comme du gaspillage car il bloque des ressources
-- un flux continu de valeur empêche l'accumulation de gaspillage 
-    - cela permet également des retours rapides et amplifie l'apprentissage
+Lorsque les prises de décision s'effectuent près de là où est créée la valeur, et que le flux d'information soutient un flux de valeur continu régulier, le risque de gaspillage est réduit.
+
+![Aligner le flux d'informations pour soutenir le flux de valeur](img/workflow-and-value/align-flow.png)

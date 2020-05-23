@@ -1,8 +1,14 @@
-## Inviter le changement
+## Inviter aux changements
 
-**Une façon pour les personnes d’initier et de faciliter le changement.**
+**Clarifiez la raison du changement et invitez les gens à participer.**
 
-- initiez les changements que vous désirez
-- utiliser et adapter les pratiques S3 pour répondre aux motivations au moment opportun
-- raconter l’histoire de comment et pourquoi vous utilisez les pratiques S3, en documentant les résultats, les réussites et les échecs
-- inviter les autres à experimenter avec vous
+Encourager plutôt qu'imposer contribue à réduire la résistance au changement et permet aux gens de choisir par eux-mêmes.
+
+En faisant l'invitation :
+
+- soyez transparent sur la raison du changement
+- clarifiez les attentes et les contraintes
+- évitez la coercition ou la manipulation
+- entendez tout scepticisme et doute
+
+Incluez les personnes impliquées et impactées dans l'évaluation régulière des résultats du changement.

@@ -3,15 +3,17 @@ title: "Cercle délégué"
 ---
 
 
-![right,fit](img/structural-patterns/delegate-circle.png)
+**Déléguez la prise de décisions de gouvernance impactant plusieurs domaines aux représentants sélectionnés par ces domaines.**
 
-**Décidez-vous et alignez-vous sur la méthode de traitement des moteurs affectant plusieurs domaines.**
+Pour prendre des décisions de <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn> en leur nom, les parties prenantes envoient des [représentants](representative.html) pour former un cercle délégué.
 
-Les décisions d'un cercle délégué sont actées dans les différents domaines gérés par ce cercle.
+![Cercle délégué](img/structural-patterns/delegate-circle.png)
 
-Chaque cercle sélectionne un membre ou plus comme représentant(s) au cercle délégué.
+Les décisions de gouvernance prises dans un cercle délégué impactent les différents <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn> qu'il sert.
 
-Les cercles délégués permettent de contrôler les organisations pour les mettre en phase avec les flux de valeur, et apporter des perspectives diverses dans les décisions de gouvernance.
+Les cercles délégués fournissent un moyen de piloter les organisations en phase avec le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d&apos;autres intervenants.">flux de valeur</dfn>, et d'apporter des perspectives diverses dans les décisions de gouvernance.
 
-[&#9654; Organisation centrifuge](peach-organization.html)<br/>[&#9664; Cercle de service](service-circle.html)<br/>[&#9650; Structure organisationnelle](organizational-structure.html)
+Un cercle délégué peut amener d'autres personnes (ex: des experts externes) pour l'aider à prendre des décisions particulières, ou même en tant que membre du cercle.
+
+[&#9654; Organisation décentralisée](peach-organization.html)<br/>[&#9664; Cercle de service](service-circle.html)<br/>[&#9650; Structure organisationnelle](organizational-structure.html)
 
