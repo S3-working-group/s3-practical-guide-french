@@ -20,8 +20,8 @@ content:
         title: Pourquoi la Sociocratie 3.0?
         slug: why-s3
       - 
-        title: Les concepts de base
-        slug: basic-concepts
+        title: Les Pratiques et les Sept Principes
+        slug: patterns-and-principles
       - 
         title: Pratiques
         slug: patterns
@@ -29,17 +29,23 @@ content:
         title: Principes
         slug: principles
       - 
-        title: Comprendre les organisations
+        title: Concepts clés pour comprendre les organisations
         slug: making-sense-of-organizations
       - 
-        title: Intention
+        title: Intentions
         slug: driver
       - 
-        title: Domaine
+        title: Domaines
         slug: domain
       - 
-        title: Gouvernance
-        slug: governance
+        title: Objections
+        slug: objection
+      - 
+        title: Ententes
+        slug: entente
+      - 
+        title: Gouvernances
+        slug: gouvernance
   chapters:
     - 
       title: Co-créer et évoluer
@@ -58,8 +64,8 @@ content:
           title: Décision par consentement
           slug: consent-decision-making
         - 
-          title: Objection
-          slug: objection
+          title: Tester les Arguments Qualifiés d'Objections
+          slug: test-arguments-qualify-as-objections
         - 
           title: Intégrer les objections
           slug: resolve-objections
@@ -186,8 +192,8 @@ content:
       slug: defining-agreements
       sections:
         - 
-          title: Entente
-          slug: agreement
+          title: Consigner les Ententes
+          slug: record-agreements
         - 
           title: Développer la stratégie
           slug: develop-strategy

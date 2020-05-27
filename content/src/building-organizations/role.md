@@ -1,6 +1,6 @@
 ## Rôle
 
-**Déléguez la redevabilité d'un domaine à des individus.**
+**Déléguez les responsabilités d'un domaine à des individus.**
 
 Un rôle est une zone de redevabilité (un [domaine](glossary:domain)) qui est [déleguée](glossary:delegation) à un individu (le **porteur de rôle**), agissant et décidant en autonomie selon les contraintes du domaine du rôle.
 

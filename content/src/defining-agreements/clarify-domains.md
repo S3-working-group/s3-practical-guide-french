@@ -1,6 +1,6 @@
 ## Clarifier les domaines
 
-**Une compréhension claire des zones de redevabilité et de l'autonomie des personnes favorise une meilleure efficacité, optimise la collaboration et l'agilité dans toute une organisation.**
+**Une compréhension claire des zones de responsabilités et d'autonomie des personnes favorise une meilleure efficacité, optimise la collaboration et l'agilité dans toute une organisation.**
 
 Un moyen simple de clarifier les [domaines](glossary:domain) est d'établir une **description du domaine** comprenant :
 

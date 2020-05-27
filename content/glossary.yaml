@@ -27,7 +27,7 @@ terms:
   backlog:
     name: Backlog (panier)
     definition: Un **backlog** (panier) est une liste (souvent priorisée) d'éléments de travail inachevés (livrables), ou d'intentions qui doivent être traitées.
-    glossary: Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
+    glossary: Une liste (souvent priorisée)  d'éléments de travail à faire (livrables) ou d'intention en attente de traitement.
   chosen-values:
     name: Valeurs choisies
     glossary: Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider ses actions et collaboration en son sein.
@@ -44,8 +44,8 @@ terms:
     glossary: Un environnement où les inconnus sont inconnus, les liens de cause à effets ne peuvent être compris que rétrospectivement, et où les actions mènent à des changements imprévisibles. [Snowden and Boone]
   concern:
     name: Préoccupation
-    definition: Un **préoccupation** est une hypothèse selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** se présenter comme une réponse (plus) efficace à une intention organisationnelle.
-    glossary: Une supposition que faire quelque chose (même dans l'absence d'objections) pourrait s'opposer à une façon (plus) efficace de répondre à une intention organisationnelle.
+    definition: Un **préoccupation** est une supposition - ou une opinion - selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** s’avérer être un obstacle pour une réponse (plus) efficace à une intention organisationnelle.
+    glossary: Une supposition que faire quelque chose (même en l'absence d'objections) pourrait faire obstacle à une façon (plus) efficace de répondre à une intention organisationnelle.
   consent:
     name: Consentement (principe)
     definition:
@@ -64,13 +64,14 @@ terms:
     glossary: Le processus de permettre aux individus et aux équipes de collaborer efficacement dans différents domaines pour atteindre des objectifs communs.
   delegatee:
     name: Délégué
-    glossary: Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.
+    glossary: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.
   delegation:
     name: Délégation
+    definition: La délégation est l’octroi d’une autorité sur un domaine d’une partie à une autre.
     glossary: L'octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.
   delegator:
     name: Délégant
-    glossary: Un individu ou groupe délégant un domaine à d'autres groupes ou individus.
+    glossary: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.
   deliverable:
     name: Livrable
     definition: Un **livrable** est un produit, un service, un composant ou un document fourni en réponse à une intention organisationnelle.
@@ -155,11 +156,11 @@ terms:
   organizational-driver:
     name: Moteur organisationnel
     definition:
-    glossary: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.
+    glossary: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.
   pattern:
     name: Pratique
-    definition: Une **pratique** est un modèle pour traverser correctement un contexte particulier.
-    glossary: Un modèle pour appréhender correctement un contexte spécifique.
+    definition: Une **pratique** est un processus, une façon de faire ou une ligne directrice qui sert de modèle pour répondre avec succès à un type spécifique de défi ou d'opportunité.
+    glossary: Un processus, une pratique ou une ligne directrice qui sert de modèle pour répondre avec succès à un type particulier de défi ou d'opportunité.
   peer-domain:
     name: Domaines pairs
     definition:
@@ -175,7 +176,11 @@ terms:
   role:
     name: Rôle
     definition:
-    glossary: Un domaine qui est délégué à un individu.
+    glossary: Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.
+  role-keeper:
+    name: Porteur de rôle
+    definition:
+    glossary: Une personne qui assume la responsabilité d'un rôle.
   scm:
     name: Méthode Sociocratique d'organisation par Cercles (MSC)
     glossary: Une méthode de gouvernance égalitaire pour les organisations basée sur une mentalité sociocratique, développée aux Pays-Bas par Gerard Endenburg.
