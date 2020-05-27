@@ -2,18 +2,42 @@
 title: "Co-créer et évoluer"
 ---
 
-- [Répondre aux intentions organisationnelles](respond-to-organizational-drivers.html)
-- [Naviguer par tension](navigate-via-tension.html)
-- [Décrire les intentions organisationnelles](describe-organizational-drivers.html)
-- [Décision par consentement](consent-decision-making.html)
-- [Objection](objection.html)
-- [Intégrer les objections](resolve-objections.html)
-- [Evaluer et développer les ententes](evaluate-and-evolve-agreements.html)
-- [Les personnes impactées décident](those-affected-decide.html)
-- [Co-créer des propositions](co-create-proposals.html)
-- [Elaborer une proposition](proposal-forming.html)
-- [Sélection des rôles](role-selection.html)
-- [Cartographier les intentions](driver-mapping.html)
+
+  <dt><a href="respond-to-organizational-drivers.html">Répondre aux intentions organisationnelles</a></dt>
+  <dd></dd>
+
+  <dt><a href="navigate-via-tension.html">Naviguer par tension</a></dt>
+  <dd></dd>
+
+  <dt><a href="describe-organizational-drivers.html">Décrire les intentions organisationnelles</a></dt>
+  <dd></dd>
+
+  <dt><a href="consent-decision-making.html">Décision par consentement</a></dt>
+  <dd></dd>
+
+  <dt><a href="test-arguments-qualify-as-objections.html">Tester les Arguments Qualifiés d'Objections</a></dt>
+  <dd></dd>
+
+  <dt><a href="resolve-objections.html">Intégrer les objections</a></dt>
+  <dd></dd>
+
+  <dt><a href="evaluate-and-evolve-agreements.html">Evaluer et développer les ententes</a></dt>
+  <dd></dd>
+
+  <dt><a href="those-affected-decide.html">Les personnes impactées décident</a></dt>
+  <dd></dd>
+
+  <dt><a href="co-create-proposals.html">Co-créer des propositions</a></dt>
+  <dd></dd>
+
+  <dt><a href="proposal-forming.html">Elaborer une proposition</a></dt>
+  <dd></dd>
+
+  <dt><a href="role-selection.html">Sélection des rôles</a></dt>
+  <dd></dd>
+
+  <dt><a href="driver-mapping.html">Cartographier les intentions</a></dt>
+  <dd></dd>
 
 
 [&#9654; Répondre aux intentions organisationnelles](respond-to-organizational-drivers.html)<br/>[&#9664; Organisation fractale](fractal-organization.html)

@@ -22,12 +22,24 @@ La Sociocratie 3.0 décrit une variété de **modèles de structure** pour dév
 - différents modèles structurels servent différentes <dfn data-info="Intention: La motivation d&apos;un groupe ou d&apos;une personne pour répondre à une situation particulière.">intentions</dfn>
 - les modèles de structure peuvent être adaptés et combinés au besoin
 - d'autres pratiques existent et seront découvertes
-- [Cercle de service](service-circle.html)
-- [Cercle délégué](delegate-circle.html)
-- [Organisation décentralisée](peach-organization.html)
-- [Hiérarchie à double lien](double-linked-hierarchy.html)
-- [Organisation de service](service-organization.html)
-- [Organisation fractale](fractal-organization.html)
+
+  <dt><a href="service-circle.html">Cercle de service</a></dt>
+  <dd></dd>
+
+  <dt><a href="delegate-circle.html">Cercle délégué</a></dt>
+  <dd></dd>
+
+  <dt><a href="peach-organization.html">Organisation décentralisée</a></dt>
+  <dd></dd>
+
+  <dt><a href="double-linked-hierarchy.html">Hiérarchie à double lien</a></dt>
+  <dd></dd>
+
+  <dt><a href="service-organization.html">Organisation de service</a></dt>
+  <dd></dd>
+
+  <dt><a href="fractal-organization.html">Organisation fractale</a></dt>
+  <dd></dd>
 
 
 [&#9654; Cercle de service](service-circle.html)<br/>[&#9664; Coordinateur](coordinator.html)

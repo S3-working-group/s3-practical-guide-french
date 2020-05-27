@@ -13,7 +13,7 @@ La pratique *Élaborer une proposition* peut également être utilisée par un i
 
 ### Étapes d'élaboration d'une proposition
 
-**Consentir à l'intention:** Présenter brièvement l'<dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.">intention</dfn>. *Est-il pertinent pour nous de répondre à cette intention? Y a-t-il des amendements essentiels à ce qui a été présenté?*
+**Consentir à l'intention:** Présenter brièvement l'<dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intention</dfn>. *Est-il pertinent pour nous de répondre à cette intention? Y a-t-il des amendements essentiels à ce qui a été présenté?*
 
 **Approfondir la compréhension collective de l'intention** : recueillir les questions essentielles à une meilleure compréhension de l'intention.
 

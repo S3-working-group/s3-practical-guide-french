@@ -7,7 +7,7 @@ title: "Co-créer des propositions"
 
 Il existe de nombreuses façons de co-créer des propositions. Elles suivent généralement un modèle similaire :
 
-1. Se mettre d'accord sur une <dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.">intention</dfn> (ou un problème / une opportunité / un besoin)
+1. Se mettre d'accord sur une <dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intention</dfn> (ou un problème / une opportunité / un besoin)
 2. Explorer le sujet et comprendre les contraintes
 3. Générer des idées
 4. Concevoir une proposition (souvent fait par un groupe plus restreint)

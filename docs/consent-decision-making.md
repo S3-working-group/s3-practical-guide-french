@@ -18,5 +18,5 @@ Taire des objections peut nuire aux objectifs d’une équipe ou d’une organis
 
 ![Décider par consentement](img/agreements/consent-decision-making.png)
 
-[&#9654; Objection](objection.html)<br/>[&#9664; Décrire les intentions organisationnelles](describe-organizational-drivers.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
+[&#9654; Tester les Arguments Qualifiés d'Objections](test-arguments-qualify-as-objections.html)<br/>[&#9664; Décrire les intentions organisationnelles](describe-organizational-drivers.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 
