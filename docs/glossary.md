@@ -10,7 +10,7 @@ title: Glossaire
 
 **Auto-organisation:** Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l'influence d'un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l'auto-organisation et l'influence externe coexistent.
 
-**Backlog (panier):** Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
+**Backlog (panier):** Une liste (souvent priorisée)  d'éléments de travail à faire (livrables) ou d'intention en attente de traitement.
 
 **Backlog (panier) de gouvernance:** Une liste explicite ordonnée par priorité de tâches en attente de traitement (intentions) en lien à la gouvernance d'un domaine.
 
@@ -34,11 +34,11 @@ title: Glossaire
 
 **Domaines pairs:** Deux domaines pairs sont contenus dans le même super-domaine immédiat, et peuvent se recouper.
 
-**Délégant:** Un individu ou groupe délégant un domaine à d'autres groupes ou individus.
+**Délégant:** Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.
 
 **Délégation:** L'octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.
 
-**Délégué:** Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.
+**Délégué:** Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.
 
 **Efficacité (principe):** Allouer du temps seulement à ce qui vous rapproche de vos objectifs.
 
@@ -64,7 +64,7 @@ title: Glossaire
 
 **Livrable:** Un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.
 
-**Moteur organisationnel:** Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.
+**Moteur organisationnel:** Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.
 
 **Moteur principal:** L'intention primaire d'un domaine est l'intention principale à laquelle les personnes qui s'occupent de ce domaine répondent.
 
@@ -78,11 +78,13 @@ title: Glossaire
 
 **Organisation :** Un groupe de personnes qui collaborent dans une intention partagée (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
 
-**Pratique:** Un modèle pour appréhender correctement un contexte spécifique.
+**Porteur de rôle:** Une personne qui assume la responsabilité d'un rôle.
+
+**Pratique:** Un processus, une pratique ou une ligne directrice qui sert de modèle pour répondre avec succès à un type particulier de défi ou d'opportunité.
 
 **Principe:** Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.
 
-**Préoccupation:** Une supposition que faire quelque chose (même dans l'absence d'objections) pourrait s'opposer à une façon (plus) efficace de répondre à une intention organisationnelle.
+**Préoccupation:** Une supposition que faire quelque chose (même en l'absence d'objections) pourrait faire obstacle à une façon (plus) efficace de répondre à une intention organisationnelle.
 
 **Redevabilité (principe):** Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .
 
@@ -92,7 +94,7 @@ title: Glossaire
 
 **Résultat attendu:** Le résultat escompté d'une entente, d'une action, d'un projet ou d'une stratégie.
 
-**Rôle:** Un domaine qui est délégué à un individu.
+**Rôle:** Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.
 
 **Semi-autonomie:** L'autonomie des personnes à créer de la valeur dans leur domaine, contrainte par leurs propres décisions de gouvernance, et les objections (y compris celles du délégant et des représentants).
 

@@ -1,4 +1,4 @@
-#### Intentions
+### Intentions
 
 {{define:driver}}
 
@@ -7,7 +7,7 @@ Intentions :
 - peuvent être utilisées pour formuler des buts, objectifs, aspirations, une mission, une vision, une raison d’être
 - peuvent changer au fil du temps
 
-##### Intentions, valeur et gaspillage
+#### Intentions, valeur et gaspillage
 
 {{define:value}}
 

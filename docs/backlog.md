@@ -22,7 +22,7 @@ Les types de backlog (paniers) incluent :
 
 Chaque entrée d'un backlog (panier) priorisé contient typiquement :
 
-- une **brève description** d'un <dfn data-info="Livrable: Un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.">livrable</dfn> ou d'une <dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.">intention</dfn>
+- une **brève description** d'un <dfn data-info="Livrable: Un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.">livrable</dfn> ou d'une <dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intention</dfn>
 - un **numéro de référence unique** (ou lien) pour chaque tâche
 - (l'ordre des **éléments**)
 - les **dépendances** envers d'autres éléments de travail ou projets

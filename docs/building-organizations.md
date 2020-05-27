@@ -2,15 +2,33 @@
 title: "Construire les organisations"
 ---
 
-- [Déléguer l'influence](delegate-influence.html)
-- [Cercle](circle.html)
-- [Rôle](role.html)
-- [Lien](linking.html)
-- [Double lien](double-linking.html)
-- [Représentant](representative.html)
-- [Equipe de soutien](helping-team.html)
-- [Domaine ouvert](open-domain.html)
-- [Systèmes ouverts](open-systems.html)
+
+  <dt><a href="delegate-influence.html">Déléguer l'influence</a></dt>
+  <dd></dd>
+
+  <dt><a href="circle.html">Cercle</a></dt>
+  <dd></dd>
+
+  <dt><a href="role.html">Rôle</a></dt>
+  <dd></dd>
+
+  <dt><a href="linking.html">Lien</a></dt>
+  <dd></dd>
+
+  <dt><a href="double-linking.html">Double lien</a></dt>
+  <dd></dd>
+
+  <dt><a href="representative.html">Représentant</a></dt>
+  <dd></dd>
+
+  <dt><a href="helping-team.html">Equipe de soutien</a></dt>
+  <dd></dd>
+
+  <dt><a href="open-domain.html">Domaine ouvert</a></dt>
+  <dd></dd>
+
+  <dt><a href="open-systems.html">Systèmes ouverts</a></dt>
+  <dd></dd>
 
 
 [&#9654; Déléguer l'influence](delegate-influence.html)<br/>[&#9664; Statuts et règlements](bylaws.html)

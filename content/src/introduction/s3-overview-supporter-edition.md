@@ -2,7 +2,7 @@ Commentaire: Ce texte est utilisé comme description du livre. Voir https://kdp.
 
 La Sociocratie 3.0 — ou "S3" — est une **technologie sociale** pour évoluer vers des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, et même la collaboration inter-ministerielle à l'échelle nationale.
 
-Dans ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
+A l’intérieur de ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
 
 Depuis son lancement en 2015, la Sociocratie 3.0 a aidé des personnes dans des start-ups, des petites et moyennes entreprises, des grandes organisations internationales, des organisations financées par des investisseurs comme des organisations à but non lucratif, des familles et des communautés.
 
@@ -32,5 +32,4 @@ Tout le contenu de ce livre est également disponible sous une licence Creative 
 
 Fidèle à l'état d'esprit S3, ce livre restera perpétuellement en chantier évoluant au fur et à mesure que nous apprenons auprès des personnes qui expérimentent S3 dans les organisations du monde entier. Depuis que nous avons commencé il y a 5 ans, nous avons publié plusieurs mises à jour par an et nous continuerons à le faire dans les années à venir.
 
-Même si plusieurs sections de ce livre sont succinctes et parfois peu abouties , ce livre s'est avéré suffisant pour que de nombreuses personnes puissent débuter avec S3 et réaliser des changements positifs dans leurs organisations. Nous espérons que cela vous sera également utile.
-
+Même si plusieurs sections de ce livre sont succinctes et parfois peu abouties, son contenu et ses explications se sont avérés suffisant pour que de nombreuses personnes puissent débuter avec S3 et réaliser des changements positifs dans leurs organisations. Nous espérons que vous le trouverez également utile.

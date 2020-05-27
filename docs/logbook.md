@@ -17,11 +17,11 @@ Contenu relatif à l'ensemble de l'organisation :
 - structure organisationnelle (<dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn> et les connexions entre eux)
 - <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> 
 
-Contenu relatif à une équipe particulière ou un <dfn data-info="Rôle: Un domaine qui est délégué à un individu.">rôle</dfn>:
+Contenu relatif à une équipe particulière ou un <dfn data-info="Rôle: Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.">rôle</dfn>:
 
 - la description et la stratégie du domaine
-- ententes (en précisant les <dfn data-info="Délégué: Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.">délégués</dfn>, les descriptions de domaine, stratégies et [plans de développement](development-plan.html))
-- Les <dfn data-info="Backlog (panier): Une liste explicite et priorisée d&apos;éléments de travail (livrables) ou d&apos;intention en attente de traitement.">backlogs (paniers)</dfn> et autres informations relatives au travail et à la <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn>
+- ententes (en précisant les <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&apos;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn>, les descriptions de domaine, stratégies et [plans de développement](development-plan.html))
+- Les <dfn data-info="Backlog (panier): Une liste (souvent priorisée)  d&apos;éléments de travail à faire (livrables) ou d&apos;intention en attente de traitement.">backlogs (paniers)</dfn> et autres informations relatives au travail et à la <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn>
 
 [&#9654; Gardien du registre](logbook-keeper.html)<br/>[&#9664; Critères d'évaluation](evaluation-criteria.html)<br/>[&#9650; Elaborer des ententes](defining-agreements.html)
 

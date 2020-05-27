@@ -1,8 +1,8 @@
-## Un Guide Pratique pour Evoluer vers des Organisations Agiles et Résilientes avec la Sociocratie 3.0
+## Qu'est-ce que la Sociocratie 3.0 ?
 
-La Sociocratie 3.0 — ou "S3" — est une **technologie sociale** pour faire évoluer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, ou collaborations interministérielles.
+La Sociocratie 3.0 — ou "S3" — est une [technologie sociale](glossary:social-technology) pour faire développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, voir des collaborations interministérielles.
 
-Dans ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
+A l’intérieur de ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
 
 Depuis leur lancement en 2015, les pratiques S3 ont aidé des personnes dans une grande variété de contextes organisationnels à tirer le meilleur parti de la collaboration. Aussi bien des start-ups que des petites et moyennes entreprises, de grandes organisations internationales, des organisations qu'elles soient financées par des investisseurs ou à but non lucratif, des familles et des communautés.
 
@@ -15,7 +15,7 @@ L'utilisation de S3 peut **vous aider à atteindre vos objectifs** et naviguer a
 
 **Sociocratie 3.0 est libre**, et sous licence Creative Commons Free Culture License.
 
-### Comment la Sociocratie 3.0 peut-elle aider ?
+## Comment la Sociocratie 3.0 peut aider?
 
 S3 est une technologie de transformation à la fois pour les individus et l'ensemble de l'organisation qui vous aidera à trouver comment relever les plus grands défis de votre organisation, profiter des opportunités qui se présentent et résoudre les problèmes les plus tenaces.
 
@@ -39,4 +39,4 @@ Ce guide pratique est écrit et publié par les trois co-développeurs de la Soc
 
 Fidèle à l'état d'esprit S3, ce livre restera perpétuellement en chantier évoluant au fur et à mesure que nous apprenons auprès des personnes qui expérimentent S3 dans les organisations du monde entier. Depuis que nous avons commencé il y a 5 ans, nous avons publié plusieurs mises à jour par an et nous continuerons à le faire dans les années à venir.
 
-Même si plusieurs sections de ce livre sont succinctes et parfois peu abouties , ce livre s'est avéré suffisant pour que de nombreuses personnes puissent débuter avec S3 et réaliser des changements positifs dans leurs organisations. Nous espérons que cela vous sera également utile.
+Même si plusieurs sections de ce livre sont succinctes et parfois peu abouties, son contenu et ses explications se sont avérés suffisant pour que de nombreuses personnes puissent débuter avec S3 et réaliser des changements positifs dans leurs organisations. Nous espérons que vous le trouverez également utile.

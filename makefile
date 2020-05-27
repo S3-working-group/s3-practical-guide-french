@@ -29,7 +29,7 @@ site:
 	awk '{print >out}; /<!-- split here -->/{out="$(DOCS_TMP)/concepts-and-principles-content.md"}' out=$(DOCS_TMP)/introduction-content.md docs/introduction.md
 	$(MKTPL) templates/website/introduction.md $(DOCS_TMP)/intro_tmpl.md $(LOC) $(PRJ)
 	cd $(DOCS_TMP); multimarkdown --to=mmd --output=../../docs/introduction.md intro_tmpl.md
-	$(MKTPL) templates/website/concepts-and-principles.md $(DOCS_TMP)/concepts_tmpl.md $(LOC) $(PRJ)
+	$(MKTPL) content/website/_templates/concepts-and-principles.md $(DOCS_TMP)/concepts_tmpl.md $(LOC) $(PRJ)
 	cd $(DOCS_TMP); multimarkdown --to=mmd --output=../../docs/concepts-and-principles.md concepts_tmpl.md
 	
 	# prepare templates
@@ -137,9 +137,9 @@ setup:
 	-mkdir -p $(TMPSUP)
 	-mkdir docs/_site
 
-	# update version number in content
+	# images for ebook
 ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
-	$(MKTPL) templates/version.txt content/version.txt $(LOC) $(PRJ)
+	rm -r $(EBOOK_TMP)/img
 endif
 	cp -r img $(EBOOK_TMP)/img
 
@@ -149,7 +149,6 @@ ifneq ("$(wildcard $(TMPSUP)/img)","")
 	rm -r $(TMPSUP)/img
 endif 
 	cp -r img $(TMPSUP)/img
-
 
 	# clean up and copy images do to docs folder
 ifneq ("$(wildcard docs/img)","")

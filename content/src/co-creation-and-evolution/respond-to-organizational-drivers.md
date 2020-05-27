@@ -12,7 +12,7 @@ La réponse à une intention organisationnelle est généralement traitée comme
 
 ![Réponses possibles aux intentions organisationnelles](img/driver-domain/driver-response-full.png)
 
-### Qualifier les intentions organisationnelles
+### Qualifier les intentions comme intentions organisationnelles
 
 {{glossary:organizational-driver}}
 

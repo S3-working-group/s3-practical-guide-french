@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-01-31 19:11\n"
+"PO-Revision-Date: 2020-05-23 18:09\n"
 
 # continuation marker for follow-up slides
 msgid "(…)"
@@ -23,8 +23,8 @@ msgid "Pattern"
 msgstr "Pratique"
 
 # site title for practical guide microsite
-msgid "Sociocracy 3.0 - A Practical Guide"
-msgstr "Sociocratie 3.0 - Un Guide Pratique"
+msgid "A Practical Guide to Sociocracy 3.0"
+msgstr "Un guide pratique de la Sociocratie 3.0"
 
 # title for ebook
 msgid "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"

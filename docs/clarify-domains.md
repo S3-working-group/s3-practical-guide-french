@@ -3,13 +3,13 @@ title: "Clarifier les domaines"
 ---
 
 
-**Une compréhension claire des zones de redevabilité et de l'autonomie des personnes favorise une meilleure efficacité, optimise la collaboration et l'agilité dans toute une organisation.**
+**Une compréhension claire des zones de responsabilités et d'autonomie des personnes favorise une meilleure efficacité, optimise la collaboration et l'agilité dans toute une organisation.**
 
 Un moyen simple de clarifier les <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn> est d'établir une **description du domaine** comprenant :
 
 - l'<dfn data-info="Moteur principal: L&apos;intention primaire d&apos;un domaine est l&apos;intention principale à laquelle les personnes qui s&apos;occupent de ce domaine répondent.">intention primaire</dfn> (le **besoin organisationnel** auquel le domaine doit répondre)
 - les **responsabilités clés** (les livrables clés, tout risque critique à gérer, tout autre travail essentiel ou prises de décision effectivement délégués)
-- les **contraintes sur l'autonomie et l'influence** pesant sur ceux à qui est <dfn data-info="Délégation: L&apos;octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s&apos;occuper d&apos;un domaine, (c&apos;est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.">délégué</dfn> le domaine (les *délégués*), souvent liées à l'organisation elle-même (dépendances, implication du <dfn data-info="Délégant: Un individu ou groupe délégant un domaine à d&apos;autres groupes ou individus.">délégant</dfn>, reporting, etc.)
+- les **contraintes sur l'autonomie et l'influence** pesant sur ceux à qui est <dfn data-info="Délégation: L&apos;octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s&apos;occuper d&apos;un domaine, (c&apos;est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.">délégué</dfn> le domaine (les *délégués*), souvent liées à l'organisation elle-même (dépendances, implication du <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&apos;un domaine à autrui.">délégant</dfn>, reporting, etc.)
 - des **ressources** (temps, argent, installations, privilèges, outils)
 - des **critères d'évaluation** et une fréquence d'évaluation
 - une durée (pour un rôle)
