@@ -3,7 +3,7 @@ title: "Travail en flux tiré"
 ---
 
 
-**Les personnes tirent de nouveaux éléments de travail lorsqu'elles ont la capacité de les traiter (au lieu que travail leur soit poussé ou affecté).**
+<strong>Les personnes tirent de nouveaux éléments de travail lorsqu'elles ont la capacité de les traiter (au lieu que travail ne leur soit poussé ou affecté).</strong>
 
 Priorisez les éléments de travail pour assurer que les éléments importants soient traités en premier.
 

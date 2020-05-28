@@ -3,7 +3,7 @@ title: "Gardien du registre"
 ---
 
 
-**Sélectionnez un membre de votre équipe pour être spécifiquement redevable de maintenir à jour toutes les informations dont l'équipe a besoin.**
+<strong>Sélectionnez un membre de votre équipe pour être spécifiquement redevable de tenir à jour toutes les informations dont l'équipe a besoin.</strong>
 
 Le gardien du registre est redevable de maintenir le <dfn data-info="Registre: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.">registre</dfn> d'une équipe en :
 

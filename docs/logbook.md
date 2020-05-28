@@ -3,7 +3,7 @@ title: "Registre"
 ---
 
 
-**Maintenez un système cohérent et accessible qui conserve toutes les informations nécessaires à la collaboration.**
+<strong>Maintenez un système cohérent et accessible qui conserve toutes les informations nécessaires pour collaborer.</strong>
 
 Un registre est un support (numérique) pour conserver toutes les informations pertinentes au fonctionnement d'un organisation et de ses équipes. Tous les membres de l'organisation ont accès au registre et l'information n'est gardée confidentielle que s'il y a une bonne raison de le faire.
 

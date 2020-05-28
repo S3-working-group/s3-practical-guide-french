@@ -3,7 +3,7 @@ title: "Co-créer des propositions"
 ---
 
 
-**Réunissez les gens pour co-créer des propositions en réponse aux intentions organisationnelles : exploitez l’intelligence collective, bâtissez un sentiment d'appropriation et faites augmenter leur engagement et leur responsabilisation.**
+<strong>Réunissez les gens pour co-créer des propositions en réponse aux intentions organisationnelles : exploitez l’intelligence collective, bâtissez un sentiment d'appropriation et faites augmenter leur engagement et leur responsabilisation.</strong>
 
 Il existe de nombreuses façons de co-créer des propositions. Elles suivent généralement un modèle similaire :
 

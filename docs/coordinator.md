@@ -3,7 +3,7 @@ title: "Coordinateur"
 ---
 
 
-Une personne remplissant le rôle de coordinateur est redevable de **la coordination des opérations d'un domaine** et est **sélectionnée pour un mandat limité.**
+Une personne remplissant le rôle de coordinateur est redevable de <strong>la coordination des opérations d'un domaine</strong> et est <strong>sélectionnée pour un mandat limité.</strong>
 
 Le coordinateur peut être sélectionné par l'équipe elle-même, ou par le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&apos;un domaine à autrui.">délégant</dfn>.
 

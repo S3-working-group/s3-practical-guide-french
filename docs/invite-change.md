@@ -3,7 +3,7 @@ title: "Inviter aux changements"
 ---
 
 
-**Clarifiez la raison du changement et invitez les gens à participer.**
+<strong>Clarifiez la raison du changement et invitez les gens à participer.</strong>
 
 Encourager plutôt qu'imposer contribue à réduire la résistance au changement et permet aux gens de choisir par eux-mêmes.
 

@@ -3,7 +3,7 @@ title: "Décider par consentement"
 ---
 
 
-**Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les ententes existantes.**
+<strong>Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les ententes existantes.</strong>
 
 Les propositions deviennent des <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> quand elles sont considérées *suffisantes pour le moment et suffisamment sûres à essayer* jusqu'à la prochaine évaluation.
 

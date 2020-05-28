@@ -3,7 +3,7 @@ title: "Lien"
 ---
 
 
-**Activez un flux d’information et d’influence entre deux équipes.**
+<strong>Activez un flux d’information et d’influence entre deux équipes.</strong>
 
 Une équipe sélectionne l'un de ses membres pour représenter ses intérêts dans les décisions de <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn> d'une autre équipe.
 

@@ -3,7 +3,7 @@ title: "Clarifier les domaines"
 ---
 
 
-**Une compréhension claire des zones de responsabilités et d'autonomie des personnes favorise une meilleure efficacité, optimise la collaboration et l'agilité dans toute une organisation.**
+<strong>Une compréhension claire des zones de responsabilités et d'autonomie des personnes favorise une meilleure efficacité, optimise la collaboration et l'agilité dans toute une organisation.</strong>
 
 Un moyen simple de clarifier les <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn> est d'établir une **description du domaine** comprenant :
 

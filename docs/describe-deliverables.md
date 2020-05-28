@@ -3,7 +3,7 @@ title: "Décrire les livrables"
 ---
 
 
-**Indiquez clairement les livrables liés à une entente pour soutenir une compréhension commune des attentes.**
+<strong>Indiquez clairement les livrables liés à une entente pour soutenir une compréhension commune des attentes.</strong>
 
 _Un **livrable** est un produit, un service, un composant ou un document fourni en réponse à une intention organisationnelle._
 

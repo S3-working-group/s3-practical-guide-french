@@ -3,7 +3,7 @@ title: "Naviguer par tension"
 ---
 
 
-**Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié toute intention organisationnelle que vous découvrez .**
+<strong>Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié toute intention organisationnelle que vous découvrez .</strong>
 
 **Les défis et les opportunités** pour une organisation sont révélés par des gens qui expriment les raisons pour lesquelles ils éprouvent des tensions.
 
