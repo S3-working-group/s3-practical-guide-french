@@ -1,6 +1,8 @@
 ## Domaine ouvert
 
-**Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.**
+<summary>
+<strong>Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.</strong>
+</summary>
 
 Le [délégant](glossary:delegator) du domaine ouvert clarifie :
 

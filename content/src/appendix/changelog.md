@@ -117,12 +117,12 @@
 - [Décrire les intentions organisationnelles](section:describe-organizational-drivers): rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux intentions organisationnelles * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les intentions organisationnelles
 - [Double lien](section:double-linking): description alignée à *Lien*
 - [Hiérarchie à double-lien](section:double-linked-hierarchy): explication détaillée de ce qu'est une hiérarchie à double lien, et comment elle est créée
-- [Évaluer et Évoluer les entententes](section:evaluate-and-evolve-agreements) : réarranger le texte pour qu'il soit clair qu'il y a un format long et court
+- [Evaluer et accepter les ententes](section:evaluate-and-evolve-agreements): réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
 - [Critères d'évaluation](section:evaluation-criteria): suggéré de clarifier un seuil de réussite, et nous avons expliqué que nous faisons évoluer également les critères d'évaluation avec les ententes
 - [Faciliter les réunions](section:facilitate-meetings): description améliorée
 - [Organisation Fractale](section:fractal-organization): description étendue et améliorée
 - [Backlog de gouvernance](section:governance-backlog) : description améliorée
-- [Réunion sur la gouvernance](section:governance-meeting) : description améliorée, éléments de l'ordre du jour clarifiés
+- [Réunion de gouvernance](section:governance-meeting): description améliorée, éléments de l'ordre du jour clarifiés
 - [Inviter aux changements](section:invite-change): la description se concentre maintenant sur *comment* inviter aux changements
 - [Lien](section:linking): description alignée à [Double lien](section:double-linking)
 - [Registre](section:logbook): précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
@@ -219,7 +219,7 @@
 **Pratiques renommées :**
 
 - * Organisation vertébrale* a *organisation de services*
-- *Évaluation d'efficacité* a *Examen par les pairs</li> 
+- *Évaluation d'efficacité* vers *Examen par les pairs</li> 
     
     - *Stratégie* à *Développer la stratégie*
     - *Description du domaine* à *Clarifier les domaines*

@@ -1,6 +1,8 @@
 ## Rétrospective
 
-**Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer le processus de travail.**
+<summary>
+<strong>Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer le processus de travail.</strong>
+</summary>
 
 - en sortie : modifications du processus de travail, nouvelles tâches, ententes [à la volée](glossary:agreement), et [intentions](glossary:organizational-driver) nécessitant une entente
 - réunion facilitée (environ 1h)

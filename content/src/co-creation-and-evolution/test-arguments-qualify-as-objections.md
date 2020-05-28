@@ -1,17 +1,18 @@
 ## Tester les Arguments Qualifiés d'Objections
 
+<summary>
+Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.
+</summary>
 
-**Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.**
+Quand quelqu'un propose de changer quelque chose, vérifiez que l'argument présenté révèle comment des conséquences indésirables vont ou pourraient survenir si l’on ne change rien, ou qu'il vous indique un moyen utile d'améliorer la façon de réaliser vos objectifs.
 
-Quand quelqu'un soulève un argument pour changer quelque chose, vérifiez que l'argument révèle comment laisser les choses inchangées mènera - ou pourrait mener - à des conséquences que vous voulez éviter, ou qu'il vous indique un moyen utile d'améliorer la façon de réaliser vos objectifs.
-
-Explorer et affiner chaque argument si nécessaire pour identifier toute idée erronée ou malentendu, et éliminer les aspects de l'argument qui sont uniquement fondés sur des hypothèses, sur une préférence ou une opinion personnelle. Si vous établissez que ce qui reste de l'argument est une objection, passez à [résoudre l'objection](section:resolve-objections).
+Explorez et affinez chaque argument si nécessaire pour identifier toute idée erronée ou dissiper tout malentendu, et éliminer les aspects de l'argument qui sont uniquement fondés sur des hypothèses, sur une préférence ou sur une opinion personnelle. Si vous établissez que ce qui reste de l'argument est une objection, passez à [résoudre l'objection](section:resolve-objections).
 
 Pour savoir si un argument est une objection, dans un contexte de groupe, un facilitateur peut inviter à la réflexion en demandant :
 
 _"Pensez-vous que cet argument est une objection ?"_
 
-Si personne n'est en désaccord, traitez l'argument comme une objection. En cas de désaccord, invitez un dialogue pour découvrir si une objection est révélée par l'argument.
+Si personne n'est en désaccord, traitez l'argument comme une objection. En cas de désaccord, proposez un dialogue pour découvrir si une objection est révélée par l'argument.
 
 
 ### Comprendre les objections
@@ -27,4 +28,4 @@ Quelques questions utiles :
     -   n'est pas considérée comme 'suffisamment sûre' pour l'essayer?
 
 
-![Un processus de test si un argument est qualifié d'objection](img/agreements/qualify-objection-process.png)
+![Un processus pour tester si un argument se qualifie d'objection](img/agreements/qualify-objection-process.png)

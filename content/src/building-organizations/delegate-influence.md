@@ -1,6 +1,8 @@
 ## Déléguer l'influence
 
-**Distribuez le pouvoir d'influence, pour permettre aux gens de décider et d'agir par eux-mêmes en respectant des contraintes définies.**
+<summary>
+<strong>Distribuez le pouvoir d'influence, pour permettre aux gens de décider et d'agir par eux-mêmes en respectant des contraintes définies.</strong>
+</summary>
 
 Un [délégant](glossary:delegator) peut soutenir des [délégués](glossary:delegatee) à délivrer de la valeur en :
 

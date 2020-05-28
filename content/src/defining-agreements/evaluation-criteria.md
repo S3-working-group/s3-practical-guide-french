@@ -1,6 +1,8 @@
 ## Critères d'évaluation
 
-**Développez des critères d'évaluation bien définis pour déterminer si agir selon une entente a eu l'effet souhaité.**
+<summary>
+<strong>Développez des critères d'évaluation bien définis pour déterminer si agir selon une entente a eu l'effet escompté.</strong>
+</summary>
 
 - choisir des critères **simples et sans ambiguïté** et les documentez (pour éviter des discussions inutiles lors de l'évaluation de vos [ententes](glossary:agreement))
 - définir des **indicateurs (mesurés) actionnables** pour suivre en permanence les effets et repérer les écarts au [résultat attendu](glossary:intended-outcome)
