@@ -3,7 +3,7 @@ title: "Cercle délégué"
 ---
 
 
-**Déléguez la prise de décisions de gouvernance impactant plusieurs domaines aux représentants sélectionnés par ces domaines.**
+<strong>Déléguez la prise de décisions de gouvernance impactant plusieurs domaines aux représentants sélectionnés par ces domaines.</strong>
 
 Pour prendre des décisions de <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn> en leur nom, les parties prenantes envoient des [représentants](representative.html) pour former un cercle délégué.
 

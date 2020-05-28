@@ -3,7 +3,7 @@ title: "Evaluer les réunions"
 ---
 
 
-**Prenez le temps de tirer des enseignements à la fin de chaque réunion ou atelier.**
+<strong>A la fin de chaque réunion ou travail de groupe, prenez le temps d'en tirer des leçons et d'apprendre.</strong>
 
 Réfléchissez aux interactions, célébrez les succès et partagez vos suggestions d'amélioration avant de clore la réunion.
 

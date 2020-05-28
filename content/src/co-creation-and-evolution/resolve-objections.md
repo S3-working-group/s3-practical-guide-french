@@ -1,6 +1,8 @@
 ## Intégrer les objections
 
-**Intégrez les objections une par une en utilisant les informations qu'elles contiennent et développer les amendements.**
+<summary>
+<strong>Intégrez les objections une par une en utilisant les informations qu'elles contiennent et développer les amendements.</strong>
+</summary>
 
 Commencez à résoudre l'[objection](glossary:objection) qui semble la plus prometteuse et, si cela échoue, choisissez en simplement une autre. Chaque tentative vous aidera à mieux comprendre les informations que contient l'objection et à rapprocher le groupe de proposer un amendement qui satisfera l'objection.
 

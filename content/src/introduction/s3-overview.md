@@ -1,6 +1,6 @@
 ## Qu'est-ce que la Sociocratie 3.0 ?
 
-La Sociocratie 3.0 — ou "S3" — est une [technologie sociale](glossary:social-technology) pour faire développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, voir des collaborations interministérielles.
+La Sociocratie 3.0 — ou "S3" — est une [technologie sociale](glossary:social-technology) pour développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, voir des collaborations interministérielles.
 
 A l’intérieur de ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
 

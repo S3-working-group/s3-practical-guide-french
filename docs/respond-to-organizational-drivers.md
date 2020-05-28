@@ -3,7 +3,7 @@ title: "Répondre aux intentions organisationnelles"
 ---
 
 
-**Clarifiez les intentions organisationnelles (c'est-à-dire ce qui se passe et ce qui est nécessaire pour l'organisation) et répondez au besoin.**
+<strong>Clarifiez les intentions organisationnelles (c'est-à-dire ce qui se passe et ce qui est nécessaire pour l'organisation) et agissez en conséquence.</strong>
 
 Les réponses possibles à des <dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intentions organisationnelles</dfn> sont :
 

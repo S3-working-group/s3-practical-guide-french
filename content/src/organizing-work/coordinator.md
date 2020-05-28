@@ -1,6 +1,8 @@
 ## Coordinateur
 
-Une personne remplissant le rôle de coordinateur est redevable de **la coordination des opérations d'un domaine** et est **sélectionnée pour un mandat limité.**
+<summary>
+Une personne remplissant le rôle de coordinateur est redevable de <strong>la coordination des opérations d'un domaine</strong> et est <strong>sélectionnée pour un mandat limité.</strong>
+</summary>
 
 Le coordinateur peut être sélectionné par l'équipe elle-même, ou par le [délégant](glossary:delegator).
 

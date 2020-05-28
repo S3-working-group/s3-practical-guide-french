@@ -3,7 +3,7 @@ title: "Préparer les réunions"
 ---
 
 
-**Préparez-vous à l'avance pour rendre les réunions plus efficaces.**
+<strong>Préparez-vous à l'avance pour rendre les réunions plus efficaces.</strong>
 
 Quelques considérations pour préparer avec succès une réunion :
 

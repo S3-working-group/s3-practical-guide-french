@@ -1,6 +1,8 @@
 ## Décrire les livrables
 
-**Indiquez clairement les livrables liés à une entente pour soutenir une compréhension commune des attentes.**
+<summary>
+<strong>Indiquez clairement les livrables liés à une entente pour soutenir une compréhension commune des attentes.</strong>
+</summary>
 
 {{define:deliverable}}
 

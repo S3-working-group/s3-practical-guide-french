@@ -3,7 +3,7 @@ title: "Déléguer l'influence"
 ---
 
 
-**Distribuez le pouvoir d'influence, pour permettre aux gens de décider et d'agir par eux-mêmes en respectant des contraintes définies.**
+<strong>Distribuez le pouvoir d'influence, pour permettre aux gens de décider et d'agir par eux-mêmes en respectant des contraintes définies.</strong>
 
 Un <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&apos;un domaine à autrui.">délégant</dfn> peut soutenir des <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&apos;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn> à délivrer de la valeur en :
 

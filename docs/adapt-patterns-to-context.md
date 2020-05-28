@@ -3,7 +3,7 @@ title: "Adapter les pratiques au contexte"
 ---
 
 
-**Adaptez et faites évoluer vos pratiques S3 pour correspondre à votre contexte particulier.**
+<strong>Adaptez et faites évoluer vos pratiques S3 pour correspondre à votre contexte particulier.</strong>
 
 Assurez-vous que tous ceux qui sont concernés :
 

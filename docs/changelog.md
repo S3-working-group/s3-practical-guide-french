@@ -120,12 +120,12 @@ title: "Historique des modifications"
 - [Décrire les intentions organisationnelles](describe-organizational-drivers.html): rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux intentions organisationnelles * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les intentions organisationnelles
 - [Double lien](double-linking.html): description alignée à *Lien*
 - [Hiérarchie à double-lien](double-linked-hierarchy.html): explication détaillée de ce qu'est une hiérarchie à double lien, et comment elle est créée
-- [Évaluer et Évoluer les entententes](evaluate-and-evolve-agreements.html) : réarranger le texte pour qu'il soit clair qu'il y a un format long et court
+- [Evaluer et accepter les ententes](evaluate-and-evolve-agreements.html): réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
 - [Critères d'évaluation](evaluation-criteria.html): suggéré de clarifier un seuil de réussite, et nous avons expliqué que nous faisons évoluer également les critères d'évaluation avec les ententes
 - [Faciliter les réunions](facilitate-meetings.html): description améliorée
 - [Organisation Fractale](fractal-organization.html): description étendue et améliorée
 - [Backlog de gouvernance](governance-backlog.html) : description améliorée
-- [Réunion sur la gouvernance](governance-meeting.html) : description améliorée, éléments de l'ordre du jour clarifiés
+- [Réunion de gouvernance](governance-meeting.html): description améliorée, éléments de l'ordre du jour clarifiés
 - [Inviter aux changements](invite-change.html): la description se concentre maintenant sur *comment* inviter aux changements
 - [Lien](linking.html): description alignée à [Double lien](double-linking.html)
 - [Registre](logbook.html): précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
@@ -222,7 +222,7 @@ title: "Historique des modifications"
 **Pratiques renommées :**
 
 - * Organisation vertébrale* a *organisation de services*
-- *Évaluation d'efficacité* a *Examen par les pairs</li> 
+- *Évaluation d'efficacité* vers *Examen par les pairs</li> 
     
     - *Stratégie* à *Développer la stratégie*
     - *Description du domaine* à *Clarifier les domaines*

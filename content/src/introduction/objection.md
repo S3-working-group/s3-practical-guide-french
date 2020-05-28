@@ -29,12 +29,12 @@ Créer une culture où les gens se sentent à l'aise pour lever des objections *
 Tirez parti de la diversité des perspectives et soyez ouvert à challenger les votres, à découvrir quand et quoi changer, et appréciez d'itérer plus rapidement, eb expérimentant et en apprenant des résultats obtenus en chemin.
 
 
-#### Vigilances
+#### Préoccupations
 
 **Tous les arguments invoqués ne sont pas des objections. Distinguez entre les objections, qui révèlent toujours des informations utiles, et d'autres arguments qui ne sont fondés que sur des hypothèses, ou sur une préférence ou une opinion personnelle.**
 
 {{define:concern}}
 
-Dans la [Décision par Consentement](section:consent-decision-making), les vigilances peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation). Faites part de vos vigilances si vous pensez qu’il est utile de les prendre en considération, et au moins de les enregistrer avec l'entente, et de surveiller les résultats dans le temps.
+Dans la [Décision par Consentement](section:consent-decision-making), les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation). Faites part de vos vigilances si vous pensez qu’il est utile de les prendre en considération, et au moins de les enregistrer avec l'entente, et de surveiller les résultats dans le temps.
 
 Si vous avez des doutes quant à savoir si vous avez une objection ou une vigilance, soyez proactif et vérifiez avec les autres pour voir ce qu'ils pensent aussi. (voir [Tester les Argument se Qualifiant d'Objections](section:test-arguments-qualify-as-objections)). 

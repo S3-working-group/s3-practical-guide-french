@@ -1,6 +1,8 @@
 ## Décrire les intentions organisationnelles
 
-**Décrivez les intentions pour mieux les comprendre, les communiquer et s'en souvenir.**
+<summary>
+<strong>Décrivez les intentions pour mieux les comprendre, les communiquer et s'en souvenir.</strong>
+</summary>
 
 Décrire les [intentions](glossary:organizational-driver) peut être fait par un groupe ou par un individu. Selon leur perspective, ils peuvent décider d'expliquer une intention comme un **problème** à résoudre ou une **opportunité** à saisir.
 

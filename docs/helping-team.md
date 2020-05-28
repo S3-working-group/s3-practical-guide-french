@@ -3,7 +3,7 @@ title: "Equipe de soutien"
 ---
 
 
-**Rassemblez une équipe de personnes équivalentes pour répondre à un ensemble particulier d'exigences définies par un délégant.**
+<strong>Rassemblez une équipe de personnes équivalentes pour répondre à un ensemble particulier d'exigences définies par un délégant.</strong>
 
 Une équipe de soutien :
 

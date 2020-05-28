@@ -3,7 +3,7 @@ title: "Contrat de collaboration réussie"
 ---
 
 
-**Soutenez une collaboration réussie dès le début et bâtissez une confiance mutuelle entre des parties en co-créant des contrats qui soient mutuellement bénéfiques et juridiquement solides.**
+<strong>Soutenez une collaboration réussie dès le début et bâtissez une confiance mutuelle entre des parties en co-créant des contrats qui soient mutuellement bénéfiques et juridiquement solides.</strong>
 
 Un **contrat** est un corpus de promesses que deux ou plusieurs parties acceptent de rendre juridiquement contraignantes, c'est-à-dire que si ces promesses sont violées, la partie lésée disposent des recours juridiques (ou alternatifs).
 

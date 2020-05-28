@@ -3,7 +3,7 @@ title: "Domaine ouvert"
 ---
 
 
-**Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.**
+<strong>Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.</strong>
 
 Le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&apos;un domaine à autrui.">délégant</dfn> du domaine ouvert clarifie :
 

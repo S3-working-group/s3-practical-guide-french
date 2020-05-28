@@ -3,7 +3,7 @@ title: "Organisation de service"
 ---
 
 
-**Collaboration impliquant de multiples parties prenantes, s'alignant vers une intention commune (ou un objectif).**
+<strong>Collaboration impliquant de multiples parties prenantes, s'alignant vers une intention commune (ou un objectif).</strong> 
 
 - améliore le potentiel d'équivalence entre diverses entités
 - augmente l'alignement inter-départemental / organisationnel

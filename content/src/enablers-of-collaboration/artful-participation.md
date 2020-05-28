@@ -1,6 +1,8 @@
 ## Participation élégante
 
-**Engagez-vous à faire de votre mieux pour agir et interagir de manière à permettre une collaboration efficace.**
+<summary>
+<strong>Engagez-vous à faire de votre mieux pour agir et interagir de façon à permettre une collaboration efficace.</strong>
+</summary>
 
 *"Mon comportement actuel est-il la meilleure contribution que je puisse apporter à l'efficacité de cette collaboration?"*
 

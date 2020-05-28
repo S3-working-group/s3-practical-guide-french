@@ -1,19 +1,21 @@
 ## Consigner les Ententes
 
-**Consignez les détails des ententes que vous concluez, de sorte que vous puissiez vous en souvenir plus tard, évaluer les résultats et faire évoluer l'entente dans le temps.**
+<summary>
+Consignez les détails des ententes que vous concluez, de sorte que vous puissiez vous en souvenir plus tard, évaluer les résultats obtenus et les faire évoluer ces ententes dans le temps.
+</summary>
 
 {{define:agreement}}
 
-**Note:** En S3, les consignes, les processus ou les protocoles créés par des individus dans leurs rôles sont également traités comme des ententes.
+**Remarque:** En S3, les consignes, les processus ou les protocoles créés par des individus dans leurs rôles sont également traités comme des ententes.
 
-Conserver les enregistrements des ententes à jour, par exemple dans un [registre](glossary:logbook).
+Tenez à jour les enregistrements des ententes, par exemple dans un [registre](glossary:logbook).
 
 
 ### Que consigner ?
 
-Consignez les ententes avec des détails suffisants pour que les informations importantes puissent être rappelées plus tard.
+Consignez les ententes avec des détails suffisants pour pouvoir retrouver les informations importantes plus tard.
 
-A minima inclure un résumé de l'intention, une description de ce qui a été convenu, qui est responsable de quoi, des critères d'évaluation et une date de révision.
+Inclure au moins un résumé de l'intention, une description de ce qui a été convenu, qui est responsable de quoi, des critères d'évaluation et une date de révision.
 
 En fonction de la portée et de l'importance de l'entente, envisagez d'inclure les éléments suivants :
 
@@ -31,7 +33,7 @@ En fonction de la portée et de l'importance de l'entente, envisagez d'inclure l
     - [Résultats attendus](section:clarify-intended-outcome)
     - [Livrables](section:describe-deliverables)
     - Raison
--   [Critères d'évaluation](section:evaluation-criteria) (et potentiellement [vigilances](glossary:concern))
+-   [Critères d'évaluation](section:evaluation-criteria) (et potentiellement [préoccupations](glossary:concern))
 -   Annexe (si utile)
     - Informations contextuelles
     - Versions précédentes des ententes

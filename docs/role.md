@@ -3,7 +3,7 @@ title: "Rôle"
 ---
 
 
-**Déléguez les responsabilités d'un domaine à des individus.**
+<strong>Déléguez les responsabilités d'un domaine à des individus.</strong>
 
 Un rôle est une zone de redevabilité (un <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaine</dfn>) qui est <dfn data-info="Délégation: L&apos;octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s&apos;occuper d&apos;un domaine, (c&apos;est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.">déleguée</dfn> à un individu (le **porteur de rôle**), agissant et décidant en autonomie selon les contraintes du domaine du rôle.
 

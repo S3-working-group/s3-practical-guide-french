@@ -3,7 +3,7 @@ title: "Cercle de service"
 ---
 
 
-**Externalisez les services requis par au minimum deux domaines.**
+<strong>Externalisez les services requis par deux domaines ou plus.</strong>
 
 Un cercle de service peut être constitué par des membres des <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn> qu'ils servent, et/ou par d'autres personnes aussi.
 

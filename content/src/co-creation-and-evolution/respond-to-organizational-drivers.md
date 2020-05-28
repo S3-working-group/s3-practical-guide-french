@@ -1,6 +1,8 @@
 ## Répondre aux intentions organisationnelles
 
-**Clarifiez les intentions organisationnelles (c'est-à-dire ce qui se passe et ce qui est nécessaire pour l'organisation) et répondez au besoin.**
+<summary>
+<strong>Clarifiez les intentions organisationnelles (c'est-à-dire ce qui se passe et ce qui est nécessaire pour l'organisation) et agissez en conséquence.</strong>
+</summary>
 
 Les réponses possibles à des [intentions organisationnelles](glossary:organizational-driver) sont :
 

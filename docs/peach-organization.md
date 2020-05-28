@@ -3,7 +3,7 @@ title: "Organisation décentralisée"
 ---
 
 
-**Délivrez de la valeur dans les environnements complexes et compétitifs à travers la *décentralisation* (des ressources et de l'influence) et *l'interaction directe* entre ceux qui créent la valeur et les clients qu'ils servent.**
+<strong>Apportez de la valeur dans des environnements complexes et compétitifs grâce à la <em>décentralisation</em> (des ressources et de l'influence) et à <em>l'interaction directe</em> de ceux qui créent la valeur avec les clients qu'ils servent.</strong>
 
 Les équipes en périphérie :
 

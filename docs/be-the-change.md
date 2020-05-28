@@ -3,7 +3,7 @@ title: "Incarner le changement"
 ---
 
 
-**Menez par l'exemple.**
+<strong>Menez par l'exemple.</strong>
 
 Comportez-vous et agissez de la façon dont vous voudriez que les autres le fassent.
 

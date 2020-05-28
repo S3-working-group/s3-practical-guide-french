@@ -3,7 +3,7 @@ title: "Evaluation entre pairs"
 ---
 
 
-**Soutenez-vous mutuellement pour apprendre et vous améliorer dans les rôles et équipes où vous servez.**
+<strong>Soutenez-vous mutuellement pour apprendre et vous améliorer dans les rôles et équipes où vous servez.</strong>
 
 Le porteur de rôle - ou l'équipe - mène l'évaluation par les pairs en préparant le processus et en ouvrant le dialogue à chaque étape.
 

@@ -1,6 +1,8 @@
 ## Sélection des rôles
 
-**Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.**
+<summary>
+<strong>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</strong>
+</summary>
 
 Au lieu de simplement affecter des personnes aux [rôles](section:role), ou de faire un choix basé uniquement sur la majorité, utilisez le processus de sélection de rôles pour :
 
