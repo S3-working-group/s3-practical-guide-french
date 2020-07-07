@@ -3,7 +3,7 @@ title: "Evaluer et développer les ententes"
 ---
 
 
-**Développez continuellement un corpus d'ententes et éliminez le gaspillage.**
+<strong>Développez continuellement un corpus d'ententes et éliminez le gaspillage.</strong>
 
 L'examen régulier des ententes est une pratique essentielle pour une organisation apprenante :
 

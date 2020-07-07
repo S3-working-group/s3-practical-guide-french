@@ -1,6 +1,8 @@
 ## S'entendre sur les valeurs
 
-**Développez volontairement la culture de votre organisation.**
+<summary>
+<strong>Faites évoluer consciemment la culture de votre organisation.</strong>
+</summary>
 
 {{define:values}}
 

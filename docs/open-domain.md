@@ -3,9 +3,9 @@ title: "Domaine ouvert"
 ---
 
 
-**Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.**
+<strong>Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.</strong>
 
-Le <dfn data-info="Délégant: Un individu ou groupe délégant un domaine à d&apos;autres groupes ou individus.">délégant</dfn> du domaine ouvert clarifie :
+Le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&apos;un domaine à autrui.">délégant</dfn> du domaine ouvert clarifie :
 
 - l'<dfn data-info="Moteur principal: L&apos;intention primaire d&apos;un domaine est l&apos;intention principale à laquelle les personnes qui s&apos;occupent de ce domaine répondent.">intention primaire</dfn>, les responsabilités clés et les contraintes du domaine ouvert
 - qui est invité à contribuer au domaine ouvert

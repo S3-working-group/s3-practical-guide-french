@@ -3,7 +3,7 @@ title: "S'entendre sur les valeurs"
 ---
 
 
-**Développez volontairement la culture de votre organisation.**
+<strong>Faites évoluer consciemment la culture de votre organisation.</strong>
 
 _Les **Valeurs** sont des principes importants qui guident le comportement. Les valeurs définissent une portée d'action et des contraintes éthiques._
 

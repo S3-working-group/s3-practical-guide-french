@@ -1,6 +1,8 @@
 ## Facilitateur de gouvernance
 
-**Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.**
+<summary>
+<strong>Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.</strong>
+</summary>
 
 Un facilitateur de [gouvernance](glossary:governance) :
 

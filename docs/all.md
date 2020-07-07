@@ -4,11 +4,11 @@ title: Un Guide Pratique pour Evoluer vers des Organisations Agiles et Résilien
 
 # Introduction
 
-## Un Guide Pratique pour Evoluer vers des Organisations Agiles et Résilientes avec la Sociocratie 3.0
+## Qu'est-ce que la Sociocratie 3.0 ?
 
-La Sociocratie 3.0 — ou "S3" — est une **technologie sociale** pour faire évoluer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, ou collaborations interministérielles.
+La Sociocratie 3.0 — ou "S3" — est une technologie sociale pour développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, voir des collaborations interministérielles.
 
-Dans ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
+A l’intérieur de ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
 
 Depuis leur lancement en 2015, les pratiques S3 ont aidé des personnes dans une grande variété de contextes organisationnels à tirer le meilleur parti de la collaboration. Aussi bien des start-ups que des petites et moyennes entreprises, de grandes organisations internationales, des organisations qu'elles soient financées par des investisseurs ou à but non lucratif, des familles et des communautés.
 
@@ -21,7 +21,7 @@ L'utilisation de S3 peut **vous aider à atteindre vos objectifs** et naviguer a
 
 **Sociocratie 3.0 est libre**, et sous licence Creative Commons Free Culture License.
 
-### Comment la Sociocratie 3.0 peut-elle aider ?
+## Comment la Sociocratie 3.0 peut aider?
 
 S3 est une technologie de transformation à la fois pour les individus et l'ensemble de l'organisation qui vous aidera à trouver comment relever les plus grands défis de votre organisation, profiter des opportunités qui se présentent et résoudre les problèmes les plus tenaces.
 
@@ -45,7 +45,7 @@ Ce guide pratique est écrit et publié par les trois co-développeurs de la Soc
 
 Fidèle à l'état d'esprit S3, ce livre restera perpétuellement en chantier évoluant au fur et à mesure que nous apprenons auprès des personnes qui expérimentent S3 dans les organisations du monde entier. Depuis que nous avons commencé il y a 5 ans, nous avons publié plusieurs mises à jour par an et nous continuerons à le faire dans les années à venir.
 
-Même si plusieurs sections de ce livre sont succinctes et parfois peu abouties , ce livre s'est avéré suffisant pour que de nombreuses personnes puissent débuter avec S3 et réaliser des changements positifs dans leurs organisations. Nous espérons que cela vous sera également utile.
+Même si plusieurs sections de ce livre sont succinctes et parfois peu abouties, son contenu et ses explications se sont avérés suffisant pour que de nombreuses personnes puissent débuter avec S3 et réaliser des changements positifs dans leurs organisations. Nous espérons que vous le trouverez également utile.
 
 ## Influences et historique de la Sociocratie 3.0
 
@@ -67,13 +67,11 @@ La Sociocratie s'est avérée efficace pour de nombreuses organisations et commu
 
 En 2014 **James Priest et Bernhard Bockelbrink** se réunirent pour co-créer un corpus de ressources d'apprentissage sous licence Creative Commons, synthétisant les idées de la Sociocratie, de l’Agile et du Lean. Ils découvrirent que les organisations de toutes tailles ont besoin d’un menu flexible de pratiques et de structures – adaptées à leur contexte spécifique – qui permettent l’évolution d’une mentalité sociocratique et agile pour obtenir une plus grande efficacité, de l’alignement, le sentiment d’accomplissement et le bien-être. La première version de la **Sociocratie 3.0** fût lancée en mars 2015.
 
-**Liliana David** rejoint l'équipe rapidement après et depuis, ils collaborent régulièrement pour développer le cadre et le site web.
-
-Ensemble, ils oeuvrent à rendre S3 accessible et applicable au plus grand nombre d'organisations possible et publient des ressources sous une licence **Creative Commons Free Culture License** pour ceux qui veulent apprendre, appliquer et parler aux autres de la Sociocratie 3.0.
+**Liliana David** a rejoint l'équipe peu après. Ensemble, ils oeuvrent à rendre la S3 accessible et applicable au plus grand nombre d'organisations possible et publient des ressources sous une licence **Creative Commons Free Culture License** pour ceux qui veulent apprendre, appliquer et parler aux autres de la Sociocratie 3.0.
 
 ### Le mouvement Sociocratie 3.0
 
-L’intérêt pour la Sociocratie 3.0 s'accroit, grâce à une communauté de personnes d'origines diverses qui se développe rapidement — des consultants pionniers, des coaches, des facilitateurs d’apprentissage et des personnes qui appliquent S3 dans différents contextes — tous reconnaissent le potentiel transformationnel de la Sociocratie 3.0 pour aider les organisations et leurs membres à prospérer. Beaucoup consacrent une part de leur temps à expérimenter et échanger sur S3, et collaborent pour apprendre les uns des autres et documenter leurs expériences afin de nourrir le développement et l’évolution du cadre et de ses applications diverses.
+Avec l’intérêt grandissant pour la Sociocratie 3.0, une communauté de personnes d’origines diverses se développe rapidement — des consultants pionniers, des coaches, des facilitateurs d’apprentissage et des personnes qui appliquent S3 dans différents contextes — tous reconnaissent le potentiel transformationnel de la Sociocratie 3.0 pour aider les organisations et leurs membres à prospérer. Beaucoup consacrent une part de leur temps à expérimenter et échanger sur S3, et collaborent pour apprendre les uns des autres et documenter leurs expériences afin de nourrir le développement et l’évolution du cadre et de ses applications diverses.
 
 ## Pourquoi la Sociocratie 3.0?
 
@@ -138,34 +136,25 @@ La structure organisationnelle selon la *Méthode d'Organisation en Cercles Soci
 
 <!-- split here -->
 
-## Les concepts de base
-
-Avant d'aller plus loin, prenez le temps de vous familiariser avec des concepts de base derrière la S3 :
-
-- Qu'est-ce qu'une pratique ?
-- Les sept principes
-- Comprendre les organisations : 
-    - Intentions, valeur et gaspillage
-    - Domaines, délégation et redevabilité
-    - Gouvernance et opérations
-
-Si vous ne comprenez pas l'un de ces termes, consultez notre glossaire à la fin.
+## Les Pratiques et les Sept Principes
 
 ### Pratiques
 
-_Une **pratique** est un modèle pour traverser correctement un contexte particulier._
+S3 offre une approche pratique du changement organisationnel.
 
-- Les pratiques S3 sont découvertes en observant la manière dont les organisations répondent aux problèmes et réagissent aux opportunités
-- Les pratiques S3 peuvent être développées et adaptées pour convenir à différents contextes
-- les pratiques sont regroupées en 10 catégories
+Une **pratique** est un processus, une façon de faire ou une ligne directrice qui sert de modèle pour répondre avec succès à un type spécifique de défi ou d'opportunité. Les pratiques S3 sont découvertes en observant la manière dont les gens qui travaillent dans des organisations résolvent les problèmes et répondent aux opportunités qui se présentent à eux. Quand vous trouvez que vos méthodes habituelles de faire des choses ne produisent pas les résultats que vous attendiez ou espériez, vous pouvez vous tourner vers S3 pour trouver des pratiques qui pourraient vous aider.
 
-![Les pratiques sont regroupées en 10 catégories](img/pattern-group-headers/all-groups-dark.png)
+Les pratiques sont regroupées en dix catégories pour vous aider à identifier plus facilement celles qui vous seront utiles. Elles sont modulaires et adaptables, peuvent être utilisés de manière indépendante et se renforcent mutuellement, se complétant entre elles lorsqu'elles sont combinées. Les pratiques S3 peuvent être développées et adaptées à vos besoins spécifiques.
+
+En fournissant un menu de pratiquez à choisir en fonction des besoins, S3 encourage une **approche organique et itérative du changement sans un énorme investissement initial** . Elle prend les gens où ils se trouvent et les aide à avancer en ajoutant des pratiques à leur rythme et en fonction de leur contexte unique.
+
+![Les pratiques sont regroupées en dix thématiques; les Sept Principes sont reflétés dans chaque pratique](img/framework/s3-pattern-groups.png)
 
 ### Les sept principes
 
 La Sociocratie est fondée sur sept principes qui façonnent la culture organisationnelle. Puisque les sept principes se reflètent dans toutes les pratiques Sociocratie 3.0, la compréhension de ces principes est utile pour les adopter et primordiale si l'on souhaite les adapter .
 
-La pratique de la Sociocratie 3.0 aide les gens à apprécier la valeur essentielle que ces principes fondamentaux apportent, tant aux individus qu'aux organisations.
+Pratiquer la Sociocratie 3.0 aide les gens à comprendre la valeur essentielle que ces principes fondamentaux apportent – tant aux individus qu’aux organisations – et à soutenir leur intégration dans la culture organisationnelle.
 
 ![Les sept principes](img/framework/s3-principles-plain.png)
 
@@ -196,9 +185,23 @@ Les individus sont également redevables de leur travail, de leur apprentissage 
 Tout le monde dans une organisation est redevable d'aligner ses activités avec les valeurs organisationnelles.
 
 
-### Comprendre les organisations
+## Concepts clés pour comprendre les organisations
 
-#### Intentions
+Dans cette section, vous apprendrez les concepts clés suivants :
+
+- Intention
+- Domaine
+- Entente
+- Objection
+- Gouvernance et Opérations
+
+Vous découvrirez également comment ces concepts se rapportent à la valeur (et au gaspillage), à la délégation (et à la responsabilité), à l'auto-organisation, à l'auto-gouvernance et à la semi-autonomie.
+
+Lorsque les gens comprennent ces concepts, cela leur donne un langage commun pour décrire clairement ce qui se passe au sein de l’organisation. Cela contribue à accroître la compréhension partagée et permet un dialogue constructif sur ce qui doit être fait.
+
+Si vous ne comprenez pas l'un de ces termes, consultez notre glossaire à la fin.
+
+### Intentions
 
 _Une **intention** est la motivation d'un groupe ou d'une individu à répondre à une situation particulière._
 
@@ -207,7 +210,7 @@ Intentions :
 - peuvent être utilisées pour formuler des buts, objectifs, aspirations, une mission, une vision, une raison d’être
 - peuvent changer au fil du temps
 
-##### Intentions, valeur et gaspillage
+#### Intentions, valeur et gaspillage
 
 _La **valeur** est l'importance ou l'utilité de quelque chose lié à une intention._
 
@@ -219,25 +222,29 @@ En adoptant les concepts de valeur et de gaspillage, de nombreuses pratiques et 
 - différentes stratégies pour éliminer le gaspillage
 - la méthode Kanban
 
-#### Domaines
+### Domaines
 
 _Un **domaine** est une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation._
 
 Tous les domaines d'une organisation sont contenus dans son domaine général. Ils peuvent se chevaucher et/ou être pleinement inclus au sein d'autres domaines.
 
-Les domaines sont délégués à des personnes (ex: à une unité, un département, une équipe ou des individus), qui prennent la responsabilité du domaine, et agissent selon les contraintes qu'il impose en terme d'influence et d'autonomie.
-
 ![Les domaines peuvent se chevaucher et/ou être entièrement contenus dans d'autres domaines](img/driver-domain/domains-in-organizations.png)
 
-##### Déléguer les domaines
+#### Déléguer la responsabilité des domaines
 
-Ceux qui délèguent un domaine (les *délégants*) conservent néanmoins la redevabilité de ce domaine, allouent des **ressources** et définissent souvent :
+_La délégation est l’octroi d’une autorité sur un domaine d’une partie à une autre._
+
+Les domaines sont délégués à des personnes (p. ex. une unité, un département, une équipe ou des individus) qui assument la responsabilité du domaine dans des limites définies d'influence et d'autonomie.
+
+Lorsqu’un domaine est délégué à un groupe de personnes, il deviennent une équipe, quand il est délégué à un individu, il devient porteur de rôle.
+
+Ceux qui délèguent la responsabilité d'un domaine (les délégants) à d'autres gardent toujours la responsabilité globale pour ce domaine, allouent **de ressources** et définissent souvent :
 
 - le **besoin organisationnel** auquel le domaine doit répondre
 - les **responsabilités clés** (livrables, risques critiques à gérer, autre travail essentiel et prises de décision délégués)
 - des **contraintes sur l'autonomie et l'influence** pour ceux à qui sont délégués le domaine (les *délégués*), et qui sont souvent liées à l'organisation elle-même (dépendances, implication du délégant, reporting, etc.)
 
-##### Intentions et domaines
+#### Intentions et domaines
 
 Il est également possible de comprendre un domaine par rapport aux intentions organisationnelles :
 
@@ -247,6 +254,61 @@ Il est également possible de comprendre un domaine par rapport aux intentions o
     - les motivations pour les **contraintes du domaine** (généralement lié au contexte de l'organisation globale)
 
 ![Intentions et domaines](img/driver-domain/drivers-and-domains.png)
+
+### Objections
+
+_Une **objection** est un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il existe des moyens intéressants de l'améliorer._
+
+Les objections révèlent des informations sur  des **conséquences involontaires** (potentielles), ou sur **des moyens utiles de s'améliorer**.
+
+Sachez que ne pas exprimer des objections peut nuire à la capacité des individus, des équipes ou de l'ensemble de l'organisation à atteindre leurs objectifs.
+
+Il est de la responsabilité de chaque individu de lever des objections potentielles aux propositions, aux décisions, aux ententes existantes ou aux activités.
+
+Ceux qui sont redevables d'une activité ou d'un accord (proposé) en question, sont responsables de *la prise en compte des arguments et d'adresser les objections* qui sont levés en vue d'aider à atteindre les objectifs de l'organisation.
+
+Lorsque vous cherchez des objections potentielles, considérez :
+
+- **l'efficacité**: pourquoi le résultat souhaité ne serait pas (entièrement) atteint ?
+- **l'efficience**: pourquoi ce serait un gâchis de procéder comme proposé (ou convenu précédemment) ?
+- **les effets secondaires**: quelles conséquences négatives quelque chose aurait par ailleurs (dans le même domaine, dans l'ensemble de l'organisation, ou au-delà)?
+
+Les informations apportées par les objections peuvent être utilisées pour améliorer :
+
+-   les actions en cours et planifiées
+-   la façon dont les gens exécutent les décisions
+-   les ententes existantes
+-   les propositions
+-   la compréhension commune des intentions
+
+Créer une culture où les gens se sentent à l'aise pour lever des objections *potentielles* à tout moment, afin qu'ils puissent tranquillement prendre des décisions qui sont *suffisamment bonnes pour l'instant, et suffisamment sûres à essayer*. Cela encourage le développement d'une préférence pour essayer des choses, au lieu d'essayer d'anticiper et de tenir compte de toutes les possibilités à l'avance.
+
+Tirez parti de la diversité des perspectives et soyez ouvert à challenger les votres, à découvrir quand et quoi changer, et appréciez d'itérer plus rapidement, eb expérimentant et en apprenant des résultats obtenus en chemin.
+
+
+#### Préoccupations
+
+**Tous les arguments invoqués ne sont pas des objections. Distinguez entre les objections, qui révèlent toujours des informations utiles, et d'autres arguments qui ne sont fondés que sur des hypothèses, ou sur une préférence ou une opinion personnelle.**
+
+_Une **préoccupation** est une supposition - ou une opinion - selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** s’avérer être un obstacle pour une réponse (plus) efficace à une intention organisationnelle._
+
+Dans la _Décision par Consentement_, les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation). Faites part de vos vigilances si vous pensez qu’il est utile de les prendre en considération, et au moins de les enregistrer avec l'entente, et de surveiller les résultats dans le temps.
+
+Si vous avez des doutes quant à savoir si vous avez une objection ou une vigilance, soyez proactif et vérifiez avec les autres pour voir ce qu'ils pensent aussi. (voir _Tester les Argument se Qualifiant d'Objections_). 
+
+
+### Ententes
+
+_Une **entente** est une ligne directrice, un processus, un protocole ou une politique établis de le but de guider le flux de valeur._
+
+Des directives partagées sur pourquoi, comment et quand agir, et ce qui est spécifiquement nécessaire, permettant une collaboration efficace.
+
+Les ententes sont créées en réponse à des intentions organisationnelles, elles sont **régulièrement évaluées**, et évoluent si nécessaire.
+
+**La redevabilité générale** d'une entente appartient aux personnes qui la créent.
+
+Une entente peut inclure la **délégation de responsabilités particulières** à des individus ou à des groupes.
+
 
 ### Gouvernance et opérations
 
@@ -298,7 +360,7 @@ Selon les contraintes imposées par le délégant, les équipes ont plus ou moin
 
 ###  Pattern 1.1: Répondre aux intentions organisationnelles
 
-**Clarifiez les intentions organisationnelles (c'est-à-dire ce qui se passe et ce qui est nécessaire pour l'organisation) et répondez au besoin.**
+<strong>Clarifiez les intentions organisationnelles (c'est-à-dire ce qui se passe et ce qui est nécessaire pour l'organisation) et agissez en conséquence.</strong>
 
 Les réponses possibles à des intentions organisationnelles sont :
 
@@ -310,9 +372,9 @@ La réponse à une intention organisationnelle est généralement traitée comme
 
 ![Réponses possibles aux intentions organisationnelles](img/driver-domain/driver-response-full.png)
 
-#### Qualifier les intentions organisationnelles
+#### Qualifier les intentions comme intentions organisationnelles
 
-Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.
+Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.
 
 Une façon simple de déterminer si une intention appartient bien au domaine d'une organisation est de se demander :
 
@@ -320,7 +382,7 @@ Une façon simple de déterminer si une intention appartient bien au domaine d'u
 
 ###  Pattern 1.2: Naviguer par tension
 
-**Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié toute intention organisationnelle que vous découvrez .**
+<strong>Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié toute intention organisationnelle que vous découvrez .</strong>
 
 **Les défis et les opportunités** pour une organisation sont révélés par des gens qui expriment les raisons pour lesquelles ils éprouvent des tensions.
 
@@ -332,7 +394,7 @@ Pour **découvrir les intentions**, recherchez ce qui stimule la tension, et dé
 
 ###  Pattern 1.3: Décrire les intentions organisationnelles
 
-**Décrivez les intentions pour mieux les comprendre, les communiquer et s'en souvenir.**
+<strong>Décrivez les intentions pour mieux les comprendre, les communiquer et s'en souvenir.</strong>
 
 Décrire les intentions peut être fait par un groupe ou par un individu. Selon leur perspective, ils peuvent décider d'expliquer une intention comme un **problème** à résoudre ou une **opportunité** à saisir.
 
@@ -410,7 +472,7 @@ Quelques questions utiles pour une évaluation :
 
 ###  Pattern 1.4: Décider par consentement
 
-**Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les ententes existantes.**
+<strong>Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les ententes existantes.</strong>
 
 Les propositions deviennent des ententes quand elles sont considérées *suffisantes pour le moment et suffisamment sûres à essayer* jusqu'à la prochaine évaluation.
 
@@ -425,71 +487,40 @@ Taire des objections peut nuire aux objectifs d’une équipe ou d’une organis
 
 ![Décider par consentement](img/agreements/consent-decision-making.png)
 
-###  Pattern 1.5: Objection
+###  Pattern 1.5: Tester les Arguments Qualifiés d'Objections
 
-_Une **objection** est un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il existe des moyens intéressants de l'améliorer._
+Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.
 
-Les objections apportent des informations sur **des conséquences non désirées**, ou sur **des façons viables d'apporter des améliorations**.
+Quand quelqu'un propose de changer quelque chose, vérifiez que l'argument présenté révèle comment des conséquences indésirables vont ou pourraient survenir si l’on ne change rien, ou qu'il vous indique un moyen utile d'améliorer la façon de réaliser vos objectifs.
 
-Les individus sont redevables de soulever des objections potentielles à des propositions, des décisions, des ententes existantes ou des activités.
+Explorez et affinez chaque argument si nécessaire pour identifier toute idée erronée ou dissiper tout malentendu, et éliminer les aspects de l'argument qui sont uniquement fondés sur des hypothèses, sur une préférence ou sur une opinion personnelle. Si vous établissez que ce qui reste de l'argument est une objection, passez à _résoudre l'objection_.
 
-Ne pas exprimer les objections peut nuire à la capacité des individus, des groupes ou de l'organisation de répondre aux intentions organisationnelles.
+Pour savoir si un argument est une objection, dans un contexte de groupe, un facilitateur peut inviter à la réflexion en demandant :
 
-Pouvoir soulever des objections *potentielles* à tout moment signifie que les décisions n'ont besoin que *d'être suffisantes à l'instant présent et d'être juste assez sûres pour les essayer*.
+_"Pensez-vous que cet argument est une objection ?"_
 
-Ceux qui sont redevables de l'activité ou de l'entente (ou proposition) en question sont tenus d' *examiner les arguments soulevés et d'adresser les objections.*
+Si personne n'est en désaccord, traitez l'argument comme une objection. En cas de désaccord, proposez un dialogue pour découvrir si une objection est révélée par l'argument.
 
-Lorsque vous cherchez des objections potentielles, considérez :
-
-- pourquoi le résultat prévu ne serait pas (entièrement) atteint : **efficacité**
-- pourquoi il serait inutile de procéder comme proposé (ou convenu précédemment): **efficience**
-- les conséquences négatives que quelque chose aurait par ailleurs (dans le même domaine, dans l'ensemble de l'organisation, ou au-delà): **effets secondaires**
-
-Les informations apportées par les objections peuvent être utilisées pour améliorer :
-
-- les actions en cours et planifiées
-- la façon dont les gens exécutent les décisions
-- les ententes existantes
-- les propositions
-- la compréhension commune des intentions
-
-#### Qualifier les objections
-
-Tous les arguments soulevés ne sont pas des objections. Il convient de distinguer les objections, qui contiennent toujours des informations utiles, des arguments basés seulement sur des suppositions ou des préférences.
-
-Pour savoir si un argument est une objection, dans un contexte de groupe, un facilitateur pourrait demander :
-
-*"Pensez-vous que cet argument est une objection ?"*
-
-Si personne ne conteste l'argument, c'est habituellement une objection. Sinon, essayez de découvrir la véritable objection réelle ou de mettre en évidence toute fausse idée.
 
 #### Comprendre les objections
 
 Quelques questions utiles :
 
-- En quoi l'argument est-il relatif à cette proposition ou à cet accord en particulier ?
-- L'argument indique-t-il comment telle **activité ou tel accord (proposé ou en vigueur)**: 
-    - empêche de répondre aux intentions organisationnelles?
-    - peut être amélioré immédiatement ?
-    - empêche ou réduit la contribution de quelqu'un envers une intention ?
-    - est en conflit avec les valeurs de l'organisation ?
-    - n'est pas considéré comme 'suffisamment sûr' pour essayer?
+-   En quoi l'argument est-il relatif à cette proposition ou à cette entente en particulier ?
+-   Est-ce que l'argument révèle comment une **action ou entente** (proposée ou actuelle) :
+    -   pénalise notre réponse aux intentions organisationnelles?
+    -   peut être améliorée immédiatement ?
+    -   empêche ou réduit la contribution de quelqu'un envers une intention ?
+    -   est en conflit avec les valeurs de l'organisation ?
+    -   n'est pas considérée comme 'suffisamment sûre' pour l'essayer?
 
-#### Préoccupations
 
-_Un **préoccupation** est une hypothèse selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** se présenter comme une réponse (plus) efficace à une intention organisationnelle._
+![Un processus pour tester si un argument se qualifie d'objection](img/agreements/qualify-objection-process.png)
 
-Dans la _Décision par Consentement_, les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation).
-
-Faites part de vos préoccupations si vous les considérez importantes et proposez des critères d'évaluation correspondant.
-
-Si vous n’êtes pas sûr d’avoir une objection ou une préoccupation, demandez aux autres de vous aider à déterminer si votre argument est une objection.
-
-![Un processus pour qualifier une objection](img/agreements/qualify-objection-process.png)
 
 ###  Pattern 1.6: Intégrer les objections
 
-**Intégrez les objections une par une en utilisant les informations qu'elles contiennent et développer les amendements.**
+<strong>Intégrez les objections une par une en utilisant les informations qu'elles contiennent et développer les amendements.</strong>
 
 Commencez à résoudre l'objection qui semble la plus prometteuse et, si cela échoue, choisissez en simplement une autre. Chaque tentative vous aidera à mieux comprendre les informations que contient l'objection et à rapprocher le groupe de proposer un amendement qui satisfera l'objection.
 
@@ -503,7 +534,7 @@ Généralement, il est plus efficace de **prendre une objection à la fois**, d'
 
 ###  Pattern 1.7: Evaluer et développer les ententes
 
-**Développez continuellement un corpus d'ententes et éliminez le gaspillage.**
+<strong>Développez continuellement un corpus d'ententes et éliminez le gaspillage.</strong>
 
 L'examen régulier des ententes est une pratique essentielle pour une organisation apprenante :
 
@@ -546,7 +577,7 @@ Suivi :
 
 ###  Pattern 1.8: Les personnes impactées décident
 
-**Impliquez les personnes dans les décisions qui les concernent, pour maintenir équivalence et redevabilité, et pour augmenter la quantité d'informations disponibles sur le sujet.**
+<strong>Impliquez les gens dans les décisions qui les concernent, pour maintenir équivalence et redevabilité, et pour augmenter la quantité d'informations disponibles sur le sujet.</strong>
 
 Pour de plus grands groupes :
 
@@ -557,7 +588,7 @@ Pensez également à inclure les personnes impactées dans l'évaluation et l'é
 
 ###  Pattern 1.9: Co-créer des propositions
 
-**Réunissez les gens pour co-créer des propositions en réponse aux intentions organisationnelles : exploitez l’intelligence collective, bâtissez un sentiment d'appropriation et faites augmenter leur engagement et leur responsabilisation.**
+<strong>Réunissez les gens pour co-créer des propositions en réponse aux intentions organisationnelles : exploitez l’intelligence collective, bâtissez un sentiment d'appropriation et faites augmenter leur engagement et leur responsabilisation.</strong>
 
 Il existe de nombreuses façons de co-créer des propositions. Elles suivent généralement un modèle similaire :
 
@@ -576,7 +607,7 @@ En plus d'ateliers en présentiel, vous pouvez adapter ce processus pour fonctio
 
 ###  Pattern 1.10: Elaborer une proposition
 
-**Un processus de groupe (facilité) pour co-créer une réponse à une intention.**
+<strong>Un processus de groupe (facilité) pour co-créer une réponse à une intention.</strong>
 
 - s’appuie sur l’intelligence collective et la diversité des perspectives au sein d’un groupe
 - implique les participants dans la co-création des ententes
@@ -615,7 +646,7 @@ Deux ou trois rédacteurs suffisent généralement. Vérifiez qu'il n'y ait pas 
 
 ###  Pattern 1.11: Sélection des rôles
 
-**Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.**
+<strong>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</strong>
 
 Au lieu de simplement affecter des personnes aux _rôles_, ou de faire un choix basé uniquement sur la majorité, utilisez le processus de sélection de rôles pour :
 
@@ -654,7 +685,7 @@ Un format d'atelier pour identifier une réponse efficace à une situation compl
 
 Un groupe (petit ou grand) identifie et regroupe des intentions, pour ensuite progresser rapidement du concept à l'action dans des équipes plus petites et auto-organisées.
 
-![Cartographier les intentions : processus](img/facilitation-guides/driver-mapping-fg-print.png)
+![Cartographier les intentions : processus](img/process/driver-mapping.png)
 
 ![Cartographier les intentions: un modèle pour les domaines](img/templates/domain-template.png)
 
@@ -663,7 +694,7 @@ Un groupe (petit ou grand) identifie et regroupe des intentions, pour ensuite pr
 
 ###  Pattern 2.1: Demander un soutien
 
-**Un protocole simple pour apprendre, partager ses compétences et établir des liens, en respectant les tâches et attributions de chacun.**
+<strong>Un protocole simple pour apprendre, partager ses compétences et établir des liens, en respectant les tâches et attributions de chacun.</strong>
 
 Demandez à quelqu'un : "*voudrais-tu bien m'aider sur... *?" La personne accepte ou décline avec un simple "*oui*" ou "*non*".
 
@@ -688,7 +719,7 @@ Considérations :
 
 ###  Pattern 2.3: Evaluation entre pairs
 
-**Soutenez-vous mutuellement pour apprendre et vous améliorer dans les rôles et équipes où vous servez.**
+<strong>Soutenez-vous mutuellement pour apprendre et vous améliorer dans les rôles et équipes où vous servez.</strong>
 
 Le porteur de rôle - ou l'équipe - mène l'évaluation par les pairs en préparant le processus et en ouvrant le dialogue à chaque étape.
 
@@ -702,7 +733,7 @@ Les suggestions d'améliorations peuvent porter sur le développement personnel,
 
 ###  Pattern 2.4: Plan de développement
 
-**Un plan pour développer des façons plus efficaces de s'occuper d'un domaine, convenu entre délégant et délégué.**
+<strong>Un plan pour développer des façons plus efficaces de s'occuper d'un domaine, convenu entre délégant et délégué.</strong>
 
 Le plan de développement peut être créé pour une personne dans un rôle, ou pour une équipe (ex: un département, un _cercle_ ou un _domaine ouvert_).
 
@@ -717,7 +748,7 @@ Un plan de développement (et toutes les recommandations accompagnant les change
 
 ###  Pattern 3.1: Participation élégante
 
-**Engagez-vous à faire de votre mieux pour agir et interagir de manière à permettre une collaboration efficace.**
+<strong>Engagez-vous à faire de votre mieux pour agir et interagir de façon à permettre une collaboration efficace.</strong>
 
 *"Mon comportement actuel est-il la meilleure contribution que je puisse apporter à l'efficacité de cette collaboration?"*
 
@@ -757,7 +788,7 @@ La participation élégante :
 
 ###  Pattern 3.2: Adopter les sept principes
 
-**Alignez la collaboration sur les sept principes.**
+<strong>Respectez les Sept Principes dans vos collaborations.</strong>
 
 L'adoption des sept principes réduit le nombre d'ententes explicites requises et guide l'adaptation des pratiques S3 au contexte particulier de l'organisation.
 
@@ -769,7 +800,7 @@ Les valeurs d'une organisation doivent supporter les sept principes.
 
 ###  Pattern 3.3: S'entendre sur les valeurs
 
-**Développez volontairement la culture de votre organisation.**
+<strong>Faites évoluer consciemment la culture de votre organisation.</strong>
 
 _Les **Valeurs** sont des principes importants qui guident le comportement. Les valeurs définissent une portée d'action et des contraintes éthiques._
 
@@ -790,7 +821,7 @@ Les valeurs choisies sont une entente sujette à une **évaluation régulière**
 
 ###  Pattern 3.4: Facilitateur de gouvernance
 
-**Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.**
+<strong>Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.</strong>
 
 Un facilitateur de gouvernance :
 
@@ -823,7 +854,7 @@ Soyez responsable :
 
 ###  Pattern 3.6: Contrat de collaboration réussie
 
-**Soutenez une collaboration réussie dès le début et bâtissez une confiance mutuelle entre des parties en co-créant des contrats qui soient mutuellement bénéfiques et juridiquement solides.**
+<strong>Soutenez une collaboration réussie dès le début et bâtissez une confiance mutuelle entre des parties en co-créant des contrats qui soient mutuellement bénéfiques et juridiquement solides.</strong>
 
 Un **contrat** est un corpus de promesses que deux ou plusieurs parties acceptent de rendre juridiquement contraignantes, c'est-à-dire que si ces promesses sont violées, la partie lésée disposent des recours juridiques (ou alternatifs).
 
@@ -895,7 +926,7 @@ Si vous trouvez que les contrats standard dans votre secteur ne sont pas en harm
 
 ###  Pattern 3.7: Transparence salariale
 
-**Créez une formule salariale équitable et rendez-la transparente.**
+<strong>Créez une formule salariale équitable et rendez-la transparente.</strong>
 
 La transparence salariale (aussi appelée "salaire ouvert") est la pratique de déterminer la rémunération de chaque employé selon un ensemble de règles — la *formule salariale* — au lieu de faire une rémunération soumise à des négociations individuelles entre l'employeur et l'employé. La formule salariale — et souvent la rémunération individuelle aussi — est transparente pour tous les membres d’une organisation, et parfois pour le public.
 
@@ -915,7 +946,7 @@ Décidez comment gérer la rémunération pour les changements de rôles et _dé
 
 ###  Pattern 3.8: Rôle de soutien
 
-**Appliquez cette pratique pour les contractuels externes.**
+<strong>Appliquez cette pratique pour les contractuels externes.</strong>
 
 - clarifiez et décrivez l'intention pour le _rôle_
 - créez une _description de domaine_
@@ -929,7 +960,7 @@ Les contractuels externes acceptent de prendre leur rôle.
 
 ###  Pattern 3.9: Statuts et règlements
 
-Intégrez les principes et pratiques S3 dans vos statuts et règlements pour protéger **l'intégrité légale** et la **culture organisationnelle**
+Intégrez les principes et pratiques S3 dans vos statuts et règlements pour protéger <strong>l'intégrité légale</strong> et la <strong>culture organisationnelle</strong>
 
 Consignez :
 
@@ -944,11 +975,11 @@ Consignez :
 
 ###  Pattern 4.1: Déléguer l'influence
 
-**Distribuez le pouvoir d'influence, pour permettre aux gens de décider et d'agir par eux-mêmes en respectant des contraintes définies.**
+<strong>Distribuez le pouvoir d'influence, pour permettre aux gens de décider et d'agir par eux-mêmes en respectant des contraintes définies.</strong>
 
 Un délégant peut soutenir des délégués à délivrer de la valeur en :
 
-- définissant clairement des domaines d'autonomie et de redevabilité
+- Définir clairement les domaines d’autonomie et de responsabilité
 - s'assurant qu'il existe des opportunités d'apprentissage et de développement
 - Soutenant si nécessaire
 
@@ -979,7 +1010,7 @@ Un cercle:
 
 ###  Pattern 4.3: Rôle
 
-**Déléguez la redevabilité d'un domaine à des individus.**
+<strong>Déléguez les responsabilités d'un domaine à des individus.</strong>
 
 Un rôle est une zone de redevabilité (un domaine) qui est déleguée à un individu (le **porteur de rôle**), agissant et décidant en autonomie selon les contraintes du domaine du rôle.
 
@@ -1000,7 +1031,7 @@ Les porteurs de rôle peuvent maintenir un backlog (panier) de gouvernance, et u
 
 ###  Pattern 4.4: Lien
 
-**Activez un flux d’information et d’influence entre deux équipes.**
+<strong>Activez un flux d’information et d’influence entre deux équipes.</strong>
 
 Une équipe sélectionne l'un de ses membres pour représenter ses intérêts dans les décisions de gouvernance d'une autre équipe.
 
@@ -1008,7 +1039,7 @@ Une équipe sélectionne l'un de ses membres pour représenter ses intérêts da
 
 ###  Pattern 4.5: Double lien
 
-**Activez des flux *bi-directionnels* d’informations et l’influence entre deux équipes.**
+<strong>Activez des flux <em>bi-directionnels</em> d’informations et l’influence entre deux équipes.</strong>
 
 Deux équipes interdépendantes sélectionnent chacune un de leurs membres pour représenter leurs intérêts dans les décisions de gouvernance de l’autre équipe.
 
@@ -1018,7 +1049,7 @@ Le double lien permet une équivalence entre deux équipes et peut être utilis�
 
 ###  Pattern 4.6: Représentant
 
-**Sélectionnez un membre de l'équipe pour participer aux décisions de gouvernance d'une autre équipe pour activer le flux d'informations et d'influence.**
+<strong>Sélectionnez un membre de l'équipe pour participer aux décisions de gouvernance d'une autre équipe pour activer le flux d'informations et d'influence.</strong>
 
 Les représentants (c.à.d liens):
 
@@ -1031,7 +1062,7 @@ Les représentants (c.à.d liens):
 
 ###  Pattern 4.7: Equipe de soutien
 
-**Rassemblez une équipe de personnes équivalentes pour répondre à un ensemble particulier d'exigences définies par un délégant.**
+<strong>Rassemblez une équipe de personnes équivalentes pour répondre à un ensemble particulier d'exigences définies par un délégant.</strong>
 
 Une équipe de soutien :
 
@@ -1050,7 +1081,7 @@ Les membres de l'équipe de soutien :
 
 ###  Pattern 4.8: Domaine ouvert
 
-**Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.**
+<strong>Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.</strong>
 
 Le délégant du domaine ouvert clarifie :
 
@@ -1066,7 +1097,7 @@ Un délégant est redevable de mener des évaluations régulières pour soutenir
 
 ###  Pattern 4.9: Systèmes ouverts
 
-**Communiquez sciemment et apprenez des personnes qui sont en dehors de votre système.**
+<strong>Communiquez sciemment et apprenez des personnes qui sont en dehors de votre système.</strong>
 
 Les individus, les équipes et les organisations entières peuvent reconnaître l'interdépendance et inviter sciemment des personnes de l'extérieur de leur système à introduire **connaissance, expérience et influence** pour aider à prendre des décisions et soutenir l'apprentissage collectif.
 
@@ -1078,7 +1109,7 @@ Les individus, les équipes et les organisations entières peuvent reconnaître 
 
 ###  Pattern 5.1: Adapter les pratiques au contexte
 
-**Adaptez et faites évoluer vos pratiques S3 pour correspondre à votre contexte particulier.**
+<strong>Adaptez et faites évoluer vos pratiques S3 pour correspondre à votre contexte particulier.</strong>
 
 Assurez-vous que tous ceux qui sont concernés :
 
@@ -1094,7 +1125,7 @@ Partagez les adaptations intéressantes avec la communauté S3.
 
 ###  Pattern 5.2: Changements organisationnels par flux tirés
 
-**Créez un environnement qui invite les membres d'une organisation à mener des changements.**
+<strong>Créez un environnement qui invite les membres d'une organisation à mener des changements.</strong>
 
 Changez les choses lorsqu'il y a un intérêt à le faire :
 
@@ -1105,13 +1136,13 @@ Changez les choses lorsqu'il y a un intérêt à le faire :
 
 ###  Pattern 5.3: Incarner le changement
 
-**Menez par l'exemple.**
+<strong>Menez par l'exemple.</strong>
 
 Comportez-vous et agissez de la façon dont vous voudriez que les autres le fassent.
 
 ###  Pattern 5.4: Inviter aux changements
 
-**Clarifiez la raison du changement et invitez les gens à participer.**
+<strong>Clarifiez la raison du changement et invitez les gens à participer.</strong>
 
 Encourager plutôt qu'imposer contribue à réduire la résistance au changement et permet aux gens de choisir par eux-mêmes.
 
@@ -1126,7 +1157,7 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 
 ###  Pattern 5.5: Changement par forum ouvert
 
-**Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.**
+<strong>Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.</strong>
 
 - clarifier l'intention du changement
 - prévoir des événements réguliers en espace ouverts : 
@@ -1136,7 +1167,7 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 
 ###  Pattern 5.6: Amélioration continue du processus de travail
 
-**Faites apparaître les intentions et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.**
+<strong>Faites apparaître les intentions et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.</strong>
 
 - introduire le principe de consentement et de _naviguer par tension_ pour faire évoluer le processus de travail d'une équipe
 - sélectionner un facilitateur pour guider les processus de groupe, et choisir des valeurs repère pour guider le comportement
@@ -1163,21 +1194,48 @@ Mettre en place un processus continu d'élimination du gaspillage permet l'évol
 
 ![Le cycle de vie d'une entente](img/evolution/agreement-lifecycle-long.png)
 
-###  Pattern 6.1: Entente
+###  Pattern 6.1: Consigner les Ententes
+
+Consignez les détails des ententes que vous concluez, de sorte que vous puissiez vous en souvenir plus tard, évaluer les résultats obtenus et les faire évoluer ces ententes dans le temps.
 
 _Une **entente** est une ligne directrice, un processus, un protocole ou une politique établis de le but de guider le flux de valeur._
 
-Les ententes sont créées en réponse à des intentions organisationnelles, elles sont **régulièrement évaluées**, et évoluent si nécessaire.
+**Remarque:** En S3, les consignes, les processus ou les protocoles créés par des individus dans leurs rôles sont également traités comme des ententes.
 
-**La redevabilité générale** d'une entente appartient aux personnes qui la créent.
+Tenez à jour les enregistrements des ententes, par exemple dans un registre.
 
-Une entente peut inclure la **délégation de responsabilités particulières** à des individus ou à des groupes.
 
-Consignez toutes les **attentes** liées à des livrables, des comportements ou à des ressources en rapport avec l'entente.
+#### Que consigner ?
 
-**Note:** Dans S3, les consignes, les processus ou les protocoles créés par des individus dans des rôles sont également traités comme des ententes.
+Consignez les ententes avec des détails suffisants pour pouvoir retrouver les informations importantes plus tard.
+
+Inclure au moins un résumé de l'intention, une description de ce qui a été convenu, qui est responsable de quoi, des critères d'évaluation et une date de révision.
+
+En fonction de la portée et de l'importance de l'entente, envisagez d'inclure les éléments suivants :
+
+-   Un titre pour l'entente
+-   _La description de l'intention._
+-   Date de création (et/ou version)
+-   Date d'expiration ou d'échéance (si pertinent)
+-   Date de révision (ou fréquence)
+-   Qui est responsable de quoi ?
+-   Une description de l'entente, comprenant :
+    - Toutes les exigences et attentes pertinentes
+    - Actions unitaires
+    - Ressources
+    - Contraintes
+    - _Résultats attendus_
+    - _Livrables_
+    - Raison
+-   _Critères d'évaluation_ (et potentiellement préoccupations)
+-   Annexe (si utile)
+    - Informations contextuelles
+    - Versions précédentes des ententes
+    - Références
 
 ![Modèle pour les ententes](img/templates/agreement-template.png)
+
+
 
 ###  Pattern 6.2: Développer la stratégie
 
@@ -1197,7 +1255,7 @@ Les stratégies sont validées et affinées par l'expérimentation et l'apprenti
 
 ###  Pattern 6.3: Clarifier les domaines
 
-**Une compréhension claire des zones de redevabilité et de l'autonomie des personnes favorise une meilleure efficacité, optimise la collaboration et l'agilité dans toute une organisation.**
+<strong>Une compréhension claire des zones de responsabilités et d'autonomie des personnes favorise une meilleure efficacité, optimise la collaboration et l'agilité dans toute une organisation.</strong>
 
 Un moyen simple de clarifier les domaines est d'établir une **description du domaine** comprenant :
 
@@ -1216,17 +1274,17 @@ Une autre façon de clarifier un domaine est de remplir un [Canevas de Délégat
 
 ###  Pattern 6.4: Clarifier le résultat attendu
 
-**Soyez précis sur les résultats attendus par les ententes, les activités, les projets et les stratégies.**
+<strong>Explicitez les résultats attendus des ententes passées, des activités, des projets et des stratégies.</strong>
 
 Se mettre d'accord et consigner une description concise des résultats attendus.
 
-Le résultat attendu peut être utilisé pour définir les _critères d'évaluation_ et les métriques (indicateurs) pour évaluer les résultats effectivement obtenus.
+Le résultat attendu peut être utilisé pour définir les _critères d'évaluation_ et les indicateurs (mesurés) pour évaluer les résultats effectivement obtenus.
 
 ![Résultats attendus, et critères d'évaluation](img/templates/outcome-and-criteria.png)
 
 ###  Pattern 6.5: Décrire les livrables
 
-**Indiquez clairement les livrables liés à une entente pour soutenir une compréhension commune des attentes.**
+<strong>Indiquez clairement les livrables liés à une entente pour soutenir une compréhension commune des attentes.</strong>
 
 _Un **livrable** est un produit, un service, un composant ou un document fourni en réponse à une intention organisationnelle._
 
@@ -1241,16 +1299,16 @@ Décrire précisément les livrables peut être utile pour améliorer la communi
 
 ###  Pattern 6.6: Critères d'évaluation
 
-**Développez des critères d'évaluation bien définis pour déterminer si agir selon une entente a eu l'effet souhaité.**
+<strong>Développez des critères d'évaluation bien définis pour déterminer si agir selon une entente a eu l'effet escompté.</strong>
 
 - choisir des critères **simples et sans ambiguïté** et les documentez (pour éviter des discussions inutiles lors de l'évaluation de vos ententes)
-- définir des **métriques (indicateurs) actionnables** pour suivre en permanence les effets et repérer les écarts au résultat attendu
+- définir des **indicateurs (mesurés) actionnables** pour suivre en permanence les effets et repérer les écarts au résultat attendu
 - envisager d'ajouter des critères qui précisent lorsque le résultat d'une entente sera considéré comme **non réussi**
 - lors de l'évaluation d'une entente, pensez à **faire évoluer les critères d'évaluation** en fonction de ce que vous avez appris
 
 ###  Pattern 6.7: Registre
 
-**Maintenez un système cohérent et accessible qui conserve toutes les informations nécessaires à la collaboration.**
+<strong>Maintenez un système cohérent et accessible qui conserve toutes les informations nécessaires pour collaborer.</strong>
 
 Un registre est un support (numérique) pour conserver toutes les informations pertinentes au fonctionnement d'un organisation et de ses équipes. Tous les membres de l'organisation ont accès au registre et l'information n'est gardée confidentielle que s'il y a une bonne raison de le faire.
 
@@ -1272,7 +1330,7 @@ Contenu relatif à une équipe particulière ou un rôle:
 
 ###  Pattern 6.8: Gardien du registre
 
-**Sélectionnez un membre de votre équipe pour être spécifiquement redevable de maintenir à jour toutes les informations dont l'équipe a besoin.**
+<strong>Sélectionnez un membre de votre équipe pour être spécifiquement redevable de tenir à jour toutes les informations dont l'équipe a besoin.</strong>
 
 Le gardien du registre est redevable de maintenir le registre d'une équipe en :
 
@@ -1287,7 +1345,7 @@ Le gardien du registre est redevable de maintenir le registre d'une équipe en :
 
 ###  Pattern 7.1: Réunion de gouvernance
 
-**Les équipes se rencontrent à intervalles réguliers pour décider de ce qu'il faut faire pour atteindre les objectifs et pour définir des contraintes sur la façon et le moment de faire les choses.**
+<strong>Les équipes se rencontrent à intervalles réguliers pour décider de ce qu'il faut faire pour atteindre les objectifs et pour définir des contraintes sur la façon et le moment de faire les choses.</strong>
 
 Une réunion de gouvernance est habituellement :
 
@@ -1321,7 +1379,7 @@ Un ordre du jour typique inclut :
 
 ###  Pattern 7.2: Rétrospective
 
-**Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer le processus de travail.**
+<strong>Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer le processus de travail.</strong>
 
 - en sortie : modifications du processus de travail, nouvelles tâches, ententes à la volée, et intentions nécessitant une entente
 - réunion facilitée (environ 1h)
@@ -1342,7 +1400,7 @@ De nombreuses activités pour chaque phase peuvent être trouvées sur [plans-fo
 
 ###  Pattern 7.3: Point quotidien
 
-**Réunissez-vous chaque jour pour coordonner le travail, faciliter l'apprentissage, et améliorer votre productivité et votre efficacité.**
+<strong>Réunissez-vous chaque jour pour coordonner le travail, faciliter l'apprentissage, améliorer votre productivité et votre efficacité.</strong>
 
 - timeboxé (habituellement 15 minutes)
 - chaque jour à la même heure
@@ -1355,7 +1413,7 @@ De nombreuses activités pour chaque phase peuvent être trouvées sur [plans-fo
 
 ###  Pattern 7.4: Réunions de planification et d'évaluation
 
-**Les gens se rencontrent à intervalles réguliers (1-4 semaines) lors de réunions timeboxées pour planifier et évaluer le travail.**
+<strong>Les gens se rencontrent à intervalles réguliers (1-4 semaines) lors de réunions timeboxées pour planifier et évaluer le travail.</strong>
 
 **Réunion de planification** : sélectionnez et estimez les éléments de travail pour la prochaine itération.
 
@@ -1365,7 +1423,7 @@ De nombreuses activités pour chaque phase peuvent être trouvées sur [plans-fo
 
 ###  Pattern 7.5: Réunion de coordination
 
-**Réunissez-vous régulièrement (généralement chaque semaine) pour rendre compte et coordonner le travail dans les domaines.**
+<strong>Réunissez-vous régulièrement (généralement chaque semaine) pour rendre compte et coordonner le travail dans les domaines.</strong>
 
 - faciliter la réunion (timeboxez le dialogue et faites des tours de table lorsque c'est pertinent)
 - quand c'est utile, rédiger un ordre du jour avant la réunion et le diffuser à l'avance aux participants 
@@ -1385,7 +1443,7 @@ Ordre du jour:
 
 ###  Pattern 8.1: Tours de table
 
-**Lors d'une réunion de groupe, donnez la parole à chacun à son tour.**
+<strong>Lors d'une réunion de groupe, donnez la parole à chacun son tour.</strong>
 
 Les tours de table sont une technique de facilitation de groupe pour maintenir l'équivalence et soutenir un dialogue efficace.
 
@@ -1397,7 +1455,7 @@ Asseyez-vous en cercle, commencez chaque tour de table par une personne différe
 
 ###  Pattern 8.2: Faciliter les réunions
 
-**Choisissez quelqu'un pour faciliter une réunion afin d'aider le groupe à rester concentré, à garder le cap de la réunion et à libérer la créativité et la sagesse des participants.**
+<strong>Choisissez quelqu'un pour faciliter une réunion afin d'aider le groupe à rester focalisé, à garder le cap de la réunion, à libérer la créativité et la sagesse des participants.</strong>
 
 Avant chaque réunion, préparez un ordre du jour de sujets et sélectionnez un facilitateur pour :
 
@@ -1411,7 +1469,7 @@ Pensez à choisir un facilitateur pour une période spécifique. Même un facili
 
 ###  Pattern 8.3: Préparer les réunions
 
-**Préparez-vous à l'avance pour rendre les réunions plus efficaces.**
+<strong>Préparez-vous à l'avance pour rendre les réunions plus efficaces.</strong>
 
 Quelques considérations pour préparer avec succès une réunion :
 
@@ -1449,7 +1507,7 @@ Pour chaque point de l'ordre du jour, convenez :
 
 ###  Pattern 8.4: Tour d'accueil
 
-**Aidez les gens à prendre conscience d'eux même et des autres, à se concentrer, à être présents et à s'impliquer.**
+<strong>Aidez les gens à prendre conscience d'eux même et des autres, à se concentrer, à être présents et à s'impliquer.</strong>
 
 A votre tour, divulguez brièvement quelque chose à propos de vous et sur la façon dont vous vous sentez, révélez vos pensées, vos sentiments, des distractions ou des besoins.
 
@@ -1463,7 +1521,7 @@ Lors du tour d'accueil, dans un environnement nouveau, les personnes peuvent aus
 
 ###  Pattern 8.5: Evaluer les réunions
 
-**Prenez le temps de tirer des enseignements à la fin de chaque réunion ou atelier.**
+<strong>A la fin de chaque réunion ou travail de groupe, prenez le temps d'en tirer des leçons et d'apprendre.</strong>
 
 Réfléchissez aux interactions, célébrez les succès et partagez vos suggestions d'amélioration avant de clore la réunion.
 
@@ -1490,7 +1548,7 @@ Faites un _tour de table_ pour réfléchir à n'importe lequel des sujets suivan
 
 ###  Pattern 8.6: Hôte de réunion
 
-**Sélectionnez quelqu'un pour prendre la responsabilité de la préparation et du suivi des réunions, ateliers ou autres événements.**
+<strong>Sélectionnez quelqu'un pour prendre la responsabilité de la préparation et du suivi des réunions, ateliers ou autres événements.</strong>
 
 Une personne peut prendre le rôle d'hôte de réunion pour un événement particulier ou pour plusieurs événements sur une période de temps.
 
@@ -1556,7 +1614,7 @@ Chaque entrée d'un backlog (panier) priorisé contient typiquement :
 
 ###  Pattern 9.2: Prioriser les backlogs (paniers)
 
-**Ordonnez tous les éléments de travail inachevés en partant des plus importants, puis dépilez par le haut lorsqu'il y a une nouvelle capacité.**
+<strong>Triez tous les éléments de travail inachevés en partant des plus importants, puis dépilez par le haut lorsqu'il y a une nouvelle capacité.</strong>
 
 Il ne peut y avoir deux éléments de même importance, ce qui signifie qu'il est nécessaire de s'entendre sur les priorités et faire des choix difficiles.
 
@@ -1564,7 +1622,7 @@ Un backlog (panier) priorisé aide à **rester concentré** sur les éléments l
 
 ###  Pattern 9.3: Visualiser le travail
 
-**Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de tous les éléments de travail actuellement en attente, en cours ou terminés.**
+<strong>Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de tous les éléments de travail actuellement en attente, en cours ou terminés.</strong>
 
 - utile pour l'auto-organisation et les systèmes à flux tirés
 - le système doit être accessible à toutes les personnes impactées
@@ -1588,7 +1646,7 @@ Un backlog (panier) priorisé aide à **rester concentré** sur les éléments l
 
 ###  Pattern 9.4: Travail en flux tiré
 
-**Les personnes tirent de nouveaux éléments de travail lorsqu'elles ont la capacité de les traiter (au lieu que travail leur soit poussé ou affecté).**
+<strong>Les personnes tirent de nouveaux éléments de travail lorsqu'elles ont la capacité de les traiter (au lieu que travail ne leur soit poussé ou affecté).</strong>
 
 Priorisez les éléments de travail pour assurer que les éléments importants soient traités en premier.
 
@@ -1596,7 +1654,7 @@ Tirer le travail évite de surcharger le système, en particulier lorsque le _tr
 
 ###  Pattern 9.5: Limiter le travail en cours
 
-**Limitez le nombre d'éléments de travail à toute étape de votre processus de travail.**
+<strong>Limitez le nombre d'éléments de travail à toute étape de votre processus de travail.</strong>
 
 Le travail en cours inclut :
 
@@ -1608,7 +1666,7 @@ Lorsqu'une nouvelle action ferait dépasser la limite du nombre d'éléments en 
 
 ###  Pattern 9.6: Timeboxer les activités
 
-**Définissez une contrainte de temps pour rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.**
+<strong>Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.</strong>
 
 _Une **timebox (bloc de temps)** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite)._
 
@@ -1631,7 +1689,7 @@ Vous pouvez utiliser les timeboxes (blocs de temps) pour :
 
 ###  Pattern 9.7: Aligner les flux
 
-**Pour soutenir un flux continu de valeur, déplacez la prise de décision pour la rapprocher de là où est créée la valeur, et alignez les flux d'information en conséquence.**
+<strong>Pour soutenir un flux continu de valeur, déplacez la prise de décision pour la rapprocher au plus près de là où l’on crée la valeur, et alignez les flux d'information en conséquence.</strong>
 
 **Flux de valeur:** Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.
 
@@ -1648,7 +1706,7 @@ Lorsque les prises de décision s'effectuent près de là où est créée la val
 
 ###  Pattern 9.8: Coordinateur
 
-Une personne remplissant le rôle de coordinateur est redevable de **la coordination des opérations d'un domaine** et est **sélectionnée pour un mandat limité.**
+Une personne remplissant le rôle de coordinateur est redevable de <strong>la coordination des opérations d'un domaine</strong> et est <strong>sélectionnée pour un mandat limité.</strong>
 
 Le coordinateur peut être sélectionné par l'équipe elle-même, ou par le délégant.
 
@@ -1682,7 +1740,7 @@ La Sociocratie 3.0 décrit une variété de **modèles de structure** pour dév
 
 ###  Pattern 10.1: Cercle de service
 
-**Externalisez les services requis par au minimum deux domaines.**
+<strong>Externalisez les services requis par deux domaines ou plus.</strong>
 
 Un cercle de service peut être constitué par des membres des domaines qu'ils servent, et/ou par d'autres personnes aussi.
 
@@ -1690,7 +1748,7 @@ Un cercle de service peut être constitué par des membres des domaines qu'ils s
 
 ###  Pattern 10.2: Cercle délégué
 
-**Déléguez la prise de décisions de gouvernance impactant plusieurs domaines aux représentants sélectionnés par ces domaines.**
+<strong>Déléguez la prise de décisions de gouvernance impactant plusieurs domaines aux représentants sélectionnés par ces domaines.</strong>
 
 Pour prendre des décisions de gouvernance en leur nom, les parties prenantes envoient des _représentants_ pour former un cercle délégué.
 
@@ -1704,7 +1762,7 @@ Un cercle délégué peut amener d'autres personnes (ex: des experts externes) p
 
 ###  Pattern 10.3: Organisation décentralisée
 
-**Délivrez de la valeur dans les environnements complexes et compétitifs à travers la *décentralisation* (des ressources et de l'influence) et *l'interaction directe* entre ceux qui créent la valeur et les clients qu'ils servent.**
+<strong>Apportez de la valeur dans des environnements complexes et compétitifs grâce à la <em>décentralisation</em> (des ressources et de l'influence) et à <em>l'interaction directe</em> de ceux qui créent la valeur avec les clients qu'ils servent.</strong>
 
 Les équipes en périphérie :
 
@@ -1719,7 +1777,7 @@ Les domaines sont liés si nécessaire pour que l'information circule et pour s'
 
 ###  Pattern 10.4: Hiérarchie à double lien
 
-**Déléguez toute autorité pour prendre des décisions de gouvernance à des cercles auto-gérés, reliés par deux liens à tous les niveaux de la hiérarchie, pour transiter d'une hiérarchie traditionnelle vers une structure plus à même d'exploiter l'intelligence collective, assurer l'équivalence et construire l'engagement.**
+<strong>Déléguez toute autorité pour prendre des décisions de gouvernance à des cercles auto-gérés, reliés par deux liens à tous les niveaux de la hiérarchie, pour transiter d'une hiérarchie traditionnelle vers une structure plus à même d'exploiter l'intelligence collective, assurer l'équivalence et construire l'engagement.</strong>
 
 1. Déplacez les prises de décision de gouvernance des individus vers des équipes en formant des cercles auto-gérés à tous les niveaux de votre organisation.
 2. Les membres de chaque cercle choisissent l'un de leurs groupes pour représenter leurs intérêts et participer aux prises de décision de la gouvernance du prochain cercle supérieur, et vice versa.
@@ -1735,7 +1793,7 @@ Une hiérarchie à double lien :
 
 ###  Pattern 10.5: Organisation de service
 
-**Collaboration impliquant de multiples parties prenantes, s'alignant vers une intention commune (ou un objectif).**
+<strong>Collaboration impliquant de multiples parties prenantes, s'alignant vers une intention commune (ou un objectif).</strong> 
 
 - améliore le potentiel d'équivalence entre diverses entités
 - augmente l'alignement inter-départemental / organisationnel
@@ -1748,7 +1806,7 @@ Une hiérarchie à double lien :
 
 ###  Pattern 10.6: Organisation fractale
 
-**De multiples constituants (organisations ou projets) avec une intention primaire et une structure commune (ou similaire) peuvent partager des savoirs à travers des domaines, aligner leurs actions et prendre des décisions de gouvernance de haut niveau (ex: la stratégie générale)**.
+<strong>De multiples constituants (organisations ou projets) avec une intention primaire et une structure commune (ou similaire) peuvent partager des savoirs à travers des domaines, aligner leurs actions et prendre des décisions de gouvernance de haut niveau (ex: la stratégie générale)</strong>
 
 Créer une organisation fractale peut permettre à un vaste réseau de s’adapter rapidement à des contextes changeants.
 
@@ -1793,6 +1851,20 @@ Les deuxième et troisième niveaux :
 
 ## Historique des modifications
 
+### Changements du 08-05-2020
+
+- révision de toutes les illustrations pour un style plus cohérent et une lisibilité accrue
+- introduction révisée : plus d'explications sur les pratiques et les concepts fondamentaux
+- glossaire mis à jour : explication révisée de Délégant, Délégué, Rôle et Pratique, ajouté Porteur de Rôle
+
+### Changements du 29-04-2020
+
+- Introduction : Ajout de *Objection* et *Entente* aux concepts
+- pratique *Objection* renommée en _Tester des Arguments Qualifiés d'Objections_ 
+- pratique *Entente* renommé en _Consigner les Ententes_
+- _Tester des Arguments Qualifiés d'Objections_ : texte révisé et illustration mise à jour
+- _Consigner les Ententes_ : texte révisé, ajout de plus de détails sur les ententes qui pourraient être enregistrées, mise à jour de l'illustration
+
 ### Changements du 22-12-2019
 
 - ajout d'un nouveau texte d'introduction
@@ -1807,7 +1879,7 @@ Les deuxième et troisième niveaux :
 
 ### Changements du 27-06-2019
 
-- _Objection_: définition plus raffinée de objection, et mise à jour du glossaire pour objection en conséquence
+- *Objection* : définition plus précise de l’objection, et mise à jour du glossaire pour objection en conséquence
 - remplacé "action" par activité dans quelques endroits où ça faisait plus de sens
 - correction de quelques typos
 
@@ -1818,8 +1890,8 @@ Les deuxième et troisième niveaux :
 - _Contrat de collaboration réussie_: texte révisé
 - _Décrire les Livrables_: ajouts des User Stories comme exemple pour décrire les livrables
 - _Hiérarchie à double lien_: résumé révisé
-- _Circle Délégué_: résumé raffiné
-- _Objection_: définition raffinée de objection et de préoccupation, illustration ajoutée pour un processus de qualification d'une objection
+- _Cercle délégué_ : résumé raffiné
+- *Objection* : définition raffinée de l'objection et du souci, illustration ajoutée pour un processus de qualification d'une objection
 - _Élaboration de proposition_ : ajout d'une illustration de processus manquante
 - _Sélection de rôle_: petit amendement à l'illustration
 - _Salaire Transparent_: expliqué ce qu’est une formule salariale
@@ -1832,7 +1904,7 @@ Les deuxième et troisième niveaux :
 - mise à jour de la section sur la gouvernance dans l’introduction
 - légendes ajoutées à toutes les illustrations
 - renommé du groupe de pratiques “Catalyseurs de co-creation” en “catalyser la collaboration”
-- suppression de la version du slide deck et amélioration de l’agencement et du formatage des versions pdf et ePub
+- suppression de la versiondiaporama et amélioration de la mise en page et du formatage de la version pdf et ePub
 - version site : ajout d’une carte cliquable des pratiques pour une navigation plus simple et des références au glossaire à de nombreuses pratiques
 
 **Glossaire :**
@@ -1840,7 +1912,7 @@ Les deuxième et troisième niveaux :
 - ajouté équipe au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
 - mise à jour de la définition de livrable
 - suppression de **déclaration d’intention** du texte et du glossaire
-- miss à jour des définitions gouvernance, opérations, et auto-organisation
+- mise à jour des définitions gouvernance, opérations, et auto-organisation
 
 **Illustrations :**
 
@@ -1849,8 +1921,8 @@ Les deuxième et troisième niveaux :
 
 **Modifications des pratiques :**
 
-- _Entente_: la description indique maintenant que toutes les attentes doivent être enregistrées
-- _Décrire les Livrables_: Résumé mis à jour
+- _Entente _ : la description mentionne maintenant que toutes les attentes doivent être enregistrées
+- _Décrire les livrables_ : mise à jour du résumé
 - _Décrire les intentions organisationnelles_: plus d'informations sur le résumé des intentions
 - _Résoudre les Objections_: résumé et description ajoutés
 
@@ -1883,7 +1955,7 @@ Les deuxième et troisième niveaux :
 - _S'entendre sur les valeurs_: description améliorée
 - _Aligner les flux_: description et illustration améliorées
 - _Adapter les pratiques_: description améliorée
-- _Entente_: description améliorée, modèle mis à jour
+- _Accord _ : description améliorée, modèle mis à jour
 - _Participation élégante_: Résumé amélioré
 - _Clarifier le résultat attendu_ (renommé de *Résultat attendu*): description améliorée
 - _Décision par consentement_: description améliorée, illustration mise à jour
@@ -1900,13 +1972,13 @@ Les deuxième et troisième niveaux :
 - _Critères d'évaluation_: suggéré de clarifier un seuil de réussite, et nous avons expliqué que nous faisons évoluer également les critères d'évaluation avec les ententes
 - _Faciliter les réunions_: description améliorée
 - _Organisation Fractale_: description étendue et améliorée
-- _Backlog (panier) de gouvernance_: description améliorée
+- _Backlog de gouvernance_ : description améliorée
 - _Réunion de gouvernance_: description améliorée, éléments de l'ordre du jour clarifiés
 - _Inviter aux changements_: la description se concentre maintenant sur *comment* inviter aux changements
 - _Lien_: description alignée à _Double lien_
 - _Registre_: précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
 - _Naviguer par tension_: description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par tension*, *Décrire les intentions organisationnelles* et *Répondre aux intentions organisationnelles*
-- _Objection_: clarification de la différence entre objection et préoccupation, clarification de ce qui est qualifié d'objection, et comment qualifier les objections dans un contexte de groupe
+- *Objection* : clarifié la différence entre objection et préoccupation, clarifié ce qui est qualifié comme une objection, et comment qualifier les objections dans un contexte de groupe
 - _Domaine ouvert_: description améliorée et illustration mise à jour
 - _Systèmes ouverts_: description améliorée
 - _Changement par forum ouvert_: nouveau nom de *Adoption ouverte de la S3*, description améliorée
@@ -1929,20 +2001,20 @@ Les deuxième et troisième niveaux :
 
 **Pratiques ajoutées :**
 
-- _Tour d'accueil_
+- _Inclusion_
 - _Co-créer des propositions_
 - _Préparer les réunions_
 - _Timeboxer les activités_
 
 ### Changements du 21-03-2018
 
-- renommage de *Descendre les intentions* en *Décrire les intentions organisationnelles*
+- motif *Décrire les intentions* en *Décrire les intentions organisationnelles*
 - _Décrire les intentions organisationnelles_: explication des quatre aspects d'une intention : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
 - ajout de *besoin* au glossaire
 
 ### Changements du 16-11-2017
 
-- légères corrections
+- petites corrections
 - les entrées du glossaire pour *Cercle* et *Rôle* ont été alignées sur le texte des pratiques
 - *Plan de développement* : clarification des responsabilités
 - *Rôle* : l’évolution de la stratégie a été clarifiée
@@ -1952,8 +2024,8 @@ Les deuxième et troisième niveaux :
 - diverses petites précisions et corrections
 - *Cercle* : la relation entre le cercle et le domaine a été clarifiée
 - *Rôle* : description améliorée
-- *Tours de table*: description améliorée
-- *Ouvrir les domaines*, *Equipe de soutien* et *Systèmes ouverts* ont été déplacés dans la catégorie "construction d'organisations"
+- *Rounds*: description améliorée
+- *Ouvrir les domaines*, *Equipe de soutien* et *Systèmes ouverts* ont été déplacés dans la catégorie «construction d'organisations »
 - des termes ont été ajoutés au Glossaire
 
 ### Changements du 21-10-2017
@@ -1970,8 +2042,8 @@ Les deuxième et troisième niveaux :
 **Modifications de l'introduction**
 
 - ajouté "en quoi cela peut m'aider?"
-- ajout de définitions pour la gouvernance, l'auto-organisation, semi-autonomie, opérations d'introduction
-- clarification des domaines et relation aux moteurs
+- ajout de définitions pour la gouvernance, l’auto-organisation, semi-autonomie, opérations d’introduction
+- clarification des domaines et relation aux intentions
 - concepts fondamentaux développés
 - tous les principes sont maintenant actionnables
 
@@ -1985,35 +2057,36 @@ Les deuxième et troisième niveaux :
 - *Plan de développement*: description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec double-lien*: nouvelle illustration
-- *Evaluer les ententes* : aligner les questions sur l'évaluation par les pairs
-- *Backlog (panier) de gouvernance*: description améliorée
+- *Evaluer les ententes* : aligner les questions sur l'examen par les pairs
+- *Backlog de gouvernance*: description améliorée
 - *Registre*: ajouts de détails sur la gouvernance au registre personnel
 - *Objections* : clarification de la qualification des objections
 - *Evaluation entre pairs*: description améliorée
 - *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
-- *Rôle* : le détenteur du rôle peut garder à jour un backlog (panier) de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
+- *Rôle* : clarification que le porteur de rôle peur maintenir un backlog de gouvernance, introduction du terme "porteur de rôle" pour une personne dans un rôle
 - *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Résoudre les objections* : illustration mise à jour pour mieux refléter le processus
 
 **Pratiques renommées :**
 
 - * Organisation vertébrale* a *organisation de services*
-- *Évaluation d'efficacité* vers *Evaluation entre pairs*
-- *Stratégie* à *Développer la stratégie*
-- *Description du domaine* à *Clarifier les domaines*
-- *Description des livrables* à *Décrire les livrables*
-
-**Pratiques ajoutées :**
-
-- *Déléguer l'influence*
-- *Décrire les intentions*
-- *Domaine ouvert*
-
-**Pratiques supprimées :**
-
-- *Cercle de coordination*
-- *Domaines imbriqués*
-- *Qualifier l'intention*
+- *Évaluation d'efficacité* vers *Examen par les pairs</li> 
+    
+    - *Stratégie* à *Développer la stratégie*
+    - *Description du domaine* à *Clarifier les domaines*
+    - *Description des livrables* à *Décrire les livrables*</ul> 
+    
+    **Pratiques ajoutées :**
+    
+    - *Déléguer l'influence*
+    - *Décrire les intentions*
+    - *Domaine ouvert*
+    
+    **Pratiques supprimées :**
+    
+    - *Cercle de coordination*
+    - *Domaines imbriqués*
+    - *Qualifier l'intention*
 
 ## Liens
 
@@ -2108,7 +2181,7 @@ Enfin, nous sommes reconnaissants envers nos nombreux collègues, clients, et pa
 
 En aucun cas une liste exhaustive, nous aimerions témoigner notre appréciation aux personnes suivantes qui ont directement contribué au développement de la Sociocratie 3.0, ou dont le travail a influencé ce qu'elle est aujourd’hui :
 
-Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, François Knuchel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
+Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Sonja Blignaut, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, François Knuchel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
 
 ## Auteurs
 
@@ -2150,7 +2223,7 @@ Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, 
 **Auto-organisation:** Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l'influence d'un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l'auto-organisation et l'influence externe coexistent.
 
 
-**Backlog (panier):** Une liste explicite et priorisée d'éléments de travail (livrables) ou d'intention en attente de traitement.
+**Backlog (panier):** Une liste (souvent priorisée)  d'éléments de travail à faire (livrables) ou d'intention en attente de traitement.
 
 
 **Backlog (panier) de gouvernance:** Une liste explicite ordonnée par priorité de tâches en attente de traitement (intentions) en lien à la gouvernance d'un domaine.
@@ -2186,13 +2259,13 @@ Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, 
 **Domaines pairs:** Deux domaines pairs sont contenus dans le même super-domaine immédiat, et peuvent se recouper.
 
 
-**Délégant:** Un individu ou groupe délégant un domaine à d'autres groupes ou individus.
+**Délégant:** Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.
 
 
 **Délégation:** L'octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.
 
 
-**Délégué:** Un individu ou groupe acceptant la redevabilité pour un domaine leur étant délégué.
+**Délégué:** Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.
 
 
 **Efficacité (principe):** Allouer du temps seulement à ce qui vous rapproche de vos objectifs.
@@ -2231,7 +2304,7 @@ Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, 
 **Livrable:** Un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.
 
 
-**Moteur organisationnel:** Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.
+**Moteur organisationnel:** Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.
 
 
 **Moteur principal:** L'intention primaire d'un domaine est l'intention principale à laquelle les personnes qui s'occupent de ce domaine répondent.
@@ -2252,13 +2325,16 @@ Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, 
 **Organisation :** Un groupe de personnes qui collaborent dans une intention partagée (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
 
 
-**Pratique:** Un modèle pour appréhender correctement un contexte spécifique.
+**Porteur de rôle:** Une personne qui assume la responsabilité d'un rôle.
+
+
+**Pratique:** Un processus, une pratique ou une ligne directrice qui sert de modèle pour répondre avec succès à un type particulier de défi ou d'opportunité.
 
 
 **Principe:** Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.
 
 
-**Préoccupation:** Une supposition que faire quelque chose (même dans l'absence d'objections) pourrait s'opposer à une façon (plus) efficace de répondre à une intention organisationnelle.
+**Préoccupation:** Une supposition que faire quelque chose (même en l'absence d'objections) pourrait faire obstacle à une façon (plus) efficace de répondre à une intention organisationnelle.
 
 
 **Redevabilité (principe):** Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .
@@ -2273,7 +2349,7 @@ Nous vendons du conseil, des cours de facilitation, du coaching et du mentorat, 
 **Résultat attendu:** Le résultat escompté d'une entente, d'une action, d'un projet ou d'une stratégie.
 
 
-**Rôle:** Un domaine qui est délégué à un individu.
+**Rôle:** Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.
 
 
 **Semi-autonomie:** L'autonomie des personnes à créer de la valeur dans leur domaine, contrainte par leurs propres décisions de gouvernance, et les objections (y compris celles du délégant et des représentants).

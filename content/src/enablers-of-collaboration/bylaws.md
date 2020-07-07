@@ -1,6 +1,8 @@
 ## Statuts et règlements
 
-Intégrez les principes et pratiques S3 dans vos statuts et règlements pour protéger **l'intégrité légale** et la **culture organisationnelle**
+<summary>
+Intégrez les principes et pratiques S3 dans vos statuts et règlements pour protéger <strong>l'intégrité légale</strong> et la <strong>culture organisationnelle</strong>
+</summary>
 
 Consignez :
 

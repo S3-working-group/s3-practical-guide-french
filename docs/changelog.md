@@ -3,6 +3,20 @@ title: "Historique des modifications"
 ---
 
 
+### Changements du 08-05-2020
+
+- révision de toutes les illustrations pour un style plus cohérent et une lisibilité accrue
+- introduction révisée : plus d'explications sur les pratiques et les concepts fondamentaux
+- glossaire mis à jour : explication révisée de <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&apos;un domaine à autrui.">Délégant</dfn>, <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&apos;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">Délégué</dfn>, <dfn data-info="Rôle: Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.">Rôle</dfn> et <dfn data-info="Pratique: Un processus, une pratique ou une ligne directrice qui sert de modèle pour répondre avec succès à un type particulier de défi ou d&apos;opportunité.">Pratique</dfn>, ajouté <dfn data-info="Porteur de rôle: Une personne qui assume la responsabilité d&apos;un rôle.">Porteur de Rôle</dfn>
+
+### Changements du 29-04-2020
+
+- Introduction : Ajout de *Objection* et *Entente* aux concepts
+- pratique *Objection* renommée en [Tester des Arguments Qualifiés d'Objections](arguments-qualify-as-objections.html) 
+- pratique *Entente* renommé en [Consigner les Ententes](record-agreements.html)
+- [Tester des Arguments Qualifiés d'Objections](arguments-qualify-as-objections.html) : texte révisé et illustration mise à jour
+- [Consigner les Ententes](record-agreements.html) : texte révisé, ajout de plus de détails sur les ententes qui pourraient être enregistrées, mise à jour de l'illustration
+
 ### Changements du 22-12-2019
 
 - ajout d'un nouveau texte d'introduction
@@ -17,7 +31,7 @@ title: "Historique des modifications"
 
 ### Changements du 27-06-2019
 
-- [Objection](objection.html): définition plus raffinée de objection, et mise à jour du glossaire pour <dfn data-info="Objection: Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu&apos;il y a des moyens intéressants d&apos;améliorer cette entente.">objection</dfn> en conséquence
+- *Objection* : définition plus précise de l’objection, et mise à jour du glossaire pour <dfn data-info="Objection: Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu&apos;il y a des moyens intéressants d&apos;améliorer cette entente.">objection</dfn> en conséquence
 - remplacé "action" par activité dans quelques endroits où ça faisait plus de sens
 - correction de quelques typos
 
@@ -28,8 +42,8 @@ title: "Historique des modifications"
 - [Contrat de collaboration réussie](contract-for-successful-collaboration.html): texte révisé
 - [Décrire les Livrables](describe-deliverables.html): ajouts des User Stories comme exemple pour décrire les livrables
 - [Hiérarchie à double lien](double-linked-hierarchy.html): résumé révisé
-- [Circle Délégué](delegate-circle.html): résumé raffiné
-- [Objection](objection.html): définition raffinée de objection et de préoccupation, illustration ajoutée pour un processus de qualification d'une objection
+- [Cercle délégué](delegate-circle.html) : résumé raffiné
+- *Objection* : définition raffinée de l'objection et du souci, illustration ajoutée pour un processus de qualification d'une objection
 - [Élaboration de proposition](proposal-forming.html) : ajout d'une illustration de processus manquante
 - [Sélection de rôle](role-selection.html): petit amendement à l'illustration
 - [Salaire Transparent](transparent-salary.html): expliqué ce qu’est une formule salariale
@@ -42,7 +56,7 @@ title: "Historique des modifications"
 - mise à jour de la section sur la gouvernance dans l’introduction
 - légendes ajoutées à toutes les illustrations
 - renommé du groupe de pratiques “Catalyseurs de co-creation” en “catalyser la collaboration”
-- suppression de la version du slide deck et amélioration de l’agencement et du formatage des versions pdf et ePub
+- suppression de la versiondiaporama et amélioration de la mise en page et du formatage de la version pdf et ePub
 - version site : ajout d’une carte cliquable des pratiques pour une navigation plus simple et des références au glossaire à de nombreuses pratiques
 
 **Glossaire :**
@@ -50,7 +64,7 @@ title: "Historique des modifications"
 - ajouté <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers une intention commune (ou un objectif). Généralement, une équipe fait partie d&apos;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
 - mise à jour de la définition de <dfn data-info="Livrable: Un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.">livrable</dfn>
 - suppression de **déclaration d’intention** du texte et du glossaire
-- miss à jour des définitions <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn>, <dfn data-info="Opérations: Faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance.">opérations</dfn>, et <dfn data-info="Auto-organisation: Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l&apos;influence d&apos;un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l&apos;auto-organisation et l&apos;influence externe coexistent.">auto-organisation</dfn>
+- mise à jour des définitions <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn>, <dfn data-info="Opérations: Faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance.">opérations</dfn>, et <dfn data-info="Auto-organisation: Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l&apos;influence d&apos;un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l&apos;auto-organisation et l&apos;influence externe coexistent.">auto-organisation</dfn>
 
 **Illustrations :**
 
@@ -59,8 +73,8 @@ title: "Historique des modifications"
 
 **Modifications des pratiques :**
 
-- [Entente](agreement.html): la description indique maintenant que toutes les attentes doivent être enregistrées
-- [Décrire les Livrables](describe-deliverables.html): Résumé mis à jour
+- [Entente ](record-agreements.html) : la description mentionne maintenant que toutes les attentes doivent être enregistrées
+- [Décrire les livrables](describe-deliverables.html) : mise à jour du résumé
 - [Décrire les intentions organisationnelles](oescribe-organizational-drivers.html): plus d'informations sur le résumé des intentions
 - [Résoudre les Objections](resolve-objections.html): résumé et description ajoutés
 
@@ -93,7 +107,7 @@ title: "Historique des modifications"
 - [S'entendre sur les valeurs](agree-on-values.html): description améliorée
 - [Aligner les flux](align-flow.html): description et illustration améliorées
 - [Adapter les pratiques](adapt-patterns-to-context.html): description améliorée
-- [Entente](agreement.html): description améliorée, modèle mis à jour
+- [Accord ](record-agreements.html) : description améliorée, modèle mis à jour
 - [Participation élégante](artful-participation.html): Résumé amélioré
 - [Clarifier le résultat attendu](clarify-intended-outcome.html) (renommé de *Résultat attendu*): description améliorée
 - [Décision par consentement](consent-decision-making.html): description améliorée, illustration mise à jour
@@ -110,13 +124,13 @@ title: "Historique des modifications"
 - [Critères d'évaluation](evaluation-criteria.html): suggéré de clarifier un seuil de réussite, et nous avons expliqué que nous faisons évoluer également les critères d'évaluation avec les ententes
 - [Faciliter les réunions](facilitate-meetings.html): description améliorée
 - [Organisation Fractale](fractal-organization.html): description étendue et améliorée
-- [Backlog (panier) de gouvernance](governance-backlog.html): description améliorée
+- [Backlog de gouvernance](governance-backlog.html) : description améliorée
 - [Réunion de gouvernance](governance-meeting.html): description améliorée, éléments de l'ordre du jour clarifiés
 - [Inviter aux changements](invite-change.html): la description se concentre maintenant sur *comment* inviter aux changements
 - [Lien](linking.html): description alignée à [Double lien](double-linking.html)
 - [Registre](logbook.html): précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
 - [Naviguer par tension](navigate-via-tension.html): description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par tension*, *Décrire les intentions organisationnelles* et *Répondre aux intentions organisationnelles*
-- [Objection](objection.html): clarification de la différence entre objection et préoccupation, clarification de ce qui est qualifié d'objection, et comment qualifier les objections dans un contexte de groupe
+- *Objection* : clarifié la différence entre objection et préoccupation, clarifié ce qui est qualifié comme une objection, et comment qualifier les objections dans un contexte de groupe
 - [Domaine ouvert](open-domain.html): description améliorée et illustration mise à jour
 - [Systèmes ouverts](open-systems.html): description améliorée
 - [Changement par forum ouvert](open-space-for-change.html): nouveau nom de *Adoption ouverte de la S3*, description améliorée
@@ -139,20 +153,20 @@ title: "Historique des modifications"
 
 **Pratiques ajoutées :**
 
-- [Tour d'accueil](check-in.html)
+- [Inclusion](check-in.html)
 - [Co-créer des propositions](co-create-proposals.html)
 - [Préparer les réunions](prepare-for-meetings.html)
 - [Timeboxer les activités](timebox-activities.html)
 
 ### Changements du 21-03-2018
 
-- renommage de *Descendre les intentions* en *Décrire les intentions organisationnelles*
+- motif *Décrire les intentions* en *Décrire les intentions organisationnelles*
 - [Décrire les intentions organisationnelles](describe-organizational-drivers.html): explication des quatre aspects d'une intention : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
 - ajout de *besoin* au glossaire
 
 ### Changements du 16-11-2017
 
-- légères corrections
+- petites corrections
 - les entrées du glossaire pour *Cercle* et *Rôle* ont été alignées sur le texte des pratiques
 - *Plan de développement* : clarification des responsabilités
 - *Rôle* : l’évolution de la stratégie a été clarifiée
@@ -162,8 +176,8 @@ title: "Historique des modifications"
 - diverses petites précisions et corrections
 - *Cercle* : la relation entre le cercle et le domaine a été clarifiée
 - *Rôle* : description améliorée
-- *Tours de table*: description améliorée
-- *Ouvrir les domaines*, *Equipe de soutien* et *Systèmes ouverts* ont été déplacés dans la catégorie "construction d'organisations"
+- *Rounds*: description améliorée
+- *Ouvrir les domaines*, *Equipe de soutien* et *Systèmes ouverts* ont été déplacés dans la catégorie «construction d'organisations »
 - des termes ont été ajoutés au Glossaire
 
 ### Changements du 21-10-2017
@@ -180,8 +194,8 @@ title: "Historique des modifications"
 **Modifications de l'introduction**
 
 - ajouté "en quoi cela peut m'aider?"
-- ajout de définitions pour la gouvernance, l'auto-organisation, semi-autonomie, opérations d'introduction
-- clarification des domaines et relation aux moteurs
+- ajout de définitions pour la gouvernance, l’auto-organisation, semi-autonomie, opérations d’introduction
+- clarification des domaines et relation aux intentions
 - concepts fondamentaux développés
 - tous les principes sont maintenant actionnables
 
@@ -195,32 +209,33 @@ title: "Historique des modifications"
 - *Plan de développement*: description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec double-lien*: nouvelle illustration
-- *Evaluer les ententes* : aligner les questions sur l'évaluation par les pairs
-- *Backlog (panier) de gouvernance*: description améliorée
+- *Evaluer les ententes* : aligner les questions sur l'examen par les pairs
+- *Backlog de gouvernance*: description améliorée
 - *Registre*: ajouts de détails sur la gouvernance au registre personnel
 - *Objections* : clarification de la qualification des objections
 - *Evaluation entre pairs*: description améliorée
 - *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
-- *Rôle* : le détenteur du rôle peut garder à jour un backlog (panier) de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
+- *Rôle* : clarification que le porteur de rôle peur maintenir un backlog de gouvernance, introduction du terme "porteur de rôle" pour une personne dans un rôle
 - *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Résoudre les objections* : illustration mise à jour pour mieux refléter le processus
 
 **Pratiques renommées :**
 
 - * Organisation vertébrale* a *organisation de services*
-- *Évaluation d'efficacité* vers *Evaluation entre pairs*
-- *Stratégie* à *Développer la stratégie*
-- *Description du domaine* à *Clarifier les domaines*
-- *Description des livrables* à *Décrire les livrables*
-
-**Pratiques ajoutées :**
-
-- *Déléguer l'influence*
-- *Décrire les intentions*
-- *Domaine ouvert*
-
-**Pratiques supprimées :**
-
-- *Cercle de coordination*
-- *Domaines imbriqués*
-- *Qualifier l'intention*
+- *Évaluation d'efficacité* vers *Examen par les pairs</li> 
+    
+    - *Stratégie* à *Développer la stratégie*
+    - *Description du domaine* à *Clarifier les domaines*
+    - *Description des livrables* à *Décrire les livrables*</ul> 
+    
+    **Pratiques ajoutées :**
+    
+    - *Déléguer l'influence*
+    - *Décrire les intentions*
+    - *Domaine ouvert*
+    
+    **Pratiques supprimées :**
+    
+    - *Cercle de coordination*
+    - *Domaines imbriqués*
+    - *Qualifier l'intention*

@@ -3,7 +3,7 @@ title: "Décider par consentement"
 ---
 
 
-**Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les ententes existantes.**
+<strong>Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les ententes existantes.</strong>
 
 Les propositions deviennent des <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> quand elles sont considérées *suffisantes pour le moment et suffisamment sûres à essayer* jusqu'à la prochaine évaluation.
 
@@ -18,5 +18,5 @@ Taire des objections peut nuire aux objectifs d’une équipe ou d’une organis
 
 ![Décider par consentement](img/agreements/consent-decision-making.png)
 
-[&#9654; Objection](objection.html)<br/>[&#9664; Décrire les intentions organisationnelles](describe-organizational-drivers.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
+[&#9654; Tester les Arguments Qualifiés d'Objections](test-arguments-qualify-as-objections.html)<br/>[&#9664; Décrire les intentions organisationnelles](describe-organizational-drivers.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
 

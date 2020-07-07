@@ -1,6 +1,8 @@
 ## Les personnes impactées décident
 
-**Impliquez les personnes dans les décisions qui les concernent, pour maintenir équivalence et redevabilité, et pour augmenter la quantité d'informations disponibles sur le sujet.**
+<summary>
+<strong>Impliquez les gens dans les décisions qui les concernent, pour maintenir équivalence et redevabilité, et pour augmenter la quantité d'informations disponibles sur le sujet.</strong>
+</summary>
 
 Pour de plus grands groupes :
 

@@ -1,6 +1,8 @@
 ## Rôle de soutien
 
-**Appliquez cette pratique pour les contractuels externes.**
+<summary>
+<strong>Appliquez cette pratique pour les contractuels externes.</strong>
+</summary>
 
 - clarifiez et décrivez l'[intention](glossary:organizational-driver) pour le [rôle](section:role)
 - créez une [description de domaine](section:clarify-domains)

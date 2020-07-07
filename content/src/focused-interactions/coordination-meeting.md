@@ -1,6 +1,8 @@
 ## Réunion de coordination
 
-**Réunissez-vous régulièrement (généralement chaque semaine) pour rendre compte et coordonner le travail dans les domaines.**
+<summary>
+<strong>Réunissez-vous régulièrement (généralement chaque semaine) pour rendre compte et coordonner le travail dans les domaines.</strong>
+</summary>
 
 - faciliter la réunion ([timeboxez](glossary:timebox) le dialogue et faites des tours de table lorsque c'est pertinent)
 - quand c'est utile, rédiger un ordre du jour avant la réunion et le diffuser à l'avance aux participants 

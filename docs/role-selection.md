@@ -3,7 +3,7 @@ title: "Sélection des rôles"
 ---
 
 
-**Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.**
+<strong>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</strong>
 
 Au lieu de simplement affecter des personnes aux [rôles](role.html), ou de faire un choix basé uniquement sur la majorité, utilisez le processus de sélection de rôles pour :
 

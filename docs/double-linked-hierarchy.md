@@ -3,7 +3,7 @@ title: "Hiérarchie à double lien"
 ---
 
 
-**Déléguez toute autorité pour prendre des décisions de gouvernance à des cercles auto-gérés, reliés par deux liens à tous les niveaux de la hiérarchie, pour transiter d'une hiérarchie traditionnelle vers une structure plus à même d'exploiter l'intelligence collective, assurer l'équivalence et construire l'engagement.**
+<strong>Déléguez toute autorité pour prendre des décisions de gouvernance à des cercles auto-gérés, reliés par deux liens à tous les niveaux de la hiérarchie, pour transiter d'une hiérarchie traditionnelle vers une structure plus à même d'exploiter l'intelligence collective, assurer l'équivalence et construire l'engagement.</strong>
 
 1. Déplacez les prises de décision de gouvernance des individus vers des équipes en formant des <dfn data-info="Cercle: Une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent pour s&apos;occuper d&apos;un domaine.">cercles</dfn> <dfn data-info="Auto-gouvernance: Ensemble de personnes se gouvernant elles-mêmes selon les contraintes d&apos;un domaine.">auto-gérés</dfn> à tous les niveaux de votre organisation.
 2. Les membres de chaque cercle choisissent l'un de leurs groupes pour représenter leurs intérêts et participer aux prises de décision de la <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn> du prochain cercle supérieur, et vice versa.

@@ -3,11 +3,11 @@ title: "Clarifier le résultat attendu"
 ---
 
 
-**Soyez précis sur les résultats attendus par les ententes, les activités, les projets et les stratégies.**
+<strong>Explicitez les résultats attendus des ententes passées, des activités, des projets et des stratégies.</strong>
 
 Se mettre d'accord et consigner une description concise des résultats attendus.
 
-Le résultat attendu peut être utilisé pour définir les [critères d'évaluation](evaluation-criteria.html) et les métriques (indicateurs) pour évaluer les résultats effectivement obtenus.
+Le résultat attendu peut être utilisé pour définir les [critères d'évaluation](evaluation-criteria.html) et les indicateurs (mesurés) pour évaluer les résultats effectivement obtenus.
 
 ![Résultats attendus, et critères d'évaluation](img/templates/outcome-and-criteria.png)
 

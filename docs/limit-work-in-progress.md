@@ -3,11 +3,11 @@ title: "Limiter le travail en cours"
 ---
 
 
-**Limitez le nombre d'éléments de travail à toute étape de votre processus de travail.**
+<strong>Limitez le nombre d'éléments de travail à toute étape de votre processus de travail.</strong>
 
 Le travail en cours inclut :
 
-- le nombre d'éléments dans un <dfn data-info="Backlog (panier): Une liste explicite et priorisée d&apos;éléments de travail (livrables) ou d&apos;intention en attente de traitement.">backlog (panier)</dfn>
+- le nombre d'éléments dans un <dfn data-info="Backlog (panier): Une liste (souvent priorisée)  d&apos;éléments de travail à faire (livrables) ou d&apos;intention en attente de traitement.">backlog (panier)</dfn>
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 

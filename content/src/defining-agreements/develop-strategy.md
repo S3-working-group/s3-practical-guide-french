@@ -1,6 +1,8 @@
 ## Développer la stratégie
 
+<summary>
 {{define:strategy}}
+</summary>
 
 Il est généralement plus efficace qu'une équipe ou un porteur de rôle mène l'élaboration de sa propre stratégie.
 

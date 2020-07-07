@@ -3,7 +3,7 @@ title: "Changements organisationnels par flux tirés"
 ---
 
 
-**Créez un environnement qui invite les membres d'une organisation à mener des changements.**
+<strong>Créez un environnement qui invite les membres d'une organisation à mener des changements.</strong>
 
 Changez les choses lorsqu'il y a un intérêt à le faire :
 

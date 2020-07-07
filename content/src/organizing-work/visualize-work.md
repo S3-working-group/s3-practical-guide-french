@@ -1,6 +1,8 @@
 ## Visualiser le travail
 
-**Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de tous les éléments de travail actuellement en attente, en cours ou terminés.**
+<summary>
+<strong>Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de tous les éléments de travail actuellement en attente, en cours ou terminés.</strong>
+</summary>
 
 - utile pour [l'auto-organisation](glossary:self-organization) et les systèmes à flux tirés
 - le système doit être accessible à toutes les personnes impactées

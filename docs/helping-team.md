@@ -3,11 +3,11 @@ title: "Equipe de soutien"
 ---
 
 
-**Rassemblez une équipe de personnes équivalentes pour répondre à un ensemble particulier d'exigences définies par un délégant.**
+<strong>Rassemblez une équipe de personnes équivalentes pour répondre à un ensemble particulier d'exigences définies par un délégant.</strong>
 
 Une équipe de soutien :
 
-- est un moyen pour un <dfn data-info="Délégant: Un individu ou groupe délégant un domaine à d&apos;autres groupes ou individus.">délégant</dfn> d'étendre sa capacité
+- est un moyen pour un <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&apos;un domaine à autrui.">délégant</dfn> d'étendre sa capacité
 - peut être auto-organisée, ou guidée par un [coordinateur](coordinator.html) choisi par le délégant
 - est gouvernée par le délégant
 - bénéficie d'un domaine <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">clairement défini</dfn>

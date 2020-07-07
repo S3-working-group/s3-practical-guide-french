@@ -3,7 +3,7 @@ title: "Réunions de planification et d'évaluation"
 ---
 
 
-**Les gens se rencontrent à intervalles réguliers (1-4 semaines) lors de réunions timeboxées pour planifier et évaluer le travail.**
+<strong>Les gens se rencontrent à intervalles réguliers (1-4 semaines) lors de réunions timeboxées pour planifier et évaluer le travail.</strong>
 
 **Réunion de planification** : sélectionnez et estimez les éléments de travail pour la prochaine itération.
 

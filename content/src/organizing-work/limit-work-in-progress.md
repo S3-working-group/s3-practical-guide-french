@@ -1,6 +1,8 @@
 ## Limiter le travail en cours
 
-**Limitez le nombre d'éléments de travail à toute étape de votre processus de travail.**
+<summary>
+<strong>Limitez le nombre d'éléments de travail à toute étape de votre processus de travail.</strong>
+</summary>
 
 Le travail en cours inclut :
 
