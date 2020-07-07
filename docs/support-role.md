@@ -3,7 +3,9 @@ title: "Rôle de soutien"
 ---
 
 
+<summary>
 <strong>Appliquez cette pratique pour les contractuels externes.</strong>
+</summary>
 
 - clarifiez et décrivez l'<dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intention</dfn> pour le [rôle](role.html)
 - créez une [description de domaine](clarify-domains.html)

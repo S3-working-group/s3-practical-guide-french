@@ -3,7 +3,9 @@ title: "Cercle"
 ---
 
 
+<summary>
 _Un **cercle** est une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent pour s'occuper d'un domaine._
+</summary>
 
 Un cercle:
 

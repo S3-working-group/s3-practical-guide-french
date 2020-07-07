@@ -3,7 +3,9 @@ title: "Backlog (panier)"
 ---
 
 
+<summary>
 _Un **backlog** (panier) est une liste (souvent priorisée) d'éléments de travail inachevés (livrables), ou d'intentions qui doivent être traitées._
+</summary>
 
 Pensez à rendre les backlogs (paniers) visibles, pas seulement aux membres de l'équipe, mais aussi à toute l'organisation.
 

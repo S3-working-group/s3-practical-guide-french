@@ -3,7 +3,9 @@ title: "Tours de table"
 ---
 
 
+<summary>
 <strong>Lors d'une réunion de groupe, donnez la parole à chacun son tour.</strong>
+</summary>
 
 Les tours de table sont une technique de facilitation de groupe pour maintenir l'équivalence et soutenir un dialogue efficace.
 

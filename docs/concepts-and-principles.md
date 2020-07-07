@@ -121,7 +121,7 @@ Il est également possible de comprendre un domaine par rapport aux intentions o
 ![Intentions et domaines](img/driver-domain/drivers-and-domains.png)
 ### Objections
 
-_Une **objection** est un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il existe des moyens intéressants de l'améliorer._
+_Une **objection** est un argument relatif à une entente (proposée) ou une activité qui révèle des conséquences inattendues que vous préfèreriez éviter, ou qui pourrait être améliorée._
 
 Les objections révèlent des informations sur  des **conséquences involontaires** (potentielles), ou sur **des moyens utiles de s'améliorer**.
 
@@ -152,11 +152,11 @@ Tirez parti de la diversité des perspectives et soyez ouvert à challenger les 
 
 #### Préoccupations
 
-**Tous les arguments invoqués ne sont pas des objections. Distinguez entre les objections, qui révèlent toujours des informations utiles, et d'autres arguments qui ne sont fondés que sur des hypothèses, ou sur une préférence ou une opinion personnelle.**
+**Tous les arguments invoqués ne sont pas des objections. Faites la distinction entre les objections, qui révèlent toujours des informations utiles, et d'autres arguments qui ne sont fondés que sur des hypothèses, ou sur une préférence ou une opinion personnelle.**
 
-_Une **préoccupation** est une supposition - ou une opinion - selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** s’avérer être un obstacle pour une réponse (plus) efficace à une intention organisationnelle._
+_Une **préoccupation** est une supposition - ou une opinion - selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** entraver une réponse (plus) efficace à une intention organisationnelle._
 
-Dans la [Décision par Consentement](consent-decision-making.html), les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation). Faites part de vos vigilances si vous pensez qu’il est utile de les prendre en considération, et au moins de les enregistrer avec l'entente, et de surveiller les résultats dans le temps.
+Dans la [Décision par Consentement](consent-decision-making.html), les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation). Faites part de vos préoccupations si vous pensez qu’il est utile de les prendre en considération, et au moins de les enregistrer avec l'entente, et de surveiller les résultats dans le temps.
 
 Si vous avez des doutes quant à savoir si vous avez une objection ou une vigilance, soyez proactif et vérifiez avec les autres pour voir ce qu'ils pensent aussi. (voir [Tester les Argument se Qualifiant d'Objections](test-arguments-qualify-as-objections.html)). 
 
@@ -178,9 +178,9 @@ S3 cherche à libérer la productivité en laissant les personnes libres de fair
 
 Une plus grande autonomie des individus et des équipes nécessite des ententes claires (c'est-à-dire des consignes et des contraintes) qui permettent une collaboration harmonieuse entre ces équipes et ces individus, et qui soutiennent la réalisation d'objectifs à court et long terme. Des évaluations périodiques et l'évolution progressive des ententes assurent qu'elles restent adaptées à la finalité.
 
-Bien qu'une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, créer des ententes plus conséquentes qui contraignent le comportement et l’activité des gens, bénéficie souvent d'un [processus de décision](consent-decision-making.html) plus participatif et plus délibéré.
+Bien qu'une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, pour créer des ententes plus conséquentes qui contraignent le comportement et l’activité des gens, il est souvent bénéfique d’adopter un [processus de décision](consent-decision-making.html) plus participatif et plus délibéré.
 
-De telles ententes doivent être documentées, à la fois pour se les rappeler mais aussi pour permettre une [évaluation](evaluate-and-evolve-agreements.html) efficace, et doivent être communiquées aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](those-affected-decide.html) de ces ententes).
+De telles ententes doivent être documentées, à la fois pour se les rappeler mais aussi pour pouvoir les [évaluer](evaluate-and-evolve-agreements.html) efficacement, et doivent être communiquées aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](those-affected-decide.html) de ces ententes).
 
 Il est donc utile de distinguer deux catégories d’activités dans une organisation, l'une que nous appelons la gouvernance, et l’autre que nous appelons les opérations :
 

@@ -3,7 +3,9 @@ title: "Consigner les Ententes"
 ---
 
 
+<summary>
 Consignez les détails des ententes que vous concluez, de sorte que vous puissiez vous en souvenir plus tard, évaluer les résultats obtenus et les faire évoluer ces ententes dans le temps.
+</summary>
 
 _Une **entente** est une ligne directrice, un processus, un protocole ou une politique établis de le but de guider le flux de valeur._
 

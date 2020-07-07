@@ -3,7 +3,9 @@ title: "Amélioration continue du processus de travail"
 ---
 
 
+<summary>
 <strong>Faites apparaître les intentions et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.</strong>
+</summary>
 
 - introduire le principe de consentement et de [naviguer par tension](navigate-via-tension.html) pour faire évoluer le processus de travail d'une équipe
 - sélectionner un facilitateur pour guider les processus de groupe, et choisir des valeurs repère pour guider le comportement

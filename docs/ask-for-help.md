@@ -3,7 +3,9 @@ title: "Demander un soutien"
 ---
 
 
+<summary>
 <strong>Un protocole simple pour apprendre, partager ses compétences et établir des liens, en respectant les tâches et attributions de chacun.</strong>
+</summary>
 
 Demandez à quelqu'un : "*voudrais-tu bien m'aider sur... *?" La personne accepte ou décline avec un simple "*oui*" ou "*non*".
 

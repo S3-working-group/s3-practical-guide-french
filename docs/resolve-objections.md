@@ -3,9 +3,11 @@ title: "Intégrer les objections"
 ---
 
 
+<summary>
 <strong>Intégrez les objections une par une en utilisant les informations qu'elles contiennent et développer les amendements.</strong>
+</summary>
 
-Commencez à résoudre l'<dfn data-info="Objection: Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu&apos;il y a des moyens intéressants d&apos;améliorer cette entente.">objection</dfn> qui semble la plus prometteuse et, si cela échoue, choisissez en simplement une autre. Chaque tentative vous aidera à mieux comprendre les informations que contient l'objection et à rapprocher le groupe de proposer un amendement qui satisfera l'objection.
+Commencez à résoudre l'<dfn data-info="Objection: Un argument relatif à une entente (proposée) ou une activité qui révèle les conséquences inattendues que vous préféreriez éviter, ou qui pourraient être améliorées.">objection</dfn> qui semble la plus prometteuse et, si cela échoue, choisissez en simplement une autre. Chaque tentative vous aidera à mieux comprendre les informations que contient l'objection et à rapprocher le groupe de proposer un amendement qui satisfera l'objection.
 
 C'est souvent un bon point de départ de demander à la personne qui fait l'objection de proposer un amendement.
 

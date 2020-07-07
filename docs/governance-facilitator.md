@@ -3,7 +3,9 @@ title: "Facilitateur de gouvernance"
 ---
 
 
+<summary>
 <strong>Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.</strong>
+</summary>
 
 Un facilitateur de <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn> :
 

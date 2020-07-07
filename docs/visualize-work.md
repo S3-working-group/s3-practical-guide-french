@@ -3,7 +3,9 @@ title: "Visualiser le travail"
 ---
 
 
+<summary>
 <strong>Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de tous les éléments de travail actuellement en attente, en cours ou terminés.</strong>
+</summary>
 
 - utile pour <dfn data-info="Auto-organisation: Toute activité ou processus à travers lequel les gens organisent leur travail quotidien sans l&apos;influence d&apos;un agent externe, et selon les contraintes définies par la gouvernance. Dans toute organisation ou équipe, l&apos;auto-organisation et l&apos;influence externe coexistent.">l'auto-organisation</dfn> et les systèmes à flux tirés
 - le système doit être accessible à toutes les personnes impactées

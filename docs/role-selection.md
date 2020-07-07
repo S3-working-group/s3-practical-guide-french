@@ -3,7 +3,9 @@ title: "Sélection des rôles"
 ---
 
 
+<summary>
 <strong>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</strong>
+</summary>
 
 Au lieu de simplement affecter des personnes aux [rôles](role.html), ou de faire un choix basé uniquement sur la majorité, utilisez le processus de sélection de rôles pour :
 
@@ -26,7 +28,7 @@ Une condition préalable au processus de sélection est une [description claire]
     - proposant un candidat lui-même ou en demandant à un membre du groupe
     - invitant (certains) candidats à s'entendre sur qui devrait être proposé
     - invitant le dialogue de groupe pour révéler le candidat le plus solide
-7. **Vérifier les objections:** Demandez aux participants (y compris au candidat proposé) de signaler simultanément s'ils ont une <dfn data-info="Objection: Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu&apos;il y a des moyens intéressants d&apos;améliorer cette entente.">objection</dfn>. 
+7. **Vérifier les objections:** Demandez aux participants (y compris au candidat proposé) de signaler simultanément s'ils ont une <dfn data-info="Objection: Un argument relatif à une entente (proposée) ou une activité qui révèle les conséquences inattendues que vous préféreriez éviter, ou qui pourraient être améliorées.">objection</dfn>. 
 8. **Intégrer les objections,** en commençant par n'importe quel candidat proposé. [Les objections peuvent être résolues](resolve-objections.html) de plusieurs façons, y compris la modification de la description de domaine du rôle ou en nommant quelqu'un d'autre. Lorsque toutes les objections sont résolues, vérifiez à nouveau avec le candidat (final) s'il accepte le rôle.
 9. **Célébrer:** Saluez l'entente obtenue et remerciez la personne qui va maintenant porter le rôle.
 

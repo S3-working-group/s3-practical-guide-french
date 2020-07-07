@@ -20,7 +20,7 @@ L'utilisation de S3 peut **vous aider à atteindre vos objectifs** et naviguer a
 
 **Sociocratie 3.0 est libre**, et sous licence Creative Commons Free Culture License.
 
-## Comment la Sociocratie 3.0 peut aider?
+## Comment la Sociocratie 3.0 peut-elle aider?
 
 S3 est une technologie de transformation à la fois pour les individus et l'ensemble de l'organisation qui vous aidera à trouver comment relever les plus grands défis de votre organisation, profiter des opportunités qui se présentent et résoudre les problèmes les plus tenaces.
 

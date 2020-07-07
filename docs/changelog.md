@@ -31,7 +31,7 @@ title: "Historique des modifications"
 
 ### Changements du 27-06-2019
 
-- *Objection* : définition plus précise de l’objection, et mise à jour du glossaire pour <dfn data-info="Objection: Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu&apos;il y a des moyens intéressants d&apos;améliorer cette entente.">objection</dfn> en conséquence
+- *Objection* : définition plus précise de l’objection, et mise à jour du glossaire pour <dfn data-info="Objection: Un argument relatif à une entente (proposée) ou une activité qui révèle les conséquences inattendues que vous préféreriez éviter, ou qui pourraient être améliorées.">objection</dfn> en conséquence
 - remplacé "action" par activité dans quelques endroits où ça faisait plus de sens
 - correction de quelques typos
 

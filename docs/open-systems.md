@@ -3,7 +3,9 @@ title: "Systèmes ouverts"
 ---
 
 
+<summary>
 <strong>Communiquez sciemment et apprenez des personnes qui sont en dehors de votre système.</strong>
+</summary>
 
 Les individus, les équipes et les organisations entières peuvent reconnaître l'interdépendance et inviter sciemment des personnes de l'extérieur de leur système à introduire **connaissance, expérience et influence** pour aider à prendre des décisions et soutenir l'apprentissage collectif.
 

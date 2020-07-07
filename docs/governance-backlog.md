@@ -3,7 +3,9 @@ title: "Backlog (panier) de gouvernance"
 ---
 
 
+<summary>
 _Un **backlog (panier) de gouvernance** est une liste visible, priorisée de points (intentions) qui sont en lien avec la gouvernance d'un domaine et en attente de traitement._
+</summary>
 
 Un backlog (panier) de gouvernance contient :
 

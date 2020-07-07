@@ -3,7 +3,9 @@ title: "Développer la stratégie"
 ---
 
 
+<summary>
 _Une **stratégie** est une approche de haut niveau sur la façon dont les personnes vont créer de la valeur pour s'occuper avec succès d'un domaine._
+</summary>
 
 Il est généralement plus efficace qu'une équipe ou un porteur de rôle mène l'élaboration de sa propre stratégie.
 

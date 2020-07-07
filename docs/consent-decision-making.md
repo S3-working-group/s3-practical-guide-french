@@ -3,11 +3,13 @@ title: "Décider par consentement"
 ---
 
 
+<summary>
 <strong>Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les ententes existantes.</strong>
+</summary>
 
 Les propositions deviennent des <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> quand elles sont considérées *suffisantes pour le moment et suffisamment sûres à essayer* jusqu'à la prochaine évaluation.
 
-Des <dfn data-info="Objection: Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu&apos;il y a des moyens intéressants d&apos;améliorer cette entente.">objections</dfn> non résolues empêchent les propositions de devenir des ententes.
+Des <dfn data-info="Objection: Un argument relatif à une entente (proposée) ou une activité qui révèle les conséquences inattendues que vous préféreriez éviter, ou qui pourraient être améliorées.">objections</dfn> non résolues empêchent les propositions de devenir des ententes.
 
 Taire des objections peut nuire aux objectifs d’une équipe ou d’une organisation.
 

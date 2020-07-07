@@ -44,7 +44,7 @@ terms:
     glossary: Un environnement où les inconnus sont inconnus, les liens de cause à effets ne peuvent être compris que rétrospectivement, et où les actions mènent à des changements imprévisibles. [Snowden and Boone]
   concern:
     name: Préoccupation
-    definition: Une **préoccupation** est une supposition - ou une opinion - selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** s’avérer être un obstacle pour une réponse (plus) efficace à une intention organisationnelle.
+    definition: Une **préoccupation** est une supposition - ou une opinion - selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** entraver une réponse (plus) efficace à une intention organisationnelle.
     glossary: Une supposition que faire quelque chose (même en l'absence d'objections) pourrait faire obstacle à une façon (plus) efficace de répondre à une intention organisationnelle.
   consent:
     name: Consentement (principe)
@@ -131,8 +131,8 @@ terms:
     glossary: L'absence de quelque chose de voulu ou jugé nécessaire (une exigence).
   objection:
     name: Objection
-    definition: Une **objection** est un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il existe des moyens intéressants de l'améliorer.
-    glossary: Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il y a des moyens intéressants d'améliorer cette entente.
+    definition: Une **objection** est un argument relatif à une entente (proposée) ou une activité qui révèle des conséquences inattendues que vous préfèreriez éviter, ou qui pourrait être améliorée.
+    glossary: Un argument relatif à une entente (proposée) ou une activité qui révèle les conséquences inattendues que vous préféreriez éviter, ou qui pourraient être améliorées.
   objective:
     name: Objectif
     definition:
@@ -166,7 +166,7 @@ terms:
     definition:
     glossary: Deux domaines pairs sont contenus dans le même super-domaine immédiat, et peuvent se recouper.
   primary-driver:
-    name: Moteur principal
+    name: Intention Primaire
     definition:
     glossary: L'intention primaire d'un domaine est l'intention principale à laquelle les personnes qui s'occupent de ce domaine répondent.
   principle:

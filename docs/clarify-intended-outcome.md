@@ -3,7 +3,9 @@ title: "Clarifier le résultat attendu"
 ---
 
 
+<summary>
 <strong>Explicitez les résultats attendus des ententes passées, des activités, des projets et des stratégies.</strong>
+</summary>
 
 Se mettre d'accord et consigner une description concise des résultats attendus.
 
