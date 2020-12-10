@@ -1,5 +1,5 @@
 ---
-title: "${_(\"Concepts et principes\")}"
+title: "Concepts et principes"
 ---
 
 Aller à:
