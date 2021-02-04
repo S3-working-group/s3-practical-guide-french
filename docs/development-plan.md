@@ -3,7 +3,9 @@ title: "Plan de développement"
 ---
 
 
+<summary>
 <strong>Un plan pour développer des façons plus efficaces de s'occuper d'un domaine, convenu entre délégant et délégué.</strong>
+</summary>
 
 Le plan de développement peut être créé pour une personne dans un rôle, ou pour une équipe (ex: un département, un [cercle](circle.html) ou un [domaine ouvert](open-domain.html)).
 

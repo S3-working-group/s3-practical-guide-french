@@ -3,7 +3,9 @@ title: "Décrire les intentions organisationnelles"
 ---
 
 
+<summary>
 <strong>Décrivez les intentions pour mieux les comprendre, les communiquer et s'en souvenir.</strong>
+</summary>
 
 Décrire les <dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intentions</dfn> peut être fait par un groupe ou par un individu. Selon leur perspective, ils peuvent décider d'expliquer une intention comme un **problème** à résoudre ou une **opportunité** à saisir.
 

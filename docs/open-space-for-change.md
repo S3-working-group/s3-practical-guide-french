@@ -3,7 +3,9 @@ title: "Changement par forum ouvert"
 ---
 
 
+<summary>
 <strong>Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.</strong>
+</summary>
 
 - clarifier l'<dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intention</dfn> du changement
 - prévoir des événements réguliers en espace ouverts : 

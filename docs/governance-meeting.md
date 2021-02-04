@@ -3,7 +3,9 @@ title: "Réunion de gouvernance"
 ---
 
 
+<summary>
 <strong>Les équipes se rencontrent à intervalles réguliers pour décider de ce qu'il faut faire pour atteindre les objectifs et pour définir des contraintes sur la façon et le moment de faire les choses.</strong>
+</summary>
 
 Une réunion de gouvernance est habituellement :
 

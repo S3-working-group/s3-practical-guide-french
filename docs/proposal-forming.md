@@ -3,7 +3,9 @@ title: "Elaborer une proposition"
 ---
 
 
+<summary>
 <strong>Un processus de groupe (facilité) pour co-créer une réponse à une intention.</strong>
+</summary>
 
 - s’appuie sur l’intelligence collective et la diversité des perspectives au sein d’un groupe
 - implique les participants dans la co-création des ententes

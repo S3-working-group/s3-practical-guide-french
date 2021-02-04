@@ -62,17 +62,17 @@ title: Glossaire
 
 **Intention:** La motivation d'un groupe ou d'une personne pour répondre à une situation particulière.
 
+**Intention Primaire:** L'intention primaire d'un domaine est l'intention principale à laquelle les personnes qui s'occupent de ce domaine répondent.
+
 **Livrable:** Un produit, un service, un composant ou un matériel fourni en réponse à une intention organisationnelle.
 
 **Moteur organisationnel:** Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.
-
-**Moteur principal:** L'intention primaire d'un domaine est l'intention principale à laquelle les personnes qui s'occupent de ce domaine répondent.
 
 **Méthode Sociocratique d'organisation par Cercles (MSC):** Une méthode de gouvernance égalitaire pour les organisations basée sur une mentalité sociocratique, développée aux Pays-Bas par Gerard Endenburg.
 
 **Objectif:** Un résultat (particulier) qu'une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.
 
-**Objection:** Un argument démontrant (ou révélant) comment une entente ou une activité (proposée) peut entraîner des conséquences imprévues, ou qu'il y a des moyens intéressants d'améliorer cette entente.
+**Objection:** Un argument relatif à une entente (proposée) ou une activité qui révèle les conséquences inattendues que vous préféreriez éviter, ou qui pourraient être améliorées.
 
 **Opérations:** Faire le travail et organiser les activités quotidiennes selon les contraintes définies par la gouvernance.
 

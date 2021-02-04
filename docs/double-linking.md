@@ -3,7 +3,9 @@ title: "Double lien"
 ---
 
 
+<summary>
 <strong>Activez des flux <em>bi-directionnels</em> d’informations et l’influence entre deux équipes.</strong>
+</summary>
 
 Deux équipes interdépendantes sélectionnent chacune un de leurs membres pour représenter leurs intérêts dans les décisions de <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn> de l’autre équipe.
 

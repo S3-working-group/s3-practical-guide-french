@@ -3,7 +3,9 @@ title: "Tester les Arguments Qualifiés d'Objections"
 ---
 
 
+<summary>
 Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.
+</summary>
 
 Quand quelqu'un propose de changer quelque chose, vérifiez que l'argument présenté révèle comment des conséquences indésirables vont ou pourraient survenir si l’on ne change rien, ou qu'il vous indique un moyen utile d'améliorer la façon de réaliser vos objectifs.
 

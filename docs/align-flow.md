@@ -3,7 +3,9 @@ title: "Aligner les flux"
 ---
 
 
+<summary>
 <strong>Pour soutenir un flux continu de valeur, déplacez la prise de décision pour la rapprocher au plus près de là où l’on crée la valeur, et alignez les flux d'information en conséquence.</strong>
+</summary>
 
 **Flux de valeur:** Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.
 
