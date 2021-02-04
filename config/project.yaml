@@ -13,7 +13,7 @@ defaults:
   source: content/src
   structure: config/structure.yaml
   # That must be .po for translations, and .pot for the source language!
-  localization: content/localization.pot
+  localization: content/localization.po
 
   # glossary: yaml file with glossary terms
   glossary: content/glossary.yaml
