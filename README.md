@@ -4,8 +4,15 @@ The French translation of "Sociocracy 3.0 Practical Guide""
 
 ## Build Process
 
-* add translated files from [S3 Practical Guide Crowdin project](https://crowdin.com/project/sociocracy-30) (be sure to merge Jekyll config (docs/_config.yml because Jekyll expects a specific YAML format))
-* use [illustration translations](https://crowdin.com/project/sociocracy-30-illustrations) to translate illustrations and copy translated illustrations to `img` and `docs/img`
-* update version number in `templates/deckset-template.md`
-* run buildscript (`make deckset|revealjs|site`)
-* (optional) build pdf (A4 for print and wide for screen)
+-   add translated files from [S3 Practical Guide Crowdin project](https://crowdin.com/project/sociocracy-30) 
+-   check with English repository for changes to:
+    -   `config/*`
+    -  ` templates/*`
+    -   `makefile` and `build.sh`
+    -   the contents of all the subfolders inside docs (but not the file inside docs )
+-    add translated illustrations to `img`
+-   update version number in `config/project.yaml`
+-   run buildscript (`source build.sh`) to build all formats or only build the website:
+	-   `make clean` clan temporary files and web pages
+	-   `make setup` to copy images and ensure all temp folders are created
+	-   `make site` to build the website
