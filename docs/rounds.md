@@ -3,9 +3,9 @@ title: "Tours de table"
 ---
 
 
-**Lors d'une réunion de groupe, donnez la parole à chacun à son tour.**
+<strong>Lors d'une réunion de groupe, donnez la parole à chacun son tour.</strong>
 
-Les tours de table sont une technique de facilitation de groupe pour maintenir l'équivalence et soutenir un dialogue efficace.
+Les tours de table sont une technique de facilitation de groupe pour maintenir l'équivalence et encourager un dialogue efficace.
 
 Soyez clairs sur la finalité et le résultat attendu de chaque tour de table.
 
@@ -13,5 +13,15 @@ Asseyez-vous en cercle, commencez chaque tour de table par une personne différe
 
 ![Tours de table](img/circle/rounds.png)
 
-[&#9654; Faciliter les réunions](facilitate-meetings.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
+<div class="bottom-nav">
+<a href="meeting-practices.html" title="Up: Se réunir">▲</a> <a href="facilitate-meetings.html" title="">▶ Read next: Faciliter les réunions</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'facilitate-meetings.html';
+    return false;
+});
+</script>
 

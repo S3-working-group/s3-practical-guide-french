@@ -1,37 +1,37 @@
 ---
-title: "Evaluer et développer les ententes"
+title: "Évaluer et développer les accords"
 ---
 
 
-**Développez continuellement un corpus d'ententes et éliminez le gaspillage.**
+<strong>Développez continuellement un corpus d'accords et éliminez le gaspillage.</strong>
 
-L'examen régulier des ententes est une pratique essentielle pour une organisation apprenante :
+L'examen régulier des accords est une pratique essentielle pour une organisation apprenante :
 
-- adapter les ententes à un contexte changeant
+- adapter les accords à un contexte changeant
 - intégrer l'apprentissage pour les rendre plus efficaces
 
-Assurez-vous que toutes les <dfn data-info="Entente: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">ententes</dfn> ont une date d'évaluation appropriée.
+Assurez-vous que toutes les <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">accords</dfn> ont une date d'évaluation appropriée.
 
-Évaluer une entente peut être aussi simple que de vérifier qu'elle est toujours pertinente, et qu'il n'y a pas d'objection à la conserver en l'état.
+Évaluer un accord peut être aussi simple que de vérifier qu'il est toujours pertinent, et qu'il n'y a pas d'objection à le conserver en l'état.
 
 ![Expérimenter, évaluer, développer](img/evolution/kaizen.png)
 
-Les ententes sont souvent examinées dans des [réunions de gouvernance](governance-meeting.html), cependant il est parfois plus performant de planifier une session dédiée.
+Les accords sont souvent examinés dans des [réunions de gouvernance](governance-meeting.html), cependant il est parfois plus performant de planifier une session dédiée.
 
 Ajustez la fréquence d'évaluation au contexte et évaluez rapidement si nécessaire.
 
 Les éléments de cette pratique peuvent également être utilisés par des individus pour évaluer leurs propres décisions.
 
-### Format court
+## Format court
 
-- *Comment cette entente nous a-t-elle aidé ?*
-- *Y a-t-il une quelconque raison d'abandonner cette entente?*
-- *Comment cette entente peut-elle être améliorée ?*
+- *Comment cet accord nous a-t-il aidé ?*
+- *Y a-t-il une quelconque raison d'abandonner cet accord?*
+- *Comment cet accord peut-il être amélioré ?*
 - Se mettre d'accord sur la prochaine date d'évaluation.
 
-### Format long
+## Format long
 
-![Un format long pour évaluer et développer les ententes](img/agreements/evaluate-agreements.png)
+![Un format long pour évaluer et développer les accords](img/agreements/evaluate-agreements.png)
 
 Préparation :
 
@@ -42,7 +42,17 @@ Suivi :
 
 - Se mettre d'accord sur la prochaine date d'évaluation.
 - Documenter les décisions et les tâches, et les partager avec les personnes concernées.
-- Prendre en considération les effets de toute entente connexe.
+- Prendre en considération les effets de tout accord connexe.
 
-[&#9654; Les personnes impactées décident](those-affected-decide.html)<br/>[&#9664; Intégrer les objections](resolve-objections.html)<br/>[&#9650; Co-créer et évoluer](co-creation-and-evolution.html)
+<div class="bottom-nav">
+<a href="resolve-objections.html" title="Back to: Intégrer les objections">◀</a> <a href="co-creation-and-evolution.html" title="Up: Cocréer et évoluer">▲</a> <a href="involve-those-affected.html" title="">▶ Read next: Impliquer ceux qui sont impactés</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'involve-those-affected.html';
+    return false;
+});
+</script>
 

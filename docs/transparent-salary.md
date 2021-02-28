@@ -3,7 +3,7 @@ title: "Transparence salariale"
 ---
 
 
-**Créez une formule salariale équitable et rendez-la transparente.**
+<strong>Créez une formule salariale équitable et rendez-la transparente.</strong>
 
 La transparence salariale (aussi appelée "salaire ouvert") est la pratique de déterminer la rémunération de chaque employé selon un ensemble de règles — la *formule salariale* — au lieu de faire une rémunération soumise à des négociations individuelles entre l'employeur et l'employé. La formule salariale — et souvent la rémunération individuelle aussi — est transparente pour tous les membres d’une organisation, et parfois pour le public.
 
@@ -17,9 +17,19 @@ Lorsque vous décidez (ou vous accordez sur) d'une formule salariale pour une or
 - comment calculer la rémunération selon le besoin, l'investissement, la productivité ou le mérite
 - comment distribuer les profits de l'organisation et couvrir les pertes en fonction des attentes et des besoins des diverses partie-prenantes
 
-Décidez comment gérer la rémunération pour les changements de rôles et [développez une stratégie](develop-strategy.html) pour la transition vers de nouveaux contrats et accords de rémunération.
+Décidez comment gérer la rémunération pour les changements de rôles et [développez une stratégie](clarify-and-develop-strategy.html) pour la transition vers de nouveaux contrats et accords de rémunération.
 
 ![Deux façons d'ouvrir les salaires](img/process/opening-salaries.png)
 
-[&#9654; Rôle de soutien](support-role.html)<br/>[&#9664; Contrat de collaboration réussie](contract-for-successful-collaboration.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
+<div class="bottom-nav">
+<a href="contract-for-successful-collaboration.html" title="Back to: Contrat de collaboration réussie">◀</a> <a href="enablers-of-collaboration.html" title="Up: Catalyser la collaboration">▲</a> <a href="support-role.html" title="">▶ Read next: Rôle de soutien</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'support-role.html';
+    return false;
+});
+</script>
 

@@ -3,7 +3,7 @@ title: "Inviter aux changements"
 ---
 
 
-**Clarifiez la raison du changement et invitez les gens à participer.**
+<strong>Clarifiez la raison du changement et invitez les gens à participer.</strong>
 
 Encourager plutôt qu'imposer contribue à réduire la résistance au changement et permet aux gens de choisir par eux-mêmes.
 
@@ -16,5 +16,15 @@ En faisant l'invitation :
 
 Incluez les personnes impliquées et impactées dans l'évaluation régulière des résultats du changement.
 
-[&#9654; Changement par forum ouvert](open-space-for-change.html)<br/>[&#9664; Incarner le changement](be-the-change.html)<br/>[&#9650; Intégrer la S3](bringing-in-s3.html)
+<div class="bottom-nav">
+<a href="be-the-change.html" title="Back to: Incarner le changement">◀</a> <a href="bringing-in-s3.html" title="Up: Intégrer la S3">▲</a> <a href="open-space-for-change.html" title="">▶ Read next: Changement par forum ouvert</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'open-space-for-change.html';
+    return false;
+});
+</script>
 

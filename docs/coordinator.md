@@ -3,13 +3,23 @@ title: "Coordinateur"
 ---
 
 
-Une personne remplissant le rôle de coordinateur est redevable de **la coordination des opérations d'un domaine** et est **sélectionnée pour un mandat limité.**
+Une personne remplissant le rôle de coordinateur est redevable de <strong>la coordination des opérations d'un domaine</strong> et est <strong>sélectionnée pour un mandat limité.</strong>
 
-Le coordinateur peut être sélectionné par l'équipe elle-même, ou par le <dfn data-info="Délégant: Un individu ou groupe délégant un domaine à d&apos;autres groupes ou individus.">délégant</dfn>.
+Le coordinateur peut être sélectionné par l'équipe elle-même, ou par le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn>.
 
-Plusieurs coordinateurs peuvent collaborer pour synchroniser le travail au travers de plusieurs <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn>.
+Plusieurs coordinateurs peuvent collaborer pour synchroniser le travail au travers de plusieurs <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn>.
 
 Au lieu de choisir un coordinateur, une équipe peut choisir de s'auto-organiser.
 
-[&#9654; Structure organisationnelle](organizational-structure.html)<br/>[&#9664; Aligner les flux](align-flow.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+<div class="bottom-nav">
+<a href="align-flow.html" title="Back to: Aligner les flux">◀</a> <a href="organizing-work.html" title="Up: Organiser le travail">▲</a> <a href="organizational-structure.html" title="">▶ Read next: Structurer l&apos;organisation</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'organizational-structure.html';
+    return false;
+});
+</script>
 

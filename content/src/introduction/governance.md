@@ -4,9 +4,9 @@ S3 cherche à libérer la productivité en laissant les personnes libres de fair
 
 Une plus grande autonomie des individus et des équipes nécessite des ententes claires (c'est-à-dire des consignes et des contraintes) qui permettent une collaboration harmonieuse entre ces équipes et ces individus, et qui soutiennent la réalisation d'objectifs à court et long terme. Des évaluations périodiques et l'évolution progressive des ententes assurent qu'elles restent adaptées à la finalité.
 
-Bien qu'une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, créer des ententes plus conséquentes qui contraignent le comportement et l’activité des gens, bénéficie souvent d'un [processus de décision](section:consent-decision-making) plus participatif et plus délibéré.
+Bien qu'une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, pour créer des ententes plus conséquentes qui contraignent le comportement et l’activité des gens, il est souvent bénéfique d’adopter un [processus de décision](section:consent-decision-making) plus participatif et plus délibéré.
 
-De telles ententes doivent être documentées, à la fois pour se les rappeler mais aussi pour permettre une [évaluation](section:evaluate-and-evolve-agreements) efficace, et doivent être communiquées aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](section:those-affected-decide) de ces ententes).
+De telles ententes doivent être documentées, à la fois pour se les rappeler mais aussi pour pouvoir les [évaluer](section:evaluate-and-evolve-agreements) efficacement, et doivent être communiquées aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](section:those-affected-decide) de ces ententes).
 
 Il est donc utile de distinguer deux catégories d’activités dans une organisation, l'une que nous appelons la gouvernance, et l’autre que nous appelons les opérations :
 

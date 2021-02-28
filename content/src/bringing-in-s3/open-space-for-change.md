@@ -1,6 +1,8 @@
 ## Changement par forum ouvert
 
-**Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.**
+<summary>
+<strong>Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.</strong>
+</summary>
 
 - clarifier l'[intention](glossary:organizational-driver) du changement
 - prévoir des événements réguliers en espace ouverts : 

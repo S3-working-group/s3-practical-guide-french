@@ -3,7 +3,7 @@ title: "Réunions de planification et d'évaluation"
 ---
 
 
-**Les gens se rencontrent à intervalles réguliers (1-4 semaines) lors de réunions timeboxées pour planifier et évaluer le travail.**
+<strong>Les gens se rencontrent à intervalles réguliers (1-4 semaines) lors de réunions timeboxées pour planifier et évaluer le travail.</strong>
 
 **Réunion de planification** : sélectionnez et estimez les éléments de travail pour la prochaine itération.
 
@@ -11,5 +11,15 @@ title: "Réunions de planification et d'évaluation"
 
 ![Réunions de planification et d'évaluation](img/meetings/planning-review.png)
 
-[&#9654; Réunion de coordination](coordination-meeting.html)<br/>[&#9664; Point quotidien](daily-standup.html)<br/>[&#9650; Interactions ciblées](focused-interactions.html)
+<div class="bottom-nav">
+<a href="daily-standup.html" title="Back to: Point quotidien">◀</a> <a href="focused-interactions.html" title="Up: Cibler les interactions">▲</a> <a href="coordination-meeting.html" title="">▶ Read next: Réunion de coordination</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'coordination-meeting.html';
+    return false;
+});
+</script>
 

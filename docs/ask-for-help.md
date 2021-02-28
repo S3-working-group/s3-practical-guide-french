@@ -3,13 +3,23 @@ title: "Demander un soutien"
 ---
 
 
-**Un protocole simple pour apprendre, partager ses compétences et établir des liens, en respectant les tâches et attributions de chacun.**
+<strong>Un protocole simple pour apprendre, partager ses compétences et établir des liens, en respectant les tâches et attributions de chacun.</strong>
 
-Demandez à quelqu'un : "*voudrais-tu bien m'aider sur... *?" La personne accepte ou décline avec un simple "*oui*" ou "*non*".
+Demandez à quelqu'un : "*voudrais-tu bien m'aider à... *?" La personne accepte ou décline avec un simple "*oui*" ou "*non*".
 
 - si la requête est déclinée, la personne qui demande accepte cette réponse sans négocier ou demander pourquoi
 - si la requête n'est pas claire, demandez plus d'informations
 - si vous acceptez une demande d'aide, soutenez votre pair au mieux de vos capacités
 
-[&#9654; Retour par les pairs](peer-feedback.html)<br/>[&#9650; Se développer entre pairs](peer-development.html)
+<div class="bottom-nav">
+<a href="peer-development.html" title="Up: Se développer entre pairs">▲</a> <a href="peer-feedback.html" title="">▶ Read next: Retour par les pairs</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'peer-feedback.html';
+    return false;
+});
+</script>
 

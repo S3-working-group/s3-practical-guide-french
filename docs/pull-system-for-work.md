@@ -1,13 +1,23 @@
 ---
-title: "Travail en flux tiré"
+title: "Travailler en flux tirés"
 ---
 
 
-**Les personnes tirent de nouveaux éléments de travail lorsqu'elles ont la capacité de les traiter (au lieu que travail leur soit poussé ou affecté).**
+<strong>Les personnes tirent de nouveaux éléments de travail lorsqu'elles ont la capacité de les traiter (au lieu que travail ne leur soit poussé ou affecté).</strong>
 
 Priorisez les éléments de travail pour assurer que les éléments importants soient traités en premier.
 
 Tirer le travail évite de surcharger le système, en particulier lorsque le [travail en cours (WIP) par personne ou par équipe est limité](limit-work-in-progress.html).
 
-[&#9654; Limiter le travail en cours](limit-work-in-progress.html)<br/>[&#9664; Visualiser le travail](visualize-work.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+<div class="bottom-nav">
+<a href="visualize-work.html" title="Back to: Visualiser le travail">◀</a> <a href="organizing-work.html" title="Up: Organiser le travail">▲</a> <a href="limit-work-in-progress.html" title="">▶ Read next: Limiter le travail en cours</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'limit-work-in-progress.html';
+    return false;
+});
+</script>
 

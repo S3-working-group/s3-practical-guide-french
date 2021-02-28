@@ -13,7 +13,7 @@ Si vous suivez l'engagement volontaire, vous pouvez ajouter nos bannières à vo
 
 Vous pouvez en savoir plus sur l'ICPT à l’adresse <https://sociocracy30.org/s3-intentional-commitment/>
 
-### Texte complet de l'ICPT
+## Texte complet de l'ICPT
 
 **Engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0**
 
@@ -44,3 +44,16 @@ Je consacre un certain temps à soutenir activement les autres de la communauté
 Je mettrai toutes les ressources S3 que j'adapterai ou créerai sous une licence Creative Commons Attribution-ShareAlike.
 
 Je discuterai d'éventuelles objections concernant les pratiques S3 dans mon groupe d’intervision, et je les transmettrai aux développeurs S3 si je crois qu'elles sont qualifiées.
+
+<div class="bottom-nav">
+<a href="disclaimer.html" title="Back to: Avertissement">◀</a> <a href="appendix.html" title="Up: Annexe">▲</a> <a href="acknowledgments.html" title="">▶ Read next: Remerciements</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'acknowledgments.html';
+    return false;
+});
+</script>
+

@@ -1,22 +1,26 @@
-#### Domaines
+### Domaines
 
 {{define:domain}}
 
 Tous les domaines d'une organisation sont contenus dans son domaine général. Ils peuvent se chevaucher et/ou être pleinement inclus au sein d'autres domaines.
 
-Les domaines sont délégués à des personnes (ex: à une unité, un département, une équipe ou des individus), qui prennent la responsabilité du domaine, et agissent selon les contraintes qu'il impose en terme d'influence et d'autonomie.
-
 ![Les domaines peuvent se chevaucher et/ou être entièrement contenus dans d'autres domaines](img/driver-domain/domains-in-organizations.png)
 
-##### Déléguer les domaines
+#### Déléguer la responsabilité des domaines
 
-Ceux qui délèguent un domaine (les *délégants*) conservent néanmoins la redevabilité de ce domaine, allouent des **ressources** et définissent souvent :
+{{define:delegation}}
+
+Les domaines sont délégués à des personnes (p. ex. une unité, un département, une équipe ou des individus) qui assument la responsabilité du domaine dans des limites définies d'influence et d'autonomie.
+
+Lorsqu’un domaine est délégué à un groupe de personnes, il deviennent une équipe, quand il est délégué à un individu, il devient porteur de rôle.
+
+Ceux qui délèguent la responsabilité d'un domaine (les délégants) à d'autres gardent toujours la responsabilité globale pour ce domaine, allouent **de ressources** et définissent souvent :
 
 - le **besoin organisationnel** auquel le domaine doit répondre
 - les **responsabilités clés** (livrables, risques critiques à gérer, autre travail essentiel et prises de décision délégués)
 - des **contraintes sur l'autonomie et l'influence** pour ceux à qui sont délégués le domaine (les *délégués*), et qui sont souvent liées à l'organisation elle-même (dépendances, implication du délégant, reporting, etc.)
 
-##### Intentions et domaines
+#### Intentions et domaines
 
 Il est également possible de comprendre un domaine par rapport aux intentions organisationnelles :
 

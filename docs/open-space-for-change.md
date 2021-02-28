@@ -3,13 +3,23 @@ title: "Changement par forum ouvert"
 ---
 
 
-**Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.**
+<strong>Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.</strong>
 
-- clarifier l'<dfn data-info="Moteur organisationnel: Une intention est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Une intention est considérée comme une **intention organisationnelle** si y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des dégâts.">intention</dfn> du changement
+- clarifier le<dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn> du changement
 - prévoir des événements réguliers en espace ouverts : 
     - encouragez tous les membres à concevoir et réaliser des expérimentations
-    - définissez les contraintes imposées aux expérimentations qui favorise le développement d'un état d'esprit <dfn data-info="Sociocratie: Un état d&apos;esprit où les personnes affectées par des décisions peuvent les influencer, en se basant sur des raisons justifiées.">sociocratique</dfn> et agile (ex : les principes S3)
+    - définissez les contraintes imposées aux expérimentations qui favorise le développement d'un état d'esprit <dfn data-info="Sociocratie: Une approche où les personnes impactées par des décisions peuvent les influencer sur la base de raisons justifiées.">sociocratique</dfn> et agile (ex : les principes S3)
     - évaluez et apprenez de ces expérimentations lors du prochain forum ouvert
 
-[&#9654; Amélioration continue du processus de travail](continuous-improvement-of-work-process.html)<br/>[&#9664; Inviter aux changements](invite-change.html)<br/>[&#9650; Intégrer la S3](bringing-in-s3.html)
+<div class="bottom-nav">
+<a href="invite-change.html" title="Back to: Inviter aux changements">◀</a> <a href="bringing-in-s3.html" title="Up: Intégrer la S3">▲</a> <a href="continuous-improvement-of-work-process.html" title="">▶ Read next: Amélioration continue des processus de travail</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'continuous-improvement-of-work-process.html';
+    return false;
+});
+</script>
 

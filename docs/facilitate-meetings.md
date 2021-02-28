@@ -3,7 +3,7 @@ title: "Faciliter les réunions"
 ---
 
 
-**Choisissez quelqu'un pour faciliter une réunion afin d'aider le groupe à rester concentré, à garder le cap de la réunion et à libérer la créativité et la sagesse des participants.**
+<strong>Choisissez quelqu'un pour faciliter une réunion afin d'aider le groupe à rester focalisé, à garder le cap de la réunion, à libérer la créativité et la sagesse des participants.</strong>
 
 Avant chaque réunion, préparez un ordre du jour de sujets et sélectionnez un facilitateur pour :
 
@@ -13,7 +13,17 @@ Avant chaque réunion, préparez un ordre du jour de sujets et sélectionnez un 
 
 Pensez à choisir un facilitateur pour une période spécifique. Même un facilitateur inexpérimenté peut avoir un impact positif.
 
-**Voir aussi:** [Préparer les réunions](prepare-for-meetings.html), [Sélection des rôles](role-selection.html)
+**Voir aussi:** [Préparer les réunions](prepare-for-meetings.html), [Sélectionner les porteurs de rôles](role-selection.html)
 
-[&#9654; Préparer les réunions](prepare-for-meetings.html)<br/>[&#9664; Tours de table](rounds.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
+<div class="bottom-nav">
+<a href="rounds.html" title="Back to: Tours de table">◀</a> <a href="meeting-practices.html" title="Up: Se réunir">▲</a> <a href="prepare-for-meetings.html" title="">▶ Read next: Préparer les réunions</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'prepare-for-meetings.html';
+    return false;
+});
+</script>
 

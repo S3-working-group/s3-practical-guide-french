@@ -1,6 +1,8 @@
 ## Changements organisationnels par flux tirés
 
-**Créez un environnement qui invite les membres d'une organisation à mener des changements.**
+<summary>
+<strong>Créez un environnement qui invite les membres d'une organisation à mener des changements.</strong>
+</summary>
 
 Changez les choses lorsqu'il y a un intérêt à le faire :
 

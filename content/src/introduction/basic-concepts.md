@@ -5,7 +5,7 @@ Avant d'aller plus loin, prenez le temps de vous familiariser avec des concepts 
 - Qu'est-ce qu'une pratique ?
 - Les sept principes
 - Comprendre les organisations : 
-    - Intentions, valeur et gaspillage
+    - Drivers, valeur et gaspillage
     - Domaines, délégation et redevabilité
     - Gouvernance et opérations
 

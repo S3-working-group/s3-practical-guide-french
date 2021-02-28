@@ -4,13 +4,13 @@
 
 Les objections apportent des informations sur **des conséquences non désirées**, ou sur **des façons viables d'apporter des améliorations**.
 
-Les individus sont redevables de soulever des objections potentielles à des propositions, des décisions, des [ententes](glossary:agreement) existantes ou des activités.
+Les individus sont redevables de soulever des objections potentielles à des propositions, des décisions, des [accords](glossary:agreement) existants ou des activités.
 
-Ne pas exprimer les objections peut nuire à la capacité des individus, des groupes ou de l'organisation de répondre aux [intentions organisationnelles](glossary:organizational-driver).
+Ne pas exprimer leurs objections peut nuire à la capacité des individus, des groupes ou de l'organisation de répondre aux [drivers organisationnels](glossary:organizational-driver).
 
-Pouvoir soulever des objections *potentielles* à tout moment signifie que les décisions n'ont besoin que *d'être suffisantes à l'instant présent et d'être juste assez sûres pour les essayer*.
+Pouvoir soulever des objections *potentielles* à tout moment signifie que les décisions n'ont besoin que *d'être assez bonnes à l'instant présent et d'être juste assez sûres pour les essayer*.
 
-Ceux qui sont redevables de l'activité ou de l'entente (ou proposition) en question sont tenus d' *examiner les arguments soulevés et d'adresser les objections.*
+Ceux qui sont redevables de l'activité ou de l'accord (ou proposition) en question sont tenus d' *examiner les arguments soulevés et d'adresser les objections.*
 
 Lorsque vous cherchez des objections potentielles, considérez :
 
@@ -22,9 +22,9 @@ Les informations apportées par les objections peuvent être utilisées pour am�
 
 - les actions en cours et planifiées
 - la façon dont les gens exécutent les décisions
-- les ententes existantes
+- les accords existants
 - les propositions
-- la compréhension commune des intentions
+- la compréhension commune des drivers
 
 ### Qualifier les objections
 
@@ -42,9 +42,9 @@ Quelques questions utiles :
 
 - En quoi l'argument est-il relatif à cette proposition ou à cet accord en particulier ?
 - L'argument indique-t-il comment telle **activité ou tel accord (proposé ou en vigueur)**: 
-    - empêche de répondre aux intentions organisationnelles?
+    - empêche de répondre aux drivers organisationnels?
     - peut être amélioré immédiatement ?
-    - empêche ou réduit la contribution de quelqu'un envers une intention ?
+    - empêche ou réduit la contribution de quelqu'un envers un driver ?
     - est en conflit avec les valeurs de l'organisation ?
     - n'est pas considéré comme 'suffisamment sûr' pour essayer?
 
@@ -52,7 +52,7 @@ Quelques questions utiles :
 
 {{define:concern}}
 
-Dans la [Décision par Consentement](section:consent-decision-making), les préoccupations peuvent suggérer des moyens de faire avancer les ententes (y compris leurs critères et fréquence d'évaluation).
+Dans la [Décision par Consentement](section:consent-decision-making), les préoccupations peuvent suggérer des moyens de faire avancer les accords (y compris leurs critères et fréquence d'évaluation).
 
 Faites part de vos préoccupations si vous les considérez importantes et proposez des critères d'évaluation correspondant.
 

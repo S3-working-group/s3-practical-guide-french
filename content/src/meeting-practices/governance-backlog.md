@@ -1,6 +1,8 @@
 ## Backlog (panier) de gouvernance
 
+<summary>
 {{define:governance-backlog}}
+</summary>
 
 Un backlog (panier) de gouvernance contient :
 

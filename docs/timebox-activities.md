@@ -3,7 +3,7 @@ title: "Timeboxer les activités"
 ---
 
 
-**Définissez une contrainte de temps pour rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.**
+<strong>Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.</strong>
 
 _Une **timebox (bloc de temps)** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite)._
 
@@ -24,5 +24,15 @@ Vous pouvez utiliser les timeboxes (blocs de temps) pour :
 - les pauses
 - une période de travail plus longue (un sprint)
 
-[&#9654; Aligner les flux](align-flow.html)<br/>[&#9664; Limiter le travail en cours](limit-work-in-progress.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+<div class="bottom-nav">
+<a href="limit-work-in-progress.html" title="Back to: Limiter le travail en cours">◀</a> <a href="organizing-work.html" title="Up: Organiser le travail">▲</a> <a href="align-flow.html" title="">▶ Read next: Aligner les flux</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'align-flow.html';
+    return false;
+});
+</script>
 

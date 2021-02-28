@@ -1,6 +1,8 @@
 ## Backlog (panier)
 
+<summary>
 {{define:backlog}}
+</summary>
 
 Pensez à rendre les backlogs (paniers) visibles, pas seulement aux membres de l'équipe, mais aussi à toute l'organisation.
 
