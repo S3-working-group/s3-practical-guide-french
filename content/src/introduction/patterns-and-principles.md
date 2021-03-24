@@ -1,1 +1,0 @@
-## Les Pratiques et les Sept Principes
