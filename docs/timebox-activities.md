@@ -24,5 +24,15 @@ Vous pouvez utiliser les timeboxes (blocs de temps) pour :
 - les pauses
 - une période de travail plus longue (un sprint)
 
-[&#9654; Aligner les flux](align-flow.html)<br/>[&#9664; Limiter le travail en cours](limit-work-in-progress.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+<div class="bottom-nav">
+<a href="limit-work-in-progress.html" title="Retour à : Limiter le travail en cours">◀</a> <a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="align-flow.html" title="Lire la suite : Aligner les flux">▶ Lire la suite : Aligner les flux</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'align-flow.html';
+    return false;
+});
+</script>
 

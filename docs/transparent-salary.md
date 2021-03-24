@@ -17,9 +17,19 @@ Lorsque vous décidez (ou vous accordez sur) d'une formule salariale pour une or
 - comment calculer la rémunération selon le besoin, l'investissement, la productivité ou le mérite
 - comment distribuer les profits de l'organisation et couvrir les pertes en fonction des attentes et des besoins des diverses partie-prenantes
 
-Décidez comment gérer la rémunération pour les changements de rôles et [développez une stratégie](develop-strategy.html) pour la transition vers de nouveaux contrats et accords de rémunération.
+Décidez comment gérer la rémunération pour les changements de rôles et [développez une stratégie](clarify-and-develop-strategy.html) pour la transition vers de nouveaux contrats et accords de rémunération.
 
 ![Deux façons d'ouvrir les salaires](img/process/opening-salaries.png)
 
-[&#9654; Rôle de soutien](support-role.html)<br/>[&#9664; Contrat de collaboration réussie](contract-for-successful-collaboration.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
+<div class="bottom-nav">
+<a href="contract-for-successful-collaboration.html" title="Retour à : Contrat de collaboration réussie">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="support-role.html" title="Lire la suite : Rôle de soutien">▶ Lire la suite : Rôle de soutien</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'support-role.html';
+    return false;
+});
+</script>
 

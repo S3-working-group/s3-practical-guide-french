@@ -1,5 +1,5 @@
 ---
-title: "Evaluer les réunions"
+title: "Évaluer les réunions"
 ---
 
 
@@ -17,7 +17,7 @@ Quelques formats courts que vous pouvez utiliser :
 
 ![Évaluer les réunions juste avant de clore la réunion](img/meetings/evaluate-interactions.png)
 
-### Evaluer les réunions : format long
+## Évaluer les réunions : format long
 
 Faites un [tour de table](round.html) pour réfléchir à n'importe lequel des sujets suivants dans un bref échange, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
 
@@ -28,5 +28,15 @@ Faites un [tour de table](round.html) pour réfléchir à n'importe lequel des s
 - axes et suggestions d'amélioration (j'aimerais...)
 - idées folles et suggestions radicales (et si...)
 
-[&#9654; Hôte de réunion](meeting-host.html)<br/>[&#9664; Tour d'accueil](check-in.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
+<div class="bottom-nav">
+<a href="check-in.html" title="Retour à : Tour d&#x27;accueil">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="meeting-host.html" title="Lire la suite : Hôte de réunion">▶ Lire la suite : Hôte de réunion</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'meeting-host.html';
+    return false;
+});
+</script>
 

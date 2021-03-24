@@ -5,7 +5,7 @@ title: "Adopter les sept principes"
 
 <strong>Respectez les Sept Principes dans vos collaborations.</strong>
 
-L'adoption des sept principes réduit le nombre d'ententes explicites requises et guide l'adaptation des pratiques S3 au contexte particulier de l'organisation.
+L'adoption des sept principes réduit le nombre d'accords explicites requis et guide l'adaptation des pratiques S3 au contexte particulier de l'organisation.
 
 Les valeurs d'une organisation doivent supporter les sept principes.
 
@@ -13,5 +13,15 @@ Les valeurs d'une organisation doivent supporter les sept principes.
 
 ![Les valeurs d'une organisation doivent supporter les sept principes](img/collaboration-values/values-7principles.png)
 
-[&#9654; S'entendre sur les valeurs](agree-on-values.html)<br/>[&#9664; Participation élégante](artful-participation.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
+<div class="bottom-nav">
+<a href="artful-participation.html" title="Retour à : Participation active">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="agree-on-values.html" title="Lire la suite : S&#x27;entendre sur les valeurs">▶ Lire la suite : S&#x27;entendre sur les valeurs</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'agree-on-values.html';
+    return false;
+});
+</script>
 

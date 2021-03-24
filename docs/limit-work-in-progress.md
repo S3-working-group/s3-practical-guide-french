@@ -7,11 +7,21 @@ title: "Limiter le travail en cours"
 
 Le travail en cours inclut :
 
-- le nombre d'éléments dans un <dfn data-info="Backlog (panier): Une liste (souvent priorisée)  d&apos;éléments de travail à faire (livrables) ou d&apos;intention en attente de traitement.">backlog (panier)</dfn>
+- le nombre d'éléments dans un <dfn data-info="Backlog: Une liste (souvent priorisée)  d&#x27;éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlog</dfn>
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 
 Lorsqu'une nouvelle action ferait dépasser la limite du nombre d'éléments en cours de travail cela doit être porté à l'attention de l'équipe avant de continuer.
 
-[&#9654; Timeboxer les activités](timebox-activities.html)<br/>[&#9664; Travail en flux tiré](pull-system-for-work.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+<div class="bottom-nav">
+<a href="pull-system-for-work.html" title="Retour à : Travailler en flux tirés">◀</a> <a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="timebox-activities.html" title="Lire la suite : Timeboxer les activités">▶ Lire la suite : Timeboxer les activités</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'timebox-activities.html';
+    return false;
+});
+</script>
 

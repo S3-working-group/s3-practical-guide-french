@@ -12,3 +12,16 @@ Divers autres formats et langues du guide pratique peuvent être trouvés à <ht
 **Site principal S3:** <http://sociocracy30.org>
 
 **Suivez-nous sur twitter:** *@sociocracy30*
+
+<div class="bottom-nav">
+<a href="pattern-index.html" title="Retour à : Liste alphabétique de toutes les pratiques">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="license.html" title="Lire la suite : Licence">▶ Lire la suite : Licence</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'license.html';
+    return false;
+});
+</script>
+

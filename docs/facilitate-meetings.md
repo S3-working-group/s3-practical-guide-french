@@ -13,7 +13,17 @@ Avant chaque réunion, préparez un ordre du jour de sujets et sélectionnez un 
 
 Pensez à choisir un facilitateur pour une période spécifique. Même un facilitateur inexpérimenté peut avoir un impact positif.
 
-**Voir aussi:** [Préparer les réunions](prepare-for-meetings.html), [Sélection des rôles](role-selection.html)
+**Voir aussi:** [Préparer les réunions](prepare-for-meetings.html), [Sélectionner les porteurs de rôles](role-selection.html)
 
-[&#9654; Préparer les réunions](prepare-for-meetings.html)<br/>[&#9664; Tours de table](rounds.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
+<div class="bottom-nav">
+<a href="rounds.html" title="Retour à : Tours de table">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="prepare-for-meetings.html" title="Lire la suite : Préparer les réunions">▶ Lire la suite : Préparer les réunions</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'prepare-for-meetings.html';
+    return false;
+});
+</script>
 

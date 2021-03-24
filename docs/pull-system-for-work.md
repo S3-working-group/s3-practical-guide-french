@@ -1,5 +1,5 @@
 ---
-title: "Travail en flux tiré"
+title: "Travailler en flux tirés"
 ---
 
 
@@ -9,5 +9,15 @@ Priorisez les éléments de travail pour assurer que les éléments importants s
 
 Tirer le travail évite de surcharger le système, en particulier lorsque le [travail en cours (WIP) par personne ou par équipe est limité](limit-work-in-progress.html).
 
-[&#9654; Limiter le travail en cours](limit-work-in-progress.html)<br/>[&#9664; Visualiser le travail](visualize-work.html)<br/>[&#9650; Organiser le travail](organizing-work.html)
+<div class="bottom-nav">
+<a href="visualize-work.html" title="Retour à : Visualiser le travail">◀</a> <a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="limit-work-in-progress.html" title="Lire la suite : Limiter le travail en cours">▶ Lire la suite : Limiter le travail en cours</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'limit-work-in-progress.html';
+    return false;
+});
+</script>
 

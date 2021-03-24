@@ -7,7 +7,7 @@ title: "Hôte de réunion"
 
 Une personne peut prendre le rôle d'hôte de réunion pour un événement particulier ou pour plusieurs événements sur une période de temps.
 
-### Responsabilités d'un hôte de réunion
+## Responsabilités d'un hôte de réunion
 
 Préparation :
 
@@ -23,5 +23,15 @@ Préparation :
 
 **Voir aussi : ** [Faciliter les réunions](facilitate-meetings.html), [Préparer les réunions](prepare-for-meetings.html)
 
-[&#9654; Backlog (panier) de gouvernance](governance-backlog.html)<br/>[&#9664; Evaluer les réunions](evaluate-meetings.html)<br/>[&#9650; Pratiques de réunion](meeting-practices.html)
+<div class="bottom-nav">
+<a href="evaluate-meetings.html" title="Retour à : Évaluer les réunions">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="governance-backlog.html" title="Lire la suite : Backlog de gouvernance">▶ Lire la suite : Backlog de gouvernance</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'governance-backlog.html';
+    return false;
+});
+</script>
 
