@@ -18,10 +18,23 @@ Pour afficher le texte complet de cette licence, visitez <https://creativecommon
 
 Vous trouverez davantage d'informations au sujet de la culture libre sur le site [Creative Commons](https://creativecommons.org/freeworks).
 
-### Attribution des travaux dérivés
+## Attribution des travaux dérivés
 
 Si vous créez un travail dérivé, vous devez donner le crédit adéquat et indiquer quelles modifications vous avez apportées. Une bonne attribution contient le titre, l'auteur, la source et la licence, comme ceci :
 
-> Ce travail, "[nom de votre travail]", est dérivé de "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" de James Priest, Bernhard Bockelbrink et Liliana David utilisés sous CC BY SA. "[nom de votre travail]" est sous licence CC BY SA par [votre nom].
+> Ce document, "[nom de votre travail]", est dérivé de "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" par James Priest, Bernhard Bockelbrink et Liliana David publié sous CC BY SA. "[nom de votre travail]" est sous licence CC BY SA par [votre nom].
 
 Vous pouvez en savoir plus sur l'attribution sur la [page Creative Commons des meilleures pratiques pour l'attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
+
+<div class="bottom-nav">
+<a href="links.html" title="Retour à : Liens">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="disclaimer.html" title="Lire la suite : Avertissement">▶ Lire la suite : Avertissement</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'disclaimer.html';
+    return false;
+});
+</script>
+

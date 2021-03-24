@@ -1,28 +1,38 @@
 ---
-title: "Facilitateur de gouvernance"
+title: "Facilitateur de la gouvernance"
 ---
 
 
 <strong>Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.</strong>
 
-Un facilitateur de <dfn data-info="Gouvernance: L&apos;acte de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les accomplir.">gouvernance</dfn> :
+Un facilitateur de <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn> :
 
 - s'assure que les [réunions de gouvernance](governance-meeting.html) restent sur la bonne voie et sont évaluées
-- est (habituellement) sélectionné par une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers une intention commune (ou un objectif). Généralement, une équipe fait partie d&apos;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> parmi ses membres (et pour une durée spécifique)
-- se familiarise avec le [backlog (panier) de gouvernance](governance-backlog.html)
+- est (habituellement) sélectionné par une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> parmi ses membres (et pour une durée spécifique)
+- se familiarise avec le [backlog de gouvernance](governance-backlog.html)
 - invite souvent d'autres à faciliter certains points de l'ordre du jour
 
 En tant que facilitateur de gouvernance, envisagez d'apprendre et d'utiliser les pratiques S3 suivantes pour gérer efficacement la gouvernance :
 
 - [Tours de table](rounds.html)
-- [Elaborer une proposition](proposal-forming.html)
-- [Décision par consentement](consent-decision-making.html)
-- [Sélections des rôles](role-selection.html)
-- [Evaluer les réunions](evaluate-meetings.html)
+- [Élaborer une proposition](proposal-forming.html)
+- [Décider par consentement](consent-decision-making.html)
+- [Sélectionner les porteurs de rôles](role-selection.html)
+- [Évaluer les réunions](evaluate-meetings.html)
 - [Intégrer les objections](resolve-objections.html)
-- [Evaluation entre pairs](peer-review.html)
+- [Évaluation entre pairs](peer-review.html)
 
 ![Le facilitateur de gouvernance est typiquement membre de l'équipe](img/circle/facilitator.png)
 
-[&#9654; Enfreindre les ententes](breaking-agreements.html)<br/>[&#9664; S'entendre sur les valeurs](agree-on-values.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
+<div class="bottom-nav">
+<a href="agree-on-values.html" title="Retour à : S&#x27;entendre sur les valeurs">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="breaking-agreements.html" title="Lire la suite : Enfreindre les accords">▶ Lire la suite : Enfreindre les accords</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'breaking-agreements.html';
+    return false;
+});
+</script>
 

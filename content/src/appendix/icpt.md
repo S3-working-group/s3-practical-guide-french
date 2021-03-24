@@ -1,4 +1,4 @@
-## L'engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)
+# L'engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)
 
 Cet engagement support :
 
@@ -10,7 +10,7 @@ Si vous suivez l'engagement volontaire, vous pouvez ajouter nos bannières à vo
 
 Vous pouvez en savoir plus sur l'ICPT à l’adresse <https://sociocracy30.org/s3-intentional-commitment/>
 
-### Texte complet de l'ICPT
+## Texte complet de l'ICPT
 
 **Engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0**
 

@@ -13,13 +13,13 @@ En négociant et en acceptant un contrat, modélisez la culture de la collaborat
 
 Cette pratique se réfère aux contrats relatifs à la collaboration autour de toute transaction commerciale entre une organisation et d'autres parties (par exemple les employés, les consultants, les fournisseurs de services, les actionnaires ou les clients). Elle est particulièrement pertinente pour les contrats qui ont une influence significative sur l'avenir d'une organisation ou d'un de ses partenaires, comme :
 
-- les contrats de salarié et les contrats avec des entrepreneurs ou des consultants externes dans des [rôles de soutien](support-role.html) (y compris toute entente qui entraîne un changement de rémunération ou d'heures de travail)
+- les contrats de salarié et les contrats avec des entrepreneurs ou des consultants externes dans des [rôles de soutien](support-role.html) (y compris tout accord qui entraîne un changement de rémunération ou d'heures de travail)
 - les contrats régissant la collaboration avec les clients, les fournisseurs ou les fournisseurs de services
 - les accords d'actionnariat
 
-**Note:** De nombreuses ententes de collaboration au sein d'une organisation ne nécessitent pas de contrats dédiés, car elles sont déjà régies par ou soumises à des contrats existants.
+**Note:** De nombreux accords de collaboration au sein d'une organisation ne nécessitent pas de contrats dédiés, car ils sont déjà régis par ou soumis à des contrats existants.
 
-### Critères de succès pour une négociation de contrat
+## Critères de succès pour une négociation de contrat
 
 Lors de la négociation d'un contrat, assurez-vous:
 
@@ -32,18 +32,18 @@ Lors de la négociation d'un contrat, assurez-vous:
 
 Si, pour quelque raison que ce soit, un ou plusieurs de ces critères ne peuvent être remplis, il est probablement sage de ne pas poursuivre.
 
-### Co-création du contrat
+## Co-création du contrat
 
-La façon dont un contrat est négocié peut contribuer de manière significative à bâtir la confiance entre les parties. Envisagez la contractualisation comme une entente entre partenaires, et non entre adversaires: co-créez le contrat, adaptez-le à son contexte spécifique, et assurez-vous qu'il soit juridiquement solide.
+La façon dont un contrat est négocié peut contribuer de manière significative à bâtir la confiance entre les parties. Envisagez la contractualisation comme un accord entre partenaires, et non entre adversaires: co-créez le contrat, adaptez-le à son contexte spécifique, et assurez-vous qu'il soit juridiquement solide.
 
 - le contrat doit inclure toutes les attentes des parties concernées, chacune expliquée avec le détail adéquat
 - utilisez un vocabulaire clair et simple que toutes les parties peuvent comprendre et soyez sans ambiguïté quant aux conséquences juridiques
 - si vous devez utiliser des termes techniques ou juridiques spécifiques qui pourraient être peu familiers à l'une des parties, expliquez-les dans un glossaire qui fait partie du contrat
 - consultez un avocat qui soutient la culture à laquelle vous aspirez et est compétent dans le domaine où vous négociez
 
-### Lors de la Co-création d'un contrat :
+## Lors de la Co-création d'un contrat :
 
-- assurez-vous que toutes les parties ont une délégation qui inclut la représentation pour tous les <dfn data-info="Domaine: Une zone d&apos;influence, d’activité et de prise de décisions distincte au sein d&apos;une organisation.">domaines</dfn> concernés (ex: pas seulement les ventes, mais aussi le développement / la production / le support, etc)
+- assurez-vous que toutes les parties ont une délégation qui inclut la représentation pour tous les <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> concernés (ex: pas seulement les ventes, mais aussi le développement / la production / le support, etc)
 - décrivez explicitement la culture que vous voulez développer, en tenant compte des points communs comme des différences culturelles entre les parties
 - indiquez les raisons de la collaboration proposée, et soyez transparent sur les attentes et les besoins de toutes les parties
 - divulguez toutes les informations pertinentes (si nécessaire via un accord de confidentialité)
@@ -52,7 +52,7 @@ La façon dont un contrat est négocié peut contribuer de manière significativ
 - négociez en plusieurs itérations, pour laisser le temps d'examiner les implications et de proposer des amendements
 - gardez les procès-verbaux de chaque réunion pour réduire le risque de méprises
 
-### Soutenez le cycle de vie complet de la collaboration :
+## Soutenez le cycle de vie complet de la collaboration :
 
 Tout contrat peut être modifié à tout moment, à condition que tous les signataires soient d'accord. Cependant, cela réduit considérablement le potentiel de conflit plus tard si vous considérez le cycle de vie complet de la collaboration dans le contrat :
 
@@ -63,15 +63,25 @@ Tout contrat peut être modifié à tout moment, à condition que tous les signa
 - envisagez de mettre à disposition des moyens alternatifs pour résoudre les différends, par exemple la médiation, la conciliation ou l'arbitrage
 - envisagez de limiter le contrat à une durée fixe après laquelle le contrat expire et peut être renouvelé si nécessaire
 
-### Culture 
+## Culture 
 
 Chaque contrat influence la culture de la collaboration qu'il régit, même lorsqu'il semble seulement décrire *ce* qui doit être livré :
 
-- créez volontairement la culture de la collaboration que vous voulez voir en incluant les attentes sur *comment* les choses doivent être faites 
+- créez volontairement la culture de la collaboration que vous voulez voir en incluant les attentes sur *comment* les choses doivent être faites
 - alignez le contrat sur la culture organisationnelle (de toutes les parties) et aux exigences légales
 - construisez des contrats qui permettent et encouragent la redevabilité
 
 Si vous trouvez que les contrats standard dans votre secteur ne sont pas en harmonie avec la culture que vous voulez créer, construisez votre propre référentiel de modèles de contrats et clauses et envisagez de le partager avec d'autres, afin que vous puissiez bénéficier de l'expérience passée lors de la création de nouveaux contrats.
 
-[&#9654; Transparence salariale](transparent-salary.html)<br/>[&#9664; Enfreindre les ententes](breaking-agreements.html)<br/>[&#9650; Catalyser la collaboration](enablers-of-collaboration.html)
+<div class="bottom-nav">
+<a href="breaking-agreements.html" title="Retour à : Enfreindre les accords">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="transparent-salary.html" title="Lire la suite : Transparence salariale">▶ Lire la suite : Transparence salariale</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'transparent-salary.html';
+    return false;
+});
+</script>
 

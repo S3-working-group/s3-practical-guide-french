@@ -3,7 +3,7 @@ title: "Organisation de service"
 ---
 
 
-<strong>Collaboration impliquant de multiples parties prenantes, s'alignant vers une intention commune (ou un objectif).</strong> 
+<strong>Collaboration impliquant de multiples parties prenantes, s'alignant vers un driver commun (ou un objectif).</strong>
 
 - améliore le potentiel d'équivalence entre diverses entités
 - augmente l'alignement inter-départemental / organisationnel
@@ -14,5 +14,15 @@ title: "Organisation de service"
 
 ![Organisation de service](img/structural-patterns/service-organization-text.png)
 
-[&#9654; Organisation fractale](fractal-organization.html)<br/>[&#9664; Hiérarchie à double lien](double-linked-hierarchy.html)<br/>[&#9650; Structure organisationnelle](organizational-structure.html)
+<div class="bottom-nav">
+<a href="double-linked-hierarchy.html" title="Retour à : Hiérarchie à double lien">◀</a> <a href="organizational-structure.html" title="Remonter: Structurer l&#x27;organisation">▲</a> <a href="fractal-organization.html" title="Lire la suite : Organisation fractale">▶ Lire la suite : Organisation fractale</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'fractal-organization.html';
+    return false;
+});
+</script>
 

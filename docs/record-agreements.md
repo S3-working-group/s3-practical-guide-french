@@ -1,48 +1,57 @@
 ---
-title: "Consigner les Ententes"
+title: "Consigner les accords"
 ---
 
 
-Consignez les détails des ententes que vous concluez, de sorte que vous puissiez vous en souvenir plus tard, évaluer les résultats obtenus et les faire évoluer ces ententes dans le temps.
+Consignez les détails des accords que vous concluez, de sorte que vous puissiez vous en souvenir plus tard, évaluer les résultats obtenus et les faire évoluer ces accords dans le temps.
 
-_Une **entente** est une ligne directrice, un processus, un protocole ou une politique établis de le but de guider le flux de valeur._
+_Un **accord** est une ligne directrice, un processus, un protocole ou une politique établis de le but de guider le flux de valeur._
 
-**Remarque:** En S3, les consignes, les processus ou les protocoles créés par des individus dans leurs rôles sont également traités comme des ententes.
+**Remarque:** En S3, les consignes, les processus ou les protocoles créés par des individus dans leurs rôles sont également traités comme des accords.
 
-Tenez à jour les enregistrements des ententes, par exemple dans un <dfn data-info="Registre: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.">registre</dfn>.
+Tenez à jour les enregistrements des accords, par exemple dans un <dfn data-info="Registre: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.">registre</dfn>.
 
 
-### Que consigner ?
+## Que consigner ?
 
-Consignez les ententes avec des détails suffisants pour pouvoir retrouver les informations importantes plus tard.
+Consignez les accords avec des détails suffisants pour pouvoir retrouver les informations importantes plus tard.
 
-Inclure au moins un résumé de l'intention, une description de ce qui a été convenu, qui est responsable de quoi, des critères d'évaluation et une date de révision.
+Inclure au moins un résumé du driver, une description de ce qui a été convenu, de qui est responsable de quoi, des critères d'évaluation et une date de révision.
 
-En fonction de la portée et de l'importance de l'entente, envisagez d'inclure les éléments suivants :
+En fonction de la portée et de l'importance de l'accord, envisagez d'inclure les éléments suivants :
 
--   Un titre pour l'entente
--   [La description de l'intention.](describe-organizational-drivers.html)
+-   Un titre pour l'accord
+-   [La description du driver.](describe-organizational-drivers.html)
 -   Date de création (et/ou version)
 -   Date d'expiration ou d'échéance (si pertinent)
 -   Date de révision (ou fréquence)
 -   Qui est responsable de quoi ?
--   Une description de l'entente, comprenant :
-    - Toutes les exigences et attentes pertinentes
-    - Actions unitaires
-    - Ressources
-    - Contraintes
-    - [Résultats attendus](clarify-intended-outcome.html)
-    - [Livrables](describe-deliverables.html)
-    - Raison
--   [Critères d'évaluation](evaluation-criteria.html) (et potentiellement <dfn data-info="Préoccupation: Une supposition que faire quelque chose (même en l&apos;absence d&apos;objections) pourrait faire obstacle à une façon (plus) efficace de répondre à une intention organisationnelle.">préoccupations</dfn>)
+-   Une description de l'accord, comprenant :
+    -   Toutes les exigences et attentes pertinentes
+    -   Actions unitaires
+    -   Ressources
+    -   Contraintes
+    -   [Résultats attendus](clarify-intended-outcome.html)
+    -   [Livrables](describe-deliverables.html)
+    -   Raison
+-   [Critères d'évaluation](evaluation-criteria.html) (et potentiellement <dfn data-info="Préoccupation: Une supposition que faire quelque chose (même en l&#x27;absence d&#x27;objections) pourrait faire obstacle à une façon (plus) efficace de répondre à un driver organisationnel.">préoccupations</dfn>)
 -   Annexe (si utile)
-    - Informations contextuelles
-    - Versions précédentes des ententes
-    - Références
+    -   Informations contextuelles
+    -   Versions précédentes des accords
+    -   Références
 
-![Modèle pour les ententes](img/templates/agreement-template.png)
+![Modèle pour les accords](img/templates/agreement-template.png)
 
 
+<div class="bottom-nav">
+<a href="defining-agreements.html" title="Remonter: Élaborer des accords">▲</a> <a href="clarify-and-develop-strategy.html" title="Lire la suite : Clarifier et développer la stratégie">▶ Lire la suite : Clarifier et développer la stratégie</a>
+</div>
 
-[&#9654; Développer la stratégie](develop-strategy.html)<br/>[&#9650; Elaborer des ententes](defining-agreements.html)
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'clarify-and-develop-strategy.html';
+    return false;
+});
+</script>
 

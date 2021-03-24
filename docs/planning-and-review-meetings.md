@@ -11,5 +11,15 @@ title: "Réunions de planification et d'évaluation"
 
 ![Réunions de planification et d'évaluation](img/meetings/planning-review.png)
 
-[&#9654; Réunion de coordination](coordination-meeting.html)<br/>[&#9664; Point quotidien](daily-standup.html)<br/>[&#9650; Interactions ciblées](focused-interactions.html)
+<div class="bottom-nav">
+<a href="daily-standup.html" title="Retour à : Point quotidien">◀</a> <a href="focused-interactions.html" title="Remonter: Cibler les interactions">▲</a> <a href="coordination-meeting.html" title="Lire la suite : Réunion de coordination">▶ Lire la suite : Réunion de coordination</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'coordination-meeting.html';
+    return false;
+});
+</script>
 

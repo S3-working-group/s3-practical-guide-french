@@ -7,5 +7,15 @@ title: "Incarner le changement"
 
 Comportez-vous et agissez de la façon dont vous voudriez que les autres le fassent.
 
-[&#9654; Inviter aux changements](invite-change.html)<br/>[&#9664; Changements organisationnels par flux tirés](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; Intégrer la S3](bringing-in-s3.html)
+<div class="bottom-nav">
+<a href="create-a-pull-system-for-organizational-change.html" title="Retour à : Changements organisationnels par flux tirés">◀</a> <a href="bringing-in-s3.html" title="Remonter: Intégrer la S3">▲</a> <a href="invite-change.html" title="Lire la suite : Inviter aux changements">▶ Lire la suite : Inviter aux changements</a>
+</div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'invite-change.html';
+    return false;
+});
+</script>
 
