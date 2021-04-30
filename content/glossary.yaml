@@ -13,7 +13,7 @@ terms:
   accountability:
     name: Redevabilité (principe)
     definition:
-    glossary: Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .
+    glossary: "*Réagissez lorsque quelque chose est nécessaire, faites ce que vous avez accepté de faire et prenez votre part de responsabilité dans  l'organisation,* pour que ce qui doit être fait le soit, que rien ne soit négligé et que tout le monde fasse ce qu'il peut pour contribuer à l'efficacité et à l'intégrité de l'organisation."
   account:
     name: Etre redevable de (v.)
     glossary: prendre la responsabilité de quelque chose.
@@ -49,7 +49,7 @@ terms:
   consent:
     name: Consentement (principe)
     definition:
-    glossary: Soulever, chercher et résoudre les objections aux décisions et aux actions.
+    glossary: "*Signalez, rechercher et résoudre les objections aux décisions et aux actions,* afin de réduire le risque de conséquences indésirables et de découvrir des améliorations utiles."
   constituent:
     name: Constituant
     definition:
@@ -57,7 +57,7 @@ terms:
   continuous-improvement:
     name: Amélioration continue (principe)
     definition:
-    glossary: Évoluer par incréments pour prendre en compte un apprentissage empirique constant.
+    glossary: "*Examinez régulièrement le résultat de ce que vous faites, puis apportez des améliorations progressives à ce que vous faites et à comment vous le faites, en fonction de ce que vous apprendrez,* afin de vous adapter aux changements quand c'est nécessaire, et de maintenir ou d'améliorer votre efficacité au fil du temps."
   coordination:
     name: Coordination
     definition:
@@ -86,16 +86,16 @@ terms:
     glossary: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.
   effectiveness:
     name: Efficacité (principe)
-    definition: Allouer du temps seulement à ce qui vous rapproche de vos objectifs.
-    glossary: Allouer du temps seulement à ce qui vous rapproche de vos objectifs.
+    definition:
+    glossary: "*Ne consacrer du temps qu'à ce qui vous rapproche de la réalisation des objectifs généraux de votre organisation,* afin de faire le meilleur usage de votre précieux temps, de votre énergie et de vos ressources."
   empiricism:
     name: Empirisme (principe)
     definition:
-    glossary: Tester toutes les hypothèses sur lesquelles vous vous appuyez, par l'expérimentation et l'amélioration en continu.
+    glossary: "*Testez toutes les suppositions sur lesquelles vous vous appuyez, à travers des expériences et une évaluation continue,* afin d'apprendre rapidement, comprendre et appréhender la complexité aussi efficacement que possible."
   equivalence:
     name: Equivalence (principe)
     definition:
-    glossary: Impliquer les personnes impactées dans les prises et évolutions des  décisions.
+    glossary: "*Impliquer les personnes dans la prise et l'évolution des décisions qui les affectent,* afin d'augmenter l'engagement et la redevabilité, et d'utiliser l'intelligence distribuée pour atteindre et faire évoluer vos objectifs."
   evolve:
     name: Evoluer (v.)
     glossary: développer graduellement.
@@ -242,7 +242,7 @@ terms:
   transparency:
     name: Transparence (principe)
     definition:
-    glossary: Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il y ait un motif de confidentialité.
+    glossary: "*Enregistrez toutes les informations qui sont précieuses pour l'organisation rendez-les accessibles à tous les membres de l'organisation, à moins qu'il n'y ait une raison de confidentialité,* afin que chacun ait les informations dont il a besoin pour comprendre comment faire son travail d'une manière qui contribue le plus efficacement à l'ensemble."
   value:
     name: Valeur
     definition: "La **valeur** est l'importance ou l'utilité de quelque chose lié à un driver."

@@ -1,5 +1,14 @@
 # Historique des modifications
 
+## Changements du 15-03-2021
+
+- Mise à jour des Sept Principes
+
+## Changements du 19-02-2021
+
+- Correction de plusieurs liens cassés dans la version en ligne
+- correction de quelques fautes de frappe
+
 ## Changements du 11-02-2021
 
 - [Cartographier les drivers](section:driver-mapping): ajout d'explications sur les applications de la pratique et instructions détaillées pour chaque étape du format
@@ -12,7 +21,7 @@
 
 ## Changements du 03-02-2021
 
-- Ajout du **[Framework du Sens Commun](section:csf)** au Guide Pratique
+- Ajout du **[Common Sense Framework](section:csf)** au Guide Pratique
 - Une nouvelle structure du Guide Pratique pour retrouver plus facilement les parties pertinentes. 
     - [Qu'est-ce que la Sociocratie 3.0 ?](section:what-is-s3)
     - [Les sept principes](section:principles)
@@ -53,9 +62,9 @@
 ## Changements du 29-04-2020
 
 - Introduction : Ajout de *Objection* et *Accord* aux concepts
-- pratique *Objection* renommée en [Tester des Arguments Qualifiés d'Objections](section:arguments-qualify-as-objections)
+- pratique *Objection* renommée en [Tester les objections potentielles](section:test-arguments-qualify-as-objections)
 - pratique *Accord* renommée en [Consigner les Accords](section:record-agreements)
-- [Tester des Arguments Qualifiés d'Objections](section:arguments-qualify-as-objections) : texte révisé et illustration mise à jour
+- [Tester des Arguments Qualifiés d'Objections](section:test-arguments-qualify-as-objections) : texte révisé et illustration mise à jour
 - [Consigner les accords](section:record-agreements) : texte révisé, ajout de plus de détails sur les accords qui pourraient être enregistrés, mise à jour de l'illustration
 
 ## Changements du 22-12-2019
@@ -130,13 +139,13 @@
 
 **Glossaire :**
 
-- **mis à jour:** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, driver primaire, principe, rôle, auto-organisation, semi-autonomie, sous-driver, valeurs
+- **mis à jour:** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, intention primaire, principe, rôle, auto-organisation, semi-autonomie, sous-intention, valeurs
 - **ajoutés:** constituant, coordination, délégation, déclaration d'intention, évoluer (v.), flux de valeur, équipe d'aide, domaine ouvert
-- **supprimé :** driver de pair
+- **supprimé :** intention de pair
 
 **Modifications de l'introduction**
 
-- ajout du driver pour créer Sociocratie 3.0
+- ajout de l'intention pour créer Sociocratie 3.0
 - Les sept principes: 
     - *Le Principe d'Empirisme*: référence supprimée à la "falsification"
     - *Le principe de consentement* est maintenant expliqué plus clairement comme "soulever, chercher et résoudre les objections aux décisions et aux actions"
@@ -146,7 +155,7 @@
 **Modifications des pratiques :**
 
 - [S'entendre sur les valeurs](section:agree-on-values): description améliorée
-- [Aligner les flux](section:align-flow): description et illustration améliorées
+- [Fluidifier le travail](section:align-flow): description et illustration améliorées
 - [Adapter les pratiques](section:adapt-patterns-to-context): description améliorée
 - [Accord ](section:record-agreements) : description améliorée, modèle mis à jour
 - [Participation élégante](section:artful-participation): Résumé amélioré
@@ -158,7 +167,7 @@
 - [Cercle délégué](section:delegate-circle): description améliorée
 - [Déléguer l'Influence](section:delegate-influence): description améliorée
 - [Décrire les livrables](section:describe-deliverables): description améliorée
-- [Décrire les drivers organisationnels](section:describe-organizational-drivers): rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux drivers organisationnels * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les drivers organisationnels
+- [Décrire les intentions organisationnelles](section:describe-organizational-drivers): rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux intentions organisationnelles * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les intentions organisationnelles
 - [Double lien](section:double-linking): description alignée à *Lien*
 - [Hiérarchie à double-lien](section:double-linked-hierarchy): explication détaillée de ce qu'est une hiérarchie à double lien, et comment elle est créée
 - [Evaluer et accepter les ententes](section:evaluate-and-evolve-agreements): réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
@@ -179,7 +188,7 @@
 - [Élaborer une proposition](section:proposal-forming): texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
 - [Représentant](section:representative): description améliorée
 - [Intégrer les objections](section:resolve-objections): mise à jour des deux illustrations
-- [Répondre aux drivers organisationnels](section:respond-to-organizational-drivers): description améliorée, qualification simplifiée des drivers organisationnels
+- [Répondre aux intentions organisationnelles](section:respond-to-organizational-drivers): description améliorée, qualification simplifiée des intentions organisationnelles
 - [Rôle](section:role): description améliorée
 - [Sélection des rôle](section:role-selection): description améliorée, ajout de la description de chaque étape
 - [Rounds](section:rounds): description améliorée
@@ -195,19 +204,19 @@
 **Pratiques ajoutées :**
 
 - [Tour d'accueil](section:check-in)
-- [Co-créer des propositions](section:co-create-proposals)
+- [Cocréer des propositions](section:co-create-proposals)
 - [Préparer les réunions](section:prepare-for-meetings)
 - [Timeboxer les activités](section:timebox-activities)
 
 ## Changements du 21-03-2018
 
-- renommage de *Décrire les drivers* en *Décrire les drivers organisationnels*
-- [Décrire les drivers organisationnels](section:describe-organizational-drivers): explication des quatre aspects d'une intention : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
+- renommage de *Descendre les intentions* en *Décrire les intentions organisationnelles*
+- [Décrire les intentions organisationnelles](section:describe-organizational-drivers): explication des quatre aspects d'une intention : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
 - ajout de *besoin* au glossaire
 
 ## Changements du 16-11-2017
 
-- légères corrections
+- petites corrections
 - les entrées du glossaire pour *Cercle* et *Rôle* ont été alignées sur le texte des pratiques
 - *Plan de développement* : clarification des responsabilités
 - *Rôle* : l’évolution de la stratégie a été clarifiée
@@ -236,7 +245,7 @@
 
 - ajouté "en quoi cela peut m'aider?"
 - ajout de définitions pour la gouvernance, l’auto-organisation, semi-autonomie, opérations d’introduction
-- clarification des domaines et relation aux drivers
+- clarification des domaines et relation aux moteurs
 - concepts fondamentaux développés
 - tous les principes sont maintenant actionnables
 
@@ -246,7 +255,7 @@
 - *Entente*: clarification que le concept d'entente est applicable aux détenteurs de rôles
 - *Clarifier les domaines*: description améliorée
 - *Cercle*: mise à jour de la définition de "cercle", description améliorée
-- *Driver*: mise à jour de la définition de "driver"
+- *Intention*: mise à jour de la définition de "intention"
 - *Plan de développement*: description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec double-lien*: nouvelle illustration
@@ -255,7 +264,7 @@
 - *Carnet* : ajout de détails sur la gouvernance au carnet personnel
 - *Objections* : clarification de la qualification des objections
 - *Evaluation entre pairs*: description améliorée
-- *Répondre aux drivers* : intégration d'informations sur la qualification des moteurs
+- *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
 - *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
 - *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Résoudre les objections* : illustration mise à jour pour mieux refléter le processus
@@ -279,4 +288,4 @@
     
     - *Cercle de coordination*
     - *Domaines imbriqués*
-    - *Qualifier un driver*
+    - *Qualification des moteurs*

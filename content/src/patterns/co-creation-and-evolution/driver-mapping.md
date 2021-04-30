@@ -18,7 +18,7 @@ Vous pouvez cartographier les drivers pour :
 
 Le résultat d'un atelier de cartographie des drivers est typiquement :
 
-- une répartition du travail, catégorisée dans plusieurs domaines, centrée sur les besoins des parties prenantes. 
+- une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes. 
 - une structure organisationnelle sur mesure qui rassemble tous le monde, y compris les domaines interconnectés pour gérer les dépendances.
 - une première ébauche de backlogs de gouvernance et d'opérations pour chaque sous-domaine identifié.
 - la délégation d'influence et l’affectation des personnes aux sous-domaines par l'auto-sélection et nomination.
@@ -30,7 +30,7 @@ Dans une petite équipe ou un cercle (max. 6-8 personnes), lorsque la distributi
 En préparation : 
 
 - Invitez des personnes qui peuvent apporter une contribution pertinente à ce projet. Envoyez l'ordre du jour de l'atelier à l'avance. 
-- Envoyez le driver primaire sur lequel vous travaillerez, et dans le cas d'un domaine existant, la description de domaine pour le projet/initiative à l'avance pour que les gens puissent se familiariser avec. Essayez de résoudre toute objection avant l'atelier.
+- Faites savoir le driver primaire sur lequel vous travaillerez, et dans le cas d'un domaine existant, la description de domaine pour le projet/initiative à l'avance pour que les gens puissent se familiariser avec. Essayez de résoudre toute objection avant l'atelier.
 - Les participants peuvent déjà se préparer en réfléchissant et en consignant des idées d'acteurs et des besoins connexes.
 - Préparez un poster avec la description du domaine à présenter dans la première étape. Vous aurez également besoin de notes adhésives A5 et rectangulaires, de stylos et d'un grand mur pour travailler. 
 

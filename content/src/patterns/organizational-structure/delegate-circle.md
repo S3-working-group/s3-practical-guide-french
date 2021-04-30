@@ -10,6 +10,6 @@ Pour prendre des décisions de [gouvernance](glossary:governance) en leur nom, l
 
 Les décisions de gouvernance prises dans un cercle délégué impactent les différents [domaines](glossary:domain) qu'il sert.
 
-Les cercles délégués fournissent un moyen de piloter les organisations en phase avec le [flux de valeur](glossary:flow-of-value), et d'apporter des perspectives diverses dans les décisions de gouvernance.
+Les cercles délégués fournissent un moyen de piloter les organisations en phase avec le [flux de valeur](glossary:flow-of-value), et apportent des perspectives diverses dans les décisions de gouvernance.
 
 Un cercle délégué peut amener d'autres personnes (ex: des experts externes) pour l'aider à prendre des décisions particulières, ou même en tant que membre du cercle.

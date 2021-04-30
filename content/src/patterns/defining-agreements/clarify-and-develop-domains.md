@@ -65,7 +65,7 @@ Une autre façon de clarifier un domaine est de remplir un [Canevas de Délégat
 
 Expliquez comment le ou les délégués contribueront à la raison d’être générale de l'organisation, en clarifiant les besoins organisationnels spécifiques sont ils s'occupe(ro)nt.
 
-Décrivez le driver primaire auquel les délégués (vont) répondre, par exemple en utilisant la pratique \[Décrire les drivers organisationnels\](section:describe-organizational-drivers).
+Décrivez le driver primaire auquel les délégués (vont) répondre, par exemple en utilisant la pratique [Décrire les drivers organisationnels](section:describe-organizational-drivers).
 
 Pas plus d'une ou deux phrases, afin que l'information soit facile à retenir et à traiter.
 

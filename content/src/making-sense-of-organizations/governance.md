@@ -1,4 +1,4 @@
-# Gouvernance et opérations
+# Gouvernance et Opérations
 
 S3 cherche à libérer la productivité en laissant les personnes libres de faire et de décider autant que possible par elles-même, tout en collaborant de manière cohérente dans une organisation efficace et qui réussit.
 
@@ -6,7 +6,7 @@ Une plus grande autonomie des individus et des équipes nécessite des accords c
 
 Bien qu'une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, pour créer des accords plus conséquents qui contraignent le comportement et l’activité des gens, il est souvent bénéfique d’adopter un [processus de décision](section:consent-decision-making) plus participatif et plus délibéré.
 
-De tels accords doivent être documentés, à la fois pour se les rappeler mais aussi faire efficacement une [évaluation](section:evaluate-and-evolve-agreements), et doivent être communiqués aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](section:those-affected-decide) de ces accords).
+De tels accords doivent être documentés, à la fois pour s'en souvenir mais aussi pour en faire efficacement une [évaluation](section:evaluate-and-evolve-agreements), et pour être communiqués aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](section:involve-those-affected) de ces accords).
 
 Il est donc utile de distinguer deux catégories d’activités dans une organisation, l'une que nous appelons la gouvernance, et l’autre que nous appelons les opérations :
 

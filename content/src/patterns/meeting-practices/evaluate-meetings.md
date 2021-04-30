@@ -18,7 +18,7 @@ Quelques formats courts que vous pouvez utiliser :
 
 ## Évaluer les réunions : format long
 
-Faites un [tour de table](section:round) pour réfléchir à n'importe lequel des sujets suivants dans un bref échange, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
+Faites un [tour de table](section:rounds) pour réfléchir à n'importe lequel des sujets suivants lors d'un bref échange, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
 
 - efficacité et format
 - facilitation et participation
