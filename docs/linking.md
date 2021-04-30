@@ -10,7 +10,7 @@ Une équipe sélectionne l'un de ses membres pour représenter ses intérêts da
 ![Un cercle lié à un autre cercle](img/structural-patterns/link.png)
 
 <div class="bottom-nav">
-<a href="role.html" title="Retour à : Rôle">◀</a> <a href="building-organizations.html" title="Remonter: Construire les organisations">▲</a> <a href="double-linking.html" title="Lire la suite : Double lien">▶ Lire la suite : Double lien</a>
+<a href="role.html" title="Retour à : Rôle">◀</a> <a href="building-organizations.html" title="Remonter: Construire les organisations">▲</a> <a href="double-linking.html" title="">▶ Lire la suite : Double lien</a>
 </div>
 
 

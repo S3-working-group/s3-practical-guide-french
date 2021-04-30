@@ -14,7 +14,7 @@ Un backlog de gouvernance contient :
 **Note:** Les compte-rendus à venir et les accords à revoir sont généralement ajoutés directement à l'ordre du jour (plutôt que dans le backlog).
 
 <div class="bottom-nav">
-<a href="meeting-host.html" title="Retour à : Hôte de réunion">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="organizing-work.html" title="Lire la suite : Organiser le travail">▶ Lire la suite : Organiser le travail</a>
+<a href="meeting-host.html" title="Retour à : Hôte de réunion">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="organizing-work.html" title="">▶ Lire la suite : Organiser le travail</a>
 </div>
 
 

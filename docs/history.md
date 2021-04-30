@@ -28,7 +28,7 @@ En 2014 **James Priest et Bernhard Bockelbrink** se réunirent pour cocréer un 
 Avec l’intérêt grandissant pour la Sociocratie 3.0, une communauté de personnes d’origines diverses se développe rapidement — des consultants pionniers, des coaches, des facilitateurs d’apprentissage et des personnes qui appliquent S3 dans différents contextes — tous reconnaissent le potentiel transformationnel de la Sociocratie 3.0 pour aider les organisations et leurs membres à prospérer. Beaucoup consacrent une part de leur temps à expérimenter et échanger sur S3, et collaborent pour apprendre les uns des autres et documenter leurs expériences afin de nourrir le développement et l’évolution de la S3 et de ses applications diverses.
 
 <div class="bottom-nav">
-<a href="contents.html" title="Retour à : Que contient ce guide ?">◀</a> <a href="what-is-s3.html" title="Remonter: Qu&#x27;est-ce que la Sociocratie 3.0 ?">▲</a> <a href="why-30.html" title="Lire la suite : Pourquoi &quot;3.0&quot;?">▶ Lire la suite : Pourquoi &quot;3.0&quot;?</a>
+<a href="contents.html" title="Retour à : Que contient ce guide ?">◀</a> <a href="what-is-s3.html" title="Remonter: Qu&apos;est-ce que la Sociocratie 3.0 ?">▲</a> <a href="why-30.html" title="">▶ Lire la suite : Pourquoi &quot;3.0&quot;?</a>
 </div>
 
 

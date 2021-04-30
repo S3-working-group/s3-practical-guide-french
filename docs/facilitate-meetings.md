@@ -16,7 +16,7 @@ Pensez à choisir un facilitateur pour une période spécifique. Même un facili
 **Voir aussi:** [Préparer les réunions](prepare-for-meetings.html), [Sélectionner les porteurs de rôles](role-selection.html)
 
 <div class="bottom-nav">
-<a href="rounds.html" title="Retour à : Tours de table">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="prepare-for-meetings.html" title="Lire la suite : Préparer les réunions">▶ Lire la suite : Préparer les réunions</a>
+<a href="rounds.html" title="Retour à : Tours de table">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="prepare-for-meetings.html" title="">▶ Lire la suite : Préparer les réunions</a>
 </div>
 
 

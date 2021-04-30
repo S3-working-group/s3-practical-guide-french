@@ -3,9 +3,11 @@ title: "Les Pratiques"
 ---
 
 
+<only presets="jekyll">
 <div class="homepage-box hp-box-green">
 <p><strong>Remarque :</strong> Si vous recherchez une pratique en particulier, utilisez l'index des pratiques <a href="pattern-index.html" ><img src="img/a-z.png"/>&nbsp;</a> ou la <a href="map.html" ><img src="img/map.png"/>&nbsp;carte des pratiques</a>, qui sont disponibles en haut de chaque page, et dans le menu "Liens rapides".</p>
 </div>
+</only>
 
 S3 offre une approche pratique du changement organisationnel.
 
@@ -29,7 +31,7 @@ Dans ce guide, les pratiques sont regroupées en dix catégories pour vous aider
 
 
 <div class="bottom-nav">
-<a href="governance.html" title="Retour à : Gouvernance et opérations">◀</a> <a href="co-creation-and-evolution.html" title="Lire la suite : Cocréer et évoluer">▶ Lire la suite : Cocréer et évoluer</a>
+<a href="governance.html" title="Retour à : Gouvernance et Opérations">◀</a> <a href="co-creation-and-evolution.html" title="">▶ Lire la suite : Cocréer et évoluer</a>
 </div>
 
 

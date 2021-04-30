@@ -29,7 +29,7 @@ title: "Se réunir"
 
 
 <div class="bottom-nav">
-<a href="coordination-meeting.html" title="Retour à : Réunion de coordination">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="rounds.html" title="Lire la suite : Tours de table">▶ Lire la suite : Tours de table</a>
+<a href="coordination-meeting.html" title="Retour à : Réunion de coordination">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="rounds.html" title="">▶ Lire la suite : Tours de table</a>
 </div>
 
 

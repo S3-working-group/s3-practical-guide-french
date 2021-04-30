@@ -7,7 +7,7 @@ Les informations disponibles dans ce guide peuvent être utilisées par toute en
 
 
 <div class="bottom-nav">
-<a href="license.html" title="Retour à : Licence">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="icpt.html" title="Lire la suite : L&#x27;engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)">▶ Lire la suite : L&#x27;engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)</a>
+<a href="license.html" title="Retour à : Licence">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="icpt.html" title="">▶ Lire la suite : L&apos;engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)</a>
 </div>
 
 

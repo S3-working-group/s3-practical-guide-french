@@ -25,7 +25,7 @@ Vous pouvez utiliser les timeboxes (blocs de temps) pour :
 - une période de travail plus longue (un sprint)
 
 <div class="bottom-nav">
-<a href="limit-work-in-progress.html" title="Retour à : Limiter le travail en cours">◀</a> <a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="align-flow.html" title="Lire la suite : Aligner les flux">▶ Lire la suite : Aligner les flux</a>
+<a href="limit-work-in-progress.html" title="Retour à : Limiter le travail en cours">◀</a> <a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="align-flow.html" title="">▶ Lire la suite : Aligner les flux</a>
 </div>
 
 

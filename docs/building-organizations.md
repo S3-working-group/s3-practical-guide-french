@@ -36,7 +36,7 @@ title: "Construire les organisations"
 
 
 <div class="bottom-nav">
-<a href="bylaws.html" title="Retour à : Statuts et règlements">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="delegate-influence.html" title="Lire la suite : Déléguer l&#x27;influence">▶ Lire la suite : Déléguer l&#x27;influence</a>
+<a href="bylaws.html" title="Retour à : Statuts et règlements">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="delegate-influence.html" title="">▶ Lire la suite : Déléguer l&apos;influence</a>
 </div>
 
 

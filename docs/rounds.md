@@ -14,7 +14,7 @@ Asseyez-vous en cercle, commencez chaque tour de table par une personne différe
 ![Tours de table](img/circle/rounds.png)
 
 <div class="bottom-nav">
-<a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="facilitate-meetings.html" title="Lire la suite : Faciliter les réunions">▶ Lire la suite : Faciliter les réunions</a>
+<a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="facilitate-meetings.html" title="">▶ Lire la suite : Faciliter les réunions</a>
 </div>
 
 

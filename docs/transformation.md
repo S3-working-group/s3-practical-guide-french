@@ -8,7 +8,7 @@ title: "Trois principes pour se transformer"
 
 
 <div class="bottom-nav">
-<a href="collaborate-on-dependencies.html" title="Retour à : Principe 7 - Collaborer sur les dépendances">◀</a> <a href="csf.html" title="Remonter: Un Framework du Sens Commun pour les organisations et les équipes">▲</a> <a href="invest-in-learning.html" title="Lire la suite : Principe 8 - Investir dans l&#x27;apprentissage">▶ Lire la suite : Principe 8 - Investir dans l&#x27;apprentissage</a>
+<a href="collaborate-on-dependencies.html" title="Retour à : Principe 7 - Collaborer sur les dépendances">◀</a> <a href="csf.html" title="Remonter: Un Framework du Sens Commun pour les organisations et les équipes">▲</a> <a href="invest-in-learning.html" title="">▶ Lire la suite : Principe 8 - Investir dans l&apos;apprentissage</a>
 </div>
 
 

@@ -9,7 +9,7 @@ Pour mieux utiliser leur temps, leur énergie et leurs ressources limitées, les
 
 Tout rôle ou équipe a pour but de contribuer à la raison d'être générale de l'organisation en répondant à un besoin organisationnel spécifique. Des domaines mal définis conduisent généralement à ce que les parties prenantes aient des attentes différentes sur des domaines de responsabilité et d'autonomie. En conséquence, tant la collaboration que la répartition du travail souffrent à cause de dépendances floues, du travail en double ou du travail qui n'est pas fait du tout.
 
-La clarification des domaines rend explicite le contrat entre le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn> et <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué(s)</dfn>, ce qui permet à tout le monde de savoir ce qui fonctionne et ce qui ne fonctionne pas, parce que tout le monde comprend qui est responsable de quoi. Une description de domaine claire avec une quantité raisonnable de détails est une condition préalable nécessaire pour que les gens puissent évaluer et améliorer continuellement leur travail.
+La clarification des domaines rend explicite le contrat entre le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn> et <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué(s)</dfn>, ce qui permet à tout le monde de savoir ce qui fonctionne et ce qui ne fonctionne pas, parce que tout le monde comprend qui est responsable de quoi. Une description de domaine claire avec une quantité raisonnable de détails est une condition préalable nécessaire pour que les gens puissent évaluer et améliorer continuellement leur travail.
 
 Un moyen simple d'aider les parties prenantes à développer une compréhension partagée des différents aspects d'un domaine est de créer une **description de domaine** qui contient des informations sur :
 
@@ -66,7 +66,7 @@ Une autre façon de clarifier un domaine est de remplir un [Canevas de Délégat
 
 Expliquez comment le ou les délégués contribueront à la raison d’être générale de l'organisation, en clarifiant les besoins organisationnels spécifiques sont ils s'occupe(ro)nt.
 
-Décrivez le driver primaire auquel les délégués (vont) répondre, par exemple en utilisant la pratique \[Décrire les drivers organisationnels\](describe-organizational-drivers.html).
+Décrivez le driver primaire auquel les délégués (vont) répondre, par exemple en utilisant la pratique [Décrire les drivers organisationnels](describe-organizational-drivers.html).
 
 Pas plus d'une ou deux phrases, afin que l'information soit facile à retenir et à traiter.
 
@@ -178,7 +178,7 @@ Pendant l'évaluation, assurez-vous de prendre en compte les aspects suivants :
 -   Dans quelle mesure le délégant s'acquitte de ses responsabilités.
 -   La conception du domaine lui-même (et potentiellement la conception d'autres domaines liés).
 -   Les compétences et apritudes des délégués par rapport au domaine.
--   La <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie </dfn> que le délégué ou l'équipe suit pour s’occuper de ce domaine.
+-   La <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.">stratégie </dfn> que le délégué ou l'équipe suit pour s’occuper de ce domaine.
 
 Définissez :
 
@@ -204,7 +204,7 @@ Envisagez également d'inclure les informations suivantes dans la description du
 
 
 <div class="bottom-nav">
-<a href="clarify-and-develop-strategy.html" title="Retour à : Clarifier et développer la stratégie">◀</a> <a href="defining-agreements.html" title="Remonter: Élaborer des accords">▲</a> <a href="clarify-intended-outcome.html" title="Lire la suite : Clarifier le résultat attendu">▶ Lire la suite : Clarifier le résultat attendu</a>
+<a href="clarify-and-develop-strategy.html" title="Retour à : Clarifier et développer la stratégie">◀</a> <a href="defining-agreements.html" title="Remonter: Élaborer des accords">▲</a> <a href="clarify-intended-outcome.html" title="">▶ Lire la suite : Clarifier le résultat attendu</a>
 </div>
 
 

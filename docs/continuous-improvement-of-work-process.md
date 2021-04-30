@@ -23,7 +23,7 @@ Mettre en place un processus continu d'élimination du gaspillage permet l'évol
 ![Drivers, valeur et gaspillage](img/workflow-and-value/drivers-value-waste.png)
 
 <div class="bottom-nav">
-<a href="open-space-for-change.html" title="Retour à : Changement par forum ouvert">◀</a> <a href="bringing-in-s3.html" title="Remonter: Intégrer la S3">▲</a> <a href="defining-agreements.html" title="Lire la suite : Élaborer des accords">▶ Lire la suite : Élaborer des accords</a>
+<a href="open-space-for-change.html" title="Retour à : Changement par forum ouvert">◀</a> <a href="bringing-in-s3.html" title="Remonter: Intégrer la S3">▲</a> <a href="defining-agreements.html" title="">▶ Lire la suite : Élaborer des accords</a>
 </div>
 
 

@@ -25,13 +25,13 @@ _La délégation est l’octroi par une partie (le délégant) à une autre (le 
 
 La responsabilité des domaines est déléguée à des groupes ou à des individus, qui agissent ensuite dans le cadre des contraintes définies sur leur autonomie et leur influence.
 
-Lorsqu'un domaine est délégué à un groupe de personnes, ils deviennent une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>, quand il est délégué à un individu, ils devient un <dfn data-info="Porteur de rôle: Une personne qui assume la responsabilité d&#x27;un rôle.">porteur de rôle</dfn>.
+Lorsqu'un domaine est délégué à un groupe de personnes, ils deviennent une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>, quand il est délégué à un individu, ils devient un <dfn data-info="Porteur de rôle: Une personne qui assume la responsabilité d'un rôle.">porteur de rôle</dfn>.
 
-Les <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn> peuvent faire toutes les choses qu'ils pensent pouvoir les aider à atteindre leur but, sauf si elle sont en dehors du domaine de l'organisation, explicitement interdites, si elles violent le domaine (explicite) de quelqu'un d'autre ou si elles entravent la contribution d'autres personnes à l'organisation d'une toute autre manière.
+Les <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn> peuvent faire toutes les choses qu'ils pensent pouvoir les aider à atteindre leur but, sauf si elle sont en dehors du domaine de l'organisation, explicitement interdites, si elles violent le domaine (explicite) de quelqu'un d'autre ou si elles entravent la contribution d'autres personnes à l'organisation d'une toute autre manière.
 
 **Remarque :** *Les choses qui sont interdites incluent des contraintes explicitement exposées dans la description du domaine, toute autre entente que le(s) délégué(s) doit respecter, ainsi que les exigences légales et réglementaires.*
 
-Le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn> conserve toujours la redevabilité globale de ce domaine, alloue **les ressources** et définit souvent :
+Le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn> conserve toujours la redevabilité globale de ce domaine, alloue **les ressources** et définit souvent :
 
 - le **besoin organisationnel** auquel le domaine doit répondre
 - les **responsabilités clés** (livrables, risques critiques à gérer, autre travail essentiel et prises de décision délégués)
@@ -47,7 +47,7 @@ Il est également possible de comprendre un domaine par rapport aux drivers orga
     - les **dépendances** et les **contraintes externes** (drivers liés à d'autres domaines ou à l'environnement extérieur à l'organisation) qui contraignent l'autonomie des délégués
 
 <div class="bottom-nav">
-<a href="driver.html" title="Retour à : Drivers">◀</a> <a href="making-sense-of-organizations.html" title="Remonter: Concepts clés pour comprendre les organisations">▲</a> <a href="objection.html" title="Lire la suite : Objections">▶ Lire la suite : Objections</a>
+<a href="driver.html" title="Retour à : Drivers">◀</a> <a href="making-sense-of-organizations.html" title="Remonter: Concepts clés pour comprendre les organisations">▲</a> <a href="objection.html" title="">▶ Lire la suite : Objections</a>
 </div>
 
 

@@ -12,7 +12,7 @@ Demandez à quelqu'un : "*voudrais-tu bien m'aider à... *?" La personne accepte
 - si vous acceptez une demande d'aide, soutenez votre pair au mieux de vos capacités
 
 <div class="bottom-nav">
-<a href="peer-development.html" title="Remonter: Se développer entre pairs">▲</a> <a href="peer-feedback.html" title="Lire la suite : Retour par les pairs">▶ Lire la suite : Retour par les pairs</a>
+<a href="peer-development.html" title="Remonter: Se développer entre pairs">▲</a> <a href="peer-feedback.html" title="">▶ Lire la suite : Retour par les pairs</a>
 </div>
 
 

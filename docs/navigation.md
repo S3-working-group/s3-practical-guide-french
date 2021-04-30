@@ -8,7 +8,7 @@ title: "Trois principes pour naviguer"
 
 
 <div class="bottom-nav">
-<a href="develop-strategy.html" title="Retour à : Principe 2 – Développer la stratégie">◀</a> <a href="csf.html" title="Remonter: Un Framework du Sens Commun pour les organisations et les équipes">▲</a> <a href="focus-on-value.html" title="Lire la suite : Principe 3 - Focaliser sur la valeur">▶ Lire la suite : Principe 3 - Focaliser sur la valeur</a>
+<a href="develop-strategy.html" title="Retour à : Principe 2 – Développer la stratégie">◀</a> <a href="csf.html" title="Remonter: Un Framework du Sens Commun pour les organisations et les équipes">▲</a> <a href="focus-on-value.html" title="">▶ Lire la suite : Principe 3 - Focaliser sur la valeur</a>
 </div>
 
 

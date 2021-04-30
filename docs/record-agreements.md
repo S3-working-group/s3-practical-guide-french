@@ -34,7 +34,7 @@ En fonction de la portée et de l'importance de l'accord, envisagez d'inclure le
     -   [Résultats attendus](clarify-intended-outcome.html)
     -   [Livrables](describe-deliverables.html)
     -   Raison
--   [Critères d'évaluation](evaluation-criteria.html) (et potentiellement <dfn data-info="Préoccupation: Une supposition que faire quelque chose (même en l&#x27;absence d&#x27;objections) pourrait faire obstacle à une façon (plus) efficace de répondre à un driver organisationnel.">préoccupations</dfn>)
+-   [Critères d'évaluation](evaluation-criteria.html) (et potentiellement <dfn data-info="Préoccupation: Une supposition que faire quelque chose (même en l'absence d'objections) pourrait faire obstacle à une façon (plus) efficace de répondre à un driver organisationnel.">préoccupations</dfn>)
 -   Annexe (si utile)
     -   Informations contextuelles
     -   Versions précédentes des accords
@@ -44,7 +44,7 @@ En fonction de la portée et de l'importance de l'accord, envisagez d'inclure le
 
 
 <div class="bottom-nav">
-<a href="defining-agreements.html" title="Remonter: Élaborer des accords">▲</a> <a href="clarify-and-develop-strategy.html" title="Lire la suite : Clarifier et développer la stratégie">▶ Lire la suite : Clarifier et développer la stratégie</a>
+<a href="defining-agreements.html" title="Remonter: Élaborer des accords">▲</a> <a href="clarify-and-develop-strategy.html" title="">▶ Lire la suite : Clarifier et développer la stratégie</a>
 </div>
 
 

@@ -15,9 +15,9 @@ Ceux qui sont redevables d'une activité ou d'un accord (proposé) en question, 
 
 Lorsque vous cherchez des objections potentielles, considérez :
 
-- **l'efficacité**: pourquoi le <dfn data-info="Résultat attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat souhaité</dfn> ne serait pas (entièrement) atteint ?
+- **l'efficacité**: pourquoi le <dfn data-info="Résultat attendu: Le résultat escompté d'un accord, d'une action, d'un projet ou d'une stratégie.">résultat souhaité</dfn> ne serait pas (entièrement) atteint ?
 - **l'efficience**: pourquoi ce serait un gâchis de procéder comme proposé (ou convenu précédemment) ?
-- **les effets secondaires**: quelles conséquences négatives cela pourrait avoir par ailleurs (dans le même <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn>, dans l'ensemble de l'organisation, ou au-delà)?
+- **les effets secondaires**: quelles conséquences négatives cela pourrait avoir par ailleurs (dans le même <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn>, dans l'ensemble de l'organisation, ou au-delà)?
 
 Les informations apportées par les objections peuvent être utilisées pour améliorer :
 
@@ -44,7 +44,7 @@ Si vous avez des doutes quant à savoir si vous avez une objection ou une vigila
 
 
 <div class="bottom-nav">
-<a href="domain.html" title="Retour à : Domaines">◀</a> <a href="making-sense-of-organizations.html" title="Remonter: Concepts clés pour comprendre les organisations">▲</a> <a href="agreement.html" title="Lire la suite : Accords">▶ Lire la suite : Accords</a>
+<a href="domain.html" title="Retour à : Domaines">◀</a> <a href="making-sense-of-organizations.html" title="Remonter: Concepts clés pour comprendre les organisations">▲</a> <a href="agreement.html" title="">▶ Lire la suite : Accords</a>
 </div>
 
 

@@ -24,7 +24,7 @@ Préparation :
 **Voir aussi : ** [Faciliter les réunions](facilitate-meetings.html), [Préparer les réunions](prepare-for-meetings.html)
 
 <div class="bottom-nav">
-<a href="evaluate-meetings.html" title="Retour à : Évaluer les réunions">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="governance-backlog.html" title="Lire la suite : Backlog de gouvernance">▶ Lire la suite : Backlog de gouvernance</a>
+<a href="evaluate-meetings.html" title="Retour à : Évaluer les réunions">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="governance-backlog.html" title="">▶ Lire la suite : Backlog de gouvernance</a>
 </div>
 
 

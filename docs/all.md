@@ -1,10 +1,9 @@
 ---
 title: Un Guide Pratique pour Evoluer vers des Organisations Agiles et Résilientes avec la Sociocratie 3.0
 ---
-
 ## Qu'est-ce que la Sociocratie 3.0 ?
 
-La Sociocratie 3.0 — ou "S3" — est une <dfn data-info="Technologie sociale: La technologie sociale est tout processus, toute technique, toute méthode, toute compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l&#x27;atteinte d&#x27;objectifs communs et mener des interactions et échanges sensés.">technologie sociale</dfn> pour développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, ou des collaborations interministérielles.
+La Sociocratie 3.0 — ou "S3" — est une <dfn data-info="Technologie sociale: La technologie sociale est tout processus, toute technique, toute méthode, toute compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l'atteinte d'objectifs communs et mener des interactions et échanges sensés.">technologie sociale</dfn> pour développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, ou des collaborations interministérielles.
 
 A l’intérieur de ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
 
@@ -161,25 +160,25 @@ La structure organisationnelle selon la *Méthode d'Organisation en Cercles Soci
 
 ## Les sept principes
 
-La Sociocratie 3.0 est construite sur sept principes fondamentaux qui permettent une collaboration sococratique et agile . Puisque les sept principes se reflètent dans toutes les pratiques Sociocratie 3.0, la compréhension de ces principes est utile pour les adopter et primordiale si l'on souhaite les adapter .
+La Sociocratie 3.0 est construite sur sept principes fondamentaux qui permettent une collaboration sociocratique et agile . Puisque les sept principes se reflètent dans toutes les pratiques, la compréhension de ces principes est utile pour adopter les pratiques de la Sociocratie 3.0 et primordiale si l'on souhaite les adapter .
 
 Pratiquer la Sociocratie 3.0 aide les gens à comprendre la valeur essentielle que ces principes fondamentaux apportent – tant aux individus qu’aux organisations – et à soutenir leur intégration dans la culture organisationnelle.
 
 ![Les sept principes](img/framework/s3-principles-plain.png)
 
-**Le Principe d'Efficacité:** *Allouer du temps seulement à ce qui vous rapproche de vos objectifs.*
+**Le Principe d'Efficacité:** *Ne consacrer du temps qu'à ce qui vous rapproche de la réalisation des objectifs généraux de votre organisation,* afin de faire le meilleur usage de votre précieux temps, de votre énergie et de vos ressources.
 
-**Le Principe de Consentement:** *Soulever, chercher et résoudre les objections aux décisions et aux actions.*
+**Le Principe de Consentement:** *Signalez, rechercher et résoudre les objections aux décisions et aux actions,* afin de réduire le risque de conséquences indésirables et de découvrir des améliorations utiles.
 
-**Le Principe d'Empirisme:** *Tester toutes les hypothèses sur lesquelles vous vous appuyez, par l'expérimentation et l'amélioration en continu.*
+**Le Principe d'Empirisme:** *Testez toutes les suppositions sur lesquelles vous vous appuyez, à travers des expériences et une évaluation continue,* afin d'apprendre rapidement, comprendre et appréhender la complexité aussi efficacement que possible.
 
-**Le Principe d'Amélioration Continue:** *Évoluer par incréments pour prendre en compte un apprentissage empirique constant.*
+**Le Principe d'Amélioration Continue:** *Examinez régulièrement le résultat de ce que vous faites, puis apportez des améliorations progressives à ce que vous faites et à comment vous le faites, en fonction de ce que vous apprendrez,* afin de vous adapter aux changements quand c'est nécessaire, et de maintenir ou d'améliorer votre efficacité au fil du temps.
 
-**Le Principe d'Equivalence:** *Impliquer les personnes impactées dans les prises et évolutions des  décisions.*
+**Le Principe d'Equivalence:** *Impliquer les personnes dans la prise et l'évolution des décisions qui les affectent,* afin d'augmenter l'engagement et la redevabilité, et d'utiliser l'intelligence distribuée pour atteindre et faire évoluer vos objectifs.
 
-**Le Principe de Transparence:** *Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il y ait un motif de confidentialité.*
+**Le Principe de Transparence:** *Enregistrez toutes les informations qui sont précieuses pour l'organisation rendez-les accessibles à tous les membres de l'organisation, à moins qu'il n'y ait une raison de confidentialité,* afin que chacun ait les informations dont il a besoin pour comprendre comment faire son travail d'une manière qui contribue le plus efficacement à l'ensemble.
 
-**Le Principe Redevabilité:** *Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .*
+**Le Principe Redevabilité:** *Réagissez lorsque quelque chose est nécessaire, faites ce que vous avez accepté de faire et prenez votre part de responsabilité dans  l'organisation,* pour que ce qui doit être fait le soit, que rien ne soit négligé et que tout le monde fasse ce qu'il peut pour contribuer à l'efficacité et à l'intégrité de l'organisation.
 
 ## Concepts clés pour comprendre les organisations
 
@@ -242,13 +241,13 @@ _La délégation est l’octroi par une partie (le délégant) à une autre (le 
 
 La responsabilité des domaines est déléguée à des groupes ou à des individus, qui agissent ensuite dans le cadre des contraintes définies sur leur autonomie et leur influence.
 
-Lorsqu'un domaine est délégué à un groupe de personnes, ils deviennent une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>, quand il est délégué à un individu, ils devient un <dfn data-info="Porteur de rôle: Une personne qui assume la responsabilité d&#x27;un rôle.">porteur de rôle</dfn>.
+Lorsqu'un domaine est délégué à un groupe de personnes, ils deviennent une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>, quand il est délégué à un individu, ils devient un <dfn data-info="Porteur de rôle: Une personne qui assume la responsabilité d'un rôle.">porteur de rôle</dfn>.
 
-Les <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn> peuvent faire toutes les choses qu'ils pensent pouvoir les aider à atteindre leur but, sauf si elle sont en dehors du domaine de l'organisation, explicitement interdites, si elles violent le domaine (explicite) de quelqu'un d'autre ou si elles entravent la contribution d'autres personnes à l'organisation d'une toute autre manière.
+Les <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn> peuvent faire toutes les choses qu'ils pensent pouvoir les aider à atteindre leur but, sauf si elle sont en dehors du domaine de l'organisation, explicitement interdites, si elles violent le domaine (explicite) de quelqu'un d'autre ou si elles entravent la contribution d'autres personnes à l'organisation d'une toute autre manière.
 
 **Remarque :** *Les choses qui sont interdites incluent des contraintes explicitement exposées dans la description du domaine, toute autre entente que le(s) délégué(s) doit respecter, ainsi que les exigences légales et réglementaires.*
 
-Le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn> conserve toujours la redevabilité globale de ce domaine, alloue **les ressources** et définit souvent :
+Le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn> conserve toujours la redevabilité globale de ce domaine, alloue **les ressources** et définit souvent :
 
 - le **besoin organisationnel** auquel le domaine doit répondre
 - les **responsabilités clés** (livrables, risques critiques à gérer, autre travail essentiel et prises de décision délégués)
@@ -277,9 +276,9 @@ Ceux qui sont redevables d'une activité ou d'un accord (proposé) en question, 
 
 Lorsque vous cherchez des objections potentielles, considérez :
 
-- **l'efficacité**: pourquoi le <dfn data-info="Résultat attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat souhaité</dfn> ne serait pas (entièrement) atteint ?
+- **l'efficacité**: pourquoi le <dfn data-info="Résultat attendu: Le résultat escompté d'un accord, d'une action, d'un projet ou d'une stratégie.">résultat souhaité</dfn> ne serait pas (entièrement) atteint ?
 - **l'efficience**: pourquoi ce serait un gâchis de procéder comme proposé (ou convenu précédemment) ?
-- **les effets secondaires**: quelles conséquences négatives cela pourrait avoir par ailleurs (dans le même <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn>, dans l'ensemble de l'organisation, ou au-delà)?
+- **les effets secondaires**: quelles conséquences négatives cela pourrait avoir par ailleurs (dans le même <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn>, dans l'ensemble de l'organisation, ou au-delà)?
 
 Les informations apportées par les objections peuvent être utilisées pour améliorer :
 
@@ -311,14 +310,14 @@ _Un **accord** est une ligne directrice, un processus, un protocole ou une polit
 
 Des directives partagées sur pourquoi, comment et quand agir, et ce qui est spécifiquement nécessaire, permettant une collaboration efficace.
 
-Les accords sont créés en réponse à des <dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">drivers organisationnels</dfn>, ils sont **régulièrement évalués**, et évoluent si nécessaire.
+Les accords sont créés en réponse à des <dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">drivers organisationnels</dfn>, ils sont **régulièrement évalués**, et évoluent si nécessaire.
 
 **La redevabilité générale** d'un accord appartient aux personnes qui le créent.
 
 Un accord peut inclure la **délégation de responsabilités particulières** à des individus ou à des groupes.
 
 
-### Gouvernance et opérations
+### Gouvernance et Opérations
 
 S3 cherche à libérer la productivité en laissant les personnes libres de faire et de décider autant que possible par elles-même, tout en collaborant de manière cohérente dans une organisation efficace et qui réussit.
 
@@ -326,7 +325,7 @@ Une plus grande autonomie des individus et des équipes nécessite des accords c
 
 Bien qu'une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, pour créer des accords plus conséquents qui contraignent le comportement et l’activité des gens, il est souvent bénéfique d’adopter un _processus de décision_ plus participatif et plus délibéré.
 
-De tels accords doivent être documentés, à la fois pour se les rappeler mais aussi faire efficacement une _évaluation_, et doivent être communiqués aux personnes impactées (qui sont idéalement aussi _impliquées dans la création et l'évolution_ de ces accords).
+De tels accords doivent être documentés, à la fois pour s'en souvenir mais aussi pour en faire efficacement une _évaluation_, et pour être communiqués aux personnes impactées (qui sont idéalement aussi _impliquées dans la création et l'évolution_ de ces accords).
 
 Il est donc utile de distinguer deux catégories d’activités dans une organisation, l'une que nous appelons la gouvernance, et l’autre que nous appelons les opérations :
 
@@ -361,6 +360,11 @@ Selon les contraintes imposées par le délégant, les équipes ont plus ou moin
 
 ## Les Pratiques
 
+<only presets="jekyll">
+<div class="homepage-box hp-box-green">
+<p><strong>Remarque :</strong> Si vous recherchez une pratique en particulier, utilisez l'index des pratiques <a href="pattern-index.html" ><img src="img/a-z.png"/>&nbsp;</a> ou la <a href="map.html" ><img src="img/map.png"/>&nbsp;carte des pratiques</a>, qui sont disponibles en haut de chaque page, et dans le menu "Liens rapides".</p>
+</div>
+</only>
 
 S3 offre une approche pratique du changement organisationnel.
 
@@ -392,7 +396,7 @@ Dans ce guide, les pratiques sont regroupées en dix catégories pour vous aider
 
 <strong>Clarifiez les drivers organisationnels (c'est-à-dire ce qui se passe et ce qui est nécessaire pour l'organisation) et agissez en conséquence.</strong>
 
-Les réponses possibles à des <dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">drivers organisationnels</dfn> sont :
+Les réponses possibles à des <dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">drivers organisationnels</dfn> sont :
 
 - l’action directe (<dfn data-info="Opérations: Faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance.">opérations</dfn>)
 - organiser comment le travail sera fait
@@ -406,7 +410,7 @@ La réponse à un driver organisationnel est généralement traitée comme une e
 
 Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.
 
-Une façon simple de déterminer si un driver appartient bien au <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn> d'une organisation est de se demander :
+Une façon simple de déterminer si un driver appartient bien au <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn> d'une organisation est de se demander :
 
 *Est-ce que cela aiderait l'organisation si nous répondions à cet driver? Ou est-ce que cela nous nuirait si nous ne le faisions pas?*
 
@@ -426,7 +430,7 @@ Pour **découvrir les drivers**, recherchez ce qui stimule la tension, et décri
 
 <strong>Décrivez les drivers pour mieux les comprendre, les communiquer et vous en souvenir.</strong>
 
-Décrire les <dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">drivers</dfn> peut être fait en groupe ou par un individu. Selon leur perspective, ils peuvent décider d'expliquer un driver comme un **problème** à résoudre ou une **opportunité** à saisir.
+Décrire les <dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">drivers</dfn> peut être fait en groupe ou par un individu. Selon leur perspective, ils peuvent décider d'expliquer un driver comme un **problème** à résoudre ou une **opportunité** à saisir.
 
 Un moyen simple de décrire un driver est d'expliquer :
 
@@ -472,9 +476,9 @@ Expliquez l'effet de cette situation sur l'organisation :
 
 > *"Nous avons besoin d'une cuisine dans un état utilisable..."*
 
-Expliquez le <dfn data-info="Besoin: L&#x27;absence de quelque chose de voulu ou jugé nécessaire (une exigence).">besoin</dfn> de l'organisation par rapport à cette situation :
+Expliquez le <dfn data-info="Besoin: L'absence de quelque chose de voulu ou jugé nécessaire (une exigence).">besoin</dfn> de l'organisation par rapport à cette situation :
 
-- Le **besoin d'une organisation** est ce qu'une équipe (ou une personne) nécessite pour s'occuper efficacement d'un <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn>.
+- Le **besoin d'une organisation** est ce qu'une équipe (ou une personne) nécessite pour s'occuper efficacement d'un <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn>.
 - Soyez précis sur qui a ce besoin ("nous avons besoin", "ils ont besoin", "j'ai besoin").
 - En cas de désaccord sur le besoin, il est utile de prendre du recul par rapport à une solution particulière et se concentrer sur ce qui manque à l'organisation dans cette situation.
 
@@ -484,7 +488,7 @@ Expliquez le <dfn data-info="Besoin: L&#x27;absence de quelque chose de voulu ou
 
 Décrivez l'impact de répondre à ce besoin :
 
-- Expliquez le <dfn data-info="Résultat attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat attendu</dfn>, les bénéfices potentiels ou les opportunités.
+- Expliquez le <dfn data-info="Résultat attendu: Le résultat escompté d'un accord, d'une action, d'un projet ou d'une stratégie.">résultat attendu</dfn>, les bénéfices potentiels ou les opportunités.
 - L’impact peut être évident ou implicite, en particulier lorsque les effets de la situation actuelle sont déjà décrits.
 
 ##### Évaluer les drivers
@@ -620,7 +624,7 @@ Pensez également à inclure les personnes impactées dans l'évaluation et l'é
 
 Il existe de nombreuses façons de cocréer des propositions. Elles suivent généralement un modèle similaire :
 
-1. Se mettre d'accord sur un <dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn> (ou un problème / une opportunité / un besoin)
+1. Se mettre d'accord sur un <dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn> (ou un problème / une opportunité / un besoin)
 2. Explorer le sujet et comprendre les contraintes
 3. Générer des idées
 4. Concevoir une proposition (souvent fait par un groupe plus restreint)
@@ -645,7 +649,7 @@ La pratique *Élaborer une proposition* peut également être utilisée par un i
 
 ##### Étapes d'élaboration d'une proposition
 
-**Consentir au driver:** Présenter brièvement le<dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn>. *Est-il pertinent pour nous de répondre à ce driver? Y a-t-il des amendements essentiels à ce qui a été présenté?*
+**Consentir au driver:** Présenter brièvement le<dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn>. *Est-il pertinent pour nous de répondre à ce driver? Y a-t-il des amendements essentiels à ce qui a été présenté?*
 
 **Approfondir la compréhension collective du driver** : recueillir les questions essentielles à une meilleure compréhension du driver.
 
@@ -682,7 +686,7 @@ Au lieu de simplement affecter des personnes aux _rôles_, ou de faire un choix 
 - augmenter l'appropriation de la décision
 - assurer le soutien des personnes impactées au porteur de rôle.
 
-Une condition préalable au processus de sélection est une _description claire_ du <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn>.
+Une condition préalable au processus de sélection est une _description claire_ du <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn>.
 
 ##### Sélection de rôles - Étapes
 
@@ -725,7 +729,7 @@ Vous pouvez cartographier les drivers pour :
 
 Le résultat d'un atelier de cartographie des drivers est typiquement :
 
-- une répartition du travail, catégorisée dans plusieurs domaines, centrée sur les besoins des parties prenantes. 
+- une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes. 
 - une structure organisationnelle sur mesure qui rassemble tous le monde, y compris les domaines interconnectés pour gérer les dépendances.
 - une première ébauche de backlogs de gouvernance et d'opérations pour chaque sous-domaine identifié.
 - la délégation d'influence et l’affectation des personnes aux sous-domaines par l'auto-sélection et nomination.
@@ -737,7 +741,7 @@ Dans une petite équipe ou un cercle (max. 6-8 personnes), lorsque la distributi
 En préparation : 
 
 - Invitez des personnes qui peuvent apporter une contribution pertinente à ce projet. Envoyez l'ordre du jour de l'atelier à l'avance. 
-- Envoyez le driver primaire sur lequel vous travaillerez, et dans le cas d'un domaine existant, la description de domaine pour le projet/initiative à l'avance pour que les gens puissent se familiariser avec. Essayez de résoudre toute objection avant l'atelier.
+- Faites savoir le driver primaire sur lequel vous travaillerez, et dans le cas d'un domaine existant, la description de domaine pour le projet/initiative à l'avance pour que les gens puissent se familiariser avec. Essayez de résoudre toute objection avant l'atelier.
 - Les participants peuvent déjà se préparer en réfléchissant et en consignant des idées d'acteurs et des besoins connexes.
 - Préparez un poster avec la description du domaine à présenter dans la première étape. Vous aurez également besoin de notes adhésives A5 et rectangulaires, de stylos et d'un grand mur pour travailler. 
 
@@ -902,12 +906,12 @@ Assurez-vous d'inviter des personnes ayant des perspectives complémentaires à 
 
 Pour les appréciations et les suggestions d'amélioration, assurez-vous de prendre en compte les aspects suivants :
 
-- La **valeur** que le délégué a apporté à l'organisation en s’occupant du <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn>.
-- Les processus de travail **du porteur de rôle ou de l'équipe**, et leur **collaboration** avec le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn> et avec d'autres parties prenantes concernées, et – dans le cas d’une équipe – entre eux.
+- La **valeur** que le délégué a apporté à l'organisation en s’occupant du <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn>.
+- Les processus de travail **du porteur de rôle ou de l'équipe**, et leur **collaboration** avec le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn> et avec d'autres parties prenantes concernées, et – dans le cas d’une équipe – entre eux.
 - Dans quelle mesure le **délégant** prend en charge ses responsabilités.
 - La **conception du domaine** lui-même (et potentiellement la conception d'autres domaines liés).
 - Les compétences et aptitudes **du porteur de rôle ou de l'équipe** par rapport au domaine.
-- La **<dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie </dfn>** que le détenteur de rôle ou l'équipe suit pour tenir compte de ce domaine.
+- La **<dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.">stratégie </dfn>** que le détenteur de rôle ou l'équipe suit pour tenir compte de ce domaine.
 
 ![L'amélioration continue des capacités des personnes à porter efficacement leurs rôles ou à collaborer en équipe](img/evolution/development-process.png)
 
@@ -917,9 +921,9 @@ Pour les appréciations et les suggestions d'amélioration, assurez-vous de pren
 
 Le plan de développement peut être créé pour une personne dans un rôle, ou pour une équipe (ex: un département, un _cercle_ ou un _domaine ouvert_).
 
-Le développement peut survenir en raffinant la description du _driver_ et du <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn>, en apportant des changements à la <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</dfn>, par de nouveaux ou la modification d'accords ou encore en prenant des actions spécifiques, soit dans le domaine du délégant, soit dans le domaine du délégué.
+Le développement peut se faire en raffinant la description du _driver_ et du <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn>, en apportant des changements à la <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.">stratégie</dfn>, par de nouveaux ou la modification d'accords ou encore en prenant des actions spécifiques, soit dans le domaine du délégant, soit dans le domaine du délégué.
 
-Un plan de développement (et toutes les recommandations accompagnant les changements aux descriptions du <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn> et de l'<dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intention</dfn>) nécessite le consentement à la fois du <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué</dfn> et du <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn>.
+Un plan de développement (et toutes les recommandations accompagnant les changements aux descriptions du domaine et du<dfn data-info="Driver: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.">driver</dfn>) nécessite le consentement à la fois du <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué</dfn> et du <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn>.
 
 ![Un modèle pour les plans de développement](img/templates/development-plan-template.png)
 
@@ -1008,7 +1012,7 @@ Les valeurs choisies sont un accord sujet à une **évaluation régulière**.
 Un facilitateur de <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn> :
 
 - s'assure que les _réunions de gouvernance_ restent sur la bonne voie et sont évaluées
-- est (habituellement) sélectionné par une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> parmi ses membres (et pour une durée spécifique)
+- est (habituellement) sélectionné par une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> parmi ses membres (et pour une durée spécifique)
 - se familiarise avec le _backlog de gouvernance_
 - invite souvent d'autres à faciliter certains points de l'ordre du jour
 
@@ -1078,7 +1082,7 @@ La façon dont un contrat est négocié peut contribuer de manière significativ
 
 ##### Lors de la Co-création d'un contrat :
 
-- assurez-vous que toutes les parties ont une délégation qui inclut la représentation pour tous les <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> concernés (ex: pas seulement les ventes, mais aussi le développement / la production / le support, etc)
+- assurez-vous que toutes les parties ont une délégation qui inclut la représentation pour tous les <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> concernés (ex: pas seulement les ventes, mais aussi le développement / la production / le support, etc)
 - décrivez explicitement la culture que vous voulez développer, en tenant compte des points communs comme des différences culturelles entre les parties
 - indiquez les raisons de la collaboration proposée, et soyez transparent sur les attentes et les besoins de toutes les parties
 - divulguez toutes les informations pertinentes (si nécessaire via un accord de confidentialité)
@@ -1132,7 +1136,7 @@ Décidez comment gérer la rémunération pour les changements de rôles et _dé
 
 <strong>Appliquez cette pratique pour les contractuels externes.</strong>
 
-- clarifiez et décrivez le <dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn> du _rôle_
+- clarifiez et décrivez le <dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn> du _rôle_
 - créez une _description de domaine_
 - si c'est utile, organisez un processus de sélection
 - limitez la durée du contrat
@@ -1150,7 +1154,7 @@ Consignez :
 
 - le consentement et l'équivalence pour la prise de décision
 - le processus de sélection pour les rôles de leadership
-- la structure organisationnelle, les <dfn data-info="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un driver.">valeurs</dfn> et les <dfn data-info="Principe: Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.">principes</dfn>
+- la structure organisationnelle, les <dfn data-info="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'un driver.">valeurs</dfn> et les <dfn data-info="Principe: Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.">principes</dfn>
 - l'influence des propriétaires ou actionnaires
 - le partage des gains et des coûts
 
@@ -1164,9 +1168,9 @@ Consignez :
 
 <strong>Distribuez le pouvoir d'influence, pour permettre aux gens de décider et d'agir par eux-mêmes en respectant des contraintes définies.</strong>
 
-Un <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn> peut soutenir des <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn> à délivrer de la valeur en :
+Un <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn> peut soutenir des <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn> à délivrer de la valeur en :
 
-- Définir clairement les <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> d’autonomie et de responsabilité
+- Définir clairement les <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> d’autonomie et de responsabilité
 - s'assurant qu'il existe des opportunités d'apprentissage et de développement
 - Soutenant si nécessaire
 
@@ -1181,13 +1185,13 @@ _Un **cercle** est une équipe autogouvernée et semi-autonome de personnes équ
 Un cercle:
 
 - peut être permanent ou temporaire
-- peut être <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L&#x27;auto-organisation se produit dans les contraintes d&#x27;un domaine, mais sans l&#x27;influence directe des agents externes. Dans toute organisation ou équipe, l&#x27;auto-organisation coexiste avec l&#x27;influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">auto-organisé</dfn>
+- peut être <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L'auto-organisation se produit dans les contraintes d'un domaine, mais sans l'influence directe des agents externes. Dans toute organisation ou équipe, l'auto-organisation coexiste avec l'influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">auto-organisé</dfn>
 - est responsable de son propre développement et de son corpus d’<dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">accords</dfn>
 
 - **semi-autonome:**
     
-    - Les membres d'un cercle agissent selon les contraintes de leur <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn>.
-    - Chaque cercle peut créer de la <dfn data-info="Valeur: L&#x27;importance ou l&#x27;utilité de quelque chose lié à un driver. C’est aussi &quot;un principe significatif guidant le comportement&quot; (principalement utilisé au pluriel, &quot;valeurs&quot; ou &quot;valeurs organisationnelles&quot;).">valeur</dfn> en autonomie.
+    - Les membres d'un cercle agissent selon les contraintes de leur <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn>.
+    - Chaque cercle peut créer de la <dfn data-info="Valeur: L'importance ou l'utilité de quelque chose lié à un driver. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").">valeur</dfn> en autonomie.
 - **auto-gouverné:** 
     - Les membres d'un cercle décident continuellement ensemble comment gérer leur domaine, et définissent les contraintes sur comment et quand les choses seront faites.
 - **équivalence des membres du cercle :** 
@@ -1199,18 +1203,18 @@ Un cercle:
 
 <strong>Déléguez les responsabilités d'un domaine à des individus.</strong>
 
-Un rôle est une zone de redevabilité (un <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn>) qui est <dfn data-info="Délégation: L&#x27;octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s&#x27;occuper d&#x27;un domaine, (c&#x27;est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.">déleguée</dfn> à un individu (le **porteur de rôle**), agissant et décidant en autonomie selon les contraintes du domaine du rôle.
+Un rôle est une zone de redevabilité (un <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn>) qui est <dfn data-info="Délégation: L'octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.">déleguée</dfn> à un individu (le **porteur de rôle**), agissant et décidant en autonomie selon les contraintes du domaine du rôle.
 
-Les porteurs de rôle président à la création d'une <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</dfn> sur la façon dont ils tiendront leur domaine. Ils développent leur stratégie en collaboration avec le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn>.
+Les porteurs de rôle président à la création d'une <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.">stratégie</dfn> sur la façon dont ils tiendront leur domaine. Ils développent leur stratégie en collaboration avec le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn>.
 
-Un rôle est un moyen simple pour une organisation (ou une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>) de déléguer les tâches récurrentes ou une partie du travail ainsi que les prises de décisions à l'un de ses membres.
+Un rôle est un moyen simple pour une organisation (ou une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>) de déléguer les tâches récurrentes ou une partie du travail ainsi que les prises de décisions à l'un de ses membres.
 
 - les personnes peuvent assumer plus d'un rôle
 - plutôt que de constituer formellement une nouvelle équipe, il est parfois plus simple de partager un rôle entre plusieurs personnes
 - les porteurs de rôle sont sélectionnés par consentement pour une durée limitée
 - les pairs se soutiennent mutuellement pour évoluer dans les rôles qu'ils portent
 
-Les porteurs de rôle peuvent maintenir un <dfn data-info="Backlog: Une liste (souvent priorisée)  d&#x27;éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlog</dfn> de gouvernance, et un <dfn data-info="Registre: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.">registre</dfn> pour définir et développer leur approche de l'apport de <dfn data-info="Valeur: L&#x27;importance ou l&#x27;utilité de quelque chose lié à un driver. C’est aussi &quot;un principe significatif guidant le comportement&quot; (principalement utilisé au pluriel, &quot;valeurs&quot; ou &quot;valeurs organisationnelles&quot;).">valeur</dfn>.
+Les porteurs de rôle peuvent maintenir un <dfn data-info="Backlog: Une liste (souvent priorisée)  d'éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlog</dfn> de gouvernance, et un <dfn data-info="Registre: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.">registre</dfn> pour définir et développer leur approche de l'apport de <dfn data-info="Valeur: L'importance ou l'utilité de quelque chose lié à un driver. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").">valeur</dfn>.
 
 **Note:** Dans S3, les consignes, les processus ou protocoles créés par des individus dans leurs rôles sont traités comme des accords.
 
@@ -1240,7 +1244,7 @@ Le double lien permet une équivalence entre deux équipes et peut être utilis�
 
 Les représentants (les liens):
 
-- défendent les intérêts d'une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> dans une autre
+- défendent les intérêts d'une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> dans une autre
 - sont élus pour une durée limitée
 - participent aux **décisions de gouvernance** de l'équipe avec laquelle ils sont reliés, et peuvent : 
     - porter des points à l'ordre du jour
@@ -1253,15 +1257,15 @@ Les représentants (les liens):
 
 Une équipe de soutien :
 
-- est un moyen pour un <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn> d'étendre sa capacité
+- est un moyen pour un <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn> d'étendre sa capacité
 - peut être auto-organisée, ou guidée par un _coordinateur_ choisi par le délégant
 - est gouvernée par le délégant
-- bénéficie d'un domaine <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">clairement défini</dfn>
+- bénéficie d'un domaine <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">clairement défini</dfn>
 
 Les membres de l'équipe de soutien :
 
 - peuvent objecter les décisions du délégant qui les affectent
-- peuvent ajouter des entrées au <dfn data-info="Backlog de gouvernance: Une liste explicite ordonnée par priorité de points (drivers) d&#x27;attention à traiter se rapportant à la gouvernance d&#x27;un domaine.">backlog de gouvernance</dfn>du délégant
+- peuvent ajouter des entrées au <dfn data-info="Backlog de gouvernance: Une liste explicite ordonnée par priorité de points (drivers) d'attention à traiter se rapportant à la gouvernance d'un domaine.">backlog de gouvernance</dfn>du délégant
 - peuvent être invités à sélectionner un _représentant_ pour participer aux décisions de gouvernance du délégant
 
 ![Équipe de soutien](img/structural-patterns/helping-team.png)
@@ -1270,9 +1274,9 @@ Les membres de l'équipe de soutien :
 
 <strong>Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.</strong>
 
-Le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn> du domaine ouvert clarifie :
+Le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn> du domaine ouvert clarifie :
 
-- le <dfn data-info="Driver Primaire: Le driver primaire d&#x27;un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">driver primaire</dfn>, les responsabilités clés et les contraintes du domaine ouvert
+- le <dfn data-info="Driver Primaire: Le driver primaire d'un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">driver primaire</dfn>, les responsabilités clés et les contraintes du domaine ouvert
 - qui est invité à contribuer au domaine ouvert
 - les contraintes liées à la participation du délégant à la <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn> du domaine ouvert
 
@@ -1289,7 +1293,7 @@ Un délégant est redevable de mener des évaluations régulières pour soutenir
 Les individus, les équipes et les organisations entières peuvent reconnaître l'interdépendance et inviter sciemment des personnes externes à leur système à introduire **connaissance, expérience et influence** pour aider à prendre des décisions et soutenir l'apprentissage collectif.
 
 - Les **experts externes** peuvent offrir une perspective extérieure et apporter des connaissances, leur compréhension et des compétences
-- Les **représentants des parties concernées** peuvent informer et influencer la prise de décision de manière à des objectifs plus globaux (voir _Les personnes impactées décident_)
+- Les **représentants des parties concernées** peuvent informer et influencer la prise de décision de manière à contribuer aux objectifs globaux (voir _Impliquer ceux qui sont impactés_)
 
 ### Intégrer la S3
 
@@ -1348,7 +1352,7 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 
 <strong>Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.</strong>
 
-- clarifier le<dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn> du changement
+- clarifier le<dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn> du changement
 - prévoir des événements réguliers en espace ouverts : 
     - encouragez tous les membres à concevoir et réaliser des expérimentations
     - définissez les contraintes imposées aux expérimentations qui favorise le développement d'un état d'esprit <dfn data-info="Sociocratie: Une approche où les personnes impactées par des décisions peuvent les influencer sur la base de raisons justifiées.">sociocratique</dfn> et agile (ex : les principes S3)
@@ -1418,7 +1422,7 @@ En fonction de la portée et de l'importance de l'accord, envisagez d'inclure le
     -   _Résultats attendus_
     -   _Livrables_
     -   Raison
--   _Critères d'évaluation_ (et potentiellement <dfn data-info="Préoccupation: Une supposition que faire quelque chose (même en l&#x27;absence d&#x27;objections) pourrait faire obstacle à une façon (plus) efficace de répondre à un driver organisationnel.">préoccupations</dfn>)
+-   _Critères d'évaluation_ (et potentiellement <dfn data-info="Préoccupation: Une supposition que faire quelque chose (même en l'absence d'objections) pourrait faire obstacle à une façon (plus) efficace de répondre à un driver organisationnel.">préoccupations</dfn>)
 -   Annexe (si utile)
     -   Informations contextuelles
     -   Versions précédentes des accords
@@ -1433,9 +1437,9 @@ _Une **stratégie** est une approche de haut niveau sur la façon dont les perso
 
 Il est généralement plus efficace qu'une équipe ou un porteur de rôle mène l'élaboration de sa propre stratégie.
 
-Une stratégie comprend souvent une description du <dfn data-info="Résultat attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat attendu</dfn> par sa mise en œuvre.
+Une stratégie comprend souvent une description du <dfn data-info="Résultat attendu: Le résultat escompté d'un accord, d'une action, d'un projet ou d'une stratégie.">résultat attendu</dfn> par sa mise en œuvre.
 
-Puisque le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn> partage la redevabilité des <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> qu'il délègue, il est intéressant qu'il évalue la stratégie d'un <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué</dfn>, afin de vérifier la présence d'obstacles potentiels et de suggérer des façons de l'améliorer.
+Puisque le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn> partage la redevabilité des <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> qu'il délègue, il est intéressant qu'il évalue la stratégie d'un <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué</dfn>, afin de vérifier la présence d'obstacles potentiels et de suggérer des façons de l'améliorer.
 
 Une stratégie est un accord partagé entre délégant(s) et délégué(s) qui est régulièrement évalué et modifié si nécessaire (*changer de cap ou persévérer*)
 
@@ -1452,7 +1456,7 @@ Pour mieux utiliser leur temps, leur énergie et leurs ressources limitées, les
 
 Tout rôle ou équipe a pour but de contribuer à la raison d'être générale de l'organisation en répondant à un besoin organisationnel spécifique. Des domaines mal définis conduisent généralement à ce que les parties prenantes aient des attentes différentes sur des domaines de responsabilité et d'autonomie. En conséquence, tant la collaboration que la répartition du travail souffrent à cause de dépendances floues, du travail en double ou du travail qui n'est pas fait du tout.
 
-La clarification des domaines rend explicite le contrat entre le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn> et <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué(s)</dfn>, ce qui permet à tout le monde de savoir ce qui fonctionne et ce qui ne fonctionne pas, parce que tout le monde comprend qui est responsable de quoi. Une description de domaine claire avec une quantité raisonnable de détails est une condition préalable nécessaire pour que les gens puissent évaluer et améliorer continuellement leur travail.
+La clarification des domaines rend explicite le contrat entre le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn> et <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué(s)</dfn>, ce qui permet à tout le monde de savoir ce qui fonctionne et ce qui ne fonctionne pas, parce que tout le monde comprend qui est responsable de quoi. Une description de domaine claire avec une quantité raisonnable de détails est une condition préalable nécessaire pour que les gens puissent évaluer et améliorer continuellement leur travail.
 
 Un moyen simple d'aider les parties prenantes à développer une compréhension partagée des différents aspects d'un domaine est de créer une **description de domaine** qui contient des informations sur :
 
@@ -1509,7 +1513,7 @@ Une autre façon de clarifier un domaine est de remplir un [Canevas de Délégat
 
 Expliquez comment le ou les délégués contribueront à la raison d’être générale de l'organisation, en clarifiant les besoins organisationnels spécifiques sont ils s'occupe(ro)nt.
 
-Décrivez le driver primaire auquel les délégués (vont) répondre, par exemple en utilisant la pratique \_Décrire les drivers organisationnels\_.
+Décrivez le driver primaire auquel les délégués (vont) répondre, par exemple en utilisant la pratique _Décrire les drivers organisationnels_.
 
 Pas plus d'une ou deux phrases, afin que l'information soit facile à retenir et à traiter.
 
@@ -1621,7 +1625,7 @@ Pendant l'évaluation, assurez-vous de prendre en compte les aspects suivants :
 -   Dans quelle mesure le délégant s'acquitte de ses responsabilités.
 -   La conception du domaine lui-même (et potentiellement la conception d'autres domaines liés).
 -   Les compétences et apritudes des délégués par rapport au domaine.
--   La <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie </dfn> que le délégué ou l'équipe suit pour s’occuper de ce domaine.
+-   La <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.">stratégie </dfn> que le délégué ou l'équipe suit pour s’occuper de ce domaine.
 
 Définissez :
 
@@ -1676,7 +1680,7 @@ Décrire précisément les livrables peut être utile pour améliorer la communi
 <strong>Développez des critères d'évaluation bien définis pour déterminer si agir selon un accord a eu l'effet escompté.</strong>
 
 - choisir des critères **simples et sans ambiguïté** et les documentez (pour éviter des discussions inutiles lors de l'évaluation de vos <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">accords</dfn>)
-- définir des **indicateurs (mesurés) <dfn data-info="Indicateur (mesuré): Une mesure quantifiable utilisée pour suivre et évaluer les progrès, évaluer les résultats et déterminer le succès">actionnables</dfn>** pour suivre en permanence les effets et repérer les écarts au <dfn data-info="Résultat attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat attendu</dfn>
+- définir des **indicateurs (mesurés) <dfn data-info="Indicateur (mesuré): Une mesure quantifiable utilisée pour suivre et évaluer les progrès, évaluer les résultats et déterminer le succès">actionnables</dfn>** pour suivre en permanence les effets et repérer les écarts au <dfn data-info="Résultat attendu: Le résultat escompté d'un accord, d'une action, d'un projet ou d'une stratégie.">résultat attendu</dfn>
 - envisager d'ajouter des critères qui précisent lorsque le résultat d'un accord sera considéré comme **non réussi**
 - lors de l'évaluation d'un accord, pensez à **faire évoluer les critères d'évaluation** en fonction de ce que vous avez appris
 
@@ -1692,15 +1696,15 @@ Les outils typiques pour tenir les registres sont les wikis (par exemple [Dokuwi
 
 Contenu relatif à l'ensemble de l'organisation :
 
-- <dfn data-info="Driver Primaire: Le driver primaire d&#x27;un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">driver primaire</dfn>, <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</dfn> et <dfn data-info="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un driver.">valeurs</dfn> de l'organisation
-- structure organisationnelle (<dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> et les connexions entre eux)
+- <dfn data-info="Driver Primaire: Le driver primaire d'un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">driver primaire</dfn>, <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.">stratégie</dfn> et <dfn data-info="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'un driver.">valeurs</dfn> de l'organisation
+- structure organisationnelle (<dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> et les connexions entre eux)
 - <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">accords</dfn>
 
 Contenu relatif à une équipe particulière ou un <dfn data-info="Rôle: Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.">rôle</dfn>:
 
 - la description et la stratégie du domaine
-- accords (en précisant les <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn>, les descriptions de domaine, stratégies et _plans de développement_)
-- Les <dfn data-info="Backlog: Une liste (souvent priorisée)  d&#x27;éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlogs</dfn> et autres informations relatives au travail et à la <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn>
+- accords (en précisant les <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn>, les descriptions de domaine, stratégies et _plans de développement_)
+- Les <dfn data-info="Backlog: Une liste (souvent priorisée)  d'éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlogs</dfn> et autres informations relatives au travail et à la <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn>
 
 #### Gardien du registre
 
@@ -1708,7 +1712,7 @@ Contenu relatif à une équipe particulière ou un <dfn data-info="Rôle: Un dom
 
 Le gardien du registre est redevable de maintenir le <dfn data-info="Registre: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.">registre</dfn> d'une équipe en :
 
-- enregistrant les détails des <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">accords</dfn>, <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">du domaine</dfn> des descriptions, _des sélections_, des dates d'évaluation, des procès-verbaux de réunions, etc.
+- enregistrant les détails des <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">accords</dfn>, <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">du domaine</dfn> des descriptions, _des sélections_, des dates d'évaluation, des procès-verbaux de réunions, etc.
 - organisant les informations utiles et en améliorant le système lorsque cela apporte de la valeur
 - maintenant les informations à jour
 - assurant l'accessibilité à tous les membres de l'équipe (et au reste de l'organisation comme convenu)
@@ -1757,7 +1761,7 @@ Un ordre du jour typique inclut :
 
 <strong>Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer les processus de travail.</strong>
 
-- en sortie : modifications des processus de travail, nouvelles tâches, accords <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">à la volée</dfn>, et <dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">drivers</dfn> nécessitant un accord
+- en sortie : modifications des processus de travail, nouvelles tâches, accords <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">à la volée</dfn>, et <dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">drivers</dfn> nécessitant un accord
 - réunion facilitée (environ 1h)
 - à intervalles réguliers (1 à 4 semaines)
 - s'adapter à la situation et au contexte
@@ -1851,7 +1855,7 @@ Pensez à choisir un facilitateur pour une période spécifique. Même un facili
 
 Quelques considérations pour préparer avec succès une réunion :
 
-- clarifiez et communiquez le <dfn data-info="Driver: Le motif d&#x27;un groupe ou d&#x27;une personne pour répondre à une situation particulière.">driver</dfn>, et le <dfn data-info="Résultat attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat attendu</dfn> de la réunion
+- clarifiez et communiquez le <dfn data-info="Driver: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.">driver</dfn>, et le <dfn data-info="Résultat attendu: Le résultat escompté d'un accord, d'une action, d'un projet ou d'une stratégie.">résultat attendu</dfn> de la réunion
 - décidez qui inviter
 - créez un ordre du jour
 - planifiez la réunion suffisamment à l'avance, pour que les gens aient le temps de se préparer
@@ -1915,7 +1919,7 @@ Quelques formats courts que vous pouvez utiliser :
 
 ##### Évaluer les réunions : format long
 
-Faites un _tour de table_ pour réfléchir à n'importe lequel des sujets suivants dans un bref échange, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
+Faites un _tour de table_ pour réfléchir à n'importe lequel des sujets suivants lors d'un bref échange, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
 
 - efficacité et format
 - facilitation et participation
@@ -1983,7 +1987,7 @@ Plusieurs types de backlog existent :
 
 Chaque entrée d'un backlog (priorisé) contient typiquement :
 
-- une **brève description** d'un <dfn data-info="Livrable: Un produit, un service, un composant ou un matériel fourni en réponse à un driver organisationnel.">livrable</dfn> ou d'une <dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intention</dfn>
+- une **brève description** d'un <dfn data-info="Livrable: Un produit, un service, un composant ou un matériel fourni en réponse à un driver organisationnel.">livrable</dfn> ou d'une <dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intention</dfn>
 - un **numéro de référence unique** (ou lien) pour chaque tâche
 - (l'ordre des **éléments**)
 - les **dépendances** envers d'autres éléments de travail ou projets
@@ -1997,13 +2001,13 @@ Chaque entrée d'un backlog (priorisé) contient typiquement :
 
 Il ne peut y avoir deux éléments de même importance, ce qui signifie qu'il est nécessaire de s'entendre sur les priorités et faire des choix difficiles.
 
-Un <dfn data-info="Backlog: Une liste (souvent priorisée)  d&#x27;éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlog</dfn> priorisé aide à **rester concentré** sur les éléments les plus importants.
+Un <dfn data-info="Backlog: Une liste (souvent priorisée)  d'éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlog</dfn> priorisé aide à **rester concentré** sur les éléments les plus importants.
 
 #### Visualiser le travail
 
 <strong>Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de tous les éléments de travail actuellement en attente, en cours ou terminés.</strong>
 
-- utile pour <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L&#x27;auto-organisation se produit dans les contraintes d&#x27;un domaine, mais sans l&#x27;influence directe des agents externes. Dans toute organisation ou équipe, l&#x27;auto-organisation coexiste avec l&#x27;influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">l'auto-organisation</dfn> et les systèmes à flux tirés
+- utile pour <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L'auto-organisation se produit dans les contraintes d'un domaine, mais sans l'influence directe des agents externes. Dans toute organisation ou équipe, l'auto-organisation coexiste avec l'influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">l'auto-organisation</dfn> et les systèmes à flux tirés
 - le système doit être accessible à toutes les personnes impactées
 - **physique :** des post-its sur un mur, ou des fiches cartonnées, des magnets sur un tableau blanc
 - **numérique :** [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
@@ -2037,7 +2041,7 @@ Tirer le travail évite de surcharger le système, en particulier lorsque le _tr
 
 Le travail en cours inclut :
 
-- le nombre d'éléments dans un <dfn data-info="Backlog: Une liste (souvent priorisée)  d&#x27;éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlog</dfn>
+- le nombre d'éléments dans un <dfn data-info="Backlog: Une liste (souvent priorisée)  d'éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlog</dfn>
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 
@@ -2081,25 +2085,25 @@ Atteignez et maintenez l'alignement des flux à travers l'amélioration continue
 
 Lorsque les prises de décision s'effectuent près de là où est créée la valeur, et que le flux d'information soutient un flux de valeur continu régulier, le risque de gaspillage est réduit.
 
-![Aligner le flux d'informations pour soutenir le flux de valeur](img/workflow-and-value/align-flow.png)
+![Aligner le flux d'information avec le flux de valeur](img/workflow-and-value/align-flow.png)
 
 #### Coordinateur
 
 Une personne remplissant le rôle de coordinateur est redevable de <strong>la coordination des opérations d'un domaine</strong> et est <strong>sélectionnée pour un mandat limité.</strong>
 
-Le coordinateur peut être sélectionné par l'équipe elle-même, ou par le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</dfn>.
+Le coordinateur peut être sélectionné par l'équipe elle-même, ou par le <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">délégant</dfn>.
 
-Plusieurs coordinateurs peuvent collaborer pour synchroniser le travail au travers de plusieurs <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn>.
+Plusieurs coordinateurs peuvent collaborer pour synchroniser le travail au travers de plusieurs <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn>.
 
 Au lieu de choisir un coordinateur, une équipe peut choisir de s'auto-organiser.
 
 ### Structurer l'organisation
 
-La structure organisationnelle est la disposition réelle des <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> et de leurs connexions. Elle reflète la localisation du pouvoir d'influence, et les canaux par lesquels l'information et l'influence circulent.
+La structure organisationnelle est la disposition réelle des <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> et de leurs connexions. Elle reflète la localisation du pouvoir d'influence, et les canaux par lesquels l'information et l'influence circulent.
 
 Faites évoluer votre structure organisationnelle en permanence pour :
 
-- soutenir en continu le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d&#x27;autres intervenants.">flux de valeur</dfn>
+- soutenir en continu le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.">flux de valeur</dfn>
 - permettre une collaboration efficace autour des dépendances
 - assurer que les informations sont disponibles à ceux qui en ont besoin
 - distribuer le pouvoir d'influence au besoin
@@ -2111,7 +2115,7 @@ Les domaines peuvent être liés pour constituer une hiérarchie ou une **hété
 La Sociocratie 3.0 décrit une variété de **modèles de structure** pour structurer l'organisation.
 
 - les modèles de structure S3 s'appliquent à différents niveaux d'abstraction
-- différents modèles structurels servent différentes <dfn data-info="Driver: Le motif d&#x27;un groupe ou d&#x27;une personne pour répondre à une situation particulière.">intentions</dfn>
+- différents modèles structurels servent différentes <dfn data-info="Driver: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.">intentions</dfn>
 - les modèles de structure peuvent être adaptés et combinés au besoin
 - d'autres pratiques existent et seront découvertes
 
@@ -2121,7 +2125,7 @@ La Sociocratie 3.0 décrit une variété de **modèles de structure** pour stru
 
 <strong>Externalisez les services requis par deux domaines ou plus.</strong>
 
-Un cercle de service peut être constitué par des membres des <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> qu'ils servent, et/ou par d'autres personnes aussi.
+Un cercle de service peut être constitué par des membres des <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> qu'ils servent, et/ou par d'autres personnes aussi.
 
 ![Cercle de service](img/structural-patterns/service-circle.png)
 
@@ -2133,9 +2137,9 @@ Pour prendre des décisions de <dfn data-info="Gouvernance: Le processus de fixe
 
 ![Cercle délégué](img/structural-patterns/delegate-circle.png)
 
-Les décisions de gouvernance prises dans un cercle délégué impactent les différents <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> qu'il sert.
+Les décisions de gouvernance prises dans un cercle délégué impactent les différents <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> qu'il sert.
 
-Les cercles délégués fournissent un moyen de piloter les organisations en phase avec le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d&#x27;autres intervenants.">flux de valeur</dfn>, et d'apporter des perspectives diverses dans les décisions de gouvernance.
+Les cercles délégués fournissent un moyen de piloter les organisations en phase avec le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.">flux de valeur</dfn>, et apportent des perspectives diverses dans les décisions de gouvernance.
 
 Un cercle délégué peut amener d'autres personnes (ex: des experts externes) pour l'aider à prendre des décisions particulières, ou même en tant que membre du cercle.
 
@@ -2150,7 +2154,7 @@ Les équipes en périphérie :
 
 Le centre fournit des services internes pour soutenir l'organisation.
 
-Les <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> sont liés si nécessaire pour que l'information circule et pour s'influencer, et pour collaborer autour des dépendances.
+Les <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> sont liés si nécessaire pour que l'information circule et pour s'influencer, et pour collaborer autour des dépendances.
 
 ![Organisation décentralisée](img/structural-patterns/peach-organization.png)
 
@@ -2158,7 +2162,7 @@ Les <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de pris
 
 <strong>Déléguez toute autorité pour prendre des décisions de gouvernance à des cercles auto-gérés, reliés par deux liens à tous les niveaux de la hiérarchie, pour transiter d'une hiérarchie traditionnelle vers une structure plus à même d'exploiter l'intelligence collective, assurer l'équivalence et construire l'engagement.</strong>
 
-1. Déplacez les prises de décision de gouvernance des individus vers des équipes en formant des <dfn data-info="Cercle: Une équipe autogouvernée et semi-autonome de personnes équivalentes qui collaborent pour s&#x27;occuper d&#x27;un domaine.">cercles</dfn> <dfn data-info="Auto-gouvernance: Ensemble de personnes se gouvernant elles-mêmes selon les contraintes d&#x27;un domaine.">auto-gérés</dfn> à tous les niveaux de votre organisation.
+1. Déplacez les prises de décision de gouvernance des individus vers les équipes en formant des <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">cercles</dfn> <dfn data-info="Cercle: Une équipe autogouvernée et semi-autonome de personnes équivalentes qui collaborent pour s'occuper d'un domaine.">auto-gouvernés</dfn> à tous les niveaux de votre organisation.
 2. Les membres de chaque cercle choisissent l'un de leurs groupes pour représenter leurs intérêts et participer aux prises de décision de la <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn> du prochain cercle supérieur, et vice versa.
 
 Une hiérarchie à double lien :
@@ -2195,9 +2199,9 @@ Si nécessaire, la pratique peut être répétée pour connecter plusieurs organ
 
 ##### Prérequis
 
-Une organisation fractale peut être constituée soit de multiples organisations in(ter-)dépendantes qui partagent une <dfn data-info="Driver: Le motif d&#x27;un groupe ou d&#x27;une personne pour répondre à une situation particulière.">intention</dfn> (primaire) commune, soit par de multiples branches, départements, ou projets au sein d'une organisation plus large.
+Une organisation fractale peut être constituée soit de multiples organisations in(ter-)dépendantes qui partagent une <dfn data-info="Driver: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.">intention</dfn> (primaire) commune, soit par de multiples branches, départements, ou projets au sein d'une organisation plus large.
 
-Ces <dfn data-info="Constituant: Une équipe (par exemple un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l&#x27;autorité à un représentant pour agir en leur nom dans d&#x27;autres équipes ou organisations.">constituants</dfn> (ex : organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
+Ces <dfn data-info="Constituant: Une équipe (par exemple un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l'autorité à un représentant pour agir en leur nom dans d'autres équipes ou organisations.">constituants</dfn> (ex : organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
 
 ##### Niveaux
 
@@ -2307,11 +2311,11 @@ Des pratiques essentielles pour vous y aider :
 
 Des pratiques essentielles pour vous y aider :
 
--   _Clarifier et développer des domaines_ – Une zone d’influence clairement définie, d'activité et de prise de décision sont des conditions préalables à la définition d'une stratégie efficace pour une organisation, une équipe ou un rôle.
--   _Clarifier le résultat attendu_ - Définir le résultat attendu d'une stratégie est un élément essentiel pour surveiller et évaluer son efficacité, et adapter les choses si nécessaire.
--   _Décrire des drivers organisationnels_ – Comprendre le motif pour agir en réponse à une situation donnée est un élément essentiel pour concevoir une stratégie de réponse efficace.
+-   _Clarifier et développer les domaines_ – Une zone clairement définie d’influence, d'activité et de prise de décision est une condition préalable à l'élaboration d'une stratégie efficace pour une organisation, une équipe ou un rôle.
+-   _Clarifier le résultat attendu_ - Définir le résultat attendu d'une stratégie est un élément essentiel pour surveiller et évaluer son efficacité, et adapter les choses lorsque c'est nécessaire.
+-   _Décrire des drivers organisationnels_ – Comprendre le motif pour réagir à une situation donnée est un élément essentiel pour concevoir une stratégie de réponse efficace.
 -   _Clarifier et développer la stratégie_ – Faire en sorte que les parties prenantes collaborent à la création et à l'évolution de la stratégie pour une organisation, un équipe ou un rôle, favorise la création d'une stratégie pertinente et efficace
--   _Évaluer et Evoluer les accords_ – Évaluer la stratégie et la faire évoluer si nécessaire au fil du temps garantit qu'elle reste utile et pertinente pour l'organisation, une équipe ou un rôle.
+-   _Évaluer et faire évoluer les accords_ – Évaluer la stratégie et la faire évoluer si nécessaire au fil du temps garantit qu'elle reste utile et pertinente pour l'organisation, une équipe ou un rôle.
 -   _Critères d'évaluation_ – Définir de critères de succès ou d'échec est nécessaire pour déterminer si la stratégie est efficace ou non.
 
 
@@ -2328,7 +2332,7 @@ Des pratiques essentielles pour vous y aider :
 
 Des pratiques essentielles pour vous y aider :
 
--   _Clarifier et développer des domaines_ – Clarifier le domaine d’influence, d’activité et de prise de décision d’une équipe ou d'un porteur de rôle, leur permet de comprendre la valeur qu'ils sont censés apporter.
+-   _Clarifier et développer les domaines_ – Clarifier le domaine d’influence, d’activité et de prise de décision d’une équipe ou d'un porteur de rôle, leur permet de comprendre la valeur qu'ils sont censés apporter.
 -   _Répondre aux drivers organisationnels_ – Comprendre ce qui nécessite réaction et pourquoi, et veiller à ce que ces choses soient prises en charge, maximise le potentiel de création de valeur.
 -   _Prioriser les backlogs_ – Lorsque vous priorisez votre liste de tâches par valeur,  ceux sur lesquels il faut travailler en premier apparaît évident.
 -   _Limiter le travail en cours_ – Limiter le nombre de tâches simultanées pour les personnes et les équipes, aide à maintenir un flux constant de valeur et encourage la collaboration lorsque le travail est bloqué.
@@ -2386,7 +2390,7 @@ Des pratiques essentielles pour vous y aider :
 -   _Cercle_ – Déléguer l'autonomie à une équipe de s'organiser et de se gouverner dans des contraintes clairement définies, libère la création de valeur en équipe et permet à ceux qui délèguent cette autorité de conserver autant d'influence que nécessaire.
 -   _Clarifier et développer la stratégie_ – Lorsqu'une équipe ou un porteur de rôle développe une stratégie pour créer de la valeur, en accord avec les parties prenantes concernées, cela favorise l'autonomie et établit de la confiance.
 -   _Plan de développement_ – Collaborer avec les parties prenantes concernées pour élaborer un plan d'amélioration, aide les équipes ou les porteurs de rôle à développer leurs compétences et à renforcer la confiance entre toutes les personnes concernées.
--   _Aligner les flux_ – Déplacer la prise de décision au plus près de là où la valeur est créée, tout en conservant l’influence des parties prenantes pertinentes, favorise le flux de valeur, élimine les dépendances inutiles et les lenteurs.
+-   _Fluidifier le travail_ – Déplacer la prise de décision auprès de la création de valeur, tout en conservant l’influence des parties prenantes pertinentes, favorise le flux de valeur, élimine les dépendances inutiles et les lenteurs.
 
 
 
@@ -2398,13 +2402,13 @@ Des pratiques essentielles pour vous y aider :
 Des pratiques essentielles pour vous y aider :
 
 -   _Naviguer par tension_ – Tous les membres de l’organisation qui font attention aux dépendances maximisent le potentiel d’identification et de répondre à des dépendances non gérées.
--   _Clarifier et développer des domaines_ – Lorsque les gens comprennent leurs propres domaines de responsabilité, et ceux des autres aussi, ils comprennent également où la collaboration sur les dépendances sera nécessaire.
+-   _Clarifier et développer les domaines_ – Lorsque les gens comprennent leurs propres domaines de responsabilité, et ceux des autres aussi, ils comprennent également où la collaboration sur les dépendances sera nécessaire.
 -   _Visualiser le travail_ – Visualiser les éléments de travail et les dépendances entre eux, facilite la gestion des dépendances en coopération avec les parties prenantes concernées.
 -   _Répondre aux drivers organisationnels_ Comprendre pourquoi une dépendance existe en premier lieu, et veiller à ce qu'elle soit prise en charge, est essentiel pour collaborer à la gestion ou à la résolution des dépendances.
 -   _Impliquer ceux qui sont impactés_ – Pour traiter les dépendances de manière efficace, il est souvent utile de rassembler les points de vue de tous les intervenants (pertinents) et de les impliquer dans le processus décisionnel.
 -   _Lien_ – Les dépendances entre deux équipes peuvent souvent être traitées efficacement en envoyant un _représentant_ pour la prise de décision de l'autre équipe, veiller à ce que toutes les points de vue pertinents soient pris en considération et à ce que la propriété des décisions soit partagée.
 -   _Cercle délégué_ – Déléguer le pouvoir de créer et de faire évoluer des accords pour gérer des dépendances spécifiques entre équipes, à un cercle de représentants, rassemble des perspectives pertinentes et génère une appropriation entre les parties prenantes.
--   _Aligner les flux_ – Déplacer la prise de décision près de l'endroit où la valeur est créée, rassemble les personnes nécessaires pour prendre des décisions en réponse à des dépendances spécifiques et élimine les goulets d’étranglement superflus.
+-   _Fluidifier le travail_ – Déplacer la prise de décision auprès de la création de valeur, rassemble les personnes nécessaires pour prendre des décisions en réponse à des dépendances spécifiques et élimine les goulets d’étranglement décisionnels superflus.
 -   _Changements organisationnels par flux tirés_ – Inviter et permettre aux personnes d'apporter des changements à la structure organisationnelle, fournit un moyen efficace de gérer les dépendances dont elles ont la responsabilité, facilite l’évolution continue d’une organisation cohérente et efficace.
 
 
@@ -2451,7 +2455,7 @@ Des pratiques essentielles pour vous y aider :
 Des pratiques essentielles pour vous y aider :
 
 -   _Naviguer par tension_ – Tous les membres de l’organisation étant à l'écoute des situations qui pourraient bénéficier de la construction ou du raffinement d’un modèle mental partagé s'accordent avec d'autres afin d'engager dans un dialogue productif.
--   _Clarifier et développer des domaines_ – clarifier et documenter explicitement des domaines de responsabilité garantit un modèle mental partagé concernant les attentes et les responsabilités.
+-   _Clarifier et développer les domaines_ – clarifier et documenter explicitement des domaines de responsabilité garantit un modèle mental partagé concernant les attentes et les responsabilités.
 -   _Clarifier le résultat attendu_ – En s'accordant d'abord sur le résultat attendu d'une activité, d'un projet ou d'un accord proposé, les personnes développent une compréhension partagée d'où aller et peuvent ensuite entamer un dialogue productif sur la façon d'y arriver.
 
 
@@ -2472,19 +2476,28 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 ### Historique des modifications
 
+#### Changements du 15-03-2021
+
+- Mise à jour des Sept Principes
+
+#### Changements du 19-02-2021
+
+- Correction de plusieurs liens cassés dans la version en ligne
+- correction de quelques fautes de frappe
+
 #### Changements du 11-02-2021
 
 - _Cartographier les drivers_: ajout d'explications sur les applications de la pratique et instructions détaillées pour chaque étape du format
 
 #### Changements du 06-02-2021
 
-- Révision des définitions du glossaire pour <dfn data-info="Semi-autonomie: L&#x27;autonomie des personnes à décider par elles-mêmes comment elles créent de la valeur, limitée par les contraintes de leur domaine, et par les objections formulées par le délégant, les représentants ou d&#x27;autres.">Semi-Autonomie</dfn>, <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L&#x27;auto-organisation se produit dans les contraintes d&#x27;un domaine, mais sans l&#x27;influence directe des agents externes. Dans toute organisation ou équipe, l&#x27;auto-organisation coexiste avec l&#x27;influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">Auto-Organisation</dfn> et <dfn data-info="Sociocratie: Une approche où les personnes impactées par des décisions peuvent les influencer sur la base de raisons justifiées.">Sociocratie</dfn>
+- Révision des définitions du glossaire pour <dfn data-info="Semi-autonomie: L'autonomie des personnes à décider par elles-mêmes comment elles créent de la valeur, limitée par les contraintes de leur domaine, et par les objections formulées par le délégant, les représentants ou d'autres.">Semi-Autonomie</dfn>, <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L'auto-organisation se produit dans les contraintes d'un domaine, mais sans l'influence directe des agents externes. Dans toute organisation ou équipe, l'auto-organisation coexiste avec l'influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">Auto-Organisation</dfn> et <dfn data-info="Sociocratie: Une approche où les personnes impactées par des décisions peuvent les influencer sur la base de raisons justifiées.">Sociocratie</dfn>
 - Pratique renommée: *Les personnes impactées décident* en *Impliquer ceux qui décident*
 - Plusieurs petites corrections et révisions
 
 #### Changements du 03-02-2021
 
-- Ajout du **_Framework du Sens Commun_** au Guide Pratique
+- Ajout du **_Common Sense Framework_** au Guide Pratique
 - Une nouvelle structure du Guide Pratique pour retrouver plus facilement les parties pertinentes. 
     - _Qu'est-ce que la Sociocratie 3.0 ?_
     - _Les sept principes_
@@ -2520,12 +2533,12 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 - révision de toutes les illustrations pour un style plus cohérent et une lisibilité accrue
 - introduction révisée : plus d'explications sur les pratiques et les concepts fondamentaux
-- glossaire mis à jour : explication révisée de <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">Délégant</dfn>, <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">Délégué</dfn>, <dfn data-info="Rôle: Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.">Rôle</dfn> et <dfn data-info="Pratique: Un processus, une pratique ou une ligne directrice qui sert de modèle pour répondre avec succès à un type particulier de défi ou d&#x27;opportunité.">Pratique</dfn>, ajouté <dfn data-info="Porteur de rôle: Une personne qui assume la responsabilité d&#x27;un rôle.">Porteur de Rôle</dfn>
+- glossaire mis à jour : explication révisée de <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">Délégant</dfn>, <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">Délégué</dfn>, <dfn data-info="Rôle: Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.">Rôle</dfn> et <dfn data-info="Pratique: Un processus, une pratique ou une ligne directrice qui sert de modèle pour répondre avec succès à un type particulier de défi ou d'opportunité.">Pratique</dfn>, ajouté <dfn data-info="Porteur de rôle: Une personne qui assume la responsabilité d'un rôle.">Porteur de Rôle</dfn>
 
 #### Changements du 29-04-2020
 
 - Introduction : Ajout de *Objection* et *Accord* aux concepts
-- pratique *Objection* renommée en _Tester des Arguments Qualifiés d'Objections_
+- pratique *Objection* renommée en _Tester les objections potentielles_
 - pratique *Accord* renommée en _Consigner les Accords_
 - _Tester des Arguments Qualifiés d'Objections_ : texte révisé et illustration mise à jour
 - _Consigner les accords_ : texte révisé, ajout de plus de détails sur les accords qui pourraient être enregistrés, mise à jour de l'illustration
@@ -2550,7 +2563,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 #### Changements du 03-05-2019
 
-- termes du glossaire raffinés pour <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">entente</dfn>, <dfn data-info="Organisation : Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.">organisation</dfn> et <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>, ajout du terme <dfn data-info="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectif</dfn> au glossaire
+- termes du glossaire raffinés pour <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">entente</dfn>, <dfn data-info="Organisation : Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.">organisation</dfn> et <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>, ajout du terme <dfn data-info="Objectif: Un résultat (particulier) qu'une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectif</dfn> au glossaire
 - Principe de redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - _Contrat de collaboration réussie_: texte révisé
 - _Décrire les Livrables_: ajouts des User Stories comme exemple pour décrire les livrables
@@ -2574,10 +2587,10 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 **Glossaire :**
 
-- ajouté <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
+- ajouté <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
 - mise à jour de la définition de <dfn data-info="Livrable: Un produit, un service, un composant ou un matériel fourni en réponse à un driver organisationnel.">livrable</dfn>
 - suppression de **déclaration d’intention** du texte et du glossaire
-- miss à jour des définitions <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn>, <dfn data-info="Opérations: Faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance.">opérations</dfn>, et <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L&#x27;auto-organisation se produit dans les contraintes d&#x27;un domaine, mais sans l&#x27;influence directe des agents externes. Dans toute organisation ou équipe, l&#x27;auto-organisation coexiste avec l&#x27;influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">auto-organisation</dfn>
+- miss à jour des définitions <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn>, <dfn data-info="Opérations: Faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance.">opérations</dfn>, et <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L'auto-organisation se produit dans les contraintes d'un domaine, mais sans l'influence directe des agents externes. Dans toute organisation ou équipe, l'auto-organisation coexiste avec l'influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">auto-organisation</dfn>
 
 **Illustrations :**
 
@@ -2602,13 +2615,13 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 **Glossaire :**
 
-- **mis à jour:** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, driver primaire, principe, rôle, auto-organisation, semi-autonomie, sous-driver, valeurs
+- **mis à jour:** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, intention primaire, principe, rôle, auto-organisation, semi-autonomie, sous-intention, valeurs
 - **ajoutés:** constituant, coordination, délégation, déclaration d'intention, évoluer (v.), flux de valeur, équipe d'aide, domaine ouvert
-- **supprimé :** driver de pair
+- **supprimé :** intention de pair
 
 **Modifications de l'introduction**
 
-- ajout du driver pour créer Sociocratie 3.0
+- ajout de l'intention pour créer Sociocratie 3.0
 - Les sept principes: 
     - *Le Principe d'Empirisme*: référence supprimée à la "falsification"
     - *Le principe de consentement* est maintenant expliqué plus clairement comme "soulever, chercher et résoudre les objections aux décisions et aux actions"
@@ -2618,7 +2631,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 **Modifications des pratiques :**
 
 - _S'entendre sur les valeurs_: description améliorée
-- _Aligner les flux_: description et illustration améliorées
+- _Fluidifier le travail_: description et illustration améliorées
 - _Adapter les pratiques_: description améliorée
 - _Accord _ : description améliorée, modèle mis à jour
 - _Participation élégante_: Résumé amélioré
@@ -2630,7 +2643,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - _Cercle délégué_: description améliorée
 - _Déléguer l'Influence_: description améliorée
 - _Décrire les livrables_: description améliorée
-- _Décrire les drivers organisationnels_: rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux drivers organisationnels * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les drivers organisationnels
+- _Décrire les intentions organisationnelles_: rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux intentions organisationnelles * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les intentions organisationnelles
 - _Double lien_: description alignée à *Lien*
 - _Hiérarchie à double-lien_: explication détaillée de ce qu'est une hiérarchie à double lien, et comment elle est créée
 - _Evaluer et accepter les ententes_: réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
@@ -2651,7 +2664,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - _Élaborer une proposition_: texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
 - _Représentant_: description améliorée
 - _Intégrer les objections_: mise à jour des deux illustrations
-- _Répondre aux drivers organisationnels_: description améliorée, qualification simplifiée des drivers organisationnels
+- _Répondre aux intentions organisationnelles_: description améliorée, qualification simplifiée des intentions organisationnelles
 - _Rôle_: description améliorée
 - _Sélection des rôle_: description améliorée, ajout de la description de chaque étape
 - _Rounds_: description améliorée
@@ -2667,19 +2680,19 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 **Pratiques ajoutées :**
 
 - _Tour d'accueil_
-- _Co-créer des propositions_
+- _Cocréer des propositions_
 - _Préparer les réunions_
 - _Timeboxer les activités_
 
 #### Changements du 21-03-2018
 
-- renommage de *Décrire les drivers* en *Décrire les drivers organisationnels*
-- _Décrire les drivers organisationnels_: explication des quatre aspects d'une intention : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
+- renommage de *Descendre les intentions* en *Décrire les intentions organisationnelles*
+- _Décrire les intentions organisationnelles_: explication des quatre aspects d'une intention : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
 - ajout de *besoin* au glossaire
 
 #### Changements du 16-11-2017
 
-- légères corrections
+- petites corrections
 - les entrées du glossaire pour *Cercle* et *Rôle* ont été alignées sur le texte des pratiques
 - *Plan de développement* : clarification des responsabilités
 - *Rôle* : l’évolution de la stratégie a été clarifiée
@@ -2708,7 +2721,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 - ajouté "en quoi cela peut m'aider?"
 - ajout de définitions pour la gouvernance, l’auto-organisation, semi-autonomie, opérations d’introduction
-- clarification des domaines et relation aux drivers
+- clarification des domaines et relation aux moteurs
 - concepts fondamentaux développés
 - tous les principes sont maintenant actionnables
 
@@ -2718,7 +2731,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - *Entente*: clarification que le concept d'entente est applicable aux détenteurs de rôles
 - *Clarifier les domaines*: description améliorée
 - *Cercle*: mise à jour de la définition de "cercle", description améliorée
-- *Driver*: mise à jour de la définition de "driver"
+- *Intention*: mise à jour de la définition de "intention"
 - *Plan de développement*: description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec double-lien*: nouvelle illustration
@@ -2727,7 +2740,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - *Carnet* : ajout de détails sur la gouvernance au carnet personnel
 - *Objections* : clarification de la qualification des objections
 - *Evaluation entre pairs*: description améliorée
-- *Répondre aux drivers* : intégration d'informations sur la qualification des moteurs
+- *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
 - *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
 - *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Résoudre les objections* : illustration mise à jour pour mieux refléter le processus
@@ -2751,7 +2764,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
     
     - *Cercle de coordination*
     - *Domaines imbriqués*
-    - *Qualifier un driver*
+    - *Qualification des moteurs*
 
 ### Liste alphabétique de toutes les pratiques
 
@@ -3127,7 +3140,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Alignement:** Le processus d'aligner les actions de l'ensemble des parties d'une organisation aux objectifs de l'organisation.
 
 
-**Amélioration continue (principe):** Évoluer par incréments pour prendre en compte un apprentissage empirique constant.
+**Amélioration continue (principe):** *Examinez régulièrement le résultat de ce que vous faites, puis apportez des améliorations progressives à ce que vous faites et à comment vous le faites, en fonction de ce que vous apprendrez,* afin de vous adapter aux changements quand c'est nécessaire, et de maintenir ou d'améliorer votre efficacité au fil du temps.
 
 
 **Auto-gouvernance:** Ensemble de personnes se gouvernant elles-mêmes selon les contraintes d'un domaine.
@@ -3154,7 +3167,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Complexité:** Un environnement où les inconnus sont inconnus, les liens de cause à effets ne peuvent être compris que rétrospectivement, et où les actions mènent à des changements imprévisibles. [Snowden and Boone]
 
 
-**Consentement (principe):** Soulever, chercher et résoudre les objections aux décisions et aux actions.
+**Consentement (principe):** *Signalez, rechercher et résoudre les objections aux décisions et aux actions,* afin de réduire le risque de conséquences indésirables et de découvrir des améliorations utiles.
 
 
 **Constituant:** Une équipe (par exemple un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l'autorité à un représentant pour agir en leur nom dans d'autres équipes ou organisations.
@@ -3190,13 +3203,13 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Délégué:** Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.
 
 
-**Efficacité (principe):** Allouer du temps seulement à ce qui vous rapproche de vos objectifs.
+**Efficacité (principe):** *Ne consacrer du temps qu'à ce qui vous rapproche de la réalisation des objectifs généraux de votre organisation,* afin de faire le meilleur usage de votre précieux temps, de votre énergie et de vos ressources.
 
 
-**Empirisme (principe):** Tester toutes les hypothèses sur lesquelles vous vous appuyez, par l'expérimentation et l'amélioration en continu.
+**Empirisme (principe):** *Testez toutes les suppositions sur lesquelles vous vous appuyez, à travers des expériences et une évaluation continue,* afin d'apprendre rapidement, comprendre et appréhender la complexité aussi efficacement que possible.
 
 
-**Equivalence (principe):** Impliquer les personnes impactées dans les prises et évolutions des  décisions.
+**Equivalence (principe):** *Impliquer les personnes dans la prise et l'évolution des décisions qui les affectent,* afin d'augmenter l'engagement et la redevabilité, et d'utiliser l'intelligence distribuée pour atteindre et faire évoluer vos objectifs.
 
 
 **Etre redevable de (v.):** prendre la responsabilité de quelque chose.
@@ -3247,7 +3260,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Préoccupation:** Une supposition que faire quelque chose (même en l'absence d'objections) pourrait faire obstacle à une façon (plus) efficace de répondre à un driver organisationnel.
 
 
-**Redevabilité (principe):** Réagir lorsque c'est nécessaire, faire ce que vous avez convenu de faire et assumer la responsabilité de son bon déroulement .
+**Redevabilité (principe):** *Réagissez lorsque quelque chose est nécessaire, faites ce que vous avez accepté de faire et prenez votre part de responsabilité dans  l'organisation,* pour que ce qui doit être fait le soit, que rien ne soit négligé et que tout le monde fasse ce qu'il peut pour contribuer à l'efficacité et à l'intégrité de l'organisation.
 
 
 **Registre:** Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.
@@ -3295,7 +3308,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Tour d'accueil:** Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant vos pensées, vos sentiments, des distractions ou des besoins.
 
 
-**Transparence (principe):** Enregistrer toutes les informations qui sont précieuses pour l'organisation et rendez les accessibles à tous, à moins qu'il y ait un motif de confidentialité.
+**Transparence (principe):** *Enregistrez toutes les informations qui sont précieuses pour l'organisation rendez-les accessibles à tous les membres de l'organisation, à moins qu'il n'y ait une raison de confidentialité,* afin que chacun ait les informations dont il a besoin pour comprendre comment faire son travail d'une manière qui contribue le plus efficacement à l'ensemble.
 
 
 **Valeur:** L'importance ou l'utilité de quelque chose lié à un driver. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").

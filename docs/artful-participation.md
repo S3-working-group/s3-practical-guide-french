@@ -42,7 +42,7 @@ La participation élégante :
     - le reste de mon environnement ?
 
 <div class="bottom-nav">
-<a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="adopt-the-seven-principles.html" title="Lire la suite : Adopter les sept principes">▶ Lire la suite : Adopter les sept principes</a>
+<a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="adopt-the-seven-principles.html" title="">▶ Lire la suite : Adopter les sept principes</a>
 </div>
 
 

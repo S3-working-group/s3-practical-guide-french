@@ -36,7 +36,7 @@ Un ordre du jour typique inclut :
     - [concevoir des domaines](clarify-and-develop-domains.html) et décider comment s'en occuper (ex: de nouveaux [rôles](role.html), [cercles](circle.html), équipes ou [domaines ouverts](open-domain.html))
 
 <div class="bottom-nav">
-<a href="focused-interactions.html" title="Remonter: Cibler les interactions">▲</a> <a href="retrospective.html" title="Lire la suite : Rétrospective">▶ Lire la suite : Rétrospective</a>
+<a href="focused-interactions.html" title="Remonter: Cibler les interactions">▲</a> <a href="retrospective.html" title="">▶ Lire la suite : Rétrospective</a>
 </div>
 
 

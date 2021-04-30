@@ -43,7 +43,7 @@ La façon dont un contrat est négocié peut contribuer de manière significativ
 
 ## Lors de la Co-création d'un contrat :
 
-- assurez-vous que toutes les parties ont une délégation qui inclut la représentation pour tous les <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> concernés (ex: pas seulement les ventes, mais aussi le développement / la production / le support, etc)
+- assurez-vous que toutes les parties ont une délégation qui inclut la représentation pour tous les <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> concernés (ex: pas seulement les ventes, mais aussi le développement / la production / le support, etc)
 - décrivez explicitement la culture que vous voulez développer, en tenant compte des points communs comme des différences culturelles entre les parties
 - indiquez les raisons de la collaboration proposée, et soyez transparent sur les attentes et les besoins de toutes les parties
 - divulguez toutes les informations pertinentes (si nécessaire via un accord de confidentialité)
@@ -74,7 +74,7 @@ Chaque contrat influence la culture de la collaboration qu'il régit, même lors
 Si vous trouvez que les contrats standard dans votre secteur ne sont pas en harmonie avec la culture que vous voulez créer, construisez votre propre référentiel de modèles de contrats et clauses et envisagez de le partager avec d'autres, afin que vous puissiez bénéficier de l'expérience passée lors de la création de nouveaux contrats.
 
 <div class="bottom-nav">
-<a href="breaking-agreements.html" title="Retour à : Enfreindre les accords">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="transparent-salary.html" title="Lire la suite : Transparence salariale">▶ Lire la suite : Transparence salariale</a>
+<a href="breaking-agreements.html" title="Retour à : Enfreindre les accords">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="transparent-salary.html" title="">▶ Lire la suite : Transparence salariale</a>
 </div>
 
 

@@ -19,7 +19,7 @@ Ordre du jour:
 ![Phases d'une réunion de coordination](img/meetings/coordination-meeting.png)
 
 <div class="bottom-nav">
-<a href="planning-and-review-meetings.html" title="Retour à : Réunions de planification et d&#x27;évaluation">◀</a> <a href="focused-interactions.html" title="Remonter: Cibler les interactions">▲</a> <a href="meeting-practices.html" title="Lire la suite : Se réunir">▶ Lire la suite : Se réunir</a>
+<a href="planning-and-review-meetings.html" title="Retour à : Réunions de planification et d&apos;évaluation">◀</a> <a href="focused-interactions.html" title="Remonter: Cibler les interactions">▲</a> <a href="meeting-practices.html" title="">▶ Lire la suite : Se réunir</a>
 </div>
 
 

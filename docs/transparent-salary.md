@@ -22,7 +22,7 @@ Décidez comment gérer la rémunération pour les changements de rôles et [dé
 ![Deux façons d'ouvrir les salaires](img/process/opening-salaries.png)
 
 <div class="bottom-nav">
-<a href="contract-for-successful-collaboration.html" title="Retour à : Contrat de collaboration réussie">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="support-role.html" title="Lire la suite : Rôle de soutien">▶ Lire la suite : Rôle de soutien</a>
+<a href="contract-for-successful-collaboration.html" title="Retour à : Contrat de collaboration réussie">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="support-role.html" title="">▶ Lire la suite : Rôle de soutien</a>
 </div>
 
 

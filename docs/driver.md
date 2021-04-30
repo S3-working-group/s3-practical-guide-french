@@ -23,7 +23,7 @@ En adoptant les concepts de valeur et de gaspillage, de nombreuses pratiques et 
 - la méthode Kanban
 
 <div class="bottom-nav">
-<a href="making-sense-of-organizations.html" title="Remonter: Concepts clés pour comprendre les organisations">▲</a> <a href="domain.html" title="Lire la suite : Domaines">▶ Lire la suite : Domaines</a>
+<a href="making-sense-of-organizations.html" title="Remonter: Concepts clés pour comprendre les organisations">▲</a> <a href="domain.html" title="">▶ Lire la suite : Domaines</a>
 </div>
 
 

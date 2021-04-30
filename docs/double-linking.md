@@ -12,7 +12,7 @@ Le double lien permet une équivalence entre deux équipes et peut être utilis�
 ![Double lien entre deux cercles](img/structural-patterns/double-link.png)
 
 <div class="bottom-nav">
-<a href="linking.html" title="Retour à : Lien">◀</a> <a href="building-organizations.html" title="Remonter: Construire les organisations">▲</a> <a href="representative.html" title="Lire la suite : Représentant">▶ Lire la suite : Représentant</a>
+<a href="linking.html" title="Retour à : Lien">◀</a> <a href="building-organizations.html" title="Remonter: Construire les organisations">▲</a> <a href="representative.html" title="">▶ Lire la suite : Représentant</a>
 </div>
 
 

@@ -16,7 +16,7 @@ Le CSF peut être appliqué au niveau des équipes et de l'organisation dans son
 
 
 <div class="bottom-nav">
-<a href="fractal-organization.html" title="Retour à : Organisation fractale">◀</a> <a href="thrive.html" title="Lire la suite : Une organisation où les collaborateurs ET l&#x27;organisation peuvent prospérer">▶ Lire la suite : Une organisation où les collaborateurs ET l&#x27;organisation peuvent prospérer</a>
+<a href="fractal-organization.html" title="Retour à : Organisation fractale">◀</a> <a href="thrive.html" title="">▶ Lire la suite : Une organisation où les collaborateurs ET l&apos;organisation peuvent prospérer</a>
 </div>
 
 

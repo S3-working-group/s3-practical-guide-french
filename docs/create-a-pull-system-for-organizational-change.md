@@ -13,7 +13,7 @@ Changez les choses lorsqu'il y a un intérêt à le faire :
 - …et laissez-les choisir leur propre rythme.
 
 <div class="bottom-nav">
-<a href="adapt-patterns-to-context.html" title="Retour à : Adapter les pratiques au contexte">◀</a> <a href="bringing-in-s3.html" title="Remonter: Intégrer la S3">▲</a> <a href="be-the-change.html" title="Lire la suite : Incarner le changement">▶ Lire la suite : Incarner le changement</a>
+<a href="adapt-patterns-to-context.html" title="Retour à : Adapter les pratiques au contexte">◀</a> <a href="bringing-in-s3.html" title="Remonter: Intégrer la S3">▲</a> <a href="be-the-change.html" title="">▶ Lire la suite : Incarner le changement</a>
 </div>
 
 

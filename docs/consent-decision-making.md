@@ -19,7 +19,7 @@ Taire des objections peut nuire aux objectifs d’une équipe ou d’une organis
 ![Décider par consentement](img/agreements/consent-decision-making.png)
 
 <div class="bottom-nav">
-<a href="describe-organizational-drivers.html" title="Retour à : Décrire les drivers organisationnels">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="test-arguments-qualify-as-objections.html" title="Lire la suite : Tester les objections potentielles">▶ Lire la suite : Tester les objections potentielles</a>
+<a href="describe-organizational-drivers.html" title="Retour à : Décrire les drivers organisationnels">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="test-arguments-qualify-as-objections.html" title="">▶ Lire la suite : Tester les objections potentielles</a>
 </div>
 
 

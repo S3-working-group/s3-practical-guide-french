@@ -26,7 +26,7 @@ title: "Intégrer la S3"
 
 
 <div class="bottom-nav">
-<a href="open-systems.html" title="Retour à : Systèmes ouverts">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="adapt-patterns-to-context.html" title="Lire la suite : Adapter les pratiques au contexte">▶ Lire la suite : Adapter les pratiques au contexte</a>
+<a href="open-systems.html" title="Retour à : Systèmes ouverts">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="adapt-patterns-to-context.html" title="">▶ Lire la suite : Adapter les pratiques au contexte</a>
 </div>
 
 

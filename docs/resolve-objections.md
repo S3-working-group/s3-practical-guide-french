@@ -16,7 +16,7 @@ Généralement, il est plus efficace de **prendre une objection à la fois**, d'
 ![Un processus pour intégrer les objections](img/agreements/resolve-objections-process.png)
 
 <div class="bottom-nav">
-<a href="test-arguments-qualify-as-objections.html" title="Retour à : Tester les objections potentielles">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="evaluate-and-evolve-agreements.html" title="Lire la suite : Évaluer et développer les accords">▶ Lire la suite : Évaluer et développer les accords</a>
+<a href="test-arguments-qualify-as-objections.html" title="Retour à : Tester les objections potentielles">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="evaluate-and-evolve-agreements.html" title="">▶ Lire la suite : Évaluer et développer les accords</a>
 </div>
 
 

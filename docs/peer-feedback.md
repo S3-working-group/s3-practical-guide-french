@@ -22,7 +22,7 @@ Au cours de la session elle-même, considérez :
 Après la session, passez en revue vos notes et décidez par vous-même ce que vous ferez avec les commentaires que vous avez reçus. Partager votre décision avec votre pair si vous le souhaitez.
 
 <div class="bottom-nav">
-<a href="ask-for-help.html" title="Retour à : Demander un soutien">◀</a> <a href="peer-development.html" title="Remonter: Se développer entre pairs">▲</a> <a href="peer-review.html" title="Lire la suite : Évaluation entre pairs">▶ Lire la suite : Évaluation entre pairs</a>
+<a href="ask-for-help.html" title="Retour à : Demander un soutien">◀</a> <a href="peer-development.html" title="Remonter: Se développer entre pairs">▲</a> <a href="peer-review.html" title="">▶ Lire la suite : Évaluation entre pairs</a>
 </div>
 
 

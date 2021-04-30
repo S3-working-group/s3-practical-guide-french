@@ -12,7 +12,7 @@ Le résultat attendu peut être utilisé pour définir les [critères d'évaluat
 ![Résultats attendus, et critères d'évaluation](img/templates/outcome-and-criteria.png)
 
 <div class="bottom-nav">
-<a href="clarify-and-develop-domains.html" title="Retour à : Clarifier et développer les domaines">◀</a> <a href="defining-agreements.html" title="Remonter: Élaborer des accords">▲</a> <a href="describe-deliverables.html" title="Lire la suite : Décrire les livrables">▶ Lire la suite : Décrire les livrables</a>
+<a href="clarify-and-develop-domains.html" title="Retour à : Clarifier et développer les domaines">◀</a> <a href="defining-agreements.html" title="Remonter: Élaborer des accords">▲</a> <a href="describe-deliverables.html" title="">▶ Lire la suite : Décrire les livrables</a>
 </div>
 
 

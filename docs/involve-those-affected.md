@@ -13,7 +13,7 @@ Pour de plus grands groupes :
 Pensez également à inclure les personnes impactées dans l'évaluation et l'évolution des décisions.
 
 <div class="bottom-nav">
-<a href="evaluate-and-evolve-agreements.html" title="Retour à : Évaluer et développer les accords">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="co-create-proposals.html" title="Lire la suite : Cocréer des propositions">▶ Lire la suite : Cocréer des propositions</a>
+<a href="evaluate-and-evolve-agreements.html" title="Retour à : Évaluer et développer les accords">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="co-create-proposals.html" title="">▶ Lire la suite : Cocréer des propositions</a>
 </div>
 
 

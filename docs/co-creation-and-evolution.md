@@ -44,7 +44,7 @@ title: "Cocréer et évoluer"
 
 
 <div class="bottom-nav">
-<a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="respond-to-organizational-drivers.html" title="Lire la suite : Répondre aux drivers organisationnels">▶ Lire la suite : Répondre aux drivers organisationnels</a>
+<a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="respond-to-organizational-drivers.html" title="">▶ Lire la suite : Répondre aux drivers organisationnels</a>
 </div>
 
 

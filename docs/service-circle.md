@@ -5,12 +5,12 @@ title: "Cercle de service"
 
 <strong>Externalisez les services requis par deux domaines ou plus.</strong>
 
-Un cercle de service peut être constitué par des membres des <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> qu'ils servent, et/ou par d'autres personnes aussi.
+Un cercle de service peut être constitué par des membres des <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> qu'ils servent, et/ou par d'autres personnes aussi.
 
 ![Cercle de service](img/structural-patterns/service-circle.png)
 
 <div class="bottom-nav">
-<a href="organizational-structure.html" title="Remonter: Structurer l&#x27;organisation">▲</a> <a href="delegate-circle.html" title="Lire la suite : Cercle délégué">▶ Lire la suite : Cercle délégué</a>
+<a href="organizational-structure.html" title="Remonter: Structurer l&apos;organisation">▲</a> <a href="delegate-circle.html" title="">▶ Lire la suite : Cercle délégué</a>
 </div>
 
 

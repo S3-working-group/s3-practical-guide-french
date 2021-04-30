@@ -37,7 +37,7 @@ S3 promeut une approche fondée sur l'hypothèse pour les prises de décision.
 </dl>
 
 <div class="bottom-nav">
-<a href="continuous-improvement-of-work-process.html" title="Retour à : Amélioration continue des processus de travail">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="record-agreements.html" title="Lire la suite : Consigner les accords">▶ Lire la suite : Consigner les accords</a>
+<a href="continuous-improvement-of-work-process.html" title="Retour à : Amélioration continue des processus de travail">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="record-agreements.html" title="">▶ Lire la suite : Consigner les accords</a>
 </div>
 
 

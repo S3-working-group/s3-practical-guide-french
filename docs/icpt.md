@@ -46,7 +46,7 @@ Je mettrai toutes les ressources S3 que j'adapterai ou créerai sous une licence
 Je discuterai d'éventuelles objections concernant les pratiques S3 dans mon groupe d’intervision, et je les transmettrai aux développeurs S3 si je crois qu'elles sont qualifiées.
 
 <div class="bottom-nav">
-<a href="disclaimer.html" title="Retour à : Avertissement">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="acknowledgments.html" title="Lire la suite : Remerciements">▶ Lire la suite : Remerciements</a>
+<a href="disclaimer.html" title="Retour à : Avertissement">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="acknowledgments.html" title="">▶ Lire la suite : Remerciements</a>
 </div>
 
 

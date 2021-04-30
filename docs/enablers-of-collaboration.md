@@ -35,7 +35,7 @@ title: "Catalyser la collaboration"
 
 
 <div class="bottom-nav">
-<a href="development-plan.html" title="Retour à : Plan de développement">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="artful-participation.html" title="Lire la suite : Participation active">▶ Lire la suite : Participation active</a>
+<a href="development-plan.html" title="Retour à : Plan de développement">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="artful-participation.html" title="">▶ Lire la suite : Participation active</a>
 </div>
 
 

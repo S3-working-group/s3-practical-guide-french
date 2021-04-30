@@ -3,11 +3,11 @@ title: "Structurer l'organisation"
 ---
 
 
-La structure organisationnelle est la disposition réelle des <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> et de leurs connexions. Elle reflète la localisation du pouvoir d'influence, et les canaux par lesquels l'information et l'influence circulent.
+La structure organisationnelle est la disposition réelle des <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> et de leurs connexions. Elle reflète la localisation du pouvoir d'influence, et les canaux par lesquels l'information et l'influence circulent.
 
 Faites évoluer votre structure organisationnelle en permanence pour :
 
-- soutenir en continu le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d&#x27;autres intervenants.">flux de valeur</dfn>
+- soutenir en continu le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.">flux de valeur</dfn>
 - permettre une collaboration efficace autour des dépendances
 - assurer que les informations sont disponibles à ceux qui en ont besoin
 - distribuer le pouvoir d'influence au besoin
@@ -19,7 +19,7 @@ Les domaines peuvent être liés pour constituer une hiérarchie ou une **hété
 La Sociocratie 3.0 décrit une variété de **modèles de structure** pour structurer l'organisation.
 
 - les modèles de structure S3 s'appliquent à différents niveaux d'abstraction
-- différents modèles structurels servent différentes <dfn data-info="Driver: Le motif d&#x27;un groupe ou d&#x27;une personne pour répondre à une situation particulière.">intentions</dfn>
+- différents modèles structurels servent différentes <dfn data-info="Driver: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.">intentions</dfn>
 - les modèles de structure peuvent être adaptés et combinés au besoin
 - d'autres pratiques existent et seront découvertes
 
@@ -45,7 +45,7 @@ La Sociocratie 3.0 décrit une variété de **modèles de structure** pour stru
 </dl>
 
 <div class="bottom-nav">
-<a href="coordinator.html" title="Retour à : Coordinateur">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="service-circle.html" title="Lire la suite : Cercle de service">▶ Lire la suite : Cercle de service</a>
+<a href="coordinator.html" title="Retour à : Coordinateur">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="service-circle.html" title="">▶ Lire la suite : Cercle de service</a>
 </div>
 
 

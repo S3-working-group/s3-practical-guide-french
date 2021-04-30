@@ -16,7 +16,7 @@ En aucun cas une liste exhaustive, nous aimerions témoigner notre appréciation
 Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Sonja Blignaut, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, François Knuchel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
 
 <div class="bottom-nav">
-<a href="icpt.html" title="Retour à : L&#x27;engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="authors.html" title="Lire la suite : Auteurs">▶ Lire la suite : Auteurs</a>
+<a href="icpt.html" title="Retour à : L&apos;engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="authors.html" title="">▶ Lire la suite : Auteurs</a>
 </div>
 
 

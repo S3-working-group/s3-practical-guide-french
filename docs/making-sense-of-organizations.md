@@ -18,7 +18,7 @@ Lorsque les gens comprennent ces concepts, cela leur donne un langage commun pou
 Si vous ne comprenez pas l'un de ces termes, consultez notre glossaire à la fin.
 
 <div class="bottom-nav">
-<a href="principles.html" title="Retour à : Les sept principes">◀</a> <a href="driver.html" title="Lire la suite : Drivers">▶ Lire la suite : Drivers</a>
+<a href="principles.html" title="Retour à : Les sept principes">◀</a> <a href="driver.html" title="">▶ Lire la suite : Drivers</a>
 </div>
 
 

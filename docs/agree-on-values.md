@@ -23,7 +23,7 @@ Les valeurs choisies sont un accord sujet à une **évaluation régulière**.
 ![Les valeurs choisies définissent les contraintes de collaboration](img/collaboration-values/chosen-values.png)
 
 <div class="bottom-nav">
-<a href="adopt-the-seven-principles.html" title="Retour à : Adopter les sept principes">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="governance-facilitator.html" title="Lire la suite : Facilitateur de la gouvernance">▶ Lire la suite : Facilitateur de la gouvernance</a>
+<a href="adopt-the-seven-principles.html" title="Retour à : Adopter les sept principes">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="governance-facilitator.html" title="">▶ Lire la suite : Facilitateur de la gouvernance</a>
 </div>
 
 

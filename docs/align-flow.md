@@ -16,10 +16,10 @@ Atteignez et maintenez l'alignement des flux à travers l'amélioration continue
 
 Lorsque les prises de décision s'effectuent près de là où est créée la valeur, et que le flux d'information soutient un flux de valeur continu régulier, le risque de gaspillage est réduit.
 
-![Aligner le flux d'informations pour soutenir le flux de valeur](img/workflow-and-value/align-flow.png)
+![Aligner le flux d'information avec le flux de valeur](img/workflow-and-value/align-flow.png)
 
 <div class="bottom-nav">
-<a href="timebox-activities.html" title="Retour à : Timeboxer les activités">◀</a> <a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="coordinator.html" title="Lire la suite : Coordinateur">▶ Lire la suite : Coordinateur</a>
+<a href="timebox-activities.html" title="Retour à : Timeboxer les activités">◀</a> <a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="coordinator.html" title="">▶ Lire la suite : Coordinateur</a>
 </div>
 
 

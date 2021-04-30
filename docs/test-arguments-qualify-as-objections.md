@@ -33,7 +33,7 @@ Quelques questions utiles :
 
 
 <div class="bottom-nav">
-<a href="consent-decision-making.html" title="Retour à : Décider par consentement">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="resolve-objections.html" title="Lire la suite : Intégrer les objections">▶ Lire la suite : Intégrer les objections</a>
+<a href="consent-decision-making.html" title="Retour à : Décider par consentement">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="resolve-objections.html" title="">▶ Lire la suite : Intégrer les objections</a>
 </div>
 
 

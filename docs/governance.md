@@ -1,5 +1,5 @@
 ---
-title: "Gouvernance et opérations"
+title: "Gouvernance et Opérations"
 ---
 
 
@@ -9,7 +9,7 @@ Une plus grande autonomie des individus et des équipes nécessite des accords c
 
 Bien qu'une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, pour créer des accords plus conséquents qui contraignent le comportement et l’activité des gens, il est souvent bénéfique d’adopter un [processus de décision](consent-decision-making.html) plus participatif et plus délibéré.
 
-De tels accords doivent être documentés, à la fois pour se les rappeler mais aussi faire efficacement une [évaluation](evaluate-and-evolve-agreements.html), et doivent être communiqués aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](those-affected-decide.html) de ces accords).
+De tels accords doivent être documentés, à la fois pour s'en souvenir mais aussi pour en faire efficacement une [évaluation](evaluate-and-evolve-agreements.html), et pour être communiqués aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](involve-those-affected.html) de ces accords).
 
 Il est donc utile de distinguer deux catégories d’activités dans une organisation, l'une que nous appelons la gouvernance, et l’autre que nous appelons les opérations :
 
@@ -43,7 +43,7 @@ Les décisions de gouvernance peuvent être prises à tout moment et à n'import
 Selon les contraintes imposées par le délégant, les équipes ont plus ou moins de latitude à mener la gouvernance et à décider comment elles organisent leurs opérations, et sont par conséquent plus ou moins auto-gouvernées et auto-organisées.
 
 <div class="bottom-nav">
-<a href="agreement.html" title="Retour à : Accords">◀</a> <a href="making-sense-of-organizations.html" title="Remonter: Concepts clés pour comprendre les organisations">▲</a> <a href="patterns.html" title="Lire la suite : Les Pratiques">▶ Lire la suite : Les Pratiques</a>
+<a href="agreement.html" title="Retour à : Accords">◀</a> <a href="making-sense-of-organizations.html" title="Remonter: Concepts clés pour comprendre les organisations">▲</a> <a href="patterns.html" title="">▶ Lire la suite : Les Pratiques</a>
 </div>
 
 

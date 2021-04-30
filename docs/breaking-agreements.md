@@ -14,7 +14,7 @@ Soyez responsable :
 - **modifiez l'accord** au lieu de l'enfreindre à plusieurs reprises
 
 <div class="bottom-nav">
-<a href="governance-facilitator.html" title="Retour à : Facilitateur de la gouvernance">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="contract-for-successful-collaboration.html" title="Lire la suite : Contrat de collaboration réussie">▶ Lire la suite : Contrat de collaboration réussie</a>
+<a href="governance-facilitator.html" title="Retour à : Facilitateur de la gouvernance">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="contract-for-successful-collaboration.html" title="">▶ Lire la suite : Contrat de collaboration réussie</a>
 </div>
 
 

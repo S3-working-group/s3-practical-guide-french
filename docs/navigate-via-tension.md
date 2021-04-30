@@ -14,7 +14,7 @@ Pour **découvrir les drivers**, recherchez ce qui stimule la tension, et décri
 ![Naviguer par tension, décrire les drivers organisationnels, Répondre aux drivers organisationnels](img/process/navigate-describe-respond.png)
 
 <div class="bottom-nav">
-<a href="respond-to-organizational-drivers.html" title="Retour à : Répondre aux drivers organisationnels">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="describe-organizational-drivers.html" title="Lire la suite : Décrire les drivers organisationnels">▶ Lire la suite : Décrire les drivers organisationnels</a>
+<a href="respond-to-organizational-drivers.html" title="Retour à : Répondre aux drivers organisationnels">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="describe-organizational-drivers.html" title="">▶ Lire la suite : Décrire les drivers organisationnels</a>
 </div>
 
 

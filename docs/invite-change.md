@@ -17,7 +17,7 @@ En faisant l'invitation :
 Incluez les personnes impliquées et impactées dans l'évaluation régulière des résultats du changement.
 
 <div class="bottom-nav">
-<a href="be-the-change.html" title="Retour à : Incarner le changement">◀</a> <a href="bringing-in-s3.html" title="Remonter: Intégrer la S3">▲</a> <a href="open-space-for-change.html" title="Lire la suite : Changement par forum ouvert">▶ Lire la suite : Changement par forum ouvert</a>
+<a href="be-the-change.html" title="Retour à : Incarner le changement">◀</a> <a href="bringing-in-s3.html" title="Remonter: Intégrer la S3">▲</a> <a href="open-space-for-change.html" title="">▶ Lire la suite : Changement par forum ouvert</a>
 </div>
 
 

@@ -27,7 +27,7 @@ Si vous créez un travail dérivé, vous devez donner le crédit adéquat et ind
 Vous pouvez en savoir plus sur l'attribution sur la [page Creative Commons des meilleures pratiques pour l'attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
 
 <div class="bottom-nav">
-<a href="links.html" title="Retour à : Liens">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="disclaimer.html" title="Lire la suite : Avertissement">▶ Lire la suite : Avertissement</a>
+<a href="links.html" title="Retour à : Liens">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="disclaimer.html" title="">▶ Lire la suite : Avertissement</a>
 </div>
 
 

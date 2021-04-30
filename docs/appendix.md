@@ -15,7 +15,7 @@ title: "Annexe"
 
 
 <div class="bottom-nav">
-<a href="where-to-start.html" title="Retour à : Par où commencer ?">◀</a> <a href="changelog.html" title="Lire la suite : Historique des modifications">▶ Lire la suite : Historique des modifications</a>
+<a href="where-to-start.html" title="Retour à : Par où commencer ?">◀</a> <a href="changelog.html" title="">▶ Lire la suite : Historique des modifications</a>
 </div>
 
 

@@ -12,12 +12,12 @@ Les équipes en périphérie :
 
 Le centre fournit des services internes pour soutenir l'organisation.
 
-Les <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> sont liés si nécessaire pour que l'information circule et pour s'influencer, et pour collaborer autour des dépendances.
+Les <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> sont liés si nécessaire pour que l'information circule et pour s'influencer, et pour collaborer autour des dépendances.
 
 ![Organisation décentralisée](img/structural-patterns/peach-organization.png)
 
 <div class="bottom-nav">
-<a href="delegate-circle.html" title="Retour à : Cercle délégué">◀</a> <a href="organizational-structure.html" title="Remonter: Structurer l&#x27;organisation">▲</a> <a href="double-linked-hierarchy.html" title="Lire la suite : Hiérarchie à double lien">▶ Lire la suite : Hiérarchie à double lien</a>
+<a href="delegate-circle.html" title="Retour à : Cercle délégué">◀</a> <a href="organizational-structure.html" title="Remonter: Structurer l&apos;organisation">▲</a> <a href="double-linked-hierarchy.html" title="">▶ Lire la suite : Hiérarchie à double lien</a>
 </div>
 
 

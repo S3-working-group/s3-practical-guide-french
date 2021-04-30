@@ -10,7 +10,7 @@ Priorisez les éléments de travail pour assurer que les éléments importants s
 Tirer le travail évite de surcharger le système, en particulier lorsque le [travail en cours (WIP) par personne ou par équipe est limité](limit-work-in-progress.html).
 
 <div class="bottom-nav">
-<a href="visualize-work.html" title="Retour à : Visualiser le travail">◀</a> <a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="limit-work-in-progress.html" title="Lire la suite : Limiter le travail en cours">▶ Lire la suite : Limiter le travail en cours</a>
+<a href="visualize-work.html" title="Retour à : Visualiser le travail">◀</a> <a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="limit-work-in-progress.html" title="">▶ Lire la suite : Limiter le travail en cours</a>
 </div>
 
 

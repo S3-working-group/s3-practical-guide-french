@@ -22,7 +22,7 @@ Le **Framework du Sens Commun** (FSC) décrit ce qu'il faut considérer pour bâ
 
 
 <div class="bottom-nav">
-<a href="csf.html" title="Remonter: Un Framework du Sens Commun pour les organisations et les équipes">▲</a> <a href="ten-principles.html" title="Lire la suite : Dix principes pour développer les équipes et les organisations">▶ Lire la suite : Dix principes pour développer les équipes et les organisations</a>
+<a href="csf.html" title="Remonter: Un Framework du Sens Commun pour les organisations et les équipes">▲</a> <a href="ten-principles.html" title="">▶ Lire la suite : Dix principes pour développer les équipes et les organisations</a>
 </div>
 
 

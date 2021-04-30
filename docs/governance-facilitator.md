@@ -8,7 +8,7 @@ title: "Facilitateur de la gouvernance"
 Un facilitateur de <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn> :
 
 - s'assure que les [réunions de gouvernance](governance-meeting.html) restent sur la bonne voie et sont évaluées
-- est (habituellement) sélectionné par une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> parmi ses membres (et pour une durée spécifique)
+- est (habituellement) sélectionné par une <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> parmi ses membres (et pour une durée spécifique)
 - se familiarise avec le [backlog de gouvernance](governance-backlog.html)
 - invite souvent d'autres à faciliter certains points de l'ordre du jour
 
@@ -25,7 +25,7 @@ En tant que facilitateur de gouvernance, envisagez d'apprendre et d'utiliser les
 ![Le facilitateur de gouvernance est typiquement membre de l'équipe](img/circle/facilitator.png)
 
 <div class="bottom-nav">
-<a href="agree-on-values.html" title="Retour à : S&#x27;entendre sur les valeurs">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="breaking-agreements.html" title="Lire la suite : Enfreindre les accords">▶ Lire la suite : Enfreindre les accords</a>
+<a href="agree-on-values.html" title="Retour à : S&apos;entendre sur les valeurs">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="breaking-agreements.html" title="">▶ Lire la suite : Enfreindre les accords</a>
 </div>
 
 

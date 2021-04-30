@@ -15,7 +15,7 @@ title: "Point quotidien"
 ![Le point quotidien est une réunion essentielle pour les équipes auto-organisées.](img/meetings/planning-review-standup.png)
 
 <div class="bottom-nav">
-<a href="retrospective.html" title="Retour à : Rétrospective">◀</a> <a href="focused-interactions.html" title="Remonter: Cibler les interactions">▲</a> <a href="planning-and-review-meetings.html" title="Lire la suite : Réunions de planification et d&#x27;évaluation">▶ Lire la suite : Réunions de planification et d&#x27;évaluation</a>
+<a href="retrospective.html" title="Retour à : Rétrospective">◀</a> <a href="focused-interactions.html" title="Remonter: Cibler les interactions">▲</a> <a href="planning-and-review-meetings.html" title="">▶ Lire la suite : Réunions de planification et d&apos;évaluation</a>
 </div>
 
 

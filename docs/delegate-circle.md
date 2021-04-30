@@ -9,14 +9,14 @@ Pour prendre des décisions de <dfn data-info="Gouvernance: Le processus de fixe
 
 ![Cercle délégué](img/structural-patterns/delegate-circle.png)
 
-Les décisions de gouvernance prises dans un cercle délégué impactent les différents <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> qu'il sert.
+Les décisions de gouvernance prises dans un cercle délégué impactent les différents <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> qu'il sert.
 
-Les cercles délégués fournissent un moyen de piloter les organisations en phase avec le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d&#x27;autres intervenants.">flux de valeur</dfn>, et d'apporter des perspectives diverses dans les décisions de gouvernance.
+Les cercles délégués fournissent un moyen de piloter les organisations en phase avec le <dfn data-info="Flux de valeur: Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.">flux de valeur</dfn>, et apportent des perspectives diverses dans les décisions de gouvernance.
 
 Un cercle délégué peut amener d'autres personnes (ex: des experts externes) pour l'aider à prendre des décisions particulières, ou même en tant que membre du cercle.
 
 <div class="bottom-nav">
-<a href="service-circle.html" title="Retour à : Cercle de service">◀</a> <a href="organizational-structure.html" title="Remonter: Structurer l&#x27;organisation">▲</a> <a href="peach-organization.html" title="Lire la suite : Organisation décentralisée">▶ Lire la suite : Organisation décentralisée</a>
+<a href="service-circle.html" title="Retour à : Cercle de service">◀</a> <a href="organizational-structure.html" title="Remonter: Structurer l&apos;organisation">▲</a> <a href="peach-organization.html" title="">▶ Lire la suite : Organisation décentralisée</a>
 </div>
 
 

@@ -40,7 +40,7 @@ Nous partageons la nouvelle documentation que nous créons, décrivons et expliq
 Pour savoir comment contribuer au développement de S3, remdez-vous sur <https://sociocracy30.org/contribute/>
 
 <div class="bottom-nav">
-<a href="acknowledgments.html" title="Retour à : Remerciements">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="glossary.html" title="Lire la suite : Glossaire">▶ Lire la suite : Glossaire</a>
+<a href="acknowledgments.html" title="Retour à : Remerciements">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="glossary.html" title="">▶ Lire la suite : Glossaire</a>
 </div>
 
 

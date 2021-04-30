@@ -13,18 +13,18 @@ Les outils typiques pour tenir les registres sont les wikis (par exemple [Dokuwi
 
 Contenu relatif à l'ensemble de l'organisation :
 
-- <dfn data-info="Driver Primaire: Le driver primaire d&#x27;un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">driver primaire</dfn>, <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</dfn> et <dfn data-info="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un driver.">valeurs</dfn> de l'organisation
-- structure organisationnelle (<dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> et les connexions entre eux)
+- <dfn data-info="Driver Primaire: Le driver primaire d'un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">driver primaire</dfn>, <dfn data-info="Stratégie: Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.">stratégie</dfn> et <dfn data-info="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'un driver.">valeurs</dfn> de l'organisation
+- structure organisationnelle (<dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> et les connexions entre eux)
 - <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">accords</dfn>
 
 Contenu relatif à une équipe particulière ou un <dfn data-info="Rôle: Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.">rôle</dfn>:
 
 - la description et la stratégie du domaine
-- accords (en précisant les <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn>, les descriptions de domaine, stratégies et [plans de développement](development-plan.html))
-- Les <dfn data-info="Backlog: Une liste (souvent priorisée)  d&#x27;éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlogs</dfn> et autres informations relatives au travail et à la <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn>
+- accords (en précisant les <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</dfn>, les descriptions de domaine, stratégies et [plans de développement](development-plan.html))
+- Les <dfn data-info="Backlog: Une liste (souvent priorisée)  d'éléments de travail à faire (livrables) ou de drivers en attente de traitement.">backlogs</dfn> et autres informations relatives au travail et à la <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn>
 
 <div class="bottom-nav">
-<a href="evaluation-criteria.html" title="Retour à : Critères d&#x27;évaluation">◀</a> <a href="defining-agreements.html" title="Remonter: Élaborer des accords">▲</a> <a href="logbook-keeper.html" title="Lire la suite : Gardien du registre">▶ Lire la suite : Gardien du registre</a>
+<a href="evaluation-criteria.html" title="Retour à : Critères d&apos;évaluation">◀</a> <a href="defining-agreements.html" title="Remonter: Élaborer des accords">▲</a> <a href="logbook-keeper.html" title="">▶ Lire la suite : Gardien du registre</a>
 </div>
 
 

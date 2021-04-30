@@ -23,7 +23,7 @@ title: "Cibler les interactions"
 
 
 <div class="bottom-nav">
-<a href="logbook-keeper.html" title="Retour à : Gardien du registre">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="governance-meeting.html" title="Lire la suite : Réunion de gouvernance">▶ Lire la suite : Réunion de gouvernance</a>
+<a href="logbook-keeper.html" title="Retour à : Gardien du registre">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="governance-meeting.html" title="">▶ Lire la suite : Réunion de gouvernance</a>
 </div>
 
 

@@ -7,7 +7,7 @@ title: "Préparer les réunions"
 
 Quelques considérations pour préparer avec succès une réunion :
 
-- clarifiez et communiquez le <dfn data-info="Driver: Le motif d&#x27;un groupe ou d&#x27;une personne pour répondre à une situation particulière.">driver</dfn>, et le <dfn data-info="Résultat attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat attendu</dfn> de la réunion
+- clarifiez et communiquez le <dfn data-info="Driver: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.">driver</dfn>, et le <dfn data-info="Résultat attendu: Le résultat escompté d'un accord, d'une action, d'un projet ou d'une stratégie.">résultat attendu</dfn> de la réunion
 - décidez qui inviter
 - créez un ordre du jour
 - planifiez la réunion suffisamment à l'avance, pour que les gens aient le temps de se préparer
@@ -40,7 +40,7 @@ Pour chaque point de l'ordre du jour, convenez :
 - examinez les suggestions d'amélioration de l'évaluation de la dernière réunion et réfléchissez à comment **vous** pourriez les prendre en compte
 
 <div class="bottom-nav">
-<a href="facilitate-meetings.html" title="Retour à : Faciliter les réunions">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="check-in.html" title="Lire la suite : Tour d&#x27;accueil">▶ Lire la suite : Tour d&#x27;accueil</a>
+<a href="facilitate-meetings.html" title="Retour à : Faciliter les réunions">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="check-in.html" title="">▶ Lire la suite : Tour d&apos;accueil</a>
 </div>
 
 

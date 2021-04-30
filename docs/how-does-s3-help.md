@@ -11,7 +11,7 @@ S3 intègre des concepts de base et des pratiques que vous retrouverez dans les 
 
 
 <div class="bottom-nav">
-<a href="what-is-s3.html" title="Remonter: Qu&#x27;est-ce que la Sociocratie 3.0 ?">▲</a> <a href="pattern.html" title="Lire la suite : Une approche pratique du changement organisationnel">▶ Lire la suite : Une approche pratique du changement organisationnel</a>
+<a href="what-is-s3.html" title="Remonter: Qu&apos;est-ce que la Sociocratie 3.0 ?">▲</a> <a href="pattern.html" title="">▶ Lire la suite : Une approche pratique du changement organisationnel</a>
 </div>
 
 

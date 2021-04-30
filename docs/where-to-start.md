@@ -13,7 +13,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 
 <div class="bottom-nav">
-<a href="shared-mental-models.html" title="Retour à : Principe 10 – Construire des modèles mentaux partagés">◀</a> <a href="csf.html" title="Remonter: Un Framework du Sens Commun pour les organisations et les équipes">▲</a> <a href="appendix.html" title="Lire la suite : Annexe">▶ Lire la suite : Annexe</a>
+<a href="shared-mental-models.html" title="Retour à : Principe 10 – Construire des modèles mentaux partagés">◀</a> <a href="csf.html" title="Remonter: Un Framework du Sens Commun pour les organisations et les équipes">▲</a> <a href="appendix.html" title="">▶ Lire la suite : Annexe</a>
 </div>
 
 

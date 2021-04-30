@@ -16,7 +16,7 @@ Dans un tour d'accueil en groupe, permettez aux gens de passer s'ils le souhaite
 Lors du tour d'accueil, dans un environnement nouveau, les personnes peuvent aussi dire leur nom et d'où elles viennent, comme une façon de se présenter. (Conseil : Évitez de parler de fonction, de rang, etc. à moins qu'il y ait une raison de le faire.)
 
 <div class="bottom-nav">
-<a href="prepare-for-meetings.html" title="Retour à : Préparer les réunions">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="evaluate-meetings.html" title="Lire la suite : Évaluer les réunions">▶ Lire la suite : Évaluer les réunions</a>
+<a href="prepare-for-meetings.html" title="Retour à : Préparer les réunions">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="evaluate-meetings.html" title="">▶ Lire la suite : Évaluer les réunions</a>
 </div>
 
 

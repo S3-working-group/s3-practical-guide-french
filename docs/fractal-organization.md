@@ -13,9 +13,9 @@ Si nécessaire, la pratique peut être répétée pour connecter plusieurs organ
 
 ## Prérequis
 
-Une organisation fractale peut être constituée soit de multiples organisations in(ter-)dépendantes qui partagent une <dfn data-info="Driver: Le motif d&#x27;un groupe ou d&#x27;une personne pour répondre à une situation particulière.">intention</dfn> (primaire) commune, soit par de multiples branches, départements, ou projets au sein d'une organisation plus large.
+Une organisation fractale peut être constituée soit de multiples organisations in(ter-)dépendantes qui partagent une <dfn data-info="Driver: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.">intention</dfn> (primaire) commune, soit par de multiples branches, départements, ou projets au sein d'une organisation plus large.
 
-Ces <dfn data-info="Constituant: Une équipe (par exemple un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l&#x27;autorité à un représentant pour agir en leur nom dans d&#x27;autres équipes ou organisations.">constituants</dfn> (ex : organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaines</dfn> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
+Ces <dfn data-info="Constituant: Une équipe (par exemple un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l'autorité à un représentant pour agir en leur nom dans d'autres équipes ou organisations.">constituants</dfn> (ex : organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaines</dfn> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
 
 ## Niveaux
 
@@ -43,7 +43,7 @@ Les deuxième et troisième niveaux :
 - organisent, alignent et pilotent le système entier tout en préservant l'autonomie et les buts de chaque constituant
 
 <div class="bottom-nav">
-<a href="service-organization.html" title="Retour à : Organisation de service">◀</a> <a href="organizational-structure.html" title="Remonter: Structurer l&#x27;organisation">▲</a> <a href="csf.html" title="Lire la suite : Un Framework du Sens Commun pour les organisations et les équipes">▶ Lire la suite : Un Framework du Sens Commun pour les organisations et les équipes</a>
+<a href="service-organization.html" title="Retour à : Organisation de service">◀</a> <a href="organizational-structure.html" title="Remonter: Structurer l&apos;organisation">▲</a> <a href="csf.html" title="">▶ Lire la suite : Un Framework du Sens Commun pour les organisations et les équipes</a>
 </div>
 
 

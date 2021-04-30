@@ -22,7 +22,7 @@ Plusieurs types de backlog existent :
 
 Chaque entrée d'un backlog (priorisé) contient typiquement :
 
-- une **brève description** d'un <dfn data-info="Livrable: Un produit, un service, un composant ou un matériel fourni en réponse à un driver organisationnel.">livrable</dfn> ou d'une <dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intention</dfn>
+- une **brève description** d'un <dfn data-info="Livrable: Un produit, un service, un composant ou un matériel fourni en réponse à un driver organisationnel.">livrable</dfn> ou d'une <dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">intention</dfn>
 - un **numéro de référence unique** (ou lien) pour chaque tâche
 - (l'ordre des **éléments**)
 - les **dépendances** envers d'autres éléments de travail ou projets
@@ -31,7 +31,7 @@ Chaque entrée d'un backlog (priorisé) contient typiquement :
 - (optionnel) une estimation des **investissements** (souvent de temps ou de complexité)
 
 <div class="bottom-nav">
-<a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="prioritize-backlogs.html" title="Lire la suite : Prioriser les backlogs">▶ Lire la suite : Prioriser les backlogs</a>
+<a href="organizing-work.html" title="Remonter: Organiser le travail">▲</a> <a href="prioritize-backlogs.html" title="">▶ Lire la suite : Prioriser les backlogs</a>
 </div>
 
 

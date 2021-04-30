@@ -45,7 +45,7 @@ Suivi :
 - Prendre en considération les effets de tout accord connexe.
 
 <div class="bottom-nav">
-<a href="resolve-objections.html" title="Retour à : Intégrer les objections">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="involve-those-affected.html" title="Lire la suite : Impliquer ceux qui sont impactés">▶ Lire la suite : Impliquer ceux qui sont impactés</a>
+<a href="resolve-objections.html" title="Retour à : Intégrer les objections">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="involve-those-affected.html" title="">▶ Lire la suite : Impliquer ceux qui sont impactés</a>
 </div>
 
 

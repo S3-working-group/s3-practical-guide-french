@@ -3,7 +3,7 @@ title: "Qu'est-ce que la Sociocratie 3.0 ?"
 ---
 
 
-La Sociocratie 3.0 — ou "S3" — est une <dfn data-info="Technologie sociale: La technologie sociale est tout processus, toute technique, toute méthode, toute compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l&#x27;atteinte d&#x27;objectifs communs et mener des interactions et échanges sensés.">technologie sociale</dfn> pour développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, ou des collaborations interministérielles.
+La Sociocratie 3.0 — ou "S3" — est une <dfn data-info="Technologie sociale: La technologie sociale est tout processus, toute technique, toute méthode, toute compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l'atteinte d'objectifs communs et mener des interactions et échanges sensés.">technologie sociale</dfn> pour développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, ou des collaborations interministérielles.
 
 A l’intérieur de ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
 
@@ -20,7 +20,7 @@ L'utilisation de S3 peut **vous aider à atteindre vos objectifs** et traverser 
 
 
 <div class="bottom-nav">
-<a href="how-does-s3-help.html" title="Lire la suite : Comment la Sociocratie 3.0 peut-elle aider ?">▶ Lire la suite : Comment la Sociocratie 3.0 peut-elle aider ?</a>
+<a href="how-does-s3-help.html" title="">▶ Lire la suite : Comment la Sociocratie 3.0 peut-elle aider ?</a>
 </div>
 
 

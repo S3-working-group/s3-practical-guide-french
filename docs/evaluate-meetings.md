@@ -19,7 +19,7 @@ Quelques formats courts que vous pouvez utiliser :
 
 ## Évaluer les réunions : format long
 
-Faites un [tour de table](round.html) pour réfléchir à n'importe lequel des sujets suivants dans un bref échange, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
+Faites un [tour de table](rounds.html) pour réfléchir à n'importe lequel des sujets suivants lors d'un bref échange, et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
 
 - efficacité et format
 - facilitation et participation
@@ -29,7 +29,7 @@ Faites un [tour de table](round.html) pour réfléchir à n'importe lequel des s
 - idées folles et suggestions radicales (et si...)
 
 <div class="bottom-nav">
-<a href="check-in.html" title="Retour à : Tour d&#x27;accueil">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="meeting-host.html" title="Lire la suite : Hôte de réunion">▶ Lire la suite : Hôte de réunion</a>
+<a href="check-in.html" title="Retour à : Tour d&apos;accueil">◀</a> <a href="meeting-practices.html" title="Remonter: Se réunir">▲</a> <a href="meeting-host.html" title="">▶ Lire la suite : Hôte de réunion</a>
 </div>
 
 

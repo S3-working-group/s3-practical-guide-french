@@ -18,7 +18,7 @@ Partagez les adaptations intéressantes avec la communauté S3.
 ![Phases d'adaptation des pratiques à un contexte spécifique](img/process/adapt-pattern-to-context.png)
 
 <div class="bottom-nav">
-<a href="bringing-in-s3.html" title="Remonter: Intégrer la S3">▲</a> <a href="create-a-pull-system-for-organizational-change.html" title="Lire la suite : Changements organisationnels par flux tirés">▶ Lire la suite : Changements organisationnels par flux tirés</a>
+<a href="bringing-in-s3.html" title="Remonter: Intégrer la S3">▲</a> <a href="create-a-pull-system-for-organizational-change.html" title="">▶ Lire la suite : Changements organisationnels par flux tirés</a>
 </div>
 
 

@@ -11,7 +11,7 @@ Au lieu de simplement affecter des personnes aux [rôles](role.html), ou de fair
 - augmenter l'appropriation de la décision
 - assurer le soutien des personnes impactées au porteur de rôle.
 
-Une condition préalable au processus de sélection est une [description claire](clarify-and-develop-domains.html) du <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn>.
+Une condition préalable au processus de sélection est une [description claire](clarify-and-develop-domains.html) du <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn>.
 
 ## Sélection de rôles - Étapes
 
@@ -37,7 +37,7 @@ Parfois, une sélection de rôles révèle un manque de capacité, d'expérience
 Cette pratique peut également être utilisée dans toute situation où il est nécessaire de choisir entre plusieurs options.
 
 <div class="bottom-nav">
-<a href="proposal-forming.html" title="Retour à : Élaborer une proposition">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="driver-mapping.html" title="Lire la suite : Cartographier les drivers">▶ Lire la suite : Cartographier les drivers</a>
+<a href="proposal-forming.html" title="Retour à : Élaborer une proposition">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="driver-mapping.html" title="">▶ Lire la suite : Cartographier les drivers</a>
 </div>
 
 

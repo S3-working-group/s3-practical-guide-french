@@ -14,7 +14,7 @@ Les valeurs d'une organisation doivent supporter les sept principes.
 ![Les valeurs d'une organisation doivent supporter les sept principes](img/collaboration-values/values-7principles.png)
 
 <div class="bottom-nav">
-<a href="artful-participation.html" title="Retour à : Participation active">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="agree-on-values.html" title="Lire la suite : S&#x27;entendre sur les valeurs">▶ Lire la suite : S&#x27;entendre sur les valeurs</a>
+<a href="artful-participation.html" title="Retour à : Participation active">◀</a> <a href="enablers-of-collaboration.html" title="Remonter: Catalyser la collaboration">▲</a> <a href="agree-on-values.html" title="">▶ Lire la suite : S&apos;entendre sur les valeurs</a>
 </div>
 
 

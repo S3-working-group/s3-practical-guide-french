@@ -230,7 +230,7 @@ title: "Liste alphabétique de toutes les pratiques"
 
 
 <div class="bottom-nav">
-<a href="changelog.html" title="Retour à : Historique des modifications">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="links.html" title="Lire la suite : Liens">▶ Lire la suite : Liens</a>
+<a href="changelog.html" title="Retour à : Historique des modifications">◀</a> <a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="links.html" title="">▶ Lire la suite : Liens</a>
 </div>
 
 

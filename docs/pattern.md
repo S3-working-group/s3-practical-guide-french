@@ -25,7 +25,7 @@ Dans ce guide, les pratiques sont regroupées en dix catégories pour vous aider
 En fournissant un menu de pratiques à choisir en fonction des besoins, S3 encourage une **approche organique et itérative du changement sans nécessiter un énorme investissement initial** . Elle prend les gens où ils se trouvent et les aide à progresser en ajoutant des pratiques à leur rythme et en fonction de leur contexte particulier.
 
 <div class="bottom-nav">
-<a href="how-does-s3-help.html" title="Retour à : Comment la Sociocratie 3.0 peut-elle aider ?">◀</a> <a href="what-is-s3.html" title="Remonter: Qu&#x27;est-ce que la Sociocratie 3.0 ?">▲</a> <a href="contents.html" title="Lire la suite : Que contient ce guide ?">▶ Lire la suite : Que contient ce guide ?</a>
+<a href="how-does-s3-help.html" title="Retour à : Comment la Sociocratie 3.0 peut-elle aider ?">◀</a> <a href="what-is-s3.html" title="Remonter: Qu&apos;est-ce que la Sociocratie 3.0 ?">▲</a> <a href="contents.html" title="">▶ Lire la suite : Que contient ce guide ?</a>
 </div>
 
 

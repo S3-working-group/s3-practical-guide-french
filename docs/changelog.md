@@ -3,19 +3,28 @@ title: "Historique des modifications"
 ---
 
 
+## Changements du 15-03-2021
+
+- Mise à jour des Sept Principes
+
+## Changements du 19-02-2021
+
+- Correction de plusieurs liens cassés dans la version en ligne
+- correction de quelques fautes de frappe
+
 ## Changements du 11-02-2021
 
 - [Cartographier les drivers](driver-mapping.html): ajout d'explications sur les applications de la pratique et instructions détaillées pour chaque étape du format
 
 ## Changements du 06-02-2021
 
-- Révision des définitions du glossaire pour <dfn data-info="Semi-autonomie: L&#x27;autonomie des personnes à décider par elles-mêmes comment elles créent de la valeur, limitée par les contraintes de leur domaine, et par les objections formulées par le délégant, les représentants ou d&#x27;autres.">Semi-Autonomie</dfn>, <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L&#x27;auto-organisation se produit dans les contraintes d&#x27;un domaine, mais sans l&#x27;influence directe des agents externes. Dans toute organisation ou équipe, l&#x27;auto-organisation coexiste avec l&#x27;influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">Auto-Organisation</dfn> et <dfn data-info="Sociocratie: Une approche où les personnes impactées par des décisions peuvent les influencer sur la base de raisons justifiées.">Sociocratie</dfn>
+- Révision des définitions du glossaire pour <dfn data-info="Semi-autonomie: L'autonomie des personnes à décider par elles-mêmes comment elles créent de la valeur, limitée par les contraintes de leur domaine, et par les objections formulées par le délégant, les représentants ou d'autres.">Semi-Autonomie</dfn>, <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L'auto-organisation se produit dans les contraintes d'un domaine, mais sans l'influence directe des agents externes. Dans toute organisation ou équipe, l'auto-organisation coexiste avec l'influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">Auto-Organisation</dfn> et <dfn data-info="Sociocratie: Une approche où les personnes impactées par des décisions peuvent les influencer sur la base de raisons justifiées.">Sociocratie</dfn>
 - Pratique renommée: *Les personnes impactées décident* en *Impliquer ceux qui décident*
 - Plusieurs petites corrections et révisions
 
 ## Changements du 03-02-2021
 
-- Ajout du **[Framework du Sens Commun](csf.html)** au Guide Pratique
+- Ajout du **[Common Sense Framework](csf.html)** au Guide Pratique
 - Une nouvelle structure du Guide Pratique pour retrouver plus facilement les parties pertinentes. 
     - [Qu'est-ce que la Sociocratie 3.0 ?](what-is-s3.html)
     - [Les sept principes](principles.html)
@@ -51,14 +60,14 @@ title: "Historique des modifications"
 
 - révision de toutes les illustrations pour un style plus cohérent et une lisibilité accrue
 - introduction révisée : plus d'explications sur les pratiques et les concepts fondamentaux
-- glossaire mis à jour : explication révisée de <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">Délégant</dfn>, <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">Délégué</dfn>, <dfn data-info="Rôle: Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.">Rôle</dfn> et <dfn data-info="Pratique: Un processus, une pratique ou une ligne directrice qui sert de modèle pour répondre avec succès à un type particulier de défi ou d&#x27;opportunité.">Pratique</dfn>, ajouté <dfn data-info="Porteur de rôle: Une personne qui assume la responsabilité d&#x27;un rôle.">Porteur de Rôle</dfn>
+- glossaire mis à jour : explication révisée de <dfn data-info="Délégant: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.">Délégant</dfn>, <dfn data-info="Délégué: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">Délégué</dfn>, <dfn data-info="Rôle: Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.">Rôle</dfn> et <dfn data-info="Pratique: Un processus, une pratique ou une ligne directrice qui sert de modèle pour répondre avec succès à un type particulier de défi ou d'opportunité.">Pratique</dfn>, ajouté <dfn data-info="Porteur de rôle: Une personne qui assume la responsabilité d'un rôle.">Porteur de Rôle</dfn>
 
 ## Changements du 29-04-2020
 
 - Introduction : Ajout de *Objection* et *Accord* aux concepts
-- pratique *Objection* renommée en [Tester des Arguments Qualifiés d'Objections](arguments-qualify-as-objections.html)
+- pratique *Objection* renommée en [Tester les objections potentielles](test-arguments-qualify-as-objections.html)
 - pratique *Accord* renommée en [Consigner les Accords](record-agreements.html)
-- [Tester des Arguments Qualifiés d'Objections](arguments-qualify-as-objections.html) : texte révisé et illustration mise à jour
+- [Tester des Arguments Qualifiés d'Objections](test-arguments-qualify-as-objections.html) : texte révisé et illustration mise à jour
 - [Consigner les accords](record-agreements.html) : texte révisé, ajout de plus de détails sur les accords qui pourraient être enregistrés, mise à jour de l'illustration
 
 ## Changements du 22-12-2019
@@ -81,7 +90,7 @@ title: "Historique des modifications"
 
 ## Changements du 03-05-2019
 
-- termes du glossaire raffinés pour <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">entente</dfn>, <dfn data-info="Organisation : Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.">organisation</dfn> et <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>, ajout du terme <dfn data-info="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectif</dfn> au glossaire
+- termes du glossaire raffinés pour <dfn data-info="Accord: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.">entente</dfn>, <dfn data-info="Organisation : Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.">organisation</dfn> et <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn>, ajout du terme <dfn data-info="Objectif: Un résultat (particulier) qu'une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectif</dfn> au glossaire
 - Principe de redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - [Contrat de collaboration réussie](contract-for-successful-collaboration.html): texte révisé
 - [Décrire les Livrables](describe-deliverables.html): ajouts des User Stories comme exemple pour décrire les livrables
@@ -105,10 +114,10 @@ title: "Historique des modifications"
 
 **Glossaire :**
 
-- ajouté <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d&#x27;une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
+- ajouté <dfn data-info="Équipe: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.">équipe</dfn> au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
 - mise à jour de la définition de <dfn data-info="Livrable: Un produit, un service, un composant ou un matériel fourni en réponse à un driver organisationnel.">livrable</dfn>
 - suppression de **déclaration d’intention** du texte et du glossaire
-- miss à jour des définitions <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn>, <dfn data-info="Opérations: Faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance.">opérations</dfn>, et <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L&#x27;auto-organisation se produit dans les contraintes d&#x27;un domaine, mais sans l&#x27;influence directe des agents externes. Dans toute organisation ou équipe, l&#x27;auto-organisation coexiste avec l&#x27;influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">auto-organisation</dfn>
+- miss à jour des définitions <dfn data-info="Gouvernance: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.">gouvernance</dfn>, <dfn data-info="Opérations: Faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance.">opérations</dfn>, et <dfn data-info="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L'auto-organisation se produit dans les contraintes d'un domaine, mais sans l'influence directe des agents externes. Dans toute organisation ou équipe, l'auto-organisation coexiste avec l'influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).">auto-organisation</dfn>
 
 **Illustrations :**
 
@@ -133,13 +142,13 @@ title: "Historique des modifications"
 
 **Glossaire :**
 
-- **mis à jour:** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, driver primaire, principe, rôle, auto-organisation, semi-autonomie, sous-driver, valeurs
+- **mis à jour:** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, intention primaire, principe, rôle, auto-organisation, semi-autonomie, sous-intention, valeurs
 - **ajoutés:** constituant, coordination, délégation, déclaration d'intention, évoluer (v.), flux de valeur, équipe d'aide, domaine ouvert
-- **supprimé :** driver de pair
+- **supprimé :** intention de pair
 
 **Modifications de l'introduction**
 
-- ajout du driver pour créer Sociocratie 3.0
+- ajout de l'intention pour créer Sociocratie 3.0
 - Les sept principes: 
     - *Le Principe d'Empirisme*: référence supprimée à la "falsification"
     - *Le principe de consentement* est maintenant expliqué plus clairement comme "soulever, chercher et résoudre les objections aux décisions et aux actions"
@@ -149,7 +158,7 @@ title: "Historique des modifications"
 **Modifications des pratiques :**
 
 - [S'entendre sur les valeurs](agree-on-values.html): description améliorée
-- [Aligner les flux](align-flow.html): description et illustration améliorées
+- [Fluidifier le travail](align-flow.html): description et illustration améliorées
 - [Adapter les pratiques](adapt-patterns-to-context.html): description améliorée
 - [Accord ](record-agreements.html) : description améliorée, modèle mis à jour
 - [Participation élégante](artful-participation.html): Résumé amélioré
@@ -161,7 +170,7 @@ title: "Historique des modifications"
 - [Cercle délégué](delegate-circle.html): description améliorée
 - [Déléguer l'Influence](delegate-influence.html): description améliorée
 - [Décrire les livrables](describe-deliverables.html): description améliorée
-- [Décrire les drivers organisationnels](describe-organizational-drivers.html): rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux drivers organisationnels * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les drivers organisationnels
+- [Décrire les intentions organisationnelles](describe-organizational-drivers.html): rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux intentions organisationnelles * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les intentions organisationnelles
 - [Double lien](double-linking.html): description alignée à *Lien*
 - [Hiérarchie à double-lien](double-linked-hierarchy.html): explication détaillée de ce qu'est une hiérarchie à double lien, et comment elle est créée
 - [Evaluer et accepter les ententes](evaluate-and-evolve-agreements.html): réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
@@ -182,7 +191,7 @@ title: "Historique des modifications"
 - [Élaborer une proposition](proposal-forming.html): texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
 - [Représentant](representative.html): description améliorée
 - [Intégrer les objections](resolve-objections.html): mise à jour des deux illustrations
-- [Répondre aux drivers organisationnels](respond-to-organizational-drivers.html): description améliorée, qualification simplifiée des drivers organisationnels
+- [Répondre aux intentions organisationnelles](respond-to-organizational-drivers.html): description améliorée, qualification simplifiée des intentions organisationnelles
 - [Rôle](role.html): description améliorée
 - [Sélection des rôle](role-selection.html): description améliorée, ajout de la description de chaque étape
 - [Rounds](rounds.html): description améliorée
@@ -198,19 +207,19 @@ title: "Historique des modifications"
 **Pratiques ajoutées :**
 
 - [Tour d'accueil](check-in.html)
-- [Co-créer des propositions](co-create-proposals.html)
+- [Cocréer des propositions](co-create-proposals.html)
 - [Préparer les réunions](prepare-for-meetings.html)
 - [Timeboxer les activités](timebox-activities.html)
 
 ## Changements du 21-03-2018
 
-- renommage de *Décrire les drivers* en *Décrire les drivers organisationnels*
-- [Décrire les drivers organisationnels](describe-organizational-drivers.html): explication des quatre aspects d'une intention : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
+- renommage de *Descendre les intentions* en *Décrire les intentions organisationnelles*
+- [Décrire les intentions organisationnelles](describe-organizational-drivers.html): explication des quatre aspects d'une intention : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
 - ajout de *besoin* au glossaire
 
 ## Changements du 16-11-2017
 
-- légères corrections
+- petites corrections
 - les entrées du glossaire pour *Cercle* et *Rôle* ont été alignées sur le texte des pratiques
 - *Plan de développement* : clarification des responsabilités
 - *Rôle* : l’évolution de la stratégie a été clarifiée
@@ -239,7 +248,7 @@ title: "Historique des modifications"
 
 - ajouté "en quoi cela peut m'aider?"
 - ajout de définitions pour la gouvernance, l’auto-organisation, semi-autonomie, opérations d’introduction
-- clarification des domaines et relation aux drivers
+- clarification des domaines et relation aux moteurs
 - concepts fondamentaux développés
 - tous les principes sont maintenant actionnables
 
@@ -249,7 +258,7 @@ title: "Historique des modifications"
 - *Entente*: clarification que le concept d'entente est applicable aux détenteurs de rôles
 - *Clarifier les domaines*: description améliorée
 - *Cercle*: mise à jour de la définition de "cercle", description améliorée
-- *Driver*: mise à jour de la définition de "driver"
+- *Intention*: mise à jour de la définition de "intention"
 - *Plan de développement*: description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec double-lien*: nouvelle illustration
@@ -258,7 +267,7 @@ title: "Historique des modifications"
 - *Carnet* : ajout de détails sur la gouvernance au carnet personnel
 - *Objections* : clarification de la qualification des objections
 - *Evaluation entre pairs*: description améliorée
-- *Répondre aux drivers* : intégration d'informations sur la qualification des moteurs
+- *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
 - *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
 - *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Résoudre les objections* : illustration mise à jour pour mieux refléter le processus
@@ -282,10 +291,10 @@ title: "Historique des modifications"
     
     - *Cercle de coordination*
     - *Domaines imbriqués*
-    - *Qualifier un driver*
+    - *Qualification des moteurs*
 
 <div class="bottom-nav">
-<a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="pattern-index.html" title="Lire la suite : Liste alphabétique de toutes les pratiques">▶ Lire la suite : Liste alphabétique de toutes les pratiques</a>
+<a href="appendix.html" title="Remonter: Annexe">▲</a> <a href="pattern-index.html" title="">▶ Lire la suite : Liste alphabétique de toutes les pratiques</a>
 </div>
 
 

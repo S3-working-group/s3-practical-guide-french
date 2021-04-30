@@ -26,7 +26,7 @@ title: "Dix principes pour développer les équipes et les organisations"
 
 
 <div class="bottom-nav">
-<a href="thrive.html" title="Retour à : Une organisation où les collaborateurs ET l&#x27;organisation peuvent prospérer">◀</a> <a href="csf.html" title="Remonter: Un Framework du Sens Commun pour les organisations et les équipes">▲</a> <a href="orientation.html" title="Lire la suite : Deux principes pour s&#x27;orienter">▶ Lire la suite : Deux principes pour s&#x27;orienter</a>
+<a href="thrive.html" title="Retour à : Une organisation où les collaborateurs ET l&apos;organisation peuvent prospérer">◀</a> <a href="csf.html" title="Remonter: Un Framework du Sens Commun pour les organisations et les équipes">▲</a> <a href="orientation.html" title="">▶ Lire la suite : Deux principes pour s&apos;orienter</a>
 </div>
 
 

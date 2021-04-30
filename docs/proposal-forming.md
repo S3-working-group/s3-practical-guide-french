@@ -13,7 +13,7 @@ La pratique *Élaborer une proposition* peut également être utilisée par un i
 
 ## Étapes d'élaboration d'une proposition
 
-**Consentir au driver:** Présenter brièvement le<dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn>. *Est-il pertinent pour nous de répondre à ce driver? Y a-t-il des amendements essentiels à ce qui a été présenté?*
+**Consentir au driver:** Présenter brièvement le<dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">driver</dfn>. *Est-il pertinent pour nous de répondre à ce driver? Y a-t-il des amendements essentiels à ce qui a été présenté?*
 
 **Approfondir la compréhension collective du driver** : recueillir les questions essentielles à une meilleure compréhension du driver.
 
@@ -41,7 +41,7 @@ Deux ou trois rédacteurs suffisent généralement. Vérifiez qu'il n'y ait pas 
 ![Processus d'élaboration d'une proposition](img/agreements/proposal-forming.png)
 
 <div class="bottom-nav">
-<a href="co-create-proposals.html" title="Retour à : Cocréer des propositions">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="role-selection.html" title="Lire la suite : Sélectionner les porteurs de rôles">▶ Lire la suite : Sélectionner les porteurs de rôles</a>
+<a href="co-create-proposals.html" title="Retour à : Cocréer des propositions">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="role-selection.html" title="">▶ Lire la suite : Sélectionner les porteurs de rôles</a>
 </div>
 
 

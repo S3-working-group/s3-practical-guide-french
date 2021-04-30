@@ -61,7 +61,7 @@ La *Méthode d'Organisation en Cercles Sociocratiques (SCM)* ne dit "rien" sur l
 La structure organisationnelle selon la *Méthode d'Organisation en Cercles Sociocratiques (SCM)* est modélisée selon une hiérarchie de domaines. Nous constatons une émergence croissante d’environnements collaboratifs multi-parties prenantes et la nécessité d’une plus grande variété de modèles de structure organisationnelle. Une structure organisationnelle évolue naturellement lorsque les flux d'information et l'influence sont graduellement alignés sur le flux de valeur. La *Sociocratie 3.0* propose une variété de modèles de structures qui peuvent être combinés pour faire évoluer de manière flexible la structure de votre organisation lorsque c'est nécessaire.
 
 <div class="bottom-nav">
-<a href="history.html" title="Retour à : Influences et historique de la Sociocratie 3.0">◀</a> <a href="what-is-s3.html" title="Remonter: Qu&#x27;est-ce que la Sociocratie 3.0 ?">▲</a> <a href="principles.html" title="Lire la suite : Les sept principes">▶ Lire la suite : Les sept principes</a>
+<a href="history.html" title="Retour à : Influences et historique de la Sociocratie 3.0">◀</a> <a href="what-is-s3.html" title="Remonter: Qu&apos;est-ce que la Sociocratie 3.0 ?">▲</a> <a href="principles.html" title="">▶ Lire la suite : Les sept principes</a>
 </div>
 
 

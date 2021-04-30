@@ -20,7 +20,7 @@ title: "Se développer entre pairs"
 
 
 <div class="bottom-nav">
-<a href="driver-mapping.html" title="Retour à : Cartographier les drivers">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="ask-for-help.html" title="Lire la suite : Demander un soutien">▶ Lire la suite : Demander un soutien</a>
+<a href="driver-mapping.html" title="Retour à : Cartographier les drivers">◀</a> <a href="patterns.html" title="Remonter: Les Pratiques">▲</a> <a href="ask-for-help.html" title="">▶ Lire la suite : Demander un soutien</a>
 </div>
 
 

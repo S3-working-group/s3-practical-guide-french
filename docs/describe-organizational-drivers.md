@@ -5,7 +5,7 @@ title: "Décrire les drivers organisationnels"
 
 <strong>Décrivez les drivers pour mieux les comprendre, les communiquer et vous en souvenir.</strong>
 
-Décrire les <dfn data-info="Driver organisationnel: Un driver (aussi appelée &quot;intention&quot; en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d&#x27;y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">drivers</dfn> peut être fait en groupe ou par un individu. Selon leur perspective, ils peuvent décider d'expliquer un driver comme un **problème** à résoudre ou une **opportunité** à saisir.
+Décrire les <dfn data-info="Driver organisationnel: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.">drivers</dfn> peut être fait en groupe ou par un individu. Selon leur perspective, ils peuvent décider d'expliquer un driver comme un **problème** à résoudre ou une **opportunité** à saisir.
 
 Un moyen simple de décrire un driver est d'expliquer :
 
@@ -51,9 +51,9 @@ Expliquez l'effet de cette situation sur l'organisation :
 
 > *"Nous avons besoin d'une cuisine dans un état utilisable..."*
 
-Expliquez le <dfn data-info="Besoin: L&#x27;absence de quelque chose de voulu ou jugé nécessaire (une exigence).">besoin</dfn> de l'organisation par rapport à cette situation :
+Expliquez le <dfn data-info="Besoin: L'absence de quelque chose de voulu ou jugé nécessaire (une exigence).">besoin</dfn> de l'organisation par rapport à cette situation :
 
-- Le **besoin d'une organisation** est ce qu'une équipe (ou une personne) nécessite pour s'occuper efficacement d'un <dfn data-info="Domaine: Une zone d&#x27;influence, d’activité et de prise de décisions distincte au sein d&#x27;une organisation.">domaine</dfn>.
+- Le **besoin d'une organisation** est ce qu'une équipe (ou une personne) nécessite pour s'occuper efficacement d'un <dfn data-info="Domaine: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.">domaine</dfn>.
 - Soyez précis sur qui a ce besoin ("nous avons besoin", "ils ont besoin", "j'ai besoin").
 - En cas de désaccord sur le besoin, il est utile de prendre du recul par rapport à une solution particulière et se concentrer sur ce qui manque à l'organisation dans cette situation.
 
@@ -63,7 +63,7 @@ Expliquez le <dfn data-info="Besoin: L&#x27;absence de quelque chose de voulu ou
 
 Décrivez l'impact de répondre à ce besoin :
 
-- Expliquez le <dfn data-info="Résultat attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat attendu</dfn>, les bénéfices potentiels ou les opportunités.
+- Expliquez le <dfn data-info="Résultat attendu: Le résultat escompté d'un accord, d'une action, d'un projet ou d'une stratégie.">résultat attendu</dfn>, les bénéfices potentiels ou les opportunités.
 - L’impact peut être évident ou implicite, en particulier lorsque les effets de la situation actuelle sont déjà décrits.
 
 ## Évaluer les drivers
@@ -78,7 +78,7 @@ Quelques questions utiles pour une évaluation :
 - Le driver est-il toujours pertinent ?
 
 <div class="bottom-nav">
-<a href="navigate-via-tension.html" title="Retour à : Naviguer par tension">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="consent-decision-making.html" title="Lire la suite : Décider par consentement">▶ Lire la suite : Décider par consentement</a>
+<a href="navigate-via-tension.html" title="Retour à : Naviguer par tension">◀</a> <a href="co-creation-and-evolution.html" title="Remonter: Cocréer et évoluer">▲</a> <a href="consent-decision-making.html" title="">▶ Lire la suite : Décider par consentement</a>
 </div>
 
 
