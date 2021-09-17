@@ -14,4 +14,4 @@ Selon les contraintes définies par le délégant, les contributeurs peuvent sim
 
 Un délégant est redevable de mener des évaluations régulières pour soutenir l'efficacité du travail et de toute décision prise dans un domaine ouvert.
 
-![Domaine ouvert](img/structural-patterns/open-domain.png)
+![Domaine ouvert](img/structural-patterns/open-team.png)
