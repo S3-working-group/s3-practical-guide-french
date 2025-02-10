@@ -1,4 +1,4 @@
-# Systèmes ouverts
+# Systèmes Ouverts
 
 <summary>
 <strong>Communiquez sciemment et apprenez des personnes qui sont en dehors de votre système.</strong>
@@ -7,4 +7,4 @@
 Les individus, les équipes et les organisations entières peuvent reconnaître l'interdépendance et inviter sciemment des personnes externes à leur système à introduire **connaissance, expérience et influence** pour aider à prendre des décisions et soutenir l'apprentissage collectif.
 
 - Les **experts externes** peuvent offrir une perspective extérieure et apporter des connaissances, leur compréhension et des compétences
-- Les **représentants des parties concernées** peuvent informer et influencer la prise de décision de manière à contribuer aux objectifs globaux (voir [Impliquer ceux qui sont impactés](section:involve-those-affected))
+- Les **représentants des parties concernées** peuvent informer et influencer la prise de décision de manière à contribuer aux objectifs globaux (voir [Impliquer les Concernés](section:involve-those-affected))

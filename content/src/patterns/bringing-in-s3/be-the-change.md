@@ -1,4 +1,4 @@
-# Incarner le changement
+# Incarner le Changement
 
 <summary>
 Montrez l'exemple.

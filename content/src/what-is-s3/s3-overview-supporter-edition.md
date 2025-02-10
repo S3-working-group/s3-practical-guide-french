@@ -19,7 +19,7 @@ La S3 intègre des concepts de base et des pratiques que vous retrouverez dans l
 
 **Dans ce livre, vous découvrirez un ensemble cohérent de plus de 70 pratiques et consignes** pour vous aider à traverser la complexité et améliorer la collaboration :
 
--   **Des formats simples, facilités** qui aident les équipes à utiliser l'intelligence collective du groupe et à traiter progressivement les informations disponibles en améliorant en continu les processus de travail, produits, services et compétences.
+-   **Des formats simples, facilités** qui aident les équipes à utiliser l'intelligence collective du groupe et à traiter progressivement les informations disponibles en améliorant en continu les méthodes de travail, produits, services et compétences.
 -   **Des pratiques de groupe** pour aider les organisations à faire le meilleur usage de leurs talents, en faisant en sorte que **les personnes se soutiennent mutuellement** pour développer leurs compétences, le sens des responsabilités et l'engagement.
 -   **Des outils simples pour clarifier qui fait quoi**, laissant les personnes libres de décider et d'agir autant que possible par elles-même et à l'intérieur d'un cadre clairement défini permettant d'expérimenter et de se développer.
 -   Des modèles pour **structurer votre organisation au-delà des hiérarchies** vers des réseaux flexibles et décentralisés où les flux d'informations et d'influence soutiennent directement la création de valeur.

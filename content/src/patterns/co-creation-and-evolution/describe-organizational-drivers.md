@@ -1,4 +1,4 @@
-# Décrire les drivers organisationnels
+# Décrire les Drivers Organisationnels
 
 <summary>
 <strong>Décrivez les drivers organisationnels pour mieux les comprendre, les communiquer et vous en souvenir.</strong>
@@ -21,7 +21,7 @@ Pas plus d'une ou deux phrases, afin que l'information soit facile à retenir et
 
 En plus du résumé, d'autres détails sur le driver peuvent être conservés dans le registre.
 
-![Décrire les drivers organisationnels](img/process/describe-organizational-drivers.png)
+![Décrire les Drivers Organisationnels](img/process/describe-organizational-drivers.png)
 
 ## Exemple:
 

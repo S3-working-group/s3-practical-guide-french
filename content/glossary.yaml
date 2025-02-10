@@ -29,14 +29,14 @@ terms:
     definition: Un **backlog** (liste à faire) est une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.
     glossary: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.
   chosen-values:
-    name: Valeurs choisies
+    name: Valeurs Choisies
     glossary: Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider ses actions et collaboration en son sein.
   circle:
     name: Cercle
-    definition: Un **cercle** est une équipe autogouvernée et semi-autonome de personnes équivalentes qui collaborent pour s'occuper d'un domaine.
+    definition: Un **cercle** est une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent sur un domaine.
     glossary: Une équipe autogouvernée et semi-autonome de personnes équivalentes qui collaborent pour s'occuper d'un domaine.
   check-in:
-    name: Tour d'accueil
+    name: Tour d'Accueil
     definition:
     glossary: Un bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur comment vous vous sentez, en révélant vos pensées, vos sentiments, vos distractions ou vos besoins.
   complexity:
@@ -55,7 +55,7 @@ terms:
     definition:
     glossary: 'Une équipe (ex : un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l''autorité à un représentant pour agir en leur nom dans d''autres équipes ou organisations.'
   continuous-improvement:
-    name: Amélioration continue (principe)
+    name: Amélioration Continue (principe)
     definition:
     glossary: "**Évaluez régulièrement vos résultats, puis apportez des améliorations progressives à ce que vous faites et à la façon dont vous le faites, en fonction de ce que vous apprendrez,** afin de vous adapter aux changements quand c'est nécessaire, et de maintenir ou d'améliorer votre efficacité au fil du temps."
   coordination:
@@ -93,40 +93,40 @@ terms:
     definition:
     glossary: "**Testez toutes les hypothèses sur lesquelles vous vous appuyez à l'aide d'expériences et d'évaluations en continu,** afin d'apprendre rapidement, de comprendre et d'appréhender la complexité aussi efficacement que possible."
   equivalence:
-    name: Équivalence (principe)
+    name: Equivalence (principe)
     definition:
     glossary: "**Impliquez les personnes dans la prise et l'évolution des décisions qui les affectent,** afin d'augmenter leur sens de l'engagement et de la redevabilité, et d'utiliser l'intelligence distribuée pour atteindre et faire évoluer vos objectifs."
   evolve:
-    name: Évoluer (v.)
+    name: Evoluer (v.)
     glossary: développer graduellement.
   flow-of-value:
-    name: Flux de valeur
+    name: Flux de Valeur
     glossary: Les livrables traversant une organisation vers les clients ou d'autres intervenants.
   governance:
     name: Gouvernance
     definition: "La **Gouvernance** dans une organisation (ou dans un de ses domaines) est le processus qui vise à fixer des objectifs, à prendre et à faire évoluer des décisions qui guident les gens vers l'atteinte de ces objectifs."
     glossary: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l'atteinte de ces objectifs.
   governance-backlog:
-    name: Backlog de gouvernance
+    name: Backlog de Gouvernance
     definition: Un **backlog de gouvernance** est une liste visible et priorisée de sujets (drivers et/ou exigences) liés à la gouvernance d'un domaine.
     glossary: Une liste visible, priorisée de sujets (drivers et/ou exigences) relatifs à la gouvernance d'un domaine.
   intended-outcome:
-    name: Résultat attendu
+    name: Résultat Attendu
     definition:
     glossary: Le résultat escompté d'un accord, d'une action, d'un projet ou d'une stratégie.
   helping-team:
-    name: Équipe de soutien
+    name: Equipe de Soutien
     definition:
     glossary: Une équipe de personnes équivalentes ayant le mandat d'agir sur un ensemble d'exigences spécifiques.
   key-responsibilities:
-    name: Responsabilités clés
+    name: Responsabilités Clés
     glossary: Travail ou prises de décisions essentiels requis au sein d'un domaine.
   logbook:
     name: Registre
     definition:
     glossary: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.
   metric:
-    name: Indicateur (mesuré)
+    name: Indicateur
     definition: Un **indicateur** est une mesure quantifiable utilisée pour suivre et évaluer les progrès, évaluer les résultats et déterminer le succès.
     glossary: Une mesure quantifiable utilisée pour suivre et évaluer les progrès, évaluer les résultats et déterminer le succès
   objection:
@@ -138,7 +138,7 @@ terms:
     definition:
     glossary: Un résultat (particulier) qu'une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.
   open-team:
-    name: Équipe ouverte
+    name: Equipe Ouverte
     definition: Une **équipe ouverte** est un groupe de personnes qui sont invitées à contribuer quand elles le peuvent au travail et à la gouvernance d'un domaine.
     glossary: Un groupe de personnes qui sont invitées à contribuer quand elles le peuvent au travail et à la gouvernance d'un domaine.
   operations:
@@ -146,7 +146,7 @@ terms:
     definition: "Les **Opérations** consistent à faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance."
     glossary: Faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance.
   operations-backlog:
-    name: Backlog des opérations
+    name: Backlog des Opérations
     definition: Un **backlog des opérations** est une liste (typiquement priorisée) visible de choses à faire (livrables).
     glossary: Une liste (typiquement priorisée) visible de choses à faire (livrables).
   organization:
@@ -154,11 +154,11 @@ terms:
     definition:
     glossary: Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
   organizational-driver:
-    name: Driver organisationnel
+    name: Driver Organisationnel
     definition: Un **driver organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).
     glossary: Toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).
   overall-domain:
-    name: Domaine global
+    name: Domaine Global
     definition: Le **domaine global** d'une organisation définit la raison d'être de l'organisation, sa stratégie globale, son modèle d'affaire, et d'autres contraintes standard.
     glossary: Le domaine qui définit la raison d'être de l'organisation, sa stratégie globale, son modèle d'affaire, et d'autres contraintes standard.
   pattern:
@@ -166,7 +166,7 @@ terms:
     definition: Une **pratique** est un processus, une façon de faire ou une ligne directrice qui sert de modèle pour répondre avec succès à un type spécifique de défi ou d'opportunité.
     glossary: Un processus, une pratique ou une ligne directrice qui sert de modèle pour répondre avec succès à un type particulier de défi ou d'opportunité.
   peer-domain:
-    name: Domaines pairs
+    name: Domaines Pairs
     definition:
     glossary: Deux domaines pairs sont contenus dans le même super-domaine immédiat, et peuvent se recouper.
   primary-driver:
@@ -186,11 +186,11 @@ terms:
     definition:
     glossary: Un domaine qui est délégué à un individu, qui devient alors le porteur de rôle.
   role-keeper:
-    name: Porteur de rôle
+    name: Porteur de Rôle
     definition:
     glossary: Une personne qui assume la responsabilité d'un rôle.
   scm:
-    name: Méthode Sociocratique d'organisation par Cercles (MSC)
+    name: Méthode d'organisation par Cercles Sociocratiques (SCM)
     glossary: Une méthode de gouvernance égalitaire pour les organisations basée sur une mentalité sociocratique, développée aux Pays-Bas par Gerard Endenburg.
   self-governance:
     name: Auto-gouvernance
@@ -205,7 +205,7 @@ terms:
     definition:
     glossary: L'autonomie des personnes à décider par elles-mêmes comment elles créent de la valeur, limitée par les contraintes de leur domaine, et par les objections formulées par le délégant, les représentants ou d'autres.
   social-technology:
-    name: Technologie sociale
+    name: Technologie Sociale
     definition: "Une **technologie sociale** est tout processus, technique, méthode, compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — afin de soutenir l'atteinte d'objectifs communs et de mener des interactions et des échanges sensés."
     glossary: Tout processus, technique, méthode, compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — afin de soutenir l'atteinte d'objectifs communs et de mener des interactions et des échanges sensés.
   sociocracy:
@@ -236,7 +236,7 @@ terms:
     definition:
     glossary: Un domaine contenant entièrement un autre domaine.
   team:
-    name: Équipe
+    name: Equipe
     definition:
     glossary: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d'une organisation ou est formée pour la collaboration entre plusieurs organisations.
   tension:
@@ -244,8 +244,8 @@ terms:
     definition:
     glossary: Une expérience personnelle, un symptôme de dissonance entre la perception d'une situation par un individu, et ses attentes ou préférences.
   timebox:
-    name: Timebox (bloc de temps)
-    definition: Une **timebox (bloc de temps)** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
+    name: Bloc de Temps
+    definition: Un **bloc de temps** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
     glossary: Une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite).
   transparency:
     name: Transparence (principe)

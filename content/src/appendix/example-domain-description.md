@@ -19,7 +19,7 @@
 
 **Main Requirement:** We need to elevate the company's brand profile and articulate the unique value proposition of our products to the target market, so that potential customers understand why our product is the right choice for them, leading to increased customer engagement and revenue.
 
-## Responsabilités clés
+## Responsabilités Clés
 
 **Develop and implement a data-driven marketing strategy that targets customer segments more effectively**, to increase market share.– Increasing competition and evolving customer preferences are currently leading to a loss of market share.
 
@@ -119,7 +119,7 @@
 
 **Prioritize marketing initiatives that support strategic organizational goals**, to ensure that marketing efforts contribute to the overarching objectives of the company.
 
-**Report on marketing metrics quarterly to the executive team**, to provide insight into marketing performance and justify budget use. – Executive stakeholders require regular updates to monitor departmental performance and to make informed decisions on future marketing investments.
+**Rapport trimestriel sur les indicateurs marketing à l'équipe dirigeante**, afin de fournir un aperçu de la performance du marketing et de justifier l'utilisation du budget. – Executive stakeholders require regular updates to monitor departmental performance and to make informed decisions on future marketing investments.
 
 ## Défis clés
 
@@ -172,7 +172,7 @@
 - **Customer-centric thinking** to ensure marketing efforts align with customer needs and preferences.
 - **Adaptability to embrace and lead change** in response to market trends, technology developments, and shifts in consumer behavior.
 - **Ethical judgment and professionalism** in representing the company's brand and interacting with stakeholders.
-- **Attention to detail** in crafting marketing materials and analyzing the performance metrics of campaigns.
+- **Attention aux détails** dans la fabrication de matériaux de marketing et l'analyse des indicateurs de performance des campagnes.
 - **Strong collaborative skills** to work with other teams and external partners effectively.
 - **Resilience** in facing and overcoming the setbacks common in dynamic and competitive environments.
 - **Experience paired with open-mindedness** to approach marketing challenges with fresh ideas and new perspectives.
@@ -203,7 +203,7 @@
 - **Budget management** to ensure marketing initiatives are cost-effective and yield a high return on investment.
 - **Project management capabilities** to oversee campaigns from conception through to execution and post-campaign analysis.
 
-## Key Metrics and Monitoring
+## Indicateurs Clés et Surveillance
 
 ### Customer Acquisition Cost (CAC)
 
@@ -267,7 +267,7 @@ Track MROI for **each campaign**, and **quarterly** for overall performance
 
 Increase in brand awareness measured by surveys, web traffic analytics, social mentions, and media exposure.
 
-**Rates and Responsibilities**: Marketing Team defines metrics sets up tracking and monitors Brand Awareness Growth **bi-weekly**
+**Notes et Responsabilités** : L'équipe de marketing définit les paramètres pour mettre en place le suivi et surveiller la croissance de la marque **deux fois par semaine**
 
 **Threshold**: Re-evaluate brand strategy if growth is below industry benchmarks or company goals.
 
@@ -279,10 +279,10 @@ Measure performance of social media posts and email campaigns in Hootsuite and M
 
 **Rates and Responsibilities:**
 
-- Marketing Team to set up metrics, analyze, and report
+- L'équipe marketing devra mettre en place des indicateurs, les analyser et les rapporter
 - Track performance overall and for each platform **weekly**
 
-**Threshold**: Review and adjust marketing strategy if performance metrics are below the industry average.
+**Seuil**: Examiner et ajuster la stratégie de marketing si les indicateurs de performance sont inférieurs à la moyenne de l'industrie.
 
 **Purpose**: Improve quality of content and refine campaign strategy.
 
@@ -290,7 +290,7 @@ Measure performance of social media posts and email campaigns in Hootsuite and M
 
 **Weekly:**
 
-- **Key Metrics Review** (10-15 min): Marketing team members, Marketing Analyst
+- **Revue des Indicateurs Clés** (10-15 min): Membres de l'équipe marketing, Analyste Marketing
 
 **Monthly:**
 
@@ -302,7 +302,7 @@ Measure performance of social media posts and email campaigns in Hootsuite and M
 
 **Semiannually:**
 
-- **Peer Review Session** (2hrs): Marketing team members, delegator, selected customer representatives, dependencies representatives
+- **Session d'Évaluation entre Pairs** (2 heures) : membres de l'équipe de marketing, délégant, représentants de clients sélectionnés, représentants de dépendances
 - **Campaigns Effectiveness Retrospective** (2hrs max.): Marketing team members, delegator, external agencies, sales team representatives
 
 **Annually**:

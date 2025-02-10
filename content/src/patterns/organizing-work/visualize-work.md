@@ -1,4 +1,4 @@
-# Visualiser le travail
+# Visualiser le Travail
 
 <summary>
 Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de toutes les tâches actuellement en attente, en cours ou terminées.

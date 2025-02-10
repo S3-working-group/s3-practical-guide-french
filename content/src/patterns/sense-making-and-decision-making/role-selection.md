@@ -1,4 +1,4 @@
-# Sélectionner les porteurs de rôles
+# Attribution de Rôles
 
 <summary>
 Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.
@@ -14,7 +14,7 @@ Une condition préalable au processus de sélection est une [description claire]
 
 ## Étapes
 
-![Processus de sélection de rôles](img/agreements/selection.png)
+![Processus d'Attribution des Rôles](img/agreements/selection.png)
 
 1. **Présenter la description du rôle :** Si possible, envoyez la description de domaine du rôle à l'avance.
 2. **Consigner les Nominations:** Les participants écrivent leur nomination sur un bout de papier. Les gens peuvent se nominer eux-mêmes, un autre ou passer.
@@ -31,6 +31,6 @@ Une condition préalable au processus de sélection est une [description claire]
 
 Pour éviter d'influencer les autres, abstenez-vous d'exprimer un intérêt personnel ou des opinions avant qu'une sélection ne se produise.
 
-Parfois, une sélection de rôles révèle un manque de capacité, d'expérience significative, de qualités ou de compétences. Un groupe devra alors envisager des candidats extérieurs, reconsidérer les priorités ou trouver une autre façon de s'occuper du domaine.
+Parfois, une attribution de rôle révèle un manque de capacité, d'expérience significative, de qualités ou de compétences. Un groupe devra alors envisager des candidats extérieurs, reconsidérer les priorités ou trouver une autre façon de s'occuper du domaine.
 
 Cette pratique peut également être utilisée dans toute situation où il est nécessaire de choisir entre plusieurs options.

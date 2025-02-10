@@ -1,7 +1,7 @@
-# Enfreindre les accords
+# Enfreindre les Accords
 
 <summary>
-Enfreignez les accords lorsque vous êtes certain que le bénéfice pour l'organisation l'emporte sur le coût d'attendre de modifier d'abord cette accord, et prenez la responsabilité de toutes les conséquences.
+Enfreignez les accords lorsque vous êtes certain que le bénéfice pour l'organisation l'emporte sur le coût d'attendre de le modifier, et prenez la responsabilité de toutes les conséquences.
 </summary>
 
 Enfreindre [les accords](glossary:agreement) est parfois **nécessaire** mais peut avoir un certain **coût** pour la communauté.

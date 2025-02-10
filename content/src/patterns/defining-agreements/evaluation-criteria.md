@@ -1,4 +1,4 @@
-# Critères d'évaluation
+# Critères d'Évaluation
 
 <summary>
 Développez des critères d'évaluation bien définis pour déterminer si agir selon un accord a eu l'effet escompté.

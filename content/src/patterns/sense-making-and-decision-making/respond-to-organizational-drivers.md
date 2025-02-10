@@ -1,4 +1,4 @@
-# Répondre aux drivers organisationnels
+# Répondre aux Drivers Organisationnels
 
 <summary>
 Respond to all organizational drivers you are responsible for, in order of priority, by fulfilling the requirements you determine necessary in each case.
@@ -21,7 +21,7 @@ Here's a series of steps you can take which will support you to make the best us
 
 
 1. Confirm that this situation is both relevant for the organization to respond to, and that responding is the responsibility of you or your team.
-2. Sort it into your backlog according to its priority. When it's time to respond to the driver:
+2. Trier le dans votre backlog en fonction de sa priorité. When it's time to respond to the driver:
 3. Determine the [requirement](glossary:requirement)
 4. Decide on how to fulfill the requirement
 5. act on what's been agreed
@@ -42,7 +42,7 @@ To keep track of new drivers that you become aware of (or that others identify a
 
 ## Step 2: Determine Priority
 
-Once you decide that a driver is described clearly enough and it's relevant for you to respond to, it needs to be prioritized and moved to the appropriate backlog, to be picked up and dealt with accordingly.
+Une fois que vous avez décidé qu'un driver est décrit assez clairement et qu'il est pertinent d'y répondre, il doit être priorisé et déplacé vers le backlog approprié, pour être récupéré et traité en conséquence.
 
 Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn't imply that it's also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Par conséquent, les nouveaux drivers doivent être priorisés par rapport aux autres tâches, afin de rester concentré sur ce qui est le plus important, et toujours travailler efficacement à la réalisation de vos objectifs.
 

@@ -1,4 +1,4 @@
-# Contrat de collaboration réussie
+# Contrat de Collaboration Réussie
 
 <summary>
 Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.

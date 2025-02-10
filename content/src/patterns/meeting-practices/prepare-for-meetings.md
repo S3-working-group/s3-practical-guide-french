@@ -1,4 +1,4 @@
-# Préparer les réunions
+# Préparer les Réunions
 
 <summary>
 Préparez-vous à l'avance pour rendre les réunions plus efficaces.
@@ -33,7 +33,7 @@ Pour chaque point de l'ordre du jour, convenez :
 
 ## En tant que participant
 
-- considérez la pratique de [Participation élégante](section:artful-participation)
+- considérez la pratique de la [Participation Élégante](section:artful-participation)
 - examinez l'ordre du jour et réfléchissez à comment vous pouvez contribuer à chaque point
 - mettez des objections à l'ordre du jour et, si possible, résolvez-les avant la réunion
 - examinez les suggestions d'amélioration de l'évaluation de la dernière réunion et réfléchissez à comment **vous** pourriez les prendre en compte

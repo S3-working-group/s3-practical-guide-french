@@ -1,4 +1,4 @@
-# Tour d'accueil
+# Tour d'Accueil
 
 <summary>
 Aidez les gens à prendre conscience d'eux même et des autres, à se concentrer, à être présents et à s'impliquer.

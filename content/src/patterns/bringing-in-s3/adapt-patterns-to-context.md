@@ -1,4 +1,4 @@
-# Adapter les pratiques au contexte
+# Adapter les Pratiques au Contexte
 
 <summary>
 Adaptez et faites évoluer vos pratiques S3 à votre contexte particulier.

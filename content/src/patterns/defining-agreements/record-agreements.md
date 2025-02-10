@@ -1,4 +1,4 @@
-# Consigner les accords
+# Consigner les Accords
 
 <summary>
 Consignez les détails des accords que vous passez, afin de vous en souvenir plus tard, d'évaluer les résultats obtenus et de faire évoluer ces accords dans le temps.
@@ -33,7 +33,7 @@ En fonction de la portée et de l'importance de l'accord, envisagez d'inclure le
     -   [Résultats attendus](section:clarify-intended-outcome)
     -   [Livrables](section:describe-deliverables)
     -   Raison
--   [Critères d'évaluation](section:evaluation-criteria) (et potentiellement [préoccupations](glossary:concern))
+-   [Critères d'Évaluation](section:evaluation-criteria) (et potentiellement [préoccupations](glossary:concern))
 -   Annexe (si utile)
     -   Informations contextuelles
     -   Versions précédentes des accords

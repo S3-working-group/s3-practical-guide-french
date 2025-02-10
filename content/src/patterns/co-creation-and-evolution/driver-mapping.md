@@ -1,4 +1,4 @@
-# Cartographier les drivers
+# Cartographier les Drivers
 
 <summary>
 <strong>Un format d’atelier permettant aux grands groupes de cocréer et de s’organiser en réponse à une situation complexe d’envergure.</strong>
@@ -14,18 +14,18 @@ Vous pouvez cartographier les drivers pour :
 - lancer les projets, 
 - adresser des obstacles majeurs ou des opportunités, 
 - mettre en œuvre une stratégie
-- développer une structure organisationnelle pour fluidifier le flux de valeur.
+- développer une structure organisationnelle pour mieux activer le flux de valeur.
 
 Le résultat d'un atelier de cartographie des drivers est typiquement :
 
 - une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes. 
 - une structure organisationnelle sur mesure qui rassemble tout le monde, y compris les domaines interconnectés pour gérer les dépendances.
-- une première ébauche de backlogs de gouvernance et d'opérations pour chaque sous-domaine identifié.
+- une première ébauche des backlogs de gouvernance et d'opérations pour chaque sous-domaine identifié.
 - la délégation d'influence et l’affectation des personnes aux sous-domaines par auto-sélection et nomination.
 
-Bien que cartographier les drivers serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi d’identifier et de distribuer la gouvernance et les drivers opérationnels parmi les domaines existants dans une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
+Bien que Cartographier les Drivers serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi d’identifier et de distribuer la gouvernance et les drivers opérationnels parmi les domaines existants dans une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
 
-Dans une petite équipe ou un cercle (max. 6-8 personnes), lorsque la distribution du travail n'est pas prioritaire, l'équipe peut utiliser seulement les étapes 1-5, pour comprendre la portée et remplir le backlogs d’opérations et de gouvernance, puis utiliser "Élaborer une proposition" ou toute autre approche pour identifier la stratégie et/ou les étapes suivantes.
+Dans une petite équipe ou un cercle (max. 6-8 personnes), lorsque la distribution du travail n'est pas prioritaire, l'équipe peut utiliser seulement les étapes 1-5, pour comprendre la portée et remplir le backlogs d’opérations et de gouvernance, puis utiliser "Élaborer une Proposition" ou toute autre approche pour identifier la stratégie et/ou les étapes suivantes.
 
 En préparation : 
 
@@ -38,7 +38,7 @@ En préparation :
 
 Voici les étapes à suivre :
 
-![Cartographier les drivers : processus](img/process/driver-mapping.png)
+![Cartographier les Drivers : processus](img/process/driver-mapping.png)
 
 ### 1. Pourquoi sommes-nous réunis?
 
@@ -67,7 +67,7 @@ Voici les étapes à suivre :
 - Ajoutez le nom de l'acteur dans le coin supérieur gauche de la carte
 - Ajoutez votre nom dans le coin supérieur droit de la carte
 
-![Cartographier les drivers: une carte de besoin](img/templates/need-card.png)
+![Cartographier les Drivers: une carte de besoin](img/templates/need-card.png)
 
 ### 4. Identifier l'expérience et l'expertise
 
@@ -107,12 +107,12 @@ Considérez que cette étape est terminée, dès que vous vous êtes mis d’acc
 
 Dans cette phase, certaines personnes peuvent errer entre les domaines jusqu'à ce qu'elles en trouvent un auquel elles ont le sentiment de pouvoir contribuer.
 
-### 7. Affiner les backlogs
+### 7. Affiner les Backlogs
 
 *Organisez le travail à faire dans chaque domaine, assurez vous que les choses soient priorisées et décrites clairement.*
 
 - Pour chaque domaine, copiez le modèle ci-dessous sur un tableau papier
-- Triez tous les besoins restants dans les deux backlogs sur le tableau papier : 
+- Triez tous les besoins restants dans les deux backlogs sur le tableau : 
     - backlog des opérations : besoins actionnables
     - backlog de gouvernance : besoins qui pourraient bénéficier ou nécessiter une décision
 - Combinez et reformulez les cartes si nécessaire, de sorte que la description sur chaque carte soit claire. Consultez l'auteur de la carte en cas de doute.
@@ -120,19 +120,19 @@ Dans cette phase, certaines personnes peuvent errer entre les domaines jusqu'à 
 - Archivez toutes les cartes « besoin » qui semblent superflues.
 - Considérez le domaine et décrivez et priorisez les autres besoins qui n'ont peut-être pas été identifiés.
 - Passez sur les cartes qui semblent être de la responsabilité d'un autre domaine
-- Ajoutez des cartes concernant plusieurs domaines à un backlog dédié à adresser plus tard.
+- Ajoutez des cartes concernant plusieurs domaines dans un backlog dédié à adresser plus tard.
 
 *En tant que facilitateur du processus de cartographie des drivers, proposez un espace pour collecter des cartes concernant plusieurs domaines afin qu'elles puissent être traitées plus tard.*
 
 Faites régulièrement des pauses pour partager les prensenations entre les différents domaines. Remarque : certains domaines peuvent se dissoudre, changer ou fusionner avec d'autres.
 
-![Cartographier les drivers: un modèle pour les domaines](img/templates/domain-template.png)
+![Cartographier les Drivers: un modèle pour les domaines](img/templates/domain-template.png)
 
 ### 8. Connecter les domaines
 
 *Créez une structure pour gérer les dépendances et traiter les questions qui vont au-delà de la portée d'un domaine ou qui concernent l'organisation au sens large*
 
-- Pour une nouvelle organisation ou un nouveau projet, considérez des [Cercles délégués](section:delegate-circle), des [ Cercles de service](section:service-circle) ou des [Double-lien entre les domaines](section:double-linking).
+- Pour une nouvelle organisation ou un nouveau projet, considérez des [Cercles Délégués](section:delegate-circle), des [ Cercles de Service](section:service-circle) ou des [Double Lien entre les domaines](section:double-linking).
 - Pour une organisation existante, envisagez également de vous connecter à des domaines existants dans l'organisation.
 
 ### 9. Quoi d'autre?

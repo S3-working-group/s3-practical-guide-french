@@ -13,7 +13,7 @@ La clarification des domaines explicite le contrat entre [délégants](glossary:
 Un moyen simple d'aider les parties prenantes à développer une compréhension partagée des différents aspects d'un domaine est de créer une **description de domaine** qui contient les informations suivantes :
 
 -   Driver primaire (et/ou raison d’être)
--   Responsabilités clés
+-   Responsabilités Clés
 -   Dépendances
 -   Contraintes externes
 -   Défis clés
@@ -21,7 +21,7 @@ Un moyen simple d'aider les parties prenantes à développer une compréhension 
 -   Compétences, Qualités et Aptitudes
 -   Ressources clés
 -   Responsabilités du délégant
--   Indicateurs clés
+-   Indicateurs Clés
 -   Évaluation
 
 Sur le [microsite des Canvas S3] vous trouverez une variété de modèles que vous pourrez utiliser pour (co-)créer et documenter les descriptions de domaine.
@@ -73,14 +73,14 @@ Tous les éléments suivants sont importants à considérer lors de la clarifica
 
 Expliquez comment le ou les délégués contribueront à la raison d'être générale de l'organisation, en clarifiant les besoins organisationnels spécifiques dont ils s'occuperont.
 
-Décrivez le driver primaire auquel les délégués devront répondre, par exemple en utilisant la pratique [Décrire les drivers organisationnels](section:describe-organizational-drivers).
+Décrivez le driver primaire auquel les délégués devront répondre, par exemple en utilisant la pratique [Décrire les Drivers Organisationnels](section:describe-organizational-drivers).
 
 N'utilisez pas plus d'une ou deux phrases, afin que l'information soit facile à retenir et à traiter.
 
 Outre ce résumé, plus de détails sur le driver peuvent être consignés dans le [registre](section:logbook).
 
 
-### Responsabilités clés
+### Responsabilités Clés
 
 Énumérez tous les travaux essentiels et les décisions à déléguer, d'une façon permettant d'en mesurer le succès.
 
@@ -133,7 +133,7 @@ Quels sont les défis connus ou attendus auxquels les délégués pourraient êt
 
 Qu’est-ce que l’équipe ou le rôle fait pour répondre à son driver primaire, aux responsabilités et défis clés rencontrés ?
 
-En tant que délégant, examinez attentivement dans quelle mesure vous laisserez la conception des livrables aux délégués, qui pourront ensuite définir les livrables et les ajouter à la description du domaine plus tard. Laisser les délégués mener la conception des livrables leur permet souvent de produire de la valeur grâce à leurs qualités et leurs intérêts.
+En tant que délégant, examinez attentivement dans quelle mesure vous laisserez la conception des livrables aux délégués, qui pourront ensuite définir les livrables et les ajouter à la description du domaine plus tard. Laisser les délégués mener la conception des livrables leur permet souvent de délivrer de la valeur grâce à leurs qualités et leurs intérêts.
 
 Décrivez chaque livrable avec une quantité raisonnable de détails et assurez-vous que les livrables sont utiles aux parties prenantes qui les reçoivent. Vous pouvez commencer par une phrase ou deux à propos de chaque livrable, mais au final vous pourriez avoir besoin de [les décrire plus en détail](section:describe-deliverables).
 
@@ -163,11 +163,11 @@ Consignez :
 Décrivez les responsabilités du délégant avec des termes concrets et mesurables afin de les évaluer et de les faire évoluer si nécessaire.
 
 
-### Indicateurs clés
+### Indicateurs Clés
 
-Les [indicateurs](glossary:metric) clés sont des statistiques qui permettent de suivre le progrès, la santé ou la performance d'un projet. Ils se rapportent au driver primaire (et/ou la raison d'être), aux responsabilités clés, aux défis, aux livrables et aux responsabilités du délégant de ce domaine.
+Les [Indicateurs Clés](glossary:metric)  sont des statistiques qui permettent de suivre le progrès, la santé ou la performance d'un projet. Ils se rapportent au driver primaire (et/ou la raison d'être), aux responsabilités clés, aux défis, aux livrables et aux responsabilités du délégant de ce domaine.
 
-Les indicateurs clés sont suivis et analysés fréquemment. Ce sont des critères pertinents pour évaluer les résultats et la réussite lors des évaluations planifiées (voir « Évaluation » ci-dessous).
+Les Indicateurs Clés sont suivis et analysés fréquemment. Ce sont des critères pertinents pour évaluer les résultats et la réussite lors des évaluations planifiées (voir « Évaluation » ci-dessous).
 
 Pour chaque indicateur, considérez les chiffres réels qui sont surveillés, ainsi que la signification de ces chiffres par rapport au domaine (cibles, fourchette acceptable, ou tolérance).
 
@@ -193,7 +193,7 @@ Définissez :
 -   D'autres critères d'évaluation utiles en plus des indicateurs clés.
 -   Tout autre aspect pertinent à prendre en considération pour l'évaluation.
 -   Qui devra participer à l'évaluation.
--   Un processus d'évaluation (ex : [Évaluation par les pairs](section:peer-review)).
+-   Un processus d'évaluation (ex : [Évaluation entre Pairs](section:peer-review)).
 -   Pensez à inclure une date de fin pour les rôles.
 
 Veillez à noter et à surveiller les dates d'évaluation d'un domaine en les consignant dans votre [registre](section:logbook).

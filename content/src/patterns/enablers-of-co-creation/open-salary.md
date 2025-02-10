@@ -1,7 +1,6 @@
-# Salaire ouvert
+# Salaire Ouvert
 
-<summary>
-Create a fair salary formula and make it transparent.
+Créez une formule salariale équitable et rendez-la transparente.
 </summary>
 
 Open salary (also referred to as "transparenty salary") is the practice of determining each employee's compensation according to a set of rules – the _salary formula_ – instead of making compensation subject to individual negotiation between employer and employee. The salary formula – and often individual compensation as well – is transparent to all members of an organization, and sometimes to the public.

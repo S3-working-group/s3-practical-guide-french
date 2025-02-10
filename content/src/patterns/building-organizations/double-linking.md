@@ -1,4 +1,4 @@
-# Double lien
+# Double Lien
 
 <summary>
 Créez des flux <em>bidirectionnels</em> d’informations et d’influence entre deux équipes.

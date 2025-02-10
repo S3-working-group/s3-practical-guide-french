@@ -1,4 +1,4 @@
-# Contrat de collaboration réussie
+# Contrat de Collaboration Réussie
 
 <summary>
 <strong>Soutenez une collaboration réussie dès le début et bâtissez une confiance mutuelle entre des parties en co-créant des contrats qui soient mutuellement bénéfiques et juridiquement solides.</strong>

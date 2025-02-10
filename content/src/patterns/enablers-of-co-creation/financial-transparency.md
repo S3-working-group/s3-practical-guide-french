@@ -1,5 +1,5 @@
-# Financial Transparency
+# Transparence Financière
 
 <summary>
-Share relevant information about financial performance with the organization’s members, to build trust and accountability and support them to make informed decisions regarding their work.
+Partagez les informations de performance financière avec les membres de l'organisation, pour bâtir de la confiance et de la redevabilité et qu'ils puissent prendre des décisions informées dans leur travail.
 </summary>

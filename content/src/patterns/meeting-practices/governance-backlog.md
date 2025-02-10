@@ -1,12 +1,12 @@
-# Backlog de gouvernance
+# Backlog de Gouvernance
 
 <summary>
-Tenir un backlog dédié pour les éléments qui nécessitent une décision de gouvernance, afin que vous puissiez vous en souvenir et utiliser l'information pour planifier et organiser votre gouvernance.
+Tenez un backlog dédié pour les éléments qui nécessitent une décision de gouvernance, afin de vous en souvenir et utilisez l'information pour planifier et organiser votre gouvernance.
 </summary>
 
 {{define:governance-backlog}}
 
-Un [backlog](glossary:backlog) de gouvernance est gage de fiabilité et de transparence pour n'importe quel système de gouvernance. Tenir un backlog de gouvernance aide à planifier régulièrement des [réunions de gouvernance](section:governance-meeting). Il est également utile pour décider quels sujets il vaudrait mieux traiter dans une réunion dédiée, plutôt que dans les réunions habituelles telles que les réunions produit, les [réunions de planification](section:planning-and-review-meetings) ou les [rétrospectives](section:retrospective).
+Un [backlog](glossary:backlog) de gouvernance est gage de fiabilité et de transparence pour n'importe quel système de gouvernance. Tenir un backlog de gouvernance aide à planifier régulièrement des [Réunions de Gouvernance](section:governance-meeting). Il est également utile pour décider quels sujets il vaudrait mieux traiter dans une réunion dédiée, plutôt que dans les réunions habituelles telles que les réunions produit, les [réunions de planification](section:planning-and-review-meetings) ou les [rétrospectives](section:retrospective).
 
 Un backlog de gouvernance contient des informations sur :
 
@@ -21,4 +21,4 @@ Un élément dans un backlog (priorisé) de gouvernance fournit généralement d
 - les autres sujets interdépendants (y compris les tâches), ainsi que toute autre information pertinente, par exemple faire référence à des propositions, des descriptions de domaine, etc.)
 - qui a ajouté le sujet au backlog (pour clarification/questions)
 - une date d'échéance (si nécessaire)
-- une façon de visualiser le rang ou la priorité (voir [Prioriser les backlogs](section:prioritize-backlogs)).
+- une façon de visualiser le rang ou la priorité (voir [Prioriser les Backlogs](section:prioritize-backlogs)).

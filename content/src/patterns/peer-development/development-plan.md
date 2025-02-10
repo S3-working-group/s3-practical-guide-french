@@ -1,4 +1,4 @@
-# Plan de développement
+# Plan de Développement
 
 <summary>
 Un plan convenu entre délégant et délégué pour s'occuper plus efficacement d'un domaine.
@@ -8,6 +8,6 @@ Le plan de développement peut être créé pour une personne dans un rôle, ou 
 
 On développe en affinant la description du [driver](section:describe-organizational-drivers) et du [domaine](glossary:domain), en ajustant la [stratégie](glossary:strategy), en amendant les accords ou bien par des actions particulières dans les domaines concernés.
 
-A development plan (and any accompanying recommendations for changes to the descriptions of the domain and the [driver](glossary:organizational-driver)) requires consent from both the [delegatee](glossary:delegatee) and the [delegator](glossary:delegator).
+Un plan de développement (et toutes les recommandations de changement aux descriptions du domaine et du [driver](glossary:driver) qui l'accompagnent) nécessite le consentement mutuel du [délégué](glossary:delegatee) et du [délégant](glossary:delegator).
 
 ![Un modèle pour les plans de développement](img/templates/development-plan-template.png)

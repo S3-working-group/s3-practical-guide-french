@@ -1,7 +1,7 @@
-# Décrire les livrables
+# Décrire les Livrables
 
 <summary>
-Décrivez clairement tout livrable en rapport avec un accord afin d'avoir une compréhension partagée de ce qui est attendu.
+Décrire clairement tout livrable en lien avec un accord pour partager la compréhension de ce qui est attendu.
 </summary>
 
 {{define:deliverable}}

@@ -1,4 +1,4 @@
-# Tester les objections potentielles
+# Examiner les Objections
 
 <summary>
 Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.

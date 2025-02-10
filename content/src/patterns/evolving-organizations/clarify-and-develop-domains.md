@@ -41,7 +41,7 @@ A simple way for supporting stakeholders in developing shared understanding abou
 -   **Key Resources**: _What essential resources can the team (or role keeper) make use of?_
 -   **Delegator Responsibilities**: _What responsibilities can delegatees rely on the delegator to take care of to support them to successfully account for this domain?_
 -   **Competencies, Qualities and Skills**: _What competencies, qualities and skills are required – or at least preferable – to successfully account for this domain?_
--   **Key Metrics and Monitoring**: _What are the critical indicators of progress, performance, project health, etc, how frequently will they be measured and by whom?_
+-   **Indicateurs Clés et Surveillance** : _Quels sont les indicateurs critiques de progrès, de performance, de santé du projet, etc., à quelle fréquence seront-ils mesurés et par qui ?_
 -   **Evaluation Schedule:** _When and how will you evaluate the effectiveness of the domain's design and the success of the team (or role keeper) in fulfilling the domain's purpose?_
 
 On the [S3 Canvas microsite](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) you can find a template that you can use for (co-)designing new domains or for documenting existing domains, when clarifying them is worthwhile.
@@ -55,7 +55,7 @@ Free delegatees up to create and deliver value. Aim to design or develop domains
 
 -   Avoid, minimize or remove any unnecessary dependencies and constraints that otherwise impede the ability of the delegatees to successfully account for the domain.
 -   Enable delegatees to undertake whichever activities they consider to be valuable, unless such activity falls outside of the domain of the organization, is explicitly forbidden, they violate somebody else's (explicit) domain, or if it impedes other people's contribution to the organization in some other way. Things that are forbidden may include explicit constraints laid out in the domain description, any other agreements the delegatees need to keep, or legal and regulatory requirements.
--   Aim to design simple metrics that help delegatees learn whether or not they focus on the right things
+-   Visez des indicateurs simples qui aident les délégués à apprendre s'ils se concentrent ou non sur les bonnes choses
 -   Keep the design brief and to the point, and schedule regular evaluations to discover what is working, what's missing, and what needs to be changed.
 
 
@@ -75,7 +75,7 @@ When clarifying domains throughout an entire organization there is often merit i
 All sections are worth considering when clarifying a domain. However, if you're tight on time, or if many aspects of the domain are currently unclear, start with defining the following, and then cover the rest as soon as you can:
 
 -   Purpose
--   Responsabilités clés
+-   Responsabilités Clés
 -   Customers and Deliverables
 -   Responsabilités du délégant
 -   An early date by when the design of the domain will be reviewed and improved.
@@ -116,7 +116,7 @@ _What's the primary driver and the associated requirement this team (or role kee
 
 Describing the specific purpose the team (or role keeper) is responsible for fulfilling within the organization, clarifies why this domain exists, so that delegatees understand what's expected of them and why their work is relevant for the organization.
 
-You can describe the primary driver using the pattern [Describe Organizational Drivers](section:describe-organizational-drivers) and look to the pattern [Respond to Organizational Drivers](section:respond-to-organizational-drivers) for suggestions on how to describe the requirement.
+Vous pouvez décrire le driver primaire en utilisant la pratique [Décrire les Drivers Organisationnels](section:describe-organizational-drivers) et regarder la pratique [Répondre aux Drivers Organisationnels](section:respond-to-organizational-drivers) pour des suggestions sur la façon de décrire cette exigence.
 
 
 **Describe:**
@@ -133,7 +133,7 @@ You can describe the primary driver using the pattern [Describe Organizational D
 
     **Primary Driver:** (current situation) To resolve local issues, teams develop their work processes and meeting schedules in the way they see fit. (effect) This often leads to incoherence in how work and decision-making is handled between teams and (relevance) it impedes effective collaboration on handling dependencies between and across domains.
 
-    **Main Requirement:** (requirement) We need to support teams to develop and maintain a coherent approach to how they collaborate on dependencies (anticipated impact) so that they are able to deal with them effectively while ensuring they are still able to resolve local issues as autonomously as possible.
+    **Exigence Principale :** (obligatoire) Nous devons encourager les équipes à développer et maintenir une approche cohérente de la manière dont elles collaborent sur les dépendances (impact prévu) afin qu'elles soient capables de les traiter efficacement tout en s'assurant qu'elles sont toujours en mesure de résoudre les problèmes locaux de manière aussi autonome que possible.
 
 2. Purpose of a Marketing domain:
 
@@ -150,7 +150,7 @@ You can describe the primary driver using the pattern [Describe Organizational D
 -   Sometimes the Primary Driver is generic and obvious, for example, in the case of an HR or Marketing domain.
 
 
-### Responsabilités clés
+### Responsabilités Clés
 
 _What is the essential work and decision-making being delegated to the team (or role keeper)?_
 
@@ -187,7 +187,7 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
 
 4.  For a marketing team:
 
-    **Requirement**: (requirement) Execute and refine digital marketing campaigns, (anticipated impact) to improve engagement metrics and customer acquisition costs.
+    **Exigence**: (obligatoire) Exécuter et affiner des campagnes de marketing numérique, (impact prévu) pour améliorer les paramètres d'engagement et les coûts d'acquisition du client.
 
 
     **Driver:** (current situation) With digital ad spending increasing without proportional gains in engagement, (effect) current strategies are leading to diminishing returns.
@@ -198,7 +198,7 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
 -   Key Responsibilities inform, and are informed by, various other aspects of a domain's design. Therefore, while describing those other aspects, you will often find things that need to be added or revised, in this section documenting Key Responsibilities.
 -   If the organizational driver behind a key responsibility is unclear, describe this as well to add context. Doing so helps to ensure that the reason for fulfilling each of these requirements is clear.
 -   Don't describe the tasks that the delegatees are taking care of, but rather the requirements that those tasks are meant to fulfill.
--   Describe the anticipated impact of fulfilling each requirement in a way that allows you to define specific metrics to assess whether or not that impact has been achieved. For example, say, "_… so that customers return and recommend our products to others_" rather than "_… so that our customers are happy_".
+-   Décrivez l'impact attendu pour chaque exigence afin de définir des indicateurs d'évaluation appropriés. For example, say, "_… so that customers return and recommend our products to others_" rather than "_… so that our customers are happy_".
 -   If you mention or imply specific deliverables in the description of certain Key Responsibilities, describe those deliverables explicitly in the section about Customers and Deliverables, as well.
 
 
@@ -430,7 +430,7 @@ When delegating responsibility for a domain to others, the delegator retains ove
 
 2.  **Requirement:** (requirement) Ensure that questions delegatees have throughout the project are answered within 24 hours (anticipated impact) to avoid bottlenecks while waiting for a reply.
 3.  **Requirement:** (requirement) Inform delegatees of any relevant news or changes and work with them to update the domain's design when necessary or helpful.
-4.  **Requirement:** (requirement) Participate in scheduled Peer Review sessions with delegatees, (anticipated impact) to support them with ongoing development and maintaining high standards.
+4.  **Exigence :** (obligatoire) Participer à des sessions planifiées d'évaluation entre pairs avec les délégués, (impact attendu) pour les soutenir dans leur développement continu et le maintien de normes élevées.
 5.  **Requirement:** (requirement) In case of API changes, prioritize process software development resources to do required modifications, (anticipated impact) to allow automation interfaces to adapt swiftly to changing requirements.
 
     **Driver:** (current situation) The technological landscape is rapidly evolving, (effect) and failure to promptly adapt to changes like API updates can lead to system incompatibilities or downtimes.
@@ -446,7 +446,7 @@ When delegating responsibility for a domain to others, the delegator retains ove
 -   When identifying delegator responsibilities, consider any opportunities for learning, development and support that are helpful for the delegatees.
 -   Often, delegator responsibilities can be adequately documented by describing the requirements. If the organizational driver behind a particular delegator key responsibility is unclear, describe this as well to add context. Doing so helps to ensure that the reason for fulfilling each of these requirements is clear.
 -   Don't describe the tasks that the delegator is responsible for taking care of but rather the requirements that those tasks are meant to fulfill.
--   Describe the anticipated impact of fulfilling each requirement in a way that allows you to define specific metrics to assess whether or not that impact has been achieved, so that the delegator's work can be reviewed and developed when necessary.
+-   Décrivez l'impact attendu pour chaque exigence afin de définir des indicateurs d'évaluation appropriés qui permettront au délégué de faire évoluer ses pratiques si nécessaire.
 -   As a delegator, keep track of, and fulfill the responsibilities you have agreed to take on or keep.
 -   Delegator responsibilities might lead to a new deliverable that the delegator will provide to the delegatees. In this case, remember to list the deliverable in the dependencies section.
 
@@ -480,13 +480,13 @@ For selecting suitable delegatees, and for identifying important areas for train
 -   Include level of expertise or amount of experience if helpful.
 
 
-### Key Metrics and Monitoring
+### Indicateurs Clés et Surveillance
 
 _What are the critical indicators of progress, performance, project health, etc, how frequently will they be measured and by whom?_
 
-Key [Metrics](glossary:metric) are statistics that help delegatees monitor the effectiveness of their work and identify when they need to correct course. Metrics need to be monitored frequently and serve as critical indicators of progress, project health or performance. They typically relate to the primary driver and main requirement, key responsibilities, customers, deliverables, key challenges, and the delegator responsibilities that have been defined for the domain.
+Les [Indicateurs Clés](glossary:metric) sont des statistiques qui aident les délégués à surveiller l'efficacité de leur travail et à identifier quand ils ont besoin d'ajuster leur action. Les Indicateurs Clés doivent être surveillés fréquemment car ils permettent de suivre le progrès, la santé ou la performance d'un projet. They typically relate to the primary driver and main requirement, key responsibilities, customers, deliverables, key challenges, and the delegator responsibilities that have been defined for the domain.
 
-**Define** simple and specific metrics that enable you to monitor progress and effectiveness, as well as to spot potential issues or opportunities as they arise. Specify when or how frequently key metrics will be checked, and by whom, and clarify the purpose that meeting this metric should help to fulfill (describe at least the requirement, and if helpful, the driver, too).
+**Définir** des indicateurs simples et spécifiques qui vous permettent de surveiller la progression et l'efficacité, ainsi que de repérer les problèmes ou des opportunités lorsqu'elles se présentent. Spécifiez quand ou à quelle fréquence les indicateurs clés seront vérifiés, et par qui, et précisez le but poursuivi par cet indicateur (décrivez au moins l'exigence et, si c'est utile, le driver, aussi).
 
 **Recommended format:** Title, Description, Rate, Responsibilities, Threshold, and Purpose (include information about the Driver (current situation and anticipated or current effect. And, Requirement ((requirement) and (anticipated impact)) as necessary.
 
@@ -514,12 +514,12 @@ Key [Metrics](glossary:metric) are statistics that help delegatees monitor the e
 
 **Tips:**
 
--   Aim to define simple and specific metrics that you can measure frequently (and if appropriate, daily).
--   Decide on and keep to a schedule of monitoring and assessing Key Metrics frequently. They are relevant criteria for evaluating outcomes and success in scheduled evaluations.
--   Consider using a table format to visualize key metrics and the details relating to them.
+-   Essayez de définir des indicateurs simples et spécifiques que vous pouvez mesurer régulièrement (si possible, quotidiennement).
+-   Décidez et respectez un calendrier de surveillance et d'évaluation des Indicateurs Clés fréquemment. They are relevant criteria for evaluating outcomes and success in scheduled evaluations.
+-   Envisagez d'utiliser un format tableau pour visualiser les indicateurs clés et les détails y afférents.
 -   For each metric, consider the actual numbers that are monitored, as well as the meaning of those numbers in relation to the domain (targets, acceptable range of tolerance).
 -   Define thresholds and appropriate response for when a metric crosses that threshold.
--   Consider metrics that enable you to measure the overall ability to meet due dates and project milestones, and keep information about actual project milestones or due dates in a backlog or project plan. If unavoidable due dates are already known or even contractually fixed, describe them in the section External Constraints, and if meeting them is likely to be challenging, describe those challenges in the section on Key Challenges.
+-   Identifiez les indicateurs qui vous permettent de jauger la capacité globale de respecter les échéances et les jalons du projet, et conservez des informations sur les jalons réels du projet ou les échéances dans un backlog ou un plan de projet. If unavoidable due dates are already known or even contractually fixed, describe them in the section External Constraints, and if meeting them is likely to be challenging, describe those challenges in the section on Key Challenges.
 
 
 ### Evaluation Schedule
@@ -528,32 +528,32 @@ _When and how will you evaluate the effectiveness of the domain's design and the
 
 Regularly evaluate the outcomes resulting from activity in this domain, as well as the domain's design, and use what you learn to improve the creation and delivery of value.
 
-**Describe** a _schedule_ (or frequency) for evaluating the success of the team (or role keeper) in fulfilling the domain's purpose. Include information about the _activity_ to be used (procedure, process, etc), and _who should participate_ in which parts of the evaluation. Include any _evaluation criteria_ in addition to the _key metrics_, as well as _any other relevant aspects_ to keep in mind for the evaluation.
+**Describe** a _schedule_ (or frequency) for evaluating the success of the team (or role keeper) in fulfilling the domain's purpose. Include information about the _activity_ to be used (procedure, process, etc), and _who should participate_ in which parts of the evaluation. Incluez tout _critère d'évaluation_ en plus des _indicateurs clés_, ainsi que _tout autre aspect pertinent_ à garder en tête pour l'évaluation.
 
 Consider using the following processes for evaluation:
 
--   [Peer Review](section:peer-review) (led by the delegatee(s), with input from the delegator and selected representatives from customers and dependencies)
+-   [Revue entre Pairs](section:peer-review) (dirigée par les délégués, avec les commentaires du délégant et des représentants des clients et des dépendances sélectionnés)
 -   [Rétrospective](section:retrospective)
 
 **Recommended format**: Frequency, Activity, Duration and Participants
 
 **Example (for a team):**
 
--   **Weekly: Review the key metrics** together in the beginning of the weekly team meeting
+-   **Chaque semaine : Examinez les indicateurs clés** ensemble au début de la réunion hebdomadaire de l'équipe
     -   10 minutes
     -   Participants: team members
 -   **Monthly retrospective**
     -   Up to 2 hours
     -   Participants: team members, delegator, team coach (as facilitator)
--   **Quarterly [Peer Review](section:peer-review)** for delegatees to identify opportunities to improve strategy, domain design, learning requirements and efficacy of approach.
+-   **Trimestriellement**  : [Évaluation entre Pairs](section:peer-review) pour les délégués afin d'identifier des opportunités d'améliorer leur stratégie, la conception de leurs domaines, d'apprendre de nouvelles exigences et efficacité de l'approche.
     -   Up to 2 hours
     -   Participants: delegator, team members, team coach, facilitator and selected representatives from customers and dependencies
--   **Quarterly**: **Review strategy** (following the Peer Review)
+-   **Trimestriellement**: **Évaluation Stratégique<0> (après l'Évaluation entre Pairs)
     -   Up to 4 hours
-    -   Participants: team members, delegator, facilitator
+    -   Participants: team members, delegator, facilitator</li>
 -   **Yearly: complete review of the domain design**
     -   Up to 3 hours
-    -   Participants: team members, delegator
+    -   Participants: team members, delegator</ul>
 
 **Tips:**
 
@@ -584,7 +584,7 @@ When designing a process for evaluation, ensure you consider the following aspec
 -   The **value** the delegatees brought to the organization by accounting for the domain.
 -   The team's or role keeper's **work processes**, and their collaboration with each other, with the delegator, and with the rest of the organization.
 -   The **design of the domain** itself (and potentially the design of other related domains). E.g.:
-    -   Completeness and specificity of the **key metrics**, to identify if new ones are useful to add, or if existing metrics should be dropped or changed.
+    -   Complétude et spécificité des **indicateurs clés**, pour identifier si de nouveaux indicateurs sont utiles à ajouter, ou si des indicateurs existants doivent être supprimés ou modifiés.
     -   The team members' or role keeper's **competencies and skills** in relation to the domain.
     -   How well the **delegator** takes care of their **responsibilities**.
 -   The **[strategy](glossary:strategy)** the delegatees follow to fulfill the main requirement of the domain.

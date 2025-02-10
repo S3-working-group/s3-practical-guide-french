@@ -1,4 +1,4 @@
-# Hiérarchie à double lien
+# Hiérarchie à Double Lien
 
 <summary>
 Déléguez toute autorité pour prendre des décisions de gouvernance à des cercles auto-gérés, reliés par deux liens à tous les niveaux de la hiérarchie, pour transiter d'une hiérarchie traditionnelle vers une structure plus à même d'exploiter l'intelligence collective, assurer l'équivalence et construire l'engagement.

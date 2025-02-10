@@ -6,9 +6,9 @@
 
 Des pratiques essentielles pour vous y aider :
 
-- [Continuous Improvement of Work Process](section:continuous-improvement-of-work-process) – Getting in the habit of continuously seeking to improve the work process supports people's skill in identifying and acting on opportunities to improve.
+- [Amélioration Continue des Méthodes de Travail](section:continuous-improvement-of-work-process) – Prendre l’habitude de chercher continuellement à améliorer le processus de travail permet aux gens d’identifier et d’agir sur les possibilités d’amélioration.
 - [Describe Organizational Drivers](section:describe-organizational-drivers) – Before acting on a perceived impediment or opportunity, it is essential to understand the current situation and establish that it makes sense for the organization to respond.
 - [Determine Requirements](section:determine-requirements) – Agreeing on the general direction and scope of response to an impediment or opportunity first, supports effective decision-making about what specifically to do.
-- [Governance Backlog](section:governance-backlog) – Keeping a prioritized list of all impediments and opportunities that require a governance decision to be made keeps outstanding issues visible and clarifies what is most important to respond to first.
+- [Backlog de Gouvernance](section:governance-backlog) – Gardez une liste priorisée de tous les obstacles et opportunités qui nécessitent une décision de gouvernance, conservez la visibilité des questions en suspens et clarifiez ce qui est le plus important d'adresser en premier.
 - [Navigate via Tension](section:navigate-via-tension) – When everyone in the organization pays attention for situations that appear different to what is expected or desired, and brings that information to the attention of those responsible, you maximize the organization’s potential for identifying impediments and opportunities.
-- [Respond to Organizational Drivers](section:respond-to-organizational-drivers) – Responding only to challenges and opportunities that are valuable for the organization maximizes return on investment of the limited time, energy, and resources you have available.
+- [Répondre aux Drivers Organisationnels](section:respond-to-organizational-drivers) – Répondre uniquement aux défis et aux opportunités qui sont valables pour l'organisation, maximise la rentabilité de vos investissements en temps, énergie et ressources limités.

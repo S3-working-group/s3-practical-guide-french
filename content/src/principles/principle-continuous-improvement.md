@@ -1,8 +1,8 @@
-# Le Principe de l'Amélioration en Continu
+# Le Principe de l'Amélioration Continue
 
 _{{glossary:continuous-improvement}}_
 
-Alors que les principes d'[Empirisme](section:principle-empiricism) et de [Consentement](section:principle-consent) nous offrent des opportunités d'apprendre, le principe d'amélioration continue est lié à ce que nous faisons avec ce que nous apprenons. L'amélioration continue s'applique à la manière dont nous menons nos opérations, mais aussi à la gouvernance. Tout depuis l'évolution des stratégies, des politiques, des processus et des consignes, jusqu'au développement des produits, des services, des aptitudes et des compétences, les attitudes et le comportement, les valeurs et les outils choisis,  tout peut être amélioré en permanence.
+Alors que les principes d'[Empirisme](section:principle-empiricism) et de [Consentement](section:principle-consent) nous offrent des opportunités d'apprendre, le principe d'Amélioration Continue est lié à ce que nous faisons avec ce que nous apprenons. L'Amélioration Continue s'applique à la manière dont nous menons nos opérations, mais aussi à la gouvernance. Tout depuis l'évolution des stratégies, des politiques, des processus et des consignes, jusqu'au développement des produits, des services, des aptitudes et des compétences, les attitudes et le comportement, les valeurs et les outils choisis,  tout peut être amélioré en permanence.
 
 ## Adoptez une approche du changement itérative
 

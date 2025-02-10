@@ -1,4 +1,4 @@
-# Cercle délégué
+# Cercle Délégué
 
 <summary>
 Déléguez la prise de décisions de gouvernance impactant plusieurs domaines aux représentants sélectionnés par ces domaines.
@@ -6,7 +6,7 @@ Déléguez la prise de décisions de gouvernance impactant plusieurs domaines au
 
 Pour prendre des décisions de [gouvernance](glossary:governance) en leur nom, les parties prenantes envoient des [représentants](section:representative) pour former un cercle délégué.
 
-![Cercle délégué](img/structural-patterns/delegate-circle.png)
+![Cercle Délégué](img/structural-patterns/delegate-circle.png)
 
 Les décisions de gouvernance prises dans un cercle délégué impactent les différents [domaines](glossary:domain) qu'il sert.
 

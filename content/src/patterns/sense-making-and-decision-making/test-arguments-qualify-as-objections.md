@@ -1,4 +1,4 @@
-# Test If Arguments Qualify as Objections
+# Examiner les Objections
 
 <summary>
 Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.
@@ -45,7 +45,7 @@ Lorsqu'un postulat a été convenu, marquez ça comme fait, lorsque le dialogue 
 
 ## Un processus pour tester si un argument se qualifie d'objection
 
-Ce processus pour tester si les arguments se qualifient comme des objections, est une variante de la pratique [Prise de décision raisonnée](section:reasoned-decision-making).
+Ce processus pour tester si les arguments se qualifient comme des objections, est une variante de la pratique [Prise de Décision Raisonnée](section:reasoned-decision-making).
 
 **Étape 1 : ** Présenter l'argument avancé comme une objection potentielle.
 

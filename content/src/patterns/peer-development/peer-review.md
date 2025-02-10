@@ -1,18 +1,18 @@
-# Évaluation entre pairs
+# Evaluation entre Pairs
 
 <summary>
 Entraidez-vous à apprendre et à grandir dans vos rôles et les équipes où vous servez.
 </summary>
 
-The role keeper – or team – leads the peer review by setting up the process, and by speaking first in each step.
+Le porteur de rôle - ou l'équipe - anime l'évaluation entre pairs en préparant le processus et en prenant la parole à chaque étape.
 
-![Processus d'évaluation par ses pairs](img/process/peer-review.png)
+![Processus d'évaluation entre pairs](img/process/peer-review.png)
 
 Invitez un [facilitateur](section:facilitate-meetings) ainsi que des personnes ayant des perspectives complémentaires à contribuer à l'évaluation.
 
 Donnez à chacun des appréciations et des suggestions d'amélioration, en considérant :
 
-- La **valeur** que la personne a apporté à l'organisation en s’occupant de ses [domaines](glossary:domain).
+- La **valeur** que la personne a apporté à l'organisation en s'occupant de ses [domaines](glossary:domain).
 - The role keeper's or team's **work processes**, and their **collaboration** with the [delegator](glossary:delegator) and with other relevant stakeholders, and – in the case of a team – with each other.
 - À quel point le **délégant** prend en charge ses responsabilités.
 - La **conception du domaine** lui-même (et potentiellement la conception d'autres domaines liés).

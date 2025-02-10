@@ -1,4 +1,4 @@
-# Rôle de soutien
+# Rôle de Soutien
 
 <summary>
 Appliquez cette pratique pour les contractuels externes.
@@ -8,8 +8,8 @@ Appliquez cette pratique pour les contractuels externes.
 -   créez une [description de domaine](section:clarify-and-develop-domains)
 -   si c'est utile, organisez un processus de sélection
 -   envisagez de limiter la durée du contrat, après quoi il pourra être révisé et renouvelé si nécessaire
--   faites des [évaluations par les pairs](section:peer-review) régulièrement
+-   faites des [évaluations entre pairs](section:peer-review) régulièrement
 
 Les contractuels externes acceptent de prendre leur rôle.
 
-**Voir aussi :** [Contrat de collaboration réussie](section:contract-for-successful-collaboration)
+**Voir aussi :** [Contrat de Collaboration Réussie](section:contract-for-successful-collaboration)

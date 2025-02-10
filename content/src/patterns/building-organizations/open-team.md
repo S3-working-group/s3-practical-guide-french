@@ -1,4 +1,4 @@
-# Équipe ouverte
+# Équipe Ouverte
 
 <summary>
 Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.
@@ -16,4 +16,4 @@ Selon les contraintes définies par le délégant, les contributeurs peuvent sim
 
 Le délégant est redevable de mener des examens réguliers pour soutenir l'efficacité du travail et de toute prise de décision au sein de l'équipe ouverte.
 
-![Équipe ouverte](img/structural-patterns/open-team.png)
+![Équipe Ouverte](img/structural-patterns/open-team.png)

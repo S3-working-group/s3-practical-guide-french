@@ -1,5 +1,5 @@
-# Invest in Ongoing Learning
+# Investir dans l'Apprentissage Perpétuel
 
 <summary>
-Make continuous learning an integral part of people’s responsibilities and work, so that they ongoingly develop their capacity to contribute effectively toward the purpose of the organization.
+Faire de l'apprentissage continu une partie intégrante des responsabilités de travail des personnes, de sorte qu'elles développent régulièrement leur capacité à contribuer efficacement à la raison d'être de l'entreprise.
 </summary>

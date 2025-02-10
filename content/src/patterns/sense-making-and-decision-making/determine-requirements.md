@@ -1,4 +1,4 @@
-# Déterminer les exigences
+# Déterminer les Exigences
 
 <summary>
 Déterminer ce qui est requis pour répondre de manière appropriée à un driver organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.
@@ -14,7 +14,7 @@ Déterminer ce qui est requis pour répondre de manière appropriée à un drive
 
 ## Aperçu
 
-L'identification et la réponse aux drivers organisationnels sont un aspect fondamental de la journée de travail de chacun au sein d'une organisation. Éclaircir intentionnellement et explicitement la direction générale et la portée de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
+Identifier et répondre aux drivers organisationnels sont deux aspects fondamentaux de la journée de travail de chacun au sein d'une organisation. Éclaircir intentionnellement et explicitement la direction générale et la portée de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
 
 {{define:requirement}}
 
@@ -60,7 +60,7 @@ This is why it's valuable to approach deciding what you believe is required to r
 
 **Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others – especially to those who will be affected by whatever's decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
 
-Once a requirement is determined, the **next steps for responding to the organizational driver** involve agreeing on how to fulfill the requirement, acting on this agreement, reviewing outcomes, and, if needed, adapting your decision to improve it, based on what you learn (see [Respond to Organizational Drivers](section:respond-to-organizational-drivers) for more details).
+Une fois qu'une exigence est déterminée, les **prochaines étapes pour répondre au driver organisationnel** impliquent de s'entendre sur la façon de remplir les conditions requises, en agissant sur l'accord actuel, en examinant les résultats et, si nécessaire, en adaptant votre choix d'amélioration en vous basant sur ce que vous apprenez (voir [Répondre aux Drivers Organisationnels](section:respond-to-organizational-drivers) pour plus de détails).
 
 In complex situations where multiple and sometimes even contradictory options exist, an iterative approach for determining a requirement may be necessary because:
 

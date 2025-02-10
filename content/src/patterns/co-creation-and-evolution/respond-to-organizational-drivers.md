@@ -1,4 +1,4 @@
-# Répondre aux drivers organisationnels
+# Répondre aux Drivers Organisationnels
 
 <summary>
 <strong>Clarifiez les drivers organisationnels (c'est-à-dire ce qui se passe et ce qui est nécessaire pour l'organisation) et agissez en conséquence.</strong>
@@ -14,7 +14,7 @@ La réponse à un driver organisationnel est généralement traitée comme une e
 
 ![Réponses possibles aux drivers organisationnels](img/driver-domain/driver-response-full.png)
 
-## Qualifier les drivers organisationnels
+## Qualifier les Drivers Organisationnels
 
 {{glossary:organizational-driver}}
 

@@ -1,4 +1,4 @@
-# Retour par les pairs
+# Retour entre Pairs
 
 <summary>
 Invitez certains membres de votre organisation à commenter de manière constructive votre performance dans un rôle ou dans une équipe, votre participation générale et votre contribution, ou bien un axe que vous souhaitez développer.

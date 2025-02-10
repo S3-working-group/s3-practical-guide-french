@@ -1,4 +1,4 @@
-# Aligner les flux
+# Aligner les Flux
 
 <summary>
 Pour soutenir un flux de valeur continu, déplacez la prise de décisions au plus proche de là où la valeur est créée et alignez le flux d'information en conséquence.

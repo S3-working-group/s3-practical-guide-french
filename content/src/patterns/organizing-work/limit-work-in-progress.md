@@ -1,4 +1,4 @@
-# Limiter le travail en cours
+# Limiter le Travail en Cours
 
 <summary>
 Limitez le nombre de tâches à chaque étape de votre processus de travail.

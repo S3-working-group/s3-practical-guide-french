@@ -1,4 +1,4 @@
-# Évaluer les réunions
+# Evaluer les Réunions
 
 <summary>
 Prenez le temps de tirer des enseignements à la fin de chaque réunion ou atelier.
@@ -16,7 +16,7 @@ Quelques formats courts que vous pouvez utiliser :
 
 ![Évaluer les réunions juste avant de clore la réunion](img/meetings/evaluate-interactions.png)
 
-## Évaluer les réunions : format long
+## Évaluer les Réunions : Format Long
 
 Faites un [tour de table](section:rounds) pour réfléchir à n'importe lequel des sujets suivants lors d'un bref échange et signalez les points clés dont vous souhaitez vous souvenir pour la prochaine fois :
 

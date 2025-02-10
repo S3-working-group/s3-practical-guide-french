@@ -16,10 +16,10 @@ _Identifiez, priorisez et réagissez aux obstacles et aux opportunités._
 **Principe 5 – Expérimenter** \
 _Adressez les défis complexes par l'expérimentation._
 
-**Principe 6 – Développer l'autonomie** \
+**Principe 6 – Cultiver l'Autonomie** \
 _Permettez aux individus et aux équipes de créer de la valeur de façon aussi autonome que possible._
 
-**Principe 7 – Collaborer sur les dépendances** \
+**Principe 7 – Collaborer sur les Dépendances** \
 _Cocréez et faites évoluer un système cohérent pour gérer toutes les dépendances._
 
 **Principe 8 – Investir dans l'apprentissage** \

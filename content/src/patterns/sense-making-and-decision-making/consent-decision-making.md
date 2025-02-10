@@ -1,4 +1,4 @@
-# Décider par consentement
+# Décider par Consentement
 
 <summary>
 Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les accords existants.
@@ -12,7 +12,7 @@ Un processus de groupe (facilité) pour la prise de décision : inviter les part
 
 </only>
 
-![Décider par consentement](img/agreements/consent-decision-making.png)
+![Décider par Consentement](img/agreements/consent-decision-making.png)
 
 
 ## Overview
@@ -155,7 +155,7 @@ Vérifiez que l'argument montre comment laisser la proposition inchangée :
 -   peut entraîner des conséquences que vous voulez éviter et c'est un risque que vous ne voulez pas prendre,
 -   ou vous informe d'un moyen utile d'améliorer la façon d'atteindre vos objectifs.
 
-Voir la pratique [Tester les objections potentielles](section:test-arguments-qualify-as-objections) pour plus de détails.
+Voir la pratique [Examiner les Objections](section:test-arguments-qualify-as-objections) pour plus de détails.
 
 **Si l'argument ne se qualifie pas comme une objection, retournez à l'étape 5 (Vérifier les objections potentielles), sinon passez à l'étape suivante.**
 

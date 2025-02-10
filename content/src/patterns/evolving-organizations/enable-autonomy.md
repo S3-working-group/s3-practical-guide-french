@@ -1,5 +1,5 @@
-# Enable Autonomy
+# Cultiver l'Autonomie
 
 <summary>
-Free people up to decide and act for themselves as much as possible, so that they can deliver value fast and respond quickly to changes when necessary.
+Laissez les personnes décider et agir par elle-mêmes autant que possible, pour qu'elles délivrent de la valeur rapidement et s'adaptent aux changements quand c'est nécessaire.
 </summary>

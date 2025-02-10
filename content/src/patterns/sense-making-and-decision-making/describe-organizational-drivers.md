@@ -1,7 +1,7 @@
-# Décrire les drivers organisationnels
+# Décrire les Drivers Organisationnels
 
 <summary>
-Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.
+Décrire les drivers organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.
 </summary>
 
 <only presets="jekyll">
@@ -23,7 +23,7 @@ In the course of their daily work in organizations, individuals frequently encou
 
 Clearly understanding organizational drivers and documenting essential information about them before deciding on a response, is crucial for ensuring that the rationale behind decisions is understood. It also provides an opportunity for those who are collaborating to verify their assumptions, combine diverse viewpoints, align understanding, and consequently agree on a  description of a driver.
 
-Both individuals and groups can describe organizational drivers. A summary can be added to a [backlog](section:backlog), or used as a straightforward method to communicate pertinent details about a relevant situation to others within the organization who have responsibility for dealing such things. Subsequently, these drivers can be [prioritized](section:prioritize-backlogs) in relation to other drivers that are pending a response and then, when the time comes, they can be dealt with accordingly. Further details on how to respond to organizational drivers can be found in the pattern [Respond to Organizational Drivers](section:respond-to-organizational-drivers).
+Both individuals and groups can describe organizational drivers. Un résumé peut être ajouté à un [backlog](section:backlog), ou utilisé simplement pour communiquer des informations pertinentes sur une situation à ceux qui en ont la responsabilité. Par la suite, ces drivers peuvent être [priorisés](section:prioritize-backlogs) par rapport aux autres drivers qui sont en attente et puis, le moment venu, ils peuvent être traités en conséquence. Plus de détails sur la façon de répondre aux drivers organisationnels peuvent être trouvés dans la pratique [Répondre aux Drivers Organisationnels](section:respond-to-organizational-drivers).
 
 
 ## How to describe organizational drivers
@@ -36,7 +36,7 @@ A simple way to describe an organizational driver is by explaining:
 
 Describing these three aspects will typically provide enough information to communicate an organizational driver clearly.
 
-![Décrire les drivers organisationnels](img/process/describe-organizational-drivers.png)
+![Décrire les Drivers Organisationnels](img/process/describe-organizational-drivers.png)
 
 
 ### Problem-focused or opportunity-focused

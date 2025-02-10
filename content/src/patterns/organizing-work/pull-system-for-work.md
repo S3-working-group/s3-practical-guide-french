@@ -1,4 +1,4 @@
-# Travailler en flux tirés
+# Travailler en Flux Tiré
 
 <summary>
 Les personnes tirent de nouvelles tâches lorsqu'elles ont la capacité de les traiter (plutôt qu'elles leur soient poussées ou assignées).

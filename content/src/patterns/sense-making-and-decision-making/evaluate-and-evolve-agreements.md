@@ -1,4 +1,4 @@
-# Évaluer et développer les accords
+# Évaluer et Améliorer des Accords
 
 <summary>
 Développez continuellement un corpus d'accords et éliminez le gaspillage.
@@ -15,7 +15,7 @@ Assurez-vous que toutes les [accords](glossary:agreement) ont une date d'évalua
 
 ![](img/evolution/evolve-agreement.png)
 
-Les accords sont souvent examinés dans des [réunions de gouvernance](section:governance-meeting), cependant il est parfois plus performant de planifier une session dédiée.
+Les accords sont souvent examinés dans des [Réunions de Gouvernance](section:governance-meeting), cependant il est parfois plus performant de planifier une session dédiée.
 
 Ajustez la fréquence d'évaluation au contexte et évaluez rapidement si nécessaire.
 
@@ -30,7 +30,7 @@ Les éléments de cette pratique peuvent également être utilisés par des indi
 
 ## Format long
 
-![Un format long pour évaluer et développer les accords](img/agreements/evaluate-agreements.png)
+![Un format long pour évaluer et améliorer les accords](img/agreements/evaluate-agreements.png)
 
 Préparation :
 

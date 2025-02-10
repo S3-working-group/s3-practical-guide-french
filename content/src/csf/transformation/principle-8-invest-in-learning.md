@@ -6,8 +6,8 @@
 
 Des pratiques essentielles pour vous y aider :
 
-- [Navigate via Tension](section:navigate-via-tension) – Everyone in the organization paying attention for situations where growing competence and skills may be valuable focuses the learning effort and facilitates continuous improvement.
+- [Naviguer par Tension](section:navigate-via-tension) – Faire en sorte que tous les membres de l'organisation soient attentifs aux opportunités d'augmenter les compétences et des connaissances peut s'avérer précieux, focalise l’effort d’apprentissage et facilite l'amélioration continue.
 - [Evaluate Meetings](section:evaluate-meetings) – A brief evaluation at the end of each meeting or workshop helps people identify their strengths, growing edges, and ways to improve their contribution in the future.
-- [Peer Review](section:peer-review) – When teams or people in roles regularly invite relevant stakeholders for a review of their effectiveness, they can learn about their strengths and growing edges, and identify ways they can improve their contribution in the future.
-- [Development Plan](section:development-plan) – Collaborating with relevant stakeholders on a plan for how to develop necessary skills and competence is an effective way of focusing the learning efforts of a person in a role, or for a team.
-- [Peer Feedback](section:peer-feedback) – Inviting feedback from peers supports people in understanding their strengths and growing edges, so that they can invest in learning where helpful.
+- [Évaluation entre Pairs](section:peer-review) – Une équipe ou un porteur de rôle invitant régulièrement les parties prenantes concernées à évaluer son efficacité, peut identifier ses forces, ses faiblesses et des façons d'améliorer sa contribution à l'avenir.
+- [Plan de Développement](section:development-plan) – Collaborer avec les parties prenantes concernées sur un plan de développement des compétences et des connaissances nécessaires, est un moyen efficace de focaliser les efforts d'apprentissage d'un porteur de rôle ou d'une équipe.
+- [Retour entre Pairs](section:peer-feedback) – Demander des retours à nos pairs, nous aide à comprendre nos forces et nos faiblesses, afin d'investir nos efforts d'apprentissage au bon endroit.

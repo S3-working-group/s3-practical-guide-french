@@ -1,4 +1,4 @@
-# Drivers organisationnels et exigences
+# Drivers Organisationnels et Exigences
 
 <only presets="jekyll">
 **Table des matières**
@@ -16,7 +16,7 @@
 
 Identifier et interagir dans des situations qui justifient une sorte de réponse est un aspect fondamental de la journée de travail de chacun dans une organisation.
 
-Dans le contexte de la Sociocratie 3.0, l'[efficacité](section:principle-effectiveness) est un principe clé qui invite les membres d'une organisation à faire le meilleur usage de leurs ressources, de l'énergie et du temps en consacrant des efforts à ne faire que ce qui rapproche l'organisation de la réalisation de ses objectifs généraux. Pour aider les gens à comprendre sur quoi il est important de se concentrer, et à développer une compréhension partagée autour de ce qui peut être ou non bénéfique de faire, nous utilisons les concepts de _Drivers organisationnels_ et d'_Exigences_.
+Dans le contexte de la Sociocratie 3.0, l'[efficacité](section:principle-effectiveness) est un principe clé qui invite les membres d'une organisation à faire le meilleur usage de leurs ressources, de l'énergie et du temps en consacrant des efforts à ne faire que ce qui rapproche l'organisation de la réalisation de ses objectifs généraux. Pour bien réaliser sur quoi il est important de se concentrer, et une meilleure compréhension partagée de ce qui est bénéfique de faire ou de ne pas faire, nous utilisons les concepts de _Drivers Organisationnels_ et d'_Exigences_.
 
 Reflecting on and describing organizational drivers and requirements supports:
 
@@ -32,7 +32,7 @@ However, not all situations that motivate an organization's members to act, are 
 
 Making sense of situations that arise in the course of daily work and establishing if those situations are relevant to deal with, before deciding how to respond to them, has evident **benefits**:
 
-- A clear and accurate understanding of a situation that requires an intervention, **supports people to develop a better idea of what's required to deal with it**. A problem well-defined is a problem half-solved (see [Respond to Organizational Drivers](section:respond-to-organizational-drivers))
+- A clear and accurate understanding of a situation that requires an intervention, **supports people to develop a better idea of what's required to deal with it**. Un problème bien défini est un problème à moitié résolu (voir [Répondre aux Drivers Organisationnels](section:respond-to-organizational-drivers))
 - Explicitly describing a driver helps to **communicate about it effectively** with others and **develop a shared understanding** of the situation and its relevance for the organization (see [Describe Organizational Drivers](section:describe-organizational-drivers))
 - Thinking about organizational drivers supports people to reflect on, **understand and communicate about why they do the things they do**. It provides a way to investigate and make explicit the reasons behind actions and decisions and it helps to understand **why we are motivated to pursue particular objectives and goals**.
 - Taking time to investigate situations and their potential relevance, before acting, helps to **determine if and when intervening is worthwhile**, because people can be mistaken, both regarding their conclusions about what they are perceiving, and in terms of the relevance they ascribe to the situations they perceive (see [Navigate via Tension](section:navigate-via-tension)).
@@ -44,7 +44,7 @@ Determining whether a situation qualifies as an organizational driver is depende
 
 All organizational drivers arise as a consequence of the decision to respond to the organization's primary driver and fulfill its main requirement. The decision to respond to a driver often reveals necessary steps, obstacles and opportunities that need taking care of. To describe the relationship between organizational drivers, we use the terms [subdriver](glossary:subdriver) and [superdriver](glossary:superdriver).
 
-### Drivers, valeur et gaspillage
+### Drivers, Valeur et gaspillage
 
 By adopting the concepts of value and waste in organizations, many practices and ideas from lean production and lean software development are immediately applicable for organizations pulling in S3 patterns, like the Kanban Method, or Value Stream Mapping.
 
@@ -60,4 +60,4 @@ There's a wealth of research and development about the concept of value and wast
 
 Éclaircir intentionnellement et explicitement la direction générale et la portée de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
 
-Avoir une attitude orientée solutions est très apprécié dans les organisations. Cependant, dans les contextes collaboratifs, fixer des idées précises trop rapidement peut étouffer la créativité et entraîner des tensions et des conflits inutiles. Lorsqu'on est chargé de répondre à un driver organisationnel, sauter immédiatement à des solutions concrètes peut restreindre ou diminuer le champ des possibilités envisagées. En outre, des solutions spécifiques peuvent être apportées par des individus projetant leurs expériences passées sur la situation ou agissant en fonction de leurs habitudes, plutôt que sur la base d'une analyse approfondie et réfléchie de la situation en cours, et une décision délibérée et explicite concernant l'exigence : comprendre ce qui est nécessaire ou désiré pour répondre à ce driver et comment répondre à l'exigence pourrait avoir un impact positif sur la situation (comme décrit dans la pratique [Déterminer les exigences](section:determine-requirements).
+Avoir une attitude orientée solutions est très apprécié dans les organisations. Cependant, dans les contextes collaboratifs, fixer des idées précises trop rapidement peut étouffer la créativité et entraîner des tensions et des conflits inutiles. Lorsqu'on est chargé de répondre à un driver organisationnel, sauter immédiatement à des solutions concrètes peut restreindre ou diminuer le champ des possibilités envisagées. En outre, des solutions spécifiques peuvent être apportées par des individus projetant leurs expériences passées sur la situation ou agissant en fonction de leurs habitudes, plutôt que sur la base d'une analyse approfondie et réfléchie de la situation en cours, et une décision délibérée et explicite concernant l'exigence : comprendre ce qui est nécessaire ou désiré pour répondre à ce driver et comment répondre à l'exigence pourrait avoir un impact positif sur la situation (comme décrit dans la pratique [Déterminer les Exigences](section:determine-requirements).

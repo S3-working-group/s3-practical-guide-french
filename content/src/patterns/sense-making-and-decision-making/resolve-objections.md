@@ -32,7 +32,7 @@ Les objections sont résolues en modifiant la proposition. **Les amendements** p
 
 There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the [driver](glossary:organizational-driver) or fulfill the corresponding [requirement](glossary:requirement) reaching an agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations.
 
-Les objections peuvent être résolues en suivant le processus décrit dans [Prise de décision raisonnée](section:reasoned-decision-making):
+Les objections peuvent être résolues en suivant le processus décrit dans [Prise de Décision Raisonnée](section:reasoned-decision-making):
 
 **Étape 1 :** Présenter une proposition d'amendement
 
@@ -97,7 +97,7 @@ De nombreux groupes utilisent des signes de la main comme moyen d'indiquer rapid
 
 ## Étape 4 : Tester si un argument est une objection
 
-Veuillez vous référer à [Tester les objections potentielles](section:test-arguments-qualify-as-objections)
+Veuillez vous référer à [Examiner les Objections](section:test-arguments-qualify-as-objections)
 
 - Si l'argument est qualifié, continuez vers **Étape 5** (Intégrer une objection)
 - If the argument doesn't qualify, go back to **Step 3** to check if there are any further possible objections to the proposed amendment.

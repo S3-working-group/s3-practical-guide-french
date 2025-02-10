@@ -1,5 +1,5 @@
-# Share Costs and Gains
+# Partager les Coûts et les Gains
 
 <summary>
-Ensure that people have a direct relationship to the costs and gains resulting from their work, so that they are incentivised to give their best, work effectively and minimize waste.
+Assurez-vous que les gens ont une relation directe avec les coûts et les gains résultant de leur travail, afin qu'ils soient intéressés à donner le meilleur, à travailler efficacement et à minimiser le gaspillage.
 </summary>

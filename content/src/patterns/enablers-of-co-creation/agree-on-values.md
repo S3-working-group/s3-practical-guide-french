@@ -1,4 +1,4 @@
-# S'entendre sur les valeurs
+# S'Accorder sur des Valeurs
 
 <summary>
 Faites évoluer consciemment la culture de votre organisation.

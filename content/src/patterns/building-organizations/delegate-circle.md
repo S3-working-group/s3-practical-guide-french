@@ -1,4 +1,4 @@
-# Cercle délégué
+# Cercle Délégué
 
 <summary>
 Déléguez les décisions de gouvernance impactant plusieurs domaines aux représentants sélectionnés par ces domaines.

@@ -1,4 +1,4 @@
-# Hiérarchie à double lien
+# Hiérarchie à Double Lien
 
 <summary>
 Déléguez toute autorité pour prendre des décisions de gouvernance à des cercles auto-gérés, reliés par deux liens à tous les niveaux de la hiérarchie, pour transiter d'une hiérarchie traditionnelle vers une structure plus à même d'exploiter l'intelligence collective, assurer l'équivalence et construire l'engagement.
@@ -14,4 +14,4 @@ Une hiérarchie à double lien :
 
 ![Une hiérarchie à double lien: une hiérarchie pas comme les autres](img/structural-patterns/double-linked-hierarchy.png)
 
-**Voir aussi :** [Cercle](section:circle), [Double lien](section:double-linking), [Représentant](section:representative)
+\*\*Voir aussi : \*\* [Cercle](section:circle), [Double Lien](section:double-linking), [Représentant](section:representative)

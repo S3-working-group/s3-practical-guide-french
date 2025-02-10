@@ -11,9 +11,9 @@
 
 **Principe 5 – Expérimenter :** _Adressez les défis complexes par l'expérimentation, afin d'apprendre à vous rapprocher de vos objectifs._
 
-**Principe 6 – Développer l'autonomie :** _Permettez aux individus et aux équipes de créer de la valeur de façon aussi autonome que possible, afin d'apporter de la valeur rapidement et d'éviter des dépendances inutiles._
+**Principe 6 – Cultiver l'Autonomie :** _Permettez aux individus et aux équipes de créer de la valeur de façon aussi autonome que possible, afin de délivrer de la valeur rapidement et d'éviter des dépendances inutiles._
 
-**Principe 7 – Collaborer sur les dépendances :** _Cocréez et faites évoluer un système cohérent pour gérer toutes les dépendances, afin d'apporter de la valeur rapidement lorsque les dépendances ne peuvent pas être évitées._
+**Principe 7 – Collaborer sur les Dépendances :** _Cocréez et faites évoluer un système cohérent pour gérer toutes les dépendances, afin d'délivrer de la valeur rapidement lorsque les dépendances ne peuvent pas être évitées._
 
 **Principe 8 - Investir dans l'apprentissage :** _Veillez à ce chacun développe ses aptitudes et ses compétences, afin que sa contribution reste précieuse et que l'organisation puisse continuer de progresser._
 

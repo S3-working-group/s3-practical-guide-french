@@ -10,13 +10,13 @@ Nous aimons aussi l'Agile, le Lean, le Kanban, les Core Protocols, la Communicat
 
 C'est pourquoi nous avons décidé de consacrer une partie de notre temps à développer et à faire évoluer la Sociocratie, en l'intégrant avec de nombreuses autres idées puissantes, afin de la rendre accessible et applicable au plus grand nombre d'organisations possible.
 
-Nous croyons en l'importance d'avoir une identité forte, à une manière radicalement différente de distribuer et d'adapter la *Méthode d'Organisation en Cercles Sociocratique * afin d'améliorer son applicabilité.
+Nous croyons en l'importance d'avoir une identité forte, à une manière radicalement différente de distribuer et d'adapter la *Méthode d'organisation par Cercles Sociocratiques (SCM)* afin d'améliorer son applicabilité.
 
 ## Le nom
 
 Le nom "*Sociocratie 3.0*" montre à la fois le respect des origines et un pas en avant significatif.
 
-Cela aide également à éviter la perception que nous déformerions la *Méthode Sociocratique d'organisation par Cercles (SCM)* telle que promue parThe Sociocracy Group (TSG), le Sociocracy Consulting Group, Sociocracy For All (SoFA), Governance Alive, et plein d'autres.
+Cela aide également à éviter la perception que nous déformerions la *Méthode d'organisation par Cercles Sociocratiques (SCM)* telle que promue parThe Sociocracy Group (TSG), le Sociocracy Consulting Group, Sociocracy For All (SoFA), Governance Alive, et plein d'autres.
 
 ![Trois variantes de sociocratie](img/context/sociocracy-variants.png)
 
@@ -37,7 +37,7 @@ Cependant, d'après notre expérience directe, pour la plupart des organisations
 
 ### Réduire le risque et la résistance
 
-La *Sociocratie 3.0* prend les organisations là où elles en sont et les emmène dans un voyage d’amélioration continue. Il n’y a pas de changement radical ni de réorganisation. La *Sociocratie 3.0* fournit un catalogue de pratiques indépendantes qu'une organisation peut amener une à une afin de gagner en efficacité. Toutes les pratiques s’appuient sur un ensemble de principes fondamentaux, de sorte qu'elles puissent facilement être adaptées à chaque contexte.
+La *Sociocratie 3.0* prend les organisations là où elles en sont et les emmène dans un voyage d’amélioration continue. Il n’y a pas de changement radical ni de réorganisation. La *Sociocratie 3.0* fournit un catalogue de pratiques indépendantes qu'une organisation peut amener une à une afin de gagner en efficacité. Toutes les pratiques s’appuient sur un ensemble de principes fondamentaux, de sorte qu'elles puissent facilement être adaptées à chaque contexte.
 
 ### Passer de la vision au besoin
 

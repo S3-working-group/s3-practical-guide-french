@@ -1,4 +1,4 @@
-# Changement par forum ouvert
+# Espace de Changement Ouvert
 
 <summary>
 Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.

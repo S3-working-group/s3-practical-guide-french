@@ -9,7 +9,7 @@ Rechercher l'efficacité exige d'agir en essayant de minimiser le gaspillage, d'
 
 ## Clarifiez le "pourquoi"
 
-Être efficace commence par clarifier pourquoi vous voulez faire quelque chose et avoir une vague idée de ce que vous voulez réaliser. La définition de la raison pour laquelle l’organisation existe et des objectifs qu’elle tente d’atteindre aide tout le monde à mieux comprendre dans quelle direction travailler et comment contribuer de manière sensée. Sans cette clarté, il est difficile pour les individus de situer leur travail dans le contexte général. Il est également plus difficile de qualifier et de quantifier ce qui apporte de la valeur et de quelle manière.
+Être efficace commence par clarifier pourquoi vous voulez faire quelque chose et avoir une vague idée de ce que vous voulez réaliser. La définition de la raison pour laquelle l’organisation existe et des objectifs qu’elle tente d’atteindre aide tout le monde à mieux comprendre dans quelle direction travailler et comment contribuer de manière sensée. Sans cette clarté, il est difficile pour les individus de situer leur travail dans le contexte général. Il est également plus difficile de qualifier et de quantifier ce qui délivre de la valeur et de quelle manière.
 
 ## Garder vos options ouvertes
 

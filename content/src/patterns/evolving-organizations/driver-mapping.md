@@ -1,4 +1,4 @@
-# Cartographier les drivers
+# Cartographier les Drivers
 
 <summary>
 Un format d’atelier permettant aux grands groupes de cocréer et de s’organiser en réponse à une situation complexe d’envergure.
@@ -30,12 +30,12 @@ Le résultat d'un atelier de cartographie des drivers est typiquement :
 
 -   une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes.
 -   une structure organisationnelle sur mesure qui rassemble tout le monde, y compris les domaines interconnectés pour gérer les dépendances.
--   une première ébauche de backlogs de gouvernance et d'opérations pour chaque sous-domaine identifié.
+-   une première ébauche des backlogs de gouvernance et des opérations pour chaque sous-domaine identifié.
 -   la délégation d'influence et l’affectation des personnes aux sous-domaines par auto-sélection et nomination.
 
 Although Driver Mapping is often used for identifying and defining new domains, there are also applications for identifying and distributing governance and operational drivers among existing domains in an organization, e.g. when an initiative will be dealt with by existing teams in an organization, or if a group feels they're stuck in their current structure and are looking for inspiration for how to incrementally adapt it. The group can decide if they would map to existing domains and figure out which new ones they'd need to create, or even create a new structure from scratch.
 
-In a small team or circle (max. 6-8 people), when it's not a priority to distribute work, the team might only use steps 1-5, to understand the scope and fill the operations and governance backlog, and then use proposal forming or some other approach for identifying strategy and/or next steps.
+Dans une petite équipe ou un petit cercle (max 6-8 personnes), lorsque la distribution du travail n'est pas une priorité, l'équipe peut n'utiliser que les étapes 1-5, pour comprendre le périmètre et remplir les backlogs opérationnels et de gouvernance, puis formuler des propositions ou utiliser une autre approche pour identifier ses stratégies et/ou ses prochaines étapes.
 
 En préparation :
 
@@ -49,7 +49,7 @@ En préparation :
 
 Voici les étapes à suivre :
 
-![Cartographier les drivers : processus](img/process/driver-mapping.png)
+![Cartographier les Drivers : processus](img/process/driver-mapping.png)
 
 
 ### 1. Pourquoi sommes-nous réunis?
@@ -126,13 +126,13 @@ _Les participants s'organisent en plus petites équipes autour des différents d
 Dans cette phase, certaines personnes peuvent errer entre les domaines jusqu'à ce qu'elles en trouvent un auquel elles ont le sentiment de pouvoir contribuer.
 
 
-### 7. Affiner les backlogs
+### 7. Affiner les Backlogs
 
 _Organisez le travail à faire dans chaque domaine, assurez vous que les choses soient priorisées et décrites clairement._
 
 
 -   Pour chaque domaine, copiez le modèle ci-dessous sur un tableau papier
--   Sort all remaining requirements into the two backlogs on the flip chart:
+-   Triez toutes les exigences restantes dans les deux backlogs sur le tableau :
     -   backlog des opérations : besoins actionnables
     -   backlog de gouvernance : besoins qui pourraient bénéficier ou nécessiter une décision
 -   Combinez et reformulez les cartes si nécessaire, de sorte que la description sur chacune soit claire. Consultez l'auteur de la carte en cas de doute.
@@ -146,7 +146,7 @@ En tant que facilitateur du processus de cartographie des drivers, proposez un e
 
 Faites des pauses régulières pour partager les rapports entre les différents domaines. Remarque : Certains domaines peuvent être dissous, modifiés ou fusionnés avec d'autres.
 
-![Cartographier les drivers: un modèle pour les domaines](img/templates/domain-template.png)
+![Cartographier les Drivers: un modèle pour les domaines](img/templates/domain-template.png)
 
 
 ### 8. Connecter les domaines

@@ -26,7 +26,7 @@ Réfléchissez bien aux informations qu'il vaut la peine de consigner. Les infor
 
 -   les décisions qui ont été prises, ainsi que les informations sur lesquelles elles ont été fondées, qui les a prises et les raisons pour lesquelles elles ont été prises
 -   toute information qui aide les gens à prendre des décisions efficaces, telles que des détails sur le contexte, les possibilités explorées et toute contrainte importante
--   les informations qui aident à évaluer les progrès et les résultats, y compris les critères d'évaluation, les métriques, descriptions des résultats attendus et détails de toutes les hypothèses sur la base desquelles des décisions sont prises
+-   les informations qui aident à évaluer les progrès et les résultats, y compris les critères d'évaluation, les indicateurs, descriptions des résultats attendus et détails de toutes les hypothèses sur la base desquelles des décisions sont prises
 -   les informations qui réduisent l'incertitude et soutiennent le développement de la confiance, comme les finances et les plans futurs
 -   les perspectives et apprentissages utiles
 -   les compte rendus de réunion

@@ -30,7 +30,7 @@ Je continuerai à apprendre sur S3, approfondir ma compréhension et explorer de
 
 Je suis transparent au sujet de mon niveau d'expérience, de ma compréhension de S3, des commentaires que je reçois et de mon plan de développement.
 
-Je fais régulièrement des évaluations par les pairs et j’intègre les commentaires des clients et de mes pairs pour faire évoluer ce que je fais.
+Je fais régulièrement des évaluations entre pairs et j'intègre les commentaires des clients et de mes pairs pour faire évoluer ce que je fais.
 
 Je donnerai à tous les clients/pairs la possibilité de partager publiquement des retours.
 

@@ -18,7 +18,7 @@ En pratiquant la Sociocratie 3.0 on comprend la valeur essentielle que ces princ
 
 *{{glossary:empiricism}}*
 
-**[Le Principe de l'Amélioration en Continu](section:principle-continuous-improvement) :**
+**[Le Principe de l'Amélioration Continue](section:principle-continuous-improvement) :**
 
 *{{glossary:continuous-improvement}}*
 

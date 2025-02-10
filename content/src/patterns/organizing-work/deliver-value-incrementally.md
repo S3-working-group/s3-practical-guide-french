@@ -1,5 +1,5 @@
-# Deliver Value Incrementally
+# Délivrer la Valeur par Incrément
 
 <summary>
-Slice work in a way that allows for delivering value fast and frequently, to validate assumptions quickly, align with customer needs, and respond promptly to changing priorities. 
+Décomposez le travail afin de pouvoir délivrer de la valeur rapidement et fréquemment, pour valider vos hypothèses rapidement, coller aux besoins des clients, et vous adapter aux changements de priorités. 
 </summary>

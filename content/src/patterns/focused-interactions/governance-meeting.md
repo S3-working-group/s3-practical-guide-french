@@ -1,4 +1,4 @@
-# Réunion de gouvernance
+# Réunion de Gouvernance
 
 <summary>
 <strong>Les équipes se rencontrent à intervalles réguliers pour décider de ce qu'il faut faire pour atteindre les objectifs et pour définir des contraintes sur la façon et le moment de faire les choses.</strong>
@@ -8,12 +8,12 @@ Une réunion de gouvernance est habituellement :
 
 - facilitée
 - préparée à l'avance
-- [timeboxée](section:timebox-activities) à une durée de 90 à 120 minutes
+- [en temps limité](section:timebox-activities) pour une durée de 90 à 120 minutes
 - programmée toutes les 2 à 4 semaines
 
 Le déroulé d'une réunion de gouvernance typique comprend :
 
-- ouverture: [accueil](section:check-in) et rappel de l'objectif de la réunion
+- ouverture: [Tour d'Accueil](section:check-in) et rappel de l'objectif de la réunion
 - questions administratives 
     - vérifier le consentement au procès-verbal de la dernière réunion
     - s'entendre sur une date pour la prochaine réunion

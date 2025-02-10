@@ -6,9 +6,9 @@ Keep an up-to-date list of things you need to address, so that you can remember 
 
 {{define:backlog}}
 
-Backlogs are at the core of any reliable and transparent system for organizing work and governance. Consider making backlogs visible, not only to other members of a team but also to the wider organization.
+Les Backlogs sont au cœur de tout système fiable et transparent pour l'organisation du travail et de la gouvernance. Pensez à rendre les backlogs visibles, pas seulement aux membres de l'équipe, mais aussi à toute l'organisation.
 
-Rather than getting side-tracked when a new work item comes up, make a note of it in the appropriate backlog, so that you keep focus on the work in progress.
+Plutôt que de se faire détourner lorsqu'un nouvel élément de travail surgit, prenez-en note dans le backlog approprié, afin de rester concentré sur le travail en cours.
 
 Plusieurs types de backlog existent :
 
@@ -29,4 +29,4 @@ Chaque entrée d'un backlog (priorisé) contient typiquement :
 - référence à d'autres projets ou ** tâches connexes**, ainsi qu'à toute **autre information pertinente**
 - an **estimate of the time** required to deal with it
 
-It can also be useful to include: - a due date (if necessary) - a way of visualizing rank or priorities (see [Prioritized Backlog](https://patterns.sociocracy30.org/prioritize-backlogs.html))
+Il peut également être utile d'inclure : - une date d'échéance (si nécessaire) - une façon de visualiser le rang ou les priorités (voir [Backlog Priorisé](https://patterns.sociocracy30.org/prioritize-backlogs.html))

@@ -1,4 +1,4 @@
-# Faciliter les réunions
+# Faciliter les Réunions
 
 <summary>
 Choisissez quelqu'un pour faciliter une réunion afin d'aider le groupe à rester concentré, à tenir le cap de la réunion et à libérer la créativité et la sagesse des participants.
@@ -12,4 +12,4 @@ Avant chaque réunion, préparez un ordre du jour de sujets et sélectionnez un 
 
 Pensez à choisir un facilitateur pour une période spécifique. Même un facilitateur inexpérimenté peut avoir un impact positif.
 
-**Voir aussi:** [Préparer les réunions](section:prepare-for-meetings), [Sélectionner les porteurs de rôles](section:role-selection)
+**Voir aussi :** [Préparer les Réunions](section:prepare-for-meetings), [Attribution des Rôles](section:role-selection)

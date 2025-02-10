@@ -18,7 +18,7 @@ Il est donc utile de distinguer deux catégories d’activités dans une organis
 
 {{define:operations}}
 
-Pour chaque [domaine](glossary:domain) dans une organisation il y a une *instance gouvernante*: les personnes ayant un mandat pour sceller et pour faire évoluer des accords régissant la manière dont ceux qui font le travail dans ce domaine créent de la valeur.
+Pour chaque [domaine](glossary:domain) dans une organisation il y a une *instance gouvernante* : des personnes ayant un mandat pour passer et pour amender des accords régissant la manière dont ceux qui font le travail dans ce domaine créent de la valeur.
 
 Il existe de nombreuses façons de répartir le travail et la gouvernance. Parfois, l'organe de gouvernance est une seule personne, par exemple dans le cas d'un manager qui dirige les autres. D'autres fois un groupe [de personnes se gouvernent elles-mêmes](section:circle) et tous les membres partagent la responsabilité de la gouvernance dans les contraintes de leur domaine.
 

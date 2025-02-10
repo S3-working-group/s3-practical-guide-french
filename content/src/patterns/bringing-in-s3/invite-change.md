@@ -1,4 +1,4 @@
-# Inviter aux changements
+# Accueillir le Changement
 
 <summary>
 Clarifiez la raison du changement et invitez les gens à participer.

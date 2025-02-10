@@ -1,4 +1,4 @@
-# Décider par consentement
+# Décider par Consentement
 
 <summary>
 <strong>Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les accords existants.</strong>
@@ -15,4 +15,4 @@ Taire des objections peut nuire aux objectifs d’une équipe ou d’une organis
 1. En l'absence d'objections à un accord, je m’engage à le respecter du mieux que je peux.
 2. J’accepte de faire part de mes objections lorsque j'en prendrai conscience.
 
-![Décider par consentement](img/agreements/consent-decision-making.png)
+![Décider par Consentement](img/agreements/consent-decision-making.png)

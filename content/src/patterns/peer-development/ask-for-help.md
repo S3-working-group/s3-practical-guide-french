@@ -1,4 +1,4 @@
-# Demander un soutien
+# Demander de l'Aide
 
 <summary>
 Un protocole simple pour apprendre, partager ses compétences et établir des liens, en respectant les attributions de chacun.
