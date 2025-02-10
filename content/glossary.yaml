@@ -13,21 +13,21 @@ terms:
   accountability:
     name: Redevabilité (principe)
     definition:
-    glossary: "*Réagissez lorsque quelque chose est nécessaire, faites ce que vous avez accepté de faire et prenez votre part de responsabilité dans  l'organisation,* pour que ce qui doit être fait le soit, que rien ne soit négligé et que tout le monde fasse ce qu'il peut pour contribuer à l'efficacité et à l'intégrité de l'organisation."
+    glossary: "**Réagissez lorsque c'est nécessaire, faites ce que vous avez accepté de faire et acceptez votre part de responsabilité dans  l'organisation,** afin que ce qui est à faire le soit, que rien ne soit négligé et que chacun contribue à l'efficacité et à l'intégrité de l'organisation."
   account:
-    name: Etre redevable de (v.)
-    glossary: prendre la responsabilité de quelque chose.
+    name: Être redevable de (v.)
+    glossary: assumer la responsabilité de quelque chose.
   agreement:
     name: Accord
-    definition: Un **accord** est une ligne directrice, un processus, un protocole ou une politique établis de le but de guider le flux de valeur.
-    glossary: Une ligne directrice, un processus ou protocole établi de le but de guider le flux de valeur.
+    definition: Un **accord** est une ligne directrice, un processus, un protocole ou une politique convenus pour guider le flux de valeur.
+    glossary: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.
   alignment:
     name: Alignement
     glossary: Le processus d'aligner les actions de l'ensemble des parties d'une organisation aux objectifs de l'organisation.
   backlog:
     name: Backlog
-    definition: Un **backlog** aussi appelé "panier" est une liste (souvent priorisée) d'éléments de travail inachevés (livrables), ou de drivers qui doivent être traités.
-    glossary: Une liste (souvent priorisée)  d'éléments de travail à faire (livrables) ou de drivers en attente de traitement.
+    definition: Un **backlog** (liste à faire) est une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.
+    glossary: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.
   chosen-values:
     name: Valeurs choisies
     glossary: Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider ses actions et collaboration en son sein.
@@ -38,26 +38,26 @@ terms:
   check-in:
     name: Tour d'accueil
     definition:
-    glossary: Une bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur la façon dont vous êtes, révélant vos pensées, vos sentiments, des distractions ou des besoins.
+    glossary: Un bref moment authentique où vous partagez quelque chose sur ce qui vous attend et sur comment vous vous sentez, en révélant vos pensées, vos sentiments, vos distractions ou vos besoins.
   complexity:
     name: Complexité
     glossary: Un environnement où les inconnus sont inconnus, les liens de cause à effets ne peuvent être compris que rétrospectivement, et où les actions mènent à des changements imprévisibles. [Snowden and Boone]
   concern:
     name: Préoccupation
-    definition: Une **préoccupation** est une supposition - ou une opinion - selon laquelle faire quelque chose (même en l'absence d'objections) **pourrait** entraver une réponse (plus) efficace à un driver organisationnel.
-    glossary: Une supposition que faire quelque chose (même en l'absence d'objections) pourrait faire obstacle à une façon (plus) efficace de répondre à un driver organisationnel.
+    definition: Une **préoccupation** est une supposition qui ne peut (du moins pour le moment) être étayée par un raisonnement ou par suffisamment de preuves pour être considérée comme une objection à ceux qui la considèrent.
+    glossary: Une supposition qui ne peut (du moins pour le moment) être étayée par un raisonnement ou par suffisamment de preuves être considérée comme une objection à ceux qui la considèrent.
   consent:
     name: Consentement (principe)
     definition:
-    glossary: "*Signalez, rechercher et résoudre les objections aux décisions et aux actions,* afin de réduire le risque de conséquences indésirables et de découvrir des améliorations utiles."
+    glossary: "**Soulever, rechercher et résoudre les objections aux propositions, aux accords existants et à l'activité**, de réduire le potentiel de décisions conduisant à des conséquences indésirables et de découvrir des moyens utiles pour s'améliorer."
   constituent:
     name: Constituant
     definition:
-    glossary: Une équipe (par exemple un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l'autorité à un représentant pour agir en leur nom dans d'autres équipes ou organisations.
+    glossary: 'Une équipe (ex : un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l''autorité à un représentant pour agir en leur nom dans d''autres équipes ou organisations.'
   continuous-improvement:
     name: Amélioration continue (principe)
     definition:
-    glossary: "*Examinez régulièrement le résultat de ce que vous faites, puis apportez des améliorations progressives à ce que vous faites et à comment vous le faites, en fonction de ce que vous apprendrez,* afin de vous adapter aux changements quand c'est nécessaire, et de maintenir ou d'améliorer votre efficacité au fil du temps."
+    glossary: "**Évaluez régulièrement vos résultats, puis apportez des améliorations progressives à ce que vous faites et à la façon dont vous le faites, en fonction de ce que vous apprendrez,** afin de vous adapter aux changements quand c'est nécessaire, et de maintenir ou d'améliorer votre efficacité au fil du temps."
   coordination:
     name: Coordination
     definition:
@@ -67,49 +67,49 @@ terms:
     glossary: Un individu ou un groupe acceptant la responsabilité d'un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.
   delegation:
     name: Délégation
-    definition: La délégation est l’octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.
-    glossary: L'octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses et/ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.
+    definition: La délégation est l’octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses ou de prendre certaines décisions) pour lequel le délégant reste globalement redevable.
+    glossary: L'octroi par une partie (le délégant) à une autre (le délégué) de l’autorité de s'occuper d'un domaine, (c'est-à-dire de faire certaines choses ou de prendre certaines décisions) pour lesquelles le délégant maintient la redevabilité globale.
   delegator:
     name: Délégant
     glossary: Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.
   deliverable:
     name: Livrable
-    definition: Un **livrable** est un produit, un service, un composant ou un document fourni en réponse à un driver organisationnel.
-    glossary: Un produit, un service, un composant ou un matériel fourni en réponse à un driver organisationnel.
+    definition: Un **livrable** est un produit, un service, un composant ou un document fourni pour répondre à une exigence.
+    glossary: Un produit, un service, un composant ou un document fourni pour répondre à une exigence.
   domain:
     name: Domaine
-    definition: Un **domaine** est une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.
-    glossary: Une zone d'influence, d’activité et de prise de décisions distincte au sein d'une organisation.
+    definition: Un **domaine** est une zone de responsabilité et d'autorité bien délimitée au sein d'une organisation.
+    glossary: Une zone de responsabilité et d'autorité bien délimitée au sein d'une organisation.
   driver:
     name: Driver
-    definition: Un **driver** (aussi appelé "une intention" en français) est le motif d'un groupe ou d'un individu pour réagir à une situation donnée.
+    definition: Un **driver** (parfois appelé "intention") est le motif d'un groupe ou d'un individu pour réagir à une situation donnée.
     glossary: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.
   effectiveness:
     name: Efficacité (principe)
     definition:
-    glossary: "*Ne consacrer du temps qu'à ce qui vous rapproche de la réalisation des objectifs généraux de votre organisation,* afin de faire le meilleur usage de votre précieux temps, de votre énergie et de vos ressources."
+    glossary: "**Ne consacrez du temps qu'à ce qui vous rapproche des objectifs généraux de votre organisation**, afin de faire le meilleur usage de votre temps, de votre énergie et de vos ressources limitées."
   empiricism:
     name: Empirisme (principe)
     definition:
-    glossary: "*Testez toutes les suppositions sur lesquelles vous vous appuyez, à travers des expériences et une évaluation continue,* afin d'apprendre rapidement, comprendre et appréhender la complexité aussi efficacement que possible."
+    glossary: "**Testez toutes les hypothèses sur lesquelles vous vous appuyez à l'aide d'expériences et d'évaluations en continu,** afin d'apprendre rapidement, de comprendre et d'appréhender la complexité aussi efficacement que possible."
   equivalence:
-    name: Equivalence (principe)
+    name: Équivalence (principe)
     definition:
-    glossary: "*Impliquer les personnes dans la prise et l'évolution des décisions qui les affectent,* afin d'augmenter l'engagement et la redevabilité, et d'utiliser l'intelligence distribuée pour atteindre et faire évoluer vos objectifs."
+    glossary: "**Impliquez les personnes dans la prise et l'évolution des décisions qui les affectent,** afin d'augmenter leur sens de l'engagement et de la redevabilité, et d'utiliser l'intelligence distribuée pour atteindre et faire évoluer vos objectifs."
   evolve:
-    name: Evoluer (v.)
+    name: Évoluer (v.)
     glossary: développer graduellement.
   flow-of-value:
     name: Flux de valeur
-    glossary: Les livrables voyageant traversant une organisation vers les clients ou d'autres intervenants.
+    glossary: Les livrables traversant une organisation vers les clients ou d'autres intervenants.
   governance:
     name: Gouvernance
-    definition: "La **Gouvernance** dans une organisation (ou l'un de ses domaines) est le processus de fixer des objectifs, de prendre et faire évoluer des décisions qui guident les gens pour les atteindre."
-    glossary: Le processus de fixer des objectifs et de prendre et de modifier des décisions qui guident les gens pour les atteindre.
+    definition: "La **Gouvernance** dans une organisation (ou dans un de ses domaines) est le processus qui vise à fixer des objectifs, à prendre et à faire évoluer des décisions qui guident les gens vers l'atteinte de ces objectifs."
+    glossary: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l'atteinte de ces objectifs.
   governance-backlog:
     name: Backlog de gouvernance
-    definition: Un **backlog de gouvernance** est une liste visible et priorisée, de points (drivers) qui sont en lien avec la gouvernance d'un domaine et en attente de traitement.
-    glossary: Une liste explicite ordonnée par priorité de points (drivers) d'attention à traiter se rapportant à la gouvernance d'un domaine.
+    definition: Un **backlog de gouvernance** est une liste visible et priorisée de sujets (drivers et/ou exigences) liés à la gouvernance d'un domaine.
+    glossary: Une liste visible, priorisée de sujets (drivers et/ou exigences) relatifs à la gouvernance d'un domaine.
   intended-outcome:
     name: Résultat attendu
     definition:
@@ -117,10 +117,10 @@ terms:
   helping-team:
     name: Équipe de soutien
     definition:
-    glossary: Une équipe de personnes équivalentes ayant le mandat d'agir sur un ensemble de besoins spécifiques.
+    glossary: Une équipe de personnes équivalentes ayant le mandat d'agir sur un ensemble d'exigences spécifiques.
   key-responsibilities:
     name: Responsabilités clés
-    glossary: Un travail essentiel ou une prise de décision cruciale dans le contexte d'un domaine.
+    glossary: Travail ou prises de décisions essentiels requis au sein d'un domaine.
   logbook:
     name: Registre
     definition:
@@ -129,38 +129,38 @@ terms:
     name: Indicateur (mesuré)
     definition: Un **indicateur** est une mesure quantifiable utilisée pour suivre et évaluer les progrès, évaluer les résultats et déterminer le succès.
     glossary: Une mesure quantifiable utilisée pour suivre et évaluer les progrès, évaluer les résultats et déterminer le succès
-  need:
-    name: Besoin
-    definition: Un **besoin** est l'absence de quelque chose de voulu ou de jugé nécessaire (une exigence).
-    glossary: L'absence de quelque chose de voulu ou jugé nécessaire (une exigence).
   objection:
     name: Objection
-    definition: Une **objection** est un argument relatif à un accord (proposé) ou une activité qui révèle des conséquences inattendues que vous préfèreriez éviter, ou qui pourrait être améliorée.
-    glossary: Un argument relatif à un accord (proposé) ou une activité qui révèle les conséquences inattendues que vous préféreriez éviter, ou qui pourraient être améliorées.
+    definition: Une **objection** est un argument – relatif à une proposition, un accord existant, ou une activité menée par un ou plusieurs membres de l'organisation - révélant des conséquences ou des risques qu'il serait préférable d'éviter pour l'organisation, ou démontrant des améliorations potentielles significatives.
+    glossary: Un argument – relatif à une proposition, un accord existant, ou une activité menée par un ou plusieurs membres de l'organisation - révélant des conséquences ou des risques qu'il serait préférable d'éviter pour l'organisation, ou démontrant des améliorations potentielles significatives.
   objective:
     name: Objectif
     definition:
     glossary: Un résultat (particulier) qu'une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.
-  open-domain:
-    name: Domaine ouvert
-    definition:
-    glossary: Un domaine dont s'occupent un ensemble de personnes invitées à contribuer quand elles le peuvent.
+  open-team:
+    name: Équipe ouverte
+    definition: Une **équipe ouverte** est un groupe de personnes qui sont invitées à contribuer quand elles le peuvent au travail et à la gouvernance d'un domaine.
+    glossary: Un groupe de personnes qui sont invitées à contribuer quand elles le peuvent au travail et à la gouvernance d'un domaine.
   operations:
     name: Opérations
     definition: "Les **Opérations** consistent à faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance."
     glossary: Faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance.
   operations-backlog:
     name: Backlog des opérations
-    definition: Un **backlog des opérations** est une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
-    glossary: Une liste (typiquement priorisée) visible d'éléments de travail inachevés (livrables).
+    definition: Un **backlog des opérations** est une liste (typiquement priorisée) visible de choses à faire (livrables).
+    glossary: Une liste (typiquement priorisée) visible de choses à faire (livrables).
   organization:
     name: Organisation 
     definition:
     glossary: Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
   organizational-driver:
     name: Driver organisationnel
-    definition:
-    glossary: Un driver (aussi appelée "intention" en français) est le motif d’une personne ou d’un groupe à répondre à une situation particulière. Un driver est considéré comme un **driver organisationnel** si le fait d'y répondre aiderait l’organisation à générer de la valeur, à éliminer du gaspillage ou à éviter des conséquences inattendues.
+    definition: Un **driver organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).
+    glossary: Toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).
+  overall-domain:
+    name: Domaine global
+    definition: Le **domaine global** d'une organisation définit la raison d'être de l'organisation, sa stratégie globale, son modèle d'affaire, et d'autres contraintes standard.
+    glossary: Le domaine qui définit la raison d'être de l'organisation, sa stratégie globale, son modèle d'affaire, et d'autres contraintes standard.
   pattern:
     name: Pratique
     definition: Une **pratique** est un processus, une façon de faire ou une ligne directrice qui sert de modèle pour répondre avec succès à un type spécifique de défi ou d'opportunité.
@@ -177,6 +177,10 @@ terms:
     name: Principe
     definition: Un **principe** est une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.
     glossary: Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.
+  requirement:
+    name: Exigence
+    definition: Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.
+    glossary: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.
   role:
     name: Rôle
     definition:
@@ -195,18 +199,22 @@ terms:
   self-organization:
     name: Auto-organisation
     definition:
-    glossary: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L'auto-organisation se produit dans les contraintes d'un domaine, mais sans l'influence directe des agents externes. Dans toute organisation ou équipe, l'auto-organisation coexiste avec l'influence externe (par exemple, des objections externes ou des décisions de gouvernance qui affectent le domaine).
+    glossary: 'Toute activité ou processus par le biais duquel les personnes organisent leur travail. L''auto-organisation se produit dans les contraintes d''un domaine, mais sans l''influence directe des agents externes. Dans toute organisation ou équipe, l''auto-organisation coexiste avec l''influence externe (ex : des objections externes ou des décisions de gouvernance qui affectent le domaine).'
   semi-autonomy:
     name: Semi-autonomie
     definition:
     glossary: L'autonomie des personnes à décider par elles-mêmes comment elles créent de la valeur, limitée par les contraintes de leur domaine, et par les objections formulées par le délégant, les représentants ou d'autres.
   social-technology:
     name: Technologie sociale
-    definition: Tout processus, technique, méthode, compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l'atteinte d’objectifs communs et conduire des interactions et des échanges sensés.
-    glossary: La technologie sociale est tout processus, toute technique, toute méthode, toute compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — pour soutenir l'atteinte d'objectifs communs et mener des interactions et échanges sensés.
+    definition: "Une **technologie sociale** est tout processus, technique, méthode, compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — afin de soutenir l'atteinte d'objectifs communs et de mener des interactions et des échanges sensés."
+    glossary: Tout processus, technique, méthode, compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — afin de soutenir l'atteinte d'objectifs communs et de mener des interactions et des échanges sensés.
   sociocracy:
     name: Sociocratie
     glossary: Une approche où les personnes impactées par des décisions peuvent les influencer sur la base de raisons justifiées.
+  standard-constraint:
+    name: Contrainte standard
+    definition: 'Une **contrainte standard** est une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l''organisation (ex : la stratégie d''entreprise, le modèle d’affaire ou un règlement interne).'
+    glossary: 'Une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l''organisation (ex : la stratégie d''entreprise, le modèle d''affaire ou un règlement interne).'
   strategy:
     name: Stratégie
     definition: Une **stratégie** est une approche de haut niveau sur la façon dont les personnes vont créer de la valeur pour s'occuper avec succès d'un domaine.
@@ -230,7 +238,7 @@ terms:
   team:
     name: Équipe
     definition:
-    glossary: Un groupe de personnes qui collaborent vers un driver commun (ou un objectif). Généralement, une équipe fait partie d'une organisation, ou est formée pour la collaboration entre plusieurs organisations.
+    glossary: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d'une organisation ou est formée pour la collaboration entre plusieurs organisations.
   tension:
     name: Tensions
     definition:
@@ -242,11 +250,11 @@ terms:
   transparency:
     name: Transparence (principe)
     definition:
-    glossary: "*Enregistrez toutes les informations qui sont précieuses pour l'organisation rendez-les accessibles à tous les membres de l'organisation, à moins qu'il n'y ait une raison de confidentialité,* afin que chacun ait les informations dont il a besoin pour comprendre comment faire son travail d'une manière qui contribue le plus efficacement à l'ensemble."
+    glossary: "**Consignez par écrit toutes les informations précieuses pour l'organisation et rendez-les accessibles à tous les membres de l'organisation, à moins qu'il n'y ait un impératif de confidentialité,** afin que chacun dispose des informations dont il a besoin pour comprendre comment faire son travail tout en contribuant efficacement à l'ensemble."
   value:
     name: Valeur
     definition: "La **valeur** est l'importance ou l'utilité de quelque chose lié à un driver."
-    glossary: L'importance ou l'utilité de quelque chose lié à un driver. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, "valeurs" ou "valeurs organisationnelles").
+    glossary: L'importance ou l'utilité de quelque chose lié à un driver. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, les "valeurs" ou les "valeurs organisationnelles").
   values:
     name: Valeurs
     definition: "Les **Valeurs** sont des principes importants qui guident le comportement. Les valeurs définissent une portée d'action et des contraintes éthiques."

@@ -2,7 +2,7 @@
 
 ![Influences et historique de la Sociocratie 3.0](img/context/history.png)
 
-La signification littérale du terme **sociocratie** est "la règle des compagnons" : *socio* — du latin *socius* — qui signifie "companion", ou "ami", et le suffixe *-cracy* — du grec ancien κράτος (krátos) — qui signifie "puissance", ou "règle".
+La signification littérale du terme **sociocratie** est "la règle des compagnons" : *socio* — du latin*socius*— qui signifie "compagnon", ou "ami", et le suffixe *-cracy* — du grec ancien κράτος (krátos) — qui signifie "puissance", ou "règle".
 
 Le mot sociocratie remonte à 1851, quand **Auguste Comte** a suggéré d'appliquer une approche scientifique à la société : les états seraient gouvernés par un corps de scientifiques experts de la société (qu'il nommait les « sociologues »). Selon lui, ce futur, bien qu'il ne fût pas encore réalisable, était inévitable.
 
@@ -18,7 +18,7 @@ La Sociocratie s'est avérée efficace pour de nombreuses organisations et commu
 
 En 2014 **James Priest et Bernhard Bockelbrink** se réunirent pour cocréer un corpus de ressources d'apprentissage sous licence Creative Commons, synthétisant les idées de la Sociocratie, de l’Agile et du Lean. Ils ont découvert que les organisations de toutes tailles ont besoin d’un menu flexible de pratiques et de structures – adaptées à leur contexte particulier – qui permettent d’évoluer vers une approche plus sociocratique et plus agile pour plus d’efficacité, de cohérence, d’accomplissement et de bien-être. La première version de la **Sociocratie 3.0** fût lancée en mars 2015.
 
-**Liliana David** a rejoint l'équipe peu après. Ensemble, ils oeuvrent à rendre la S3 accessible et applicable au plus grand nombre d'organisations possible et publient des ressources sous une licence **Creative Commons Free Culture License** pour ceux qui veulent apprendre, appliquer et parler aux autres de la Sociocratie 3.0.
+**Liliana David** a rejoint l'équipe peu après. Ensemble, ils œuvrent à rendre la S3 accessible et applicable au plus grand nombre d'organisations possible et publient des ressources sous une licence **Creative Commons Free Culture License** pour ceux qui veulent apprendre, appliquer et parler aux autres de la Sociocratie 3.0.
 
 ## Le mouvement Sociocratie 3.0
 

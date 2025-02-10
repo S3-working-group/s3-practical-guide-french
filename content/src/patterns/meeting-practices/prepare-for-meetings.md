@@ -1,12 +1,12 @@
 # Préparer les réunions
 
 <summary>
-<strong>Préparez-vous à l'avance pour rendre les réunions plus efficaces.</strong>
+Préparez-vous à l'avance pour rendre les réunions plus efficaces.
 </summary>
 
 Quelques considérations pour préparer avec succès une réunion :
 
-- clarifiez et communiquez le [driver](glossary:driver), et le [résultat attendu](glossary:intended-outcome) de la réunion
+- clarifiez et communiquez le [driver](glossary:organizational-driver), et le [résultat attendu](glossary:intended-outcome) de la réunion
 - décidez qui inviter
 - créez un ordre du jour
 - planifiez la réunion suffisamment à l'avance, pour que les gens aient le temps de se préparer

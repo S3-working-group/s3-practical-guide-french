@@ -1,7 +1,7 @@
 # Adapter les pratiques au contexte
 
 <summary>
-<strong>Adaptez et faites évoluer vos pratiques S3 pour correspondre à votre contexte particulier.</strong>
+Adaptez et faites évoluer vos pratiques S3 à votre contexte particulier.
 </summary>
 
 Assurez-vous que tous ceux qui sont concernés :

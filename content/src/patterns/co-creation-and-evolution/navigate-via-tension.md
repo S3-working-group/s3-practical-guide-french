@@ -10,4 +10,6 @@
 
 Pour **découvrir les drivers**, recherchez ce qui stimule la tension, et décrivez ce qui se passe et ce qui est nécessaire. Parfois, une question révèle des idées fausses et la tension disparaît.
 
-![Naviguer par tension, décrire les drivers organisationnels, Répondre aux drivers organisationnels](img/process/navigate-describe-respond.png)
+Lorsque vous transférez un driver à un autre domaine, il est généralement suffisant de communiquer ce qui se passe et pourquoi vous pensez que c'est important (l'effet sur l'organisation). Laissez ceux qui sont responsables du domaine penser à ce qui est nécessaire et quoi en faire.
+
+![Naviguer par tension, décrire les drivers organisationnels, répondre aux drivers organisationnels](img/process/navigate-describe-respond.png)

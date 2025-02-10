@@ -55,7 +55,7 @@ La façon dont un contrat est négocié peut contribuer de manière significativ
 
 Tout contrat peut être modifié à tout moment, à condition que tous les signataires soient d'accord. Cependant, cela réduit considérablement le potentiel de conflit plus tard si vous considérez le cycle de vie complet de la collaboration dans le contrat :
 
-- établissez des dispositions pour démarrer avec succès en définissant les procédures de démarrage
+- prévoyez des procédures d'accueil pour que les participants démarrent bien
 - définissez une période de probation, où toutes le parties peuvent essayer la collaboration, ainsi qu'un protocole clair sur la façon dont chaque partie peut résilier le contrat pendant la période de probation
 - définissez et intégrez dans le contrat des réunions d'évaluation régulières où les signataires se réunissent pour tirer des leçons et décider comment le contrat pourrait être modifié pour s'adapter au contexte changeant
 - intégrez des procédures pour les cas de violation de contrat
@@ -67,7 +67,7 @@ Tout contrat peut être modifié à tout moment, à condition que tous les signa
 Chaque contrat influence la culture de la collaboration qu'il régit, même lorsqu'il semble seulement décrire *ce* qui doit être livré :
 
 - créez volontairement la culture de la collaboration que vous voulez voir en incluant les attentes sur *comment* les choses doivent être faites
-- alignez le contrat sur la culture organisationnelle (de toutes les parties) et aux exigences légales
+- alignez le contrat sur la culture organisationnelle (de toutes les parties) et aux obligations légales
 - construisez des contrats qui permettent et encouragent la redevabilité
 
 Si vous trouvez que les contrats standard dans votre secteur ne sont pas en harmonie avec la culture que vous voulez créer, construisez votre propre référentiel de modèles de contrats et clauses et envisagez de le partager avec d'autres, afin que vous puissiez bénéficier de l'expérience passée lors de la création de nouveaux contrats.

@@ -6,7 +6,7 @@
 
 Les propositions deviennent des [accords](glossary:agreement) quand elles sont considérées *assez bonnes pour le moment et assez sûres pour les essayer* jusqu'à la prochaine évaluation.
 
-Des [objections](glossary:objection) non intégrées empêchent les propositions de devenir des accords.
+Des [objections](glossary:objection) non résolues empêchent les propositions de devenir des accords.
 
 Taire des objections peut nuire aux objectifs d’une équipe ou d’une organisation.
 

@@ -1,3 +1,79 @@
-- create cover for supporter edition and ebook @done
-- templates/need-card is missing
-- v2021-02-11
+
+Inbox:
+	- fix source of pattern map (outdated link to enablers of co-creation) and merge updated templates (also in docs/includes) to language versions
+	- make soure to use straight quotation marks  instead of typographic quotation marks ‘…’ and “…” @done
+
+ebook:
+	- ToC doesn't build correctly in PDF: @done
+		ToC has Intro / Patterns / Appendix (tree is complete, but all links in there are not working), after that "What is S3", Principles, Concepts, Patters, CsF, Appendix, and all are working fine. 
+		Last good version was S3-practical-guide-2020-04-29 😭, the problem is the way ghostscript "merges" the pdf with the cover page, because the entire pdf is recreated in the process (that also explains why it took so long), resulting in loss of quality in illustrations and broken ToC. I need to set up the title page with a full page image 
+	- Warning: Class scrreprt Warning: Usage of package `fancyhdr' together with a KOMA-Script class is not recommended. I'd suggest to use package `scrlayer' or `scrlayer-scrpage'
+	- Package inputenc Warning: inputenc package ignored with utf8 based engines. @done
+	
+Link between language versions:
+	Images are broken in epub:
+		fix config.ebook.tex and makefile
+		- fix English epub build @done
+		- fix Dutch epub build
+		- fix French epub build
+		- fix German epub build
+Indexes, Tags, Dynamic Pattern Map:
+		Dynamic Pattern map:
+			- render a clickable pattern map that contains summaries on mouse-over
+			- add a filter (like on omnijs page) to search and filter for panels
+				see https://github.com/bboc/omni-plugins/blob/master/index.html
+				- what happens to pattern groups, do they just disappear when the first letter is typed??
+		Index with pattern and glossary:
+			- create a new index file that contains both
+			- make a filter that hides one or the other 
+		Full Index: @later
+			Create an alphabetical index that can be filtered by pattern, group, concept and glossary
+			- decide how to handle translation of tag names
+				<metadata tags="pattern csf-coherence-key" />
+				<tags tags="Foo | Bar  Baz" />
+				<tags>Pattern | Building Organizations | Patterns for Managers | Coherence (Key Pattern) | Purpose (related pattern)</tags>
+				<tag tag="pattern"/> <tag tag="csf-coherence-key" />
+				<tags list="pattern csf-coherence-key" />
+				<tags>
+					<tag:pattern />
+					<tag:csf-coherence-key />
+				</tags>
+				- generate translatable file that maps them?
+				- derive tag slug from tag name and autodetect collission?
+			- add finding tags to mdtools: <tags
+			- add individual pages for each concept (with a navigation on bottom that goes back to the full concepts page?? priciples and patterns also tagged as concepts!)
+			- add tags to pages: 
+Translations:
+	- document translation process and update docs for release process
+Known Issues:
+	- in the epub, page breaks should be before each pattern @done
+	info on epub and page breaks: https://electricbookworks.com/kb/creating-epub-from-indesign/after-indesign-export-to-epub/page-breaks/ and https://www.mobileread.com/forums/showthread.php?t=168471
+Build Process / mdtools:
+	- glossary links inside the glossary itself are not parsed correctly, add glossary links only when they are working!!
+	- add references for HTML, Epub, LaTex
+Supporter Edition and New Introduction:
+	- bump version number
+	- upload to crowdin
+	- make everything set in ragged left!!
+	Content:
+		- intro: reduce risk and resistance: explain what a pattern is???
+	Structure / Scripting:
+		- check if all works out without explaining "patterns"
+		- test links in disclaimer!
+	Website:
+		- make sure image captions are rendered and formatted accordingly!! (probably as "![]() /n*caption*/ and img + em {}
+	Epub:
+		- make sure authors meta is correct
+		- add description to metadata
+		- update formatting (font / paragraph style / headlines styles)
+	PDF Ebook:
+		- add subtitle to title page @done
+		- make sure figure numbering is continuous @done
+		- flow text ragged left? @done
+		- style figure captions a little smaller (and in italics)
+		- add title page to PDF @done
+		- add title image to latex build @later @done
+
+
+
+

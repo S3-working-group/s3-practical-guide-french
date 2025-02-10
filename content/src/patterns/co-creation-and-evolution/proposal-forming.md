@@ -1,12 +1,12 @@
 # Élaborer une proposition
 
 <summary>
-<strong>Un processus de groupe (facilité) pour cocréer une réponse à un driver.</strong>
+<strong>Un processus de groupe (facilité) pour co-créer une réponse à un motif.</strong>
 </summary>
 
 - s’appuie sur l’intelligence collective et la diversité des perspectives au sein d’un groupe
 - implique les participants dans la co-création des accords
-- encourage la redevabilité et le sens de l'appropriation
+- ... encourage la responsabilisation et le sens de l'engagement
 
 La pratique *Élaborer une proposition* peut également être utilisée par un individu.
 

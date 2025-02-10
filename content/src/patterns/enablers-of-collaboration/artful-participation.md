@@ -1,4 +1,4 @@
-# Participation active
+# Participation élégante
 
 <summary>
 <strong>Engagez-vous à faire de votre mieux pour agir et interagir de façon à permettre une collaboration efficace.</strong>

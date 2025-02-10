@@ -18,7 +18,7 @@ En tant que facilitateur de gouvernance, envisagez d'apprendre et d'utiliser les
 - [Décider par consentement](section:consent-decision-making)
 - [Sélectionner les porteurs de rôles](section:role-selection)
 - [Évaluer les réunions](section:evaluate-meetings)
-- [Intégrer les objections](section:resolve-objections)
+- [Résoudre les Objections](section:resolve-objections)
 - [Évaluation entre pairs](section:peer-review)
 
 ![Le facilitateur de gouvernance est typiquement membre de l'équipe](img/circle/facilitator.png)

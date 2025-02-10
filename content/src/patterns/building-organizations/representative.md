@@ -1,7 +1,7 @@
 # Représentant
 
 <summary>
-<strong>Sélectionnez un membre de l'équipe pour participer aux décisions de gouvernance d'une autre équipe pour activer le flux d'informations et d'influence.</strong>
+Sélectionnez un membre de l'équipe pour participer aux décisions de gouvernance d'une autre équipe pour activer le flux d'informations et d'influence.
 </summary>
 
 Les représentants (les liens):

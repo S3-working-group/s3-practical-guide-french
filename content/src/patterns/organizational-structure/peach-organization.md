@@ -1,7 +1,7 @@
 # Organisation décentralisée
 
 <summary>
-<strong>Apportez de la valeur dans des environnements complexes et compétitifs grâce à la <em>décentralisation</em> (des ressources et de l'influence) et à <em>l'interaction directe</em> de ceux qui créent la valeur avec les clients qu'ils servent.</strong>
+Apportez de la valeur dans des environnements complexes et compétitifs grâce à la <em>décentralisation</em> (des ressources et de l'influence) et à <em>l'interaction directe</em> de ceux qui créent la valeur avec les clients qu'ils servent.
 </summary>
 
 Les équipes en périphérie :

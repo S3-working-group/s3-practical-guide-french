@@ -1,21 +1,21 @@
 # Retour par les pairs
 
 <summary>
-<strong>Invitez tout membre de votre organisation à vous donner des commentaires constructifs sur votre performance dans un rôle ou dans une équipe, au sujet de votre participation générale et de votre contribution, ou de tout autre domaine que vous souhaitez développer.</strong>
+Invitez certains membres de votre organisation à commenter de manière constructive votre performance dans un rôle ou dans une équipe, votre participation générale et votre contribution, ou bien un axe que vous souhaitez développer.
 </summary>
 
-Avant l'invitation, considérez qui pourrait être en mesure et prêt à fournir les commentaires que vous recherchez, et décidez d'une durée appropriée - 15 ou 30 minutes est généralement suffisant.
+Commencez par identifier les personnes qui pourraient et accepteraient de faire les retours que vous recherchez. Puis décidez d'une durée d'entretien appropriée - 15 à 30 minutes suffisent généralement.
 
-Planifiez la session à l'avance, afin que votre pair puisse se préparer à votre réunion, et prévoyez un peu de temps pour vous après la session pour décider comment vous allez prendre en compte les commentaires reçus.
+Planifiez la session à l'avance, afin que la personne puisse se préparer à votre échange, et prévoyez un peu de temps pour vous après la session pour décider comment vous allez prendre en compte les commentaires reçus.
 
-Dans l'invitation, clarifiez le sujet sur lequel vous voulez avoir des retours, et expliquez que vous cherchez à la fois des **appréciations** et des **suggestions d'amélioration exploitables**.
+Dans votre invitation, soyez clair sur le sujet pour lequel vous souhaitez recevoir des retours. Expliquez que vous recherchez à la fois des **appréciations** et des **suggestions d'amélioration exploitables**.
 
-Au cours de la session elle-même, considérez :
+Pendant la session, essayez de :
 
-- prenez des notes pour vous assurer que vous pouvez mémoriser les détails
-- en reformulant les commentaires que vous recevez avec vos propres mots pour vérifier l'exactitude de votre compréhension.
-- posez une question de clarification pour mieux comprendre les commentaires si leur signification n'est pas claire pour vous 
+- Prendre des notes pour bien mémoriser les détails
+- Reformuler avec vos propres mots ce qui vous est dit pour vérifier que vous avez bien compris
+- Demander des clarifications si certains retours ne sont pas assez clairs pour vous 
 
-Évitez de discuter ou de juger les commentaires que vous recevez et n'oubliez pas de remercier vos pairs d'avoir pris le temps de vous faire un retour.
+Évitez de discuter ou de juger les retours que vous recevez et n'oubliez pas de remercier votre interlocuteur d'avoir pris du temps pour vous.
 
-Après la session, passez en revue vos notes et décidez par vous-même ce que vous ferez avec les commentaires que vous avez reçus. Partager votre décision avec votre pair si vous le souhaitez.
+After the session, review your notes and decide for yourself what you will do with the feedback you received. It's your choice if you want to share your decision with your peer.

@@ -1,6 +1,6 @@
-# L'engagement intentionnel pour les praticiens et les enseignants de la Sociocratie 3.0 (ICPT)
+# Engagement Intentionnel pour les Praticiens et les Enseignants de la Sociocratie 3.0 (ICPT)
 
-Cet engagement support :
+Cet engagement soutient :
 
 **Praticiens et enseignants** avec des conseils clairs sur la façon de développer continuellement leur expérience et leurs compétences en partageant et en appliquant les pratiques S3, en améliorant leur connaissance et leur compréhension de S3 au fur et à mesure qu'elle évolue.
 

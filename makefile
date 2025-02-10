@@ -7,8 +7,7 @@ include config/local-conf
 make translations:
 	mdtemplate default $(PROJECT) templates/version.txt content/version.txt
 	# it's intentional this is just echoed
-	echo "sudo crowdin upload sources --identity ~/crowdin-s3-patterns.yaml --dryrun"
-	echo "sudo crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version.txt) --dryrun"
+	echo "sudo crowdin upload sources --dryrun"
 
 version:
 	mdtemplate default $(PROJECT) templates/version.txt content/version.txt
@@ -18,6 +17,24 @@ site:
 	mdbuild jekyll $(PROJECT) -vv
 	mdbuild all-in-one-jekyll-page $(PROJECT) -vv
 	cd docs;jekyll build
+
+rebuild-site:
+	mdbuild jekyll $(PROJECT) -vv
+	mdbuild all-in-one-jekyll-page $(PROJECT) -vv
+
+serve-site:
+	open http://127.0.0.1:4000/
+	# serve jekyll site
+	cd docs;jekyll serve
+	# release the port if something went wrong:
+	# ps aux |grep jekyll |awk '{print $2}' | xargs kill -9
+
+serve-lan:
+	open http://192.168.1.51:4000/
+	# serve jekyll site
+	cd docs;jekyll serve s -H 192.168.1.51
+	# release the port if something went wrong:
+	# ps aux |grep jekyll |awk '{print $2}' | xargs kill -9
 
 debug:
 	# build with debug output (for quickly testing changes to structure.yaml or project.yaml)
@@ -54,10 +71,7 @@ ebook:
 	cd $(TMP); multimarkdown --to=latex --output=ebook-compiled.tex ebook-compiled.md
 	cd $(TMP); latexmk -pdf -xelatex -silent ebook.tex 
 
-	# merge with cover
-	cd $(TMP); gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf ../templates/ebook-cover.pdf ebook.pdf
-
-	cd $(TMP); mv merged.pdf ../$(TARGETFILE).pdf
+	cd $(TMP); mv ebook.pdf ../$(TARGETFILE).pdf
 	
 	# clean up
 	cd $(TMP); latexmk -C
@@ -86,6 +100,7 @@ ifneq ("$(wildcard $(TMP)/img)","")
 endif
 	cp -r img $(TMP)/img
 	cp templates/covers/* $(TMP)/img
+	cp templates/ebook-cover.pdf $(TMP)
 
 	# clean up and copy images do to docs folder
 ifneq ("$(wildcard docs/img)","")

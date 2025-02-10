@@ -1,22 +1,22 @@
 # Évaluation entre pairs
 
 <summary>
-<strong>Soutenez-vous mutuellement pour apprendre et vous améliorer dans les rôles et équipes où vous servez.</strong>
+Entraidez-vous à apprendre et à grandir dans vos rôles et les équipes où vous servez.
 </summary>
 
-Le porteur de rôle - ou l'équipe - anime l'évaluation par les pairs en préparant le processus et en prenant la parole à chaque étape.
+The role keeper – or team – leads the peer review by setting up the process, and by speaking first in each step.
 
 ![Processus d'évaluation par ses pairs](img/process/peer-review.png)
 
-Assurez-vous d'inviter des personnes ayant des perspectives complémentaires à contribuer à l'évaluation, ainsi qu'un [facilitateur](section:facilitate-meetings).
+Invitez un [facilitateur](section:facilitate-meetings) ainsi que des personnes ayant des perspectives complémentaires à contribuer à l'évaluation.
 
-Pour les appréciations et les suggestions d'amélioration, assurez-vous de prendre en compte les aspects suivants :
+Donnez à chacun des appréciations et des suggestions d'amélioration, en considérant :
 
-- La **valeur** que le délégué a apporté à l'organisation en s’occupant du [domaine](glossary:domain).
-- Les processus de travail **du porteur de rôle ou de l'équipe**, et leur **collaboration** avec le [délégant](glossary:delegator) et avec d'autres parties prenantes concernées, et – dans le cas d’une équipe – entre eux.
-- Dans quelle mesure le **délégant** prend en charge ses responsabilités.
+- La **valeur** que la personne a apporté à l'organisation en s’occupant de ses [domaines](glossary:domain).
+- The role keeper's or team's **work processes**, and their **collaboration** with the [delegator](glossary:delegator) and with other relevant stakeholders, and – in the case of a team – with each other.
+- À quel point le **délégant** prend en charge ses responsabilités.
 - La **conception du domaine** lui-même (et potentiellement la conception d'autres domaines liés).
-- Les compétences et aptitudes **du porteur de rôle ou de l'équipe** par rapport au domaine.
-- La **[stratégie ](glossary:strategy)** que le détenteur de rôle ou l'équipe suit pour tenir compte de ce domaine.
+- The role keeper's or team's **competencies and skills** in relation to the domain.
+- La **[stratégie ](glossary:strategy)** que le porteur de rôle ou l'équipe suit pour s'occuper de ses domaines.
 
 ![L'amélioration continue des capacités des personnes à porter efficacement leurs rôles ou à collaborer en équipe](img/evolution/development-process.png)

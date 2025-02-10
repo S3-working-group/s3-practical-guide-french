@@ -1,13 +1,13 @@
 # Plan de développement
 
 <summary>
-<strong>Un plan pour développer des façons plus efficaces de s'occuper d'un domaine, convenu entre délégant et délégué.</strong>
+Un plan convenu entre délégant et délégué pour s'occuper plus efficacement d'un domaine.
 </summary>
 
-Le plan de développement peut être créé pour une personne dans un rôle, ou pour une équipe (ex: un département, un [cercle](section:circle) ou un [domaine ouvert](section:open-domain)).
+Le plan de développement peut être créé pour une personne dans un rôle, ou pour une équipe (ex : un département, un [cercle](section:circle) ou une [équipe ouverte](section:open-team)).
 
-Le développement peut se faire en raffinant la description du [driver](section:describe-organizational-drivers) et du [domaine](glossary:domain), en apportant des changements à la [stratégie](glossary:strategy), par de nouveaux ou la modification d'accords ou encore en prenant des actions spécifiques, soit dans le domaine du délégant, soit dans le domaine du délégué.
+On développe en affinant la description du [driver](section:describe-organizational-drivers) et du [domaine](glossary:domain), en ajustant la [stratégie](glossary:strategy), en amendant les accords ou bien par des actions particulières dans les domaines concernés.
 
-Un plan de développement (et toutes les recommandations accompagnant les changements aux descriptions du domaine et du[driver](glossary:driver)) nécessite le consentement à la fois du [délégué](glossary:delegatee) et du [délégant](glossary:delegator).
+A development plan (and any accompanying recommendations for changes to the descriptions of the domain and the [driver](glossary:organizational-driver)) requires consent from both the [delegatee](glossary:delegatee) and the [delegator](glossary:delegator).
 
 ![Un modèle pour les plans de développement](img/templates/development-plan-template.png)

@@ -1,7 +1,7 @@
 # Faciliter les réunions
 
 <summary>
-<strong>Choisissez quelqu'un pour faciliter une réunion afin d'aider le groupe à rester focalisé, à garder le cap de la réunion, à libérer la créativité et la sagesse des participants.</strong>
+Choisissez quelqu'un pour faciliter une réunion afin d'aider le groupe à rester concentré, à tenir le cap de la réunion et à libérer la créativité et la sagesse des participants.
 </summary>
 
 Avant chaque réunion, préparez un ordre du jour de sujets et sélectionnez un facilitateur pour :

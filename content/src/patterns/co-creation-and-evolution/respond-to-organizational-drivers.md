@@ -14,10 +14,10 @@ La réponse à un driver organisationnel est généralement traitée comme une e
 
 ![Réponses possibles aux drivers organisationnels](img/driver-domain/driver-response-full.png)
 
-## Qualifier les drivers en drivers organisationnels
+## Qualifier les drivers organisationnels
 
 {{glossary:organizational-driver}}
 
 Une façon simple de déterminer si un driver appartient bien au [domaine](glossary:domain) d'une organisation est de se demander :
 
-*Est-ce que cela aiderait l'organisation si nous répondions à cet driver? Ou est-ce que cela nous nuirait si nous ne le faisions pas?*
+*Est-ce que cela aiderait l'organisation si nous répondions à ce driver? Ou est-ce que cela nous nuirait si nous ne le faisions pas?*

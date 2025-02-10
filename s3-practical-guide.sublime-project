@@ -1,0 +1,30 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"s3-practical-guide-french/docs/*.md",
+				"s3-practical-guide-french/docs/_site/*.html"
+			],
+			"folder_exclude_patterns":
+			[
+				"s3-practical-guide-french/docs/reveal.js/plugin",
+				"s3-practical-guide-french/docs/reveal.js/lib",
+				"s3-practical-guide-french/docs/reveal.js/js",
+				"s3-practical-guide-french/_attic",
+				"s3-practical-guide-french/tmp"
+			],
+			"path": ".",
+		}
+	],
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
+}

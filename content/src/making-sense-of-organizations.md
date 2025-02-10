@@ -2,7 +2,7 @@
 
 Dans cette section, vous apprendrez les concepts clés suivants :
 
-- Driver
+- Driver et Exigence
 - Domaine
 - Accord
 - Objection

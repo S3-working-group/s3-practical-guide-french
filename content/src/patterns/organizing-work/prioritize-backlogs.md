@@ -1,7 +1,7 @@
 # Prioriser les backlogs
 
 <summary>
-<strong>Triez tous les éléments de travail inachevés en partant des plus importants, puis dépilez par le haut lorsqu'il y a une nouvelle capacité.</strong>
+Ordonnez toutes les tâches inachevées en partant des plus importantes, puis dépilez par le haut lorsqu'il y a une nouvelle capacité.
 </summary>
 
 Il ne peut y avoir deux éléments de même importance, ce qui signifie qu'il est nécessaire de s'entendre sur les priorités et faire des choix difficiles.

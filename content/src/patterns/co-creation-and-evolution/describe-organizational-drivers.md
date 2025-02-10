@@ -1,10 +1,10 @@
 # Décrire les drivers organisationnels
 
 <summary>
-<strong>Décrivez les drivers pour mieux les comprendre, les communiquer et vous en souvenir.</strong>
+<strong>Décrivez les drivers organisationnels pour mieux les comprendre, les communiquer et vous en souvenir.</strong>
 </summary>
 
-Décrire les [drivers](glossary:organizational-driver) peut être fait en groupe ou par un individu. Selon leur perspective, ils peuvent décider d'expliquer un driver comme un **problème** à résoudre ou une **opportunité** à saisir.
+Décrire les [drivers](glossary:organizational-driver) peut être fait en groupe ou par un individu. Selon leur perspective, ils peuvent exprimer un driver comme un **problème** à résoudre ou comme une **opportunité** à saisir.
 
 Un moyen simple de décrire un driver est d'expliquer :
 
@@ -15,7 +15,7 @@ Un moyen simple de décrire un driver est d'expliquer :
     - le **besoin** de l'organisation par rapport à cette situation
     - l'**impact** de répondre à ce besoin
 
-Créez un résumé bref mais complet contenant juste assez d'informations pour communiquer clairement la nécessité d'une action ou d'une décision.
+Créez un résumé bref mais concis avec juste assez d'informations pour justifier clairement la nécessité d'une action ou d'une décision.
 
 Pas plus d'une ou deux phrases, afin que l'information soit facile à retenir et traiter.
 
@@ -42,7 +42,7 @@ Décrivez la situation actuelle:
 
 Expliquez l'effet de cette situation sur l'organisation :
 
-- Clarifiez **pourquoi** la situation nécessite de l'attention : comment cela affecte-t-il l'organisation ?
+- Clarifiez **pourquoi** la situation nécessite de l'attention : comment l'organisation s'en trouve-t-elle affectée ?
 - Précisez si les effets sont actuels ou anticipés.
 - Expliquez les problèmes, les pertes, les opportunités ou les gains.
 

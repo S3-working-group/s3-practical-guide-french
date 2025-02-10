@@ -1,5 +1,122 @@
 # Historique des modifications
 
+<only presets="jekyll"> **Table des matières**
+
+- toc {:toc}
+
+</only>
+
+## Changements du 18-04-2024
+
+**Changements généraux**
+
+- Création d'un chapitre séparé pour Structurer une Organisation, 
+    - ajout de [Organisation décentralisée](section:peach-organization), [Organisation de service](section:service-organization), [Organisation fractale](section:fractal-organzition) and [Hiérarchie à double lien](section:double-linked-hierarchy) comme exemples de structures plus grandes.
+    - déplacement de [Cercle délégué](section:delegate-circle) et [Cercle de service](section:service-circle) vers [Construire les organisations](section:building-organizations)
+- mise à jour du [Canvas de l'organisation S3](https://s3canvas.sociocracy30.org/s3-organization-canvas.html)
+
+**Glossaire**
+
+- suppression de "besoin" du glossaire
+
+**Pratiques renommées :**
+
+- renommage de *Transparence salariale* en [Salaire ouvert](section:open-salary)
+
+**Pratiques ajoutées:** (toutes avec un bref résumé pour le moment)
+
+- [Collaborer sur les dépendances](section:collaborate-on-dependencies)
+- [Amener la valeur de façon incrémentale](section:deliver-value-incrementally)
+- [Concevoir des systèmes adaptatifs](section:design-adaptable-systems)
+- [Activer l'autonomie](section:enable-autonomy)
+- [Transparence financière](section:financial-transparency)
+- [Investir dans l'apprentissage continu](section:invest-in-ongoing-learning)
+- [Gérer l'ensemble du système](section:manage-the-whole-system)
+- [Partager les coûts et les gains](section:share-costs-and-gains)
+
+**Pratiques supprimées :**
+
+- suppression de *Déléguer l'influence*
+
+## Changements du 05-04-2024
+
+- Plus de changements relatifs aux Exigences 
+    - mise à jour du glossaire : définitions revues pour [Backlog](glossary:backlog) et [Backlog de gouvernance](glossary:governance-backlog)
+    - Révision de [Résoudre les Objections](section:resolve-objections), [Backlog](section:backlog), [Backlog de gouvernance](section:governance-backlog) et [Réunion de gouvernance](section:governance-meeting)
+    - révision des pratiques recommandées dans le [Framework du Sens Commun](section:csf)
+
+## Changements du 08-02-2024
+
+- introduction de *Exigence* comme concept de base distinct de *Driver*: 
+    - ajout d'une explication de *Exigence* à [Drivers et Exigences](section:drivers-and-requirements)
+    - ajout d'une nouvelle pratique [Déterminer les exigences](section:determine-requirements)
+    - mise à jour de [Répondre aux drivers organisationnels](section:respond-to-organizational-drivers)
+    - mise à jour de [Décrire les drivers organisationnels](section:describe-organizational-drivers) :
+    - mise à jour de [Naviguer par tension](section:navigate-via-tension)
+    - révision de [Élaborer une proposition](section:proposal-forming), [Décider par consentement](section:consent-decision-making) and [Cartographier les drivers](section:driver-mapping)
+- Extension de [Clarifier et Affiner les Domaines](section:clarify-and-develop-domains) pour inclure une description détaillée et des exemples pour chaque aspect d'une description de domaine
+- ajout d'un exemple [de description de domaine](section:example-domain-description) à l'annexe
+- ajout d'une description détaillée pour chaque étape de [Élaborer une proposition](section:proposal-forming)
+- révision du [Principe de Consentement](section:principle-consent) et de la description d'[Objection](section:objection)
+- mise à jour du glossaire : 
+    - révision des définitions de [Domaine](glossary:domain), [Livrable](glossary:deliverable), [Driver organisationnel](glossary:organizational-driver), [Objection](glossary:objection) et [Préoccupation](glossary:concern)
+    - ajout de nouvelles définitions pour [Exigence](glossary:requirement), [Constrainte Standard](glossary:standard-constraint), [Domaine Général](glossary:overall-domain)
+
+## Changements du 26-04-2022
+
+- a ajouté une description détaillée et de nouvelles illustrations à [Tester les objections potentielles](section:test-arguments-qualify-as-objections)
+
+## Changements du 05-04-2022
+
+- Ajout d'une description détaillée et de nouvelles illustrations à [Résoudre les Objections](section:resolve-objections)
+
+## Changements du 04-02-2022
+
+- description détaillée ajoutée du processus [Prise de décision par consentement](section:consent-decision-making)
+- texte révisé pour [Prise de décision raisonnée](section:reasoned-decision-making)
+- mise à jour de 20 illustrations pour s'aligner avec le style de nouvelle illustration pour la prise de décision par consentement
+
+## Changements du 27-01-2022
+
+- Ajout de [Prise de décision raisonnée](section:reasoned-decision-making)
+- mises à jour des catégories de pratiques : 
+    - nouvelle catégorie *Evolution des organisations*
+    - renommé *co-création et évolution* en *Comprendre et Décider*
+    - renommage de *Interactions Concentrées* en *Formats de Réunion*
+    - renommé *Catalyser la Collaboration* en *Catalyser la Co-Creation*
+    - et déplacement de quelques pratiques autour
+- Aligné l'orthographe de la prise de décision à travers le guide
+- révision du résumé de [Résoudre les Objections](section:resolve-objections)
+- revisé le texte de [Cartographier les drivers](section:driver-mapping) (étape 7)
+
+## Changements du 22-09-2021
+
+- Corrigé un lien sur la carte des pratiques et ajout des liens aux principes
+- Correction de certaines fautes de frappe, révisions mineures du texte
+
+## Changements du 03-09-2021
+
+- texte révisé à propos de [Objections](section:objection) ainsi que les définitions de [Objection](glossary:objection) et [Préoccupation](glossary:concern)
+
+## Changements du 15-08-2021
+
+- Renommé *Domaine ouvert* en [Équipe ouverte](section:open-team)
+
+## Changements du 18-06-2021
+
+- ajout d'un chapitre dédié à chacun des sept principes
+- révision les dix principes du Framework du Sens Commun
+- mise à jour de la section sur la gouvernance dans l’introduction 
+    - ajout de plus de texte pour expliquer comment la gouvernance peut être distribuée à travers l'organisation
+    - plus d'exemples pour les décisions de gouvernance
+- Correction de quelques fautes de frappe
+- plusieurs petites révisions
+
+## Changements du 15-05-2021
+
+- [Naviguer par Tension](section:navigate-via-tension): plus d'explications sur le transfert de drivers à un autre domaine
+- [Clarifier et Affiner les Domaines](section:clarify-and-develop-domains): plus d'explications sur le raffinement des éléments d'une description de domaine, plus d'informations sur les métriques, le suivi et l'évaluation, ajout de l'illustration du modèle.
+
 ## Changements du 15-03-2021
 
 - Mise à jour des Sept Principes
@@ -7,7 +124,7 @@
 ## Changements du 19-02-2021
 
 - Correction de plusieurs liens cassés dans la version en ligne
-- correction de quelques fautes de frappe
+- Correction de quelques fautes de frappe
 
 ## Changements du 11-02-2021
 
@@ -15,16 +132,16 @@
 
 ## Changements du 06-02-2021
 
-- Révision des définitions du glossaire pour [Semi-Autonomie](glossary:semi-autonomy), [Auto-Organisation](glossary:self-organization) et [Sociocratie](glossary:sociocracy)
+- Définitions de glossaire révisées pour [Semi-Autonomie](glossary:semi-autonomy), [Auto-Organisation](glossary:self-organization) et [Sociocratie](glossary:sociocracy)
 - Pratique renommée: *Les personnes impactées décident* en *Impliquer ceux qui décident*
 - Plusieurs petites corrections et révisions
 
 ## Changements du 03-02-2021
 
-- Ajout du **[Common Sense Framework](section:csf)** au Guide Pratique
+- Ajout du **[Framework du Sens Commun](section:csf)** au Guide Pratique
 - Une nouvelle structure du Guide Pratique pour retrouver plus facilement les parties pertinentes. 
     - [Qu'est-ce que la Sociocratie 3.0 ?](section:what-is-s3)
-    - [Les sept principes](section:principles)
+    - [Les Sept Principes](section:principles)
     - [Concepts clés pour comprendre les organisations](section:making-sense-of-organizations)
     - [Les Pratiques](section:patterns)
     - [Le Framework du Sens Commun](section:csf)
@@ -37,9 +154,9 @@
 ## Changements du 12-01-2021
 
 - **Pratiques renommées :** 
-    - renommé *Clarifier les domaines* en *Clarifier et développer les domaines*
-    - renommé *Développer la stratégie* en *Clarifier et développer la stratégie*
-- [Clarifier et développer les domaines](section:clarify-and-develop-domains): texte révisé, ajout de plus de détails et d'explications sur les descriptions de domaine
+    - renommage de *Clarifier les Domaines* en *Clarifier et Affiner les Domaines*
+    - renommé *Développer la stratégie* en *Clarifier et Affiner la Stratégie*
+- [Clarifier et Affiner les Domaines](section:clarify-and-develop-domains): texte révisé, ajout de plus de détails et d'explications sur les descriptions de domaine
 - [Évaluation par les pairs](section:peer-review): ajout de plus de détails sur ce qui doit être évalué
 - [Retour par les pairs](section:peer-feedback): révision du texte et ajout de plus de détails
 - [Enfreindre les accords](section:breaking-agreements): ajout du résumé
@@ -48,23 +165,23 @@
 - [Décrire les drivers organisationnels](section:describe-organizational-drivers): texte revu
 - Introduction : 
     - ajout de plus de détails à la section sur les domaines et la délégation
-    - suppression de l'illustration dans la section sur les pratiques et ajout des groupes de pratiques dans le texte 
+    - suppression de l'illustration dans la section sur les pratiques et ajout des groupes de pratiques dans le texte
 - Annexe: 
-    - ajout d'un avertissement 
+    - ajout d'un avertissement
     - ajout de plus d'informations sur les auteurs
 
 ## Changements du 08-05-2020
 
 - révision de toutes les illustrations pour un style plus cohérent et une lisibilité accrue
 - introduction révisée : plus d'explications sur les pratiques et les concepts fondamentaux
-- glossaire mis à jour : explication révisée de [Délégant](glossary:delegator), [Délégué](glossary:delegatee), [Rôle](glossary:role) et [Pratique](glossary:pattern), ajouté [Porteur de Rôle](glossary:role-keeper)
+- glossaire mis à jour : explication révisée de [Délégué](glossary:delegator), [Délégué](glossary:delegatee), [Rôle](glossary:role) et [Motif](glossary:pattern), a ajouté [Gardien de rôle](glossary:role-keeper)
 
 ## Changements du 29-04-2020
 
 - Introduction : Ajout de *Objection* et *Accord* aux concepts
 - pratique *Objection* renommée en [Tester les objections potentielles](section:test-arguments-qualify-as-objections)
 - pratique *Accord* renommée en [Consigner les Accords](section:record-agreements)
-- [Tester des Arguments Qualifiés d'Objections](section:test-arguments-qualify-as-objections) : texte révisé et illustration mise à jour
+- [Tester les objections potentielles](section:test-arguments-qualify-as-objections) : texte révisé et illustration mise à jour
 - [Consigner les accords](section:record-agreements) : texte révisé, ajout de plus de détails sur les accords qui pourraient être enregistrés, mise à jour de l'illustration
 
 ## Changements du 22-12-2019
@@ -82,21 +199,21 @@
 ## Changements du 27-06-2019
 
 - *Objection* : définition plus précise de l’objection, et mise à jour du glossaire pour [objection](glossary:objection) en conséquence
-- remplacé "action" par activité dans quelques endroits où ça faisait plus de sens
+- remplacé "action" par activité dans quelques endroits où celà faisait plus de sens
 - correction de quelques typos
 
 ## Changements du 03-05-2019
 
-- termes du glossaire raffinés pour [entente](glossary:agreement), [organisation](glossary:organization) et [équipe](glossary:team), ajout du terme [objectif](glossary:objective) au glossaire
+- termes du glossaire raffinés pour [accord](glossary:agreement), [organisation](glossary:organization) et [équipe](glossary:team), terme du glossaire ajouté pour [objectif](glossary:objective)
 - Principe de redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - [Contrat de collaboration réussie](section:contract-for-successful-collaboration): texte révisé
 - [Décrire les Livrables](section:describe-deliverables): ajouts des User Stories comme exemple pour décrire les livrables
 - [Hiérarchie à double lien](section:double-linked-hierarchy): résumé révisé
-- [Circle Délégué](section:delegate-circle): résumé raffiné
+- [Cercle délégué](section:delegate-circle) : résumé raffiné
 - *Objection* : définition raffinée de l'objection et du souci, illustration ajoutée pour un processus de qualification d'une objection
-- [Élaboration de proposition](section:proposal-forming) : ajout d'une illustration de processus manquante
-- [Sélection de rôle](section:role-selection): petit amendement à l'illustration
-- [Salaire Transparent](section:transparent-salary): expliqué ce qu’est une formule salariale
+- [Élaborer une proposition](section:proposal-forming) : ajout d'une illustration de processus manquante
+- [Sélectionner les porteurs de rôles](section:role-selection): petit amendement à l'illustration
+- [Transparence Salariale](section:open-salary): explication de ce qu’est une formule salariale
 
 ## Changements du 08-03-2019
 
@@ -105,26 +222,26 @@
 - élargissement de l'introduction avec plus d'informations sur S3 et l'historique de la sociocratie qui n'était auparavant disponibles que sur le site principal de S3
 - mise à jour de la section sur la gouvernance dans l’introduction
 - légendes ajoutées à toutes les illustrations
-- renommé du groupe de pratiques “Catalyseurs de co-creation” en “catalyser la collaboration”
-- suppression de la version du slide deck et amélioration de l’agencement et du formatage des versions pdf et ePub
+- renommage du groupe de pratiques “Catalyseurs de co-creation” en “catalyser la collaboration”
+- suppression de la version diaporama et amélioration de la mise en page et du formatage de la version pdf et ePub
 - version site : ajout d’une carte cliquable des pratiques pour une navigation plus simple et des références au glossaire à de nombreuses pratiques
 
 **Glossaire :**
 
-- ajouté [équipe](glossary:team) au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
+- ajout d'[équipe](glossary:team) au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
 - mise à jour de la définition de [livrable](glossary:deliverable)
-- suppression de **déclaration d’intention** du texte et du glossaire
-- miss à jour des définitions [gouvernance](glossary:governance), [opérations](glossary:operations), et [auto-organisation](glossary:self-organization)
+- suppression de **déclaration de driver** du texte et du glossaire
+- des définitions mises à jour pour [governance](glossary:governance), [operations](glossary:operations)et [auto-organisation](glossary:self-organization)
 
 **Illustrations :**
 
 - mise à jour des modèles de description de domaine et de la description des rôles
-- mise à jour des illustrations pour [Lien](section:linking) et [Double-lien](section:double-linking)
+- mise à jour des illustrations pour [Lien](section:linking) et [Double lien](section:double-linking)
 
 **Modifications des pratiques :**
 
 - [Accord ](section:record-agreements) : la description mentionne maintenant que toutes les attentes doivent être enregistrées
-- [Décrire les Livrables](section:describe-deliverables): Résumé mis à jour
+- [Décrire les livrables](section:describe-deliverables): mise à jour du résumé
 - [Décrire les drivers organisationnels](section:describe-organizational-drivers): plus d'informations sur le résumé des drivers
 - [Résoudre les Objections](section:resolve-objections): résumé et description ajoutés
 
@@ -139,16 +256,16 @@
 
 **Glossaire :**
 
-- **mis à jour:** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, intention primaire, principe, rôle, auto-organisation, semi-autonomie, sous-intention, valeurs
-- **ajoutés:** constituant, coordination, délégation, déclaration d'intention, évoluer (v.), flux de valeur, équipe d'aide, domaine ouvert
-- **supprimé :** intention de pair
+- **mise à jour de:** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, driver primaire, principe, rôle, auto-organisation, semi-autonomie, sous-driver, valeurs
+- **ajout de:** constituant, coordination, délégation, déclaration de driver, évoluer (v.), flux de valeur, équipe d'aide, domaine ouvert
+- **suppression de : **driver de pair
 
 **Modifications de l'introduction**
 
-- ajout de l'intention pour créer Sociocratie 3.0
-- Les sept principes: 
+- ajout du driver pour créer Sociocratie 3.0
+- Les Sept Principes : 
     - *Le Principe d'Empirisme*: référence supprimée à la "falsification"
-    - *Le principe de consentement* est maintenant expliqué plus clairement comme "soulever, chercher et résoudre les objections aux décisions et aux actions"
+    - *Le Principe de Consentement* est maintenant expliqué plus clairement comme "soulever, chercher et résoudre les objections aux décisions et aux actions"
 - *Gouvernance, semi-autonomie et auto-organisation*: nous avons affiné les définitions de gouvernance, d'opérations et d'auto-organisation, supprimé toute référence à la "coordination" et clarifié la distinction entre gouvernance et opérations
 - *Drivers et Domaines* - nous avons clarifié comment les domaines peuvent être compris par rapport aux drivers organisationnels
 
@@ -160,48 +277,48 @@
 - [Accord ](section:record-agreements) : description améliorée, modèle mis à jour
 - [Participation élégante](section:artful-participation): Résumé amélioré
 - [Clarifier le résultat attendu](section:clarify-intended-outcome) (renommé de *Résultat attendu*): description améliorée
-- [Décision par consentement](section:consent-decision-making): description améliorée, illustration mise à jour
-- [Amélioration continue des méthodes de travail](section:continuous-improvement-of-work-process): description améliorée
+- [Décider par consentement](section:consent-decision-making): description améliorée, illustration mise à jour
+- [Amélioration continue du processus de travail](section:continuous-improvement-of-work-process): description améliorée
 - [Contrat de collaboration réussie](section:contract-for-successful-collaboration): pratique renommée pour être plus descriptive, et explication du processus de création de contrats, et ce qui doit s'y trouver
 - [Réunion de coordination](section:coordination-meeting): éléments de l'ordre du jour clarifiés, illustration mise à jour
 - [Cercle délégué](section:delegate-circle): description améliorée
-- [Déléguer l'Influence](section:delegate-influence): description améliorée
+- *Déléguer l'Influence*: description améliorée
 - [Décrire les livrables](section:describe-deliverables): description améliorée
-- [Décrire les intentions organisationnelles](section:describe-organizational-drivers): rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux intentions organisationnelles * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les intentions organisationnelles
+- [Décrire les drivers organisationnels](section:describe-organizational-drivers): rendu explicite qu'une déclaration d'intention est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations d'intention de *Répondre aux drivers organisationnels * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les drivers organisationnels
 - [Double lien](section:double-linking): description alignée à *Lien*
 - [Hiérarchie à double-lien](section:double-linked-hierarchy): explication détaillée de ce qu'est une hiérarchie à double lien, et comment elle est créée
-- [Evaluer et accepter les ententes](section:evaluate-and-evolve-agreements): réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
-- [Critères d'évaluation](section:evaluation-criteria): suggéré de clarifier un seuil de réussite, et nous avons expliqué que nous faisons évoluer également les critères d'évaluation avec les ententes
+- [Évaluer et faire évoluer les accords](section:evaluate-and-evolve-agreements): réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
+- [Critères d'évaluation](section:evaluation-criteria): suggéré de clarifier un seuil de réussite, et nous avons expliqué que nous faisons évoluer également les critères d'évaluation avec les accords
 - [Faciliter les réunions](section:facilitate-meetings): description améliorée
 - [Organisation Fractale](section:fractal-organization): description étendue et améliorée
-- [Backlog (panier) de gouvernance](section:governance-backlog): description améliorée
+- [Backlog de gouvernance](section:governance-backlog) : description améliorée
 - [Réunion de gouvernance](section:governance-meeting): description améliorée, éléments de l'ordre du jour clarifiés
 - [Inviter aux changements](section:invite-change): la description se concentre maintenant sur *comment* inviter aux changements
-- [Lien](section:linking): description alignée à [Double lien](section:double-linking)
+- [Double lien](section:double-linking): description alignée à *Lien*
 - [Registre](section:logbook): précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
 - [Naviguer par tension](section:navigate-via-tension): description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par tension*, *Décrire les drivers organisationnels* et *Répondre aux drivers organisationnels*
 - *Objection* : clarifié la différence entre objection et préoccupation, clarifié ce qui est qualifié comme une objection, et comment qualifier les objections dans un contexte de groupe
-- [Domaine ouvert](section:open-domain): description améliorée et illustration mise à jour
+- [Domaine ouvert](section:open-team): description améliorée et illustration mise à jour
 - [Systèmes ouverts](section:open-systems): description améliorée
 - [Changement par forum ouvert](section:open-space-for-change): nouveau nom de *Adoption ouverte de la S3*, description améliorée
 - [Organisation décentralisée](section:peach-organization): relation clarifiée entre la périphérie et le centre
-- [Élaborer une proposition](section:proposal-forming): texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les ententes
+- [Élaborer une Proposition](section:proposal-forming): texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour aligner avec le modèle pour les accords
 - [Représentant](section:representative): description améliorée
-- [Intégrer les objections](section:resolve-objections): mise à jour des deux illustrations
-- [Répondre aux intentions organisationnelles](section:respond-to-organizational-drivers): description améliorée, qualification simplifiée des intentions organisationnelles
+- [Résoudre les objections](section:resolve-objections): mise à jour des deux illustrations
+- [Répondre aux drivers organisationnels](section:respond-to-organizational-drivers): description améliorée, qualification simplifiée des drivers organisationnels
 - [Rôle](section:role): description améliorée
-- [Sélection des rôle](section:role-selection): description améliorée, ajout de la description de chaque étape
-- [Rounds](section:rounds): description améliorée
-- [Salaire Transparent](section:transparent-salary): ajout de plus de détails sur l'équité, et sur la façon de développer une formule salariale
+- [Sélectionner les porteurs de rôles](section:role-selection): description améliorée, ajout de la description de chaque étape
+- [Tours de parole](section:rounds): description améliorée
+- [Transparence salariale](section:open-salary): ajout de plus de détails sur l'équité, et sur la façon de développer une formule salariale
 
 **Pratiques renommées :**
 
-- *Evaluer les ententes* en *Évaluer et faire évoluer les ententes*
+- *Évaluer les accords* en *Évaluer et faire évoluer les accords*
 - *Résultat attendu* en *Clarifier le résultat attendu*
 - *Adoption ouverte de la S3* en *Changement par forum ouvert*
 - *Engagement et redevabilité* en *Contrat de collaboration réussie*
 
-**Pratiques ajoutées :**
+**Nouvelles pratiques ajoutées : **
 
 - [Tour d'accueil](section:check-in)
 - [Cocréer des propositions](section:co-create-proposals)
@@ -210,13 +327,13 @@
 
 ## Changements du 21-03-2018
 
-- renommage de *Descendre les intentions* en *Décrire les intentions organisationnelles*
-- [Décrire les intentions organisationnelles](section:describe-organizational-drivers): explication des quatre aspects d'une intention : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
+- renommage de *Décrire les drivers* en *Décrire les drivers organisationnels*
+- [Décrire les drivers organisationnels](section:describe-organizational-drivers): explication des quatre aspects d'un driver : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
 - ajout de *besoin* au glossaire
 
 ## Changements du 16-11-2017
 
-- petites corrections
+- légères corrections
 - les entrées du glossaire pour *Cercle* et *Rôle* ont été alignées sur le texte des pratiques
 - *Plan de développement* : clarification des responsabilités
 - *Rôle* : l’évolution de la stratégie a été clarifiée
@@ -245,38 +362,38 @@
 
 - ajouté "en quoi cela peut m'aider?"
 - ajout de définitions pour la gouvernance, l’auto-organisation, semi-autonomie, opérations d’introduction
-- clarification des domaines et relation aux moteurs
+- clarification des domaines et relation aux drivers
 - concepts fondamentaux développés
 - tous les principes sont maintenant actionnables
 
 **Modifications des pratiques :**
 
 - *Participation élégante*: description améliorée
-- *Entente*: clarification que le concept d'entente est applicable aux détenteurs de rôles
+- *Accords*: clarification que le concept d'accord est applicable aux détenteurs de rôles
 - *Clarifier les domaines*: description améliorée
 - *Cercle*: mise à jour de la définition de "cercle", description améliorée
-- *Intention*: mise à jour de la définition de "intention"
+- *Driver*: mise à jour de la définition de "driver"
 - *Plan de développement*: description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec double-lien*: nouvelle illustration
-- *Evaluer les ententes* : aligner les questions sur l'examen par les pairs
+- *Evaluer les accords* : aligner les questions sur l'examen par les pairs
 - *Backlog (panier) de gouvernance*: description améliorée
 - *Carnet* : ajout de détails sur la gouvernance au carnet personnel
 - *Objections* : clarification de la qualification des objections
-- *Evaluation entre pairs*: description améliorée
-- *Répondre aux moteurs organisationnels* : intégration d'informations sur la qualification des moteurs
+- *Évaluation entre pairs*: description améliorée
+- *Répondre aux drivers organisationnels* : intégration d'informations sur la qualification des drivers
 - *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
-- *Elaboration d'une proposition* : ajout de critères pour la sélection d'accordeurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
+- *Elaboration d'une proposition* : ajout de critères pour la sélection de rédacteurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Résoudre les objections* : illustration mise à jour pour mieux refléter le processus
 
 **Pratiques renommées :**
 
-- * Organisation vertébrale* a *organisation de services*
-- *Évaluation d'efficacité* a *Examen par les pairs</li> 
+- * Organisation vertébrale* en *organisation de services*
+- *Évaluation d'efficacité* en *Examen par les pairs</li> 
     
-    - *Stratégie* à *Développer la stratégie*
-    - *Description du domaine* à *Clarifier les domaines*
-    - *Description des livrables* à *Décrire les livrables*</ul> 
+    - *Stratégie* en *Développer la stratégie*
+    - *Description du domaine* en *Clarifier les domaines*
+    - *Description des livrables* en *Décrire les livrables*</ul> 
     
     **Pratiques ajoutées :**
     
@@ -288,4 +405,4 @@
     
     - *Cercle de coordination*
     - *Domaines imbriqués*
-    - *Qualification des moteurs*
+    - *Qualifier un driver*

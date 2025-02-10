@@ -1,10 +1,10 @@
 # Changement par forum ouvert
 
 <summary>
-<strong>Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.</strong>
+Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.
 </summary>
 
-- clarifier le[driver](glossary:organizational-driver) du changement
+- clarifier le [driver](glossary:organizational-driver) du changement
 - prévoir des événements réguliers en espace ouverts : 
     - encouragez tous les membres à concevoir et réaliser des expérimentations
     - définissez les contraintes imposées aux expérimentations qui favorise le développement d'un état d'esprit [sociocratique](glossary:sociocracy) et agile (ex : les principes S3)

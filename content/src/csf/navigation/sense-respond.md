@@ -1,4 +1,4 @@
-# Principe 4 - Sentir & réagir
+# Principe 4 - Sentir et réagir
 
 
 **_Identifiez, priorisez et réagissez aux obstacles et aux opportunités, afin de pouvoir vous adapter ou pivoter si nécessaire et améliorez partout où vous le pouvez._**

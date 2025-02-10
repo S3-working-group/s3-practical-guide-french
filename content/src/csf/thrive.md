@@ -12,7 +12,7 @@ Le **Framework du Sens Commun** (FSC) décrit ce qu'il faut considérer pour bâ
 **À travers 10 principes essentiels** qui s'appliquent tant à des équipes individuelles, qu'à l'organisation dans son ensemble, les organisations deviennent  :
 
 -   **focalisées sur la valeur** – les efforts des collaborateurs visent à créer de la valeur pour l'organisation, son personnel, ses clients et d'autres parties prenantes.
--   **productives** – l'organisation est efficace pour identifier, développer et délivrer des produits et services nécessaires pour atteindre sa raison d'être.
+-   **productives** – l'organisation est efficace pour identifier, développer et délivrer des produits et services nécessaires pour exercer sa raison d'être.
 -   **adaptatives** – les collaborateurs sont capables d’identifier et de répondre efficacement aux besoins organisationnels et aux changements de contexte (à court et à long terme).
 -   **résilientes** – l’organisation et ses membres sont en mesure de résister à l’adversité et à l’incertitude, si nécessaire.
 -   **réciproques** – l'organisation et ses membres partagent une relation de réciprocité mutuelle où l'organisation est engagée dans le développement, bien-être et le succès de ses membres, et vice versa.

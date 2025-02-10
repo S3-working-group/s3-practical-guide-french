@@ -6,4 +6,4 @@
 
 #### James Priest, Bernhard Bockelbrink, Liliana David
 
-#### <http://patterns.sociocracy30.org>
+#### [https://patterns-fr.sociocracy30.org/](http://patterns.sociocracy30.org)

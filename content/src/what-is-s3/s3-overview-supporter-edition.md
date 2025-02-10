@@ -2,20 +2,20 @@ Commentaire: Ce texte est utilisé comme description du livre. Voir https://kdp.
 
 La Sociocratie 3.0 — ou "S3" — est une **technologie sociale** pour développer des organisations agiles et résilientes de toute taille, allant des petites start-ups jusqu'aux grands réseaux internationaux, et même la collaboration inter-ministerielle à l'échelle nationale.
 
-A l’intérieur de ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
+A l'intérieur de ce guide pratique, vous découvrirez une collection complète de **concepts, de principes et de pratiques éprouvés et testés pour améliorer la performance, l'engagement et le bien-être** au sein des organisations.
 
 Depuis son lancement en 2015, la Sociocratie 3.0 a aidé des personnes dans des start-ups, des petites et moyennes entreprises, des grandes organisations internationales, des organisations financées par des investisseurs comme des organisations à but non lucratif, des familles et des communautés.
 
-L'utilisation de S3 peut **vous aider à atteindre vos objectifs** et traverser la complexité avec succès. Vous pouvez faire des changements pas à pas, **sans nécessiter une réorganisation radicale soudaine** ni un grand plan de transformation à long terme :
+L'utilisation de S3 peut **vous aider à atteindre vos objectifs** et traverser des situations complexes avec succès. Vous pouvez faire des changements pas à pas, **sans nécessiter une réorganisation radicale soudaine** ni un grand plan de transformation à long terme :
 
--   Vous commencez simplement par identifier là où le besoin est le plus grand et vous sélectionnez les pratiques ou consignes qui peuvent aider.
--   Avancez à votre propre rythme et développez vos compétences et compétences au fur et à mesure.
+-   Commencez simplement par identifier là où le besoin est le plus grand et sélectionnez quelques pratiques ou consignes qui vous aident.
+-   Allez à votre rythme et développez vos aptitudes et compétences au fur et à mesure.
 
-**Quelque soit votre position dans l'organisation**, vous découvrirez des pratiques pertinentes et utiles pour vous.
+**Quelque soit votre position dans l'organisation**, vous trouverez des pratiques pertinentes et utiles pour vous.
 
-#### Comment la Sociocratie 3.0 peut-elle aider ? [a]
+#### Comment la Sociocratie 3.0 peut m'aider ? [a]
 
-S3 intègre des concepts de base et des pratiques que vous retrouverez dans les méthodologies agiles, le lean management, Kanban (et KMM), le Design Thinking, les organisations opales et la famille des méthodes de gouvernance basées sur la sociocratie (SCM/Dynamic Governance, Holacracy® etc.). Elle est complémentaire et compatible avec n'importe quel framework agile ou lean, y compris mais non limité à Scrum et à ses différents frameworks de passage à l'échelle.
+La S3 intègre des concepts de base et des pratiques que vous retrouverez dans les méthodologies agiles, le lean management, Kanban (et KMM), le Design Thinking, les organisations opales et la famille des méthodes de gouvernance basées sur la sociocratie (SCM/Dynamic Governance, Holacracy® etc.). Elle est complémentaire et compatible avec n'importe quel framework agile ou lean, y compris mais non limité à Scrum et à ses différents frameworks de passage à l'échelle.
 
 **Dans ce livre, vous découvrirez un ensemble cohérent de plus de 70 pratiques et consignes** pour vous aider à traverser la complexité et améliorer la collaboration :
 

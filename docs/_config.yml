@@ -1,11 +1,14 @@
 # Site settings
-title: Un guide pratique de la Sociocratie 3.0
+title: Un Guide Pratique de la Sociocratie 3.0
 email: bernhard.bockelbrink@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   La description officielle de la Sociocratie 3.0 - Toutes les pratiques, les sept principes et les concepts clés. Édité par Bernhard Bockelbrink, James Priest et Liliana David.
+   La description officielle de la Sociocratie 3.0 - Toutes les pratiques, les Sept Principes et les concepts clés. Maintenu par Bernhard Bockelbrink, James Priest et Liliana David.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # subpath of the site, e.g. /blog, empty otherwise
 url: "https://patterns-fr.sociocracy30.org" # the base hostname & protocol for your site
+keywords: "sociocracy, sociocratie, holacracy, holacratie, s3, scrum, kanban, agile, lean"
+author: "Bernhard Bockelbrink, James Priest, Liliana David"
+githuburl: "https://github.com/bboc/mdtools"
 
 twitter_username: sociocracy30
 
@@ -18,6 +21,15 @@ includes_dir: ./_includes
 
 markdown: kramdown
 safe: true # required on Github pages (no plugins)
+
+kramdown:
+  toc_levels: 2..4
+
+# plugins:
+#   - jekyll-redirect-from
+
+# whitelist:
+#   - jekyll-redirect-from
 
 defaults:
   -

@@ -1,10 +1,14 @@
 # Gouvernance et Opérations
 
-S3 cherche à libérer la productivité en laissant les personnes libres de faire et de décider autant que possible par elles-même, tout en collaborant de manière cohérente dans une organisation efficace et qui réussit.
+Quand les gens pensent à la gouvernance, ils pensent souvent à la gouvernance d'entreprise, le cadre des règles, des pratiques et des processus qui sont utilisés pour diriger et gérer l'entreprise. Traditionnellement, bon nombre de ces décisions sont perçues comme étant prises par les gestionnaires dans une hiérarchie de management, mais beaucoup d'autres au sein d'une organisation prennent souvent ou du moins contribuent également aux décisions de gouvernance, qu'ils en soient conscients ou non. La gouvernance se produit non seulement sur le plan organisationnel, mais aussi au sein des équipes et même au niveau individuel.
 
-Une plus grande autonomie des individus et des équipes nécessite des accords clairs (c'est-à-dire des consignes et des contraintes) qui permettent une collaboration harmonieuse entre ces équipes et ces individus, et qui soutiennent la réalisation d'objectifs à court et long terme. Des évaluations périodiques et l'évolution progressive des accords assurent qu'ils restent adaptés à la finalité.
+De nos jours, la plupart des organisations et des équipes gagnent à développer leurs capacités de sens commun et à s'appuyer sur des perspectives variées pour prendre des décisions qui les font avancer dans un monde complexe.
 
-Bien qu'une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, pour créer des accords plus conséquents qui contraignent le comportement et l’activité des gens, il est souvent bénéfique d’adopter un [processus de décision](section:consent-decision-making) plus participatif et plus délibéré.
+Puisqu’il y a tellement de décisions à prendre pour qu’une organization agisse efficacement, la S3 cherche à libérer la productivité en laissant les personnes libres de faire et de décider autant que possible par elles-même, tout en collaborant de manière cohérente dans une organisation efficace et qui réussit.
+
+Une plus grande autonomie des individus et des équipes nécessite des [accords](glossary:agreement) clairs (c'est-à-dire des consignes et des contraintes) qui permettent une collaboration harmonieuse entre ces équipes et ces individus, et qui soutiennent la réalisation d'objectifs à court et long terme. Evaluer périodiquement et faire évoluer progressivement les accords assure qu'ils soient et qu’ils restent adaptés à la raison d'être au fil du temps.
+
+Bien qu'une décision ayant des conséquences à court terme puisse facilement être prise sur-le-champ, pour créer des accords plus conséquents qui contraignent le comportement et l’activité des gens, il est souvent bénéfique d’adopter un [processus de décision](section:consent-decision-making) plus participatif et plus délibéré. Ces accords comprennent, mais ne se limitent pas à des questions telles que: la stratégie, les priorités, la répartition des responsabilités et du pouvoir d'influence, les processus de travail et les nombreuses décisions concernant les produits et services.
 
 De tels accords doivent être documentés, à la fois pour s'en souvenir mais aussi pour en faire efficacement une [évaluation](section:evaluate-and-evolve-agreements), et pour être communiqués aux personnes impactées (qui sont idéalement aussi [impliquées dans la création et l'évolution](section:involve-those-affected) de ces accords).
 
@@ -14,20 +18,30 @@ Il est donc utile de distinguer deux catégories d’activités dans une organis
 
 {{define:operations}}
 
-Pour chaque domaine dans une organisation il y a une *instance gouvernante*: les personnes ayant un mandat pour sceller et pour faire évoluer des accords régissant la manière dont ceux qui font le travail dans ce domaine créent de la valeur.
+Pour chaque [domaine](glossary:domain) dans une organisation il y a une *instance gouvernante*: les personnes ayant un mandat pour sceller et pour faire évoluer des accords régissant la manière dont ceux qui font le travail dans ce domaine créent de la valeur.
 
-Il existe de nombreuses façons de distribuer le travail et la gouvernance. Parfois, l’instance gouvernante est une personne unique, par exemple dans le cas d’un chef d’équipe, et parfois c’est un groupe de personnes, par exemple dans un cercle où tous les membres sont responsables collectivement de la gouvernance selon les contraintes du domaine.
+Il existe de nombreuses façons de répartir le travail et la gouvernance. Parfois, l'organe de gouvernance est une seule personne, par exemple dans le cas d'un manager qui dirige les autres. D'autres fois un groupe [de personnes se gouvernent elles-mêmes](section:circle) et tous les membres partagent la responsabilité de la gouvernance dans les contraintes de leur domaine.
 
-**Les décisions de gouvernance** fixent des contraintes sur l'activité et guident les décisions futures.
+**Les décisions de gouvernance** fixent des contraintes sur l'activité et guident les décisions futures. Elles concernent des questions telles que: 
 
-Ceci inclut :
+- Les processus de travail
+- Les politiques et les procédures régissant la manière dont les gens collaborent
+- La structure organisationnelle: 
+    - Répartir les responsabilités et le pouvoir d'influencer en concevant des domaines et en sélectionnant les personnes qui en seront redevables
+    - Être responsable des dépendances entre équipes
+- La répartition des ressources
+- La stratégie (pour l’organisation entière, pour une équipe, un produit ou un rôle) 
+- Les priorités et les objectifs
+- Les décisions conséquentes sur les produits, les services, les outils, la technologie, la sécurité, etc.
 
-- définir les domaines
-- déléguer l'influence aux gens
-- allouer des ressources et des capacités
-- spécifier les livrables et prioriser leur livraison.
+Selon le contexte, une équipe peut prendre des décisions de gouvernance :
 
-Les décisions de gouvernance peuvent être prises à tout moment et à n'importe quel endroit, pas seulement dans des réunions spécifiques, bien qu'une [réunion régulière pour la création et l'évolution des accords](section:governance-meeting) soit souvent une bonne idée.
+- lors de [réunions de gouvernance](section:governance-meeting) dédiées qui sont programmées régulièrement
+- à la volée, pendant la journée de travail
+- lors d'une réunion ponctuelle pour aborder un sujet spécifique
+- dans d'autres types de réunions telles que les réunions de produits, [réunions de planification](section:planning-and-review-meetings) ou [rétrospectives](section:retrospective), etc.
+
+Partout et chaque fois que vous prenez des décisions de gouvernance, il est important de penser à [les documenter d'une manière ou d'une autre](section:record-agreements). De cette façon, vous pourrez vous souvenir de ce qui a été convenu, tout comme les autres, et vous aurez une base sur laquelle revenir quand il sera temps de faire une évaluation.
 
 ## Concepts connexes
 

@@ -1,7 +1,7 @@
 # Cercle
 
 <summary>
-{{define:circle}}
+Un <strong>cercle</strong> est une équipe auto-gouvernée et semi-autonome de personnes équivalentes qui collaborent pour s'occuper d'un domaine.
 </summary>
 
 Un cercle:

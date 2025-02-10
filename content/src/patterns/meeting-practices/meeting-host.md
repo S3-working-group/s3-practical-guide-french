@@ -1,7 +1,7 @@
 # Hôte de réunion
 
 <summary>
-<strong>Sélectionnez quelqu'un pour prendre la responsabilité de la préparation et du suivi des réunions, ateliers ou autres événements.</strong>
+Sélectionnez quelqu'un pour prendre la responsabilité de la préparation et du suivi des réunions, des ateliers ou d'autres événements.
 </summary>
 
 Une personne peut prendre le rôle d'hôte de réunion pour un événement particulier ou pour plusieurs événements sur une période de temps.

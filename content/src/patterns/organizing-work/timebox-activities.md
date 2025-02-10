@@ -1,7 +1,7 @@
 # Timeboxer les activités
 
 <summary>
-<strong>Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.</strong>
+Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.
 </summary>
 
 {{define:timebox}}

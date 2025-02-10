@@ -1,7 +1,7 @@
 # Tour d'accueil
 
 <summary>
-<strong>Aidez les gens à prendre conscience d'eux même et des autres, à se concentrer, à être présents et à s'impliquer.</strong>
+Aidez les gens à prendre conscience d'eux même et des autres, à se concentrer, à être présents et à s'impliquer.
 </summary>
 
 A votre tour, divulguez brièvement quelque chose à propos de vous et sur la façon dont vous vous sentez, révélez vos pensées, vos sentiments, des distractions ou des besoins.

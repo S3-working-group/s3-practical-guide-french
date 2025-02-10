@@ -8,13 +8,13 @@ Une réunion de gouvernance est habituellement :
 
 - facilitée
 - préparée à l'avance
-- [timeboxé](section:timebox-activities) pour une durée de 90 à 120 minutes
+- [timeboxée](section:timebox-activities) à une durée de 90 à 120 minutes
 - programmée toutes les 2 à 4 semaines
 
 Le déroulé d'une réunion de gouvernance typique comprend :
 
 - ouverture: [accueil](section:check-in) et rappel de l'objectif de la réunion
-- logistique 
+- questions administratives 
     - vérifier le consentement au procès-verbal de la dernière réunion
     - s'entendre sur une date pour la prochaine réunion
     - vérifier s'il y a des points de dernière minute à l'ordre du jour et confirmer l'agenda
@@ -32,4 +32,4 @@ Un ordre du jour typique inclut :
 - de nouveaux drivers nécessitant des prises de décisions, comme : 
     - [élaborer des propositions](section:co-create-proposals)
     - [créer des accords](section:consent-decision-making)
-    - [concevoir des domaines](section:clarify-and-develop-domains) et décider comment s'en occuper (ex: de nouveaux [rôles](section:role), [cercles](section:circle), équipes ou [domaines ouverts](section:open-domain))
+    - [concevoir des domaines](section:clarify-and-develop-domains) et décider comment s'en occuper (ex : de nouveaux [rôles](section:role), [cercles](section:circle), équipes ou [domaines ouverts](section:open-domain))

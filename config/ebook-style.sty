@@ -1,11 +1,8 @@
 \ProvidesPackage{ebook-style}
 %\usepackage{showframe} % display box borders for debugging
 
-
-\usepackage[utf8]{inputenc} % support all unicode characters in documents 
 \usepackage[T1]{fontenc} % use 8bit font encoding for proper hyphenation etc.
 \usepackage{titlepic}
-\usepackage{graphicx} 
 
 % for /autoref
 \usepackage{hyperref,xcolor}
@@ -17,7 +14,7 @@
     urlcolor={blue!50!black}
 }
 
-% set font 
+% set font
 \usepackage{fontspec}
 
 \setsansfont[Ligatures=TeX]{OpenSans-Light}
@@ -25,7 +22,7 @@
 %\setsansfont[Ligatures=TeX]{Jost-Thin}
 %\setmainfont[
 %	Ligatures=TeX,
-%	BoldFont={Jost-Book}, 
+%	BoldFont={Jost-Book},
 %	ItalicFont={Jost-LightItalic},
 %	BoldItalicFont={Jost-BookItalic}
 % ]{Jost-Light}
@@ -34,6 +31,9 @@
 
 % for graphics
 \usepackage{graphicx}
+
+% ragged left
+\usepackage[document]{ragged2e}
 
 % make the pages a little wider
 \addtolength{\oddsidemargin}{-.1in}
@@ -44,6 +44,9 @@
 
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{1ex plus 0.5ex minus 0.2ex}
+
+% for adding the title page as pdf
+\usepackage{pdfpages}
 
 % turn off numbering of sections
 \setcounter{secnumdepth}{1}
@@ -61,7 +64,7 @@
 
 \setlength{\emergencystretch}{2em} % this remedies a few overfull/underfull hbox warnings
 
-% use fancyhdr for footer
+% use fancyhdr for footer (relevant for footnotes?)
 \usepackage{fancyhdr}
 \fancypagestyle{plain}{%
 	\fancyhf{} % clear all header and footer fields
