@@ -10,13 +10,13 @@ prev_page_url: "co-create-proposals.html"
 <div class="card summary"><div class="card-body">Un processus de groupe (facilité) pour co-créer une réponse à un motif.
 </div></div>
 
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}
 
 
-## Overview
+## Aperçu
 
 
 Proposal Forming involves people in co-creating agreements through a facilitated group process that draws on the collective intelligence and diversity of perspective within a group, and fosters accountability and sense of ownership.
@@ -46,11 +46,11 @@ _Proposal Forming_ may also be used by an individual.
 ![Processus d'élaboration d'une proposition](img/agreements/proposal-forming.png)
 
 
-## Step 1: Consent to Driver and Requirement
+## Étape 1 : Consentement au Driver et à l'Exigence
 
 _Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to._
 
-Facilitator asks: _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
+Le facilitateur demande : _Est-ce que la description de ce driver et de cette exigence sont suffisamment clairs ? Est-ce un driver organisationnel ? Est-il pertinent pour nous de répondre à ce driver ? Et, est-ce que l'exigence est adéquate ?_
 
 This first step is simply about ensuring that the driver is summarized clearly enough and that it's relevant for those who are involved to respond to it. Once the driver has been accepted, you'll have the chance to ask further questions and learn more in the next step
 

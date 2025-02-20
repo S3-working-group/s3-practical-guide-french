@@ -2,7 +2,7 @@
 title: "Le Principe de Consentement"
 next_page_title: "Le Principe d'Empirisme"
 next_page_url: "principle-empiricism.html"
-prev_page_title: "Le Principe d'efficacité"
+prev_page_title: "Le Principe d'Efficacité"
 prev_page_url: "principle-effectiveness.html"
 ---
 

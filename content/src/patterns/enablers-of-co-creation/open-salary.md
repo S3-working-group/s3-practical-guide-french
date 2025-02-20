@@ -1,5 +1,6 @@
 # Salaire Ouvert
 
+<summary>
 Créez une formule salariale équitable et rendez-la transparente.
 </summary>
 

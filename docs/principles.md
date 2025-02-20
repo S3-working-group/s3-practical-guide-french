@@ -1,6 +1,6 @@
 ---
 title: "Les Sept Principes"
-next_page_title: "Le Principe d'efficacité"
+next_page_title: "Le Principe d'Efficacité"
 next_page_url: "principle-effectiveness.html"
 prev_page_title: "Pourquoi \"3.0\"?"
 prev_page_url: "why-30.html"
@@ -33,10 +33,10 @@ En pratiquant la Sociocratie 3.0 on comprend la valeur essentielle que ces princ
 
 ***Impliquez les personnes dans la prise et l'évolution des décisions qui les affectent,** afin d'augmenter leur sens de l'engagement et de la redevabilité, et d'utiliser l'intelligence distribuée pour atteindre et faire évoluer vos objectifs.*
 
-**[Principe de transparence](principle-transparency.html) :**
+**[Le Principe de Transparence](principle-transparency.html) :**
 
 ***Consignez par écrit toutes les informations précieuses pour l'organisation et rendez-les accessibles à tous les membres de l'organisation, à moins qu'il n'y ait un impératif de confidentialité,** afin que chacun dispose des informations dont il a besoin pour comprendre comment faire son travail tout en contribuant efficacement à l'ensemble.*
 
-**[Principe de redevabilité](principle-accountability.html):**
+**[Principe de Redevabilité](principle-accountability.html):**
 
 ***Réagissez lorsque c'est nécessaire, faites ce que vous avez accepté de faire et acceptez votre part de responsabilité dans  l'organisation,** afin que ce qui est à faire le soit, que rien ne soit négligé et que chacun contribue à l'efficacité et à l'intégrité de l'organisation.*

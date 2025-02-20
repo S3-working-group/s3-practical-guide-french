@@ -26,4 +26,4 @@ Préparation :
 
 **Après la réunion:** nettoyer l'emplacement, rendre les clés, régler tous les détails, et s'assurer que le procès-verbal est distribué.
 
-**Voir aussi : ** [Faciliter les Réunions](facilitate-meetings.html), [Préparer les Réunions](prepare-for-meetings.html)
+**Voir aussi :** [Faciliter les Réunions](facilitate-meetings.html), [Préparer les Réunions](prepare-for-meetings.html)

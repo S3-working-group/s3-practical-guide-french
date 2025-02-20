@@ -73,7 +73,7 @@ prev_page_url: "changelog.html"
   <dd><p>Consignez les détails des accords que vous passez, afin de vous en souvenir plus tard, d'évaluer les résultats obtenus et de faire évoluer ces accords dans le temps.</p></dd>
 
   <dt><a href="contract-for-successful-collaboration.html">Contrat de Collaboration Réussie</a></dt>
-  <dd><p>Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.</p></dd>
+  <dd><p>Soutenez une collaboration réussie dès le début et bâtissez une confiance mutuelle entre des parties en cocréant des contrats qui soient mutuellement bénéfiques et juridiquement solides.</p></dd>
 
   <dt><a href="coordinator.html">Coordinateur</a></dt>
   <dd><p>Une personne remplissant le rôle de coordinateur est redevable de <strong>la coordination des opérations d'un domaine</strong> et est <strong>sélectionnée pour un mandat limité</strong>.</p></dd>
@@ -214,7 +214,7 @@ prev_page_url: "changelog.html"
   <dd><p>Faites évoluer consciemment la culture de votre organisation.</p></dd>
 
   <dt><a href="open-salary.html">Salaire Ouvert</a></dt>
-  <dd></dd>
+  <dd><p>Créez une formule salariale équitable et rendez-la transparente.</p></dd>
 
   <dt><a href="bylaws.html">Statuts et Règlements</a></dt>
   <dd><p>Intégrez les principes et pratiques S3 dans vos statuts et règlements pour protéger <strong>l'intégrité légale</strong> et la <strong>culture organisationnelle</strong>.</p></dd>

@@ -22,7 +22,7 @@ Dans ce guide, les pratiques sont regroupées en onze catégories pour vous aide
 - [Comprendre et Décider](sense-making-and-decision-making.html)
 - [Faire Évoluer les Organisations](evolving-organizations.html)
 - [Progresser entre Pairs](peer-development.html)
-- [Catalyser la cocréation](enablers-of-co-creation.html)
+- [Catalyser la Cocréation](enablers-of-co-creation.html)
 - [Bâtir des Organisations](building-organizations.html)
 - [Intégrer la S3](bringing-in-s3.html)
 - [Passer des Accords](defining-agreements.html)

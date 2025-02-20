@@ -193,7 +193,7 @@
 
 ## Changements du 11-09-2019
 
-- Principe de transparence : description revue pour clarifier que les informations doivent être enregistrées, puis transmises à tous les membres de l'organisation
+- Principe de Transparence : description revue pour clarifier que les informations doivent être enregistrées, puis transmises à tous les membres de l'organisation
 - Principe d'Empirisme : clarifié que seules les hypothèses sur lesquelles on s'appuie doivent être testées
 
 ## Changements du 27-06-2019
@@ -205,7 +205,7 @@
 ## Changements du 03-05-2019
 
 - termes du glossaire raffinés pour [accord](glossary:agreement), [organisation](glossary:organization) et [équipe](glossary:team), terme du glossaire ajouté pour [objectif](glossary:objective)
-- Principe de redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
+- Principe de Redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - [Contrat de Collaboration Réussie](section:contract-for-successful-collaboration) : texte révisé
 - [Décrire les Livrables](section:describe-deliverables): ajouts des User Stories comme exemple pour décrire les livrables
 - [Hiérarchie à Double Lien](section:double-linked-hierarchy): résumé révisé

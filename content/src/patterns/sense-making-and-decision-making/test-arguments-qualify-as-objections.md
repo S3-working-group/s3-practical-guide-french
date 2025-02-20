@@ -5,14 +5,14 @@ Utilisez judicieusement votre temps et vos ressources limitées en testant si le
 </summary>
 
 <only presets="jekyll">
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}
 
 </only>
 
-## Overview
+## Aperçu
 
 Quand quelqu'un lève une objection potentielle (un argument pour changer quelque chose), vérifiez que l'argument présenté révèle comment des conséquences indésirables vont ou pourraient survenir si l’on ne change rien, ou qu'il vous indique un moyen utile d'améliorer la façon de réaliser vos objectifs.
 

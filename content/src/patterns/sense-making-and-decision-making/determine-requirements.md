@@ -14,7 +14,7 @@ Déterminer ce qui est requis pour répondre de manière appropriée à un drive
 
 ## Aperçu
 
-Identifier et répondre aux drivers organisationnels sont deux aspects fondamentaux de la journée de travail de chacun au sein d'une organisation. Éclaircir intentionnellement et explicitement la direction générale et la portée de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
+Identifier et répondre aux drivers organisationnels sont deux aspects fondamentaux de la journée de travail de chacun au sein d'une organisation. Clarifier intentionnellement et explicitement la direction générale et l'ampleur de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
 
 {{define:requirement}}
 

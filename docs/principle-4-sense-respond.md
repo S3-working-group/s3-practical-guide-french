@@ -2,7 +2,7 @@
 title: "Principe 4 - Sentir et Réagir"
 next_page_title: "Principe 5 – Expérimenter"
 next_page_url: "principle-5-run-experiments.html"
-prev_page_title: "Principe 3 - Focaliser sur la valeur"
+prev_page_title: "Principe 3 - Focaliser sur la Valeur"
 prev_page_url: "principle-3-focus-on-value.html"
 ---
 

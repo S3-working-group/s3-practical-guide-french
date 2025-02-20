@@ -10,13 +10,13 @@ prev_page_url: "evolving-organizations.html"
 <div class="card summary"><div class="card-body">Explicitly clarify, and then regularly evaluate and develop the design of domains throughout the organization, based on learning, to enable those with responsibility for each domain to deliver value as effectively as possible to the customers they serve.
 </div></div>
 
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}
 
 
-## Overview
+## Aperçu
 
 A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domains</a> – distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
 

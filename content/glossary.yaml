@@ -26,7 +26,7 @@ terms:
     glossary: Le processus d'aligner les actions de l'ensemble des parties d'une organisation aux objectifs de l'organisation.
   backlog:
     name: Backlog
-    definition: Un **backlog** (liste à faire) est une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.
+    definition: Un **backlog** est une liste (souvent priorisée) de choses inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.
     glossary: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.
   chosen-values:
     name: Valeurs Choisies
@@ -82,7 +82,7 @@ terms:
     glossary: Une zone de responsabilité et d'autorité bien délimitée au sein d'une organisation.
   driver:
     name: Driver
-    definition: Un **driver** (parfois appelé "intention") est le motif d'un groupe ou d'un individu pour réagir à une situation donnée.
+    definition: Un **driver** est le motif d'un groupe ou d'un individu pour réagir à une situation donnée.
     glossary: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.
   effectiveness:
     name: Efficacité (principe)
@@ -212,7 +212,7 @@ terms:
     name: Sociocratie
     glossary: Une approche où les personnes impactées par des décisions peuvent les influencer sur la base de raisons justifiées.
   standard-constraint:
-    name: Contrainte standard
+    name: Contrainte Standard
     definition: 'Une **contrainte standard** est une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l''organisation (ex : la stratégie d''entreprise, le modèle d’affaire ou un règlement interne).'
     glossary: 'Une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l''organisation (ex : la stratégie d''entreprise, le modèle d''affaire ou un règlement interne).'
   strategy:
@@ -230,7 +230,7 @@ terms:
   superdriver:
     name: Super-driver
     definition:
-    glossary: voir sous-driver.
+    glossary: voir Sous-driver.
   superdomain:
     name: Super-domaine
     definition:

@@ -26,10 +26,10 @@ En pratiquant la Sociocratie 3.0 on comprend la valeur essentielle que ces princ
 
 *{{glossary:equivalence}}*
 
-**[Principe de transparence](section:principle-transparency) :**
+**[Le Principe de Transparence](section:principle-transparency) :**
 
 *{{glossary:transparency}}*
 
-**[Principe de redevabilité](section:principle-accountability):**
+**[Principe de Redevabilité](section:principle-accountability):**
 
 *{{glossary:accountability}}*

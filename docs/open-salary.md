@@ -7,8 +7,8 @@ prev_page_url: "share-costs-and-gains.html"
 ---
 
 
-Créez une formule salariale équitable et rendez-la transparente.
-</summary>
+<div class="card summary"><div class="card-body">Créez une formule salariale équitable et rendez-la transparente.
+</div></div>
 
 La salaire transparent (parfois appelé "salaire ouvert") est une pratique qui consiste à déterminer la rémunération de chaque employé en fonction d'un ensemble de règles — la _formule salariale_  — au lieu que la rémunération fasse l'objet d'une négociation individuelle entre l'employeur et l'employé. La formule salariale – et souvent la rémunération individuelle – est transparente pour tous les membres d'une organisation, et parfois même publique.
 

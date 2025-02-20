@@ -1,8 +1,8 @@
 ---
 title: "Principe 8 - Investir dans l'Apprentissage"
-next_page_title: "Principe 9 - Développer activement la culture"
+next_page_title: "Principe 9 - Développer Activement la Culture"
 next_page_url: "principle-9-develop-culture.html"
-prev_page_title: "Trois principes pour se transformer"
+prev_page_title: "Trois Principes pour se Transformer"
 prev_page_url: "transformation.html"
 ---
 

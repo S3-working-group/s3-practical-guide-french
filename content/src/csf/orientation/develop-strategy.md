@@ -1,4 +1,4 @@
-# Principe 2 – Développer la stratégie
+# Principe 2 – Développer la Stratégie
 
 
 **_Élaborez une stratégie qui oriente la création de valeur, afin que les collaborateurs partagent une direction commune, et qui soit en phase avec la raison d'être._**

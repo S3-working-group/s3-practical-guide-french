@@ -1,5 +1,5 @@
 ---
-title: "Catalyser la cocréation"
+title: "Catalyser la Cocréation"
 next_page_title: "Participation Élégante"
 next_page_url: "artful-participation.html"
 prev_page_title: "Plan de Développement"
@@ -34,7 +34,7 @@ prev_page_url: "development-plan.html"
   <dd><p>Assurez-vous que les gens ont une relation directe avec les coûts et les gains résultant de leur travail, afin qu'ils soient intéressés à donner le meilleur, à travailler efficacement et à minimiser le gaspillage.</p></dd>
 
   <dt><a href="open-salary.html">Salaire Ouvert</a></dt>
-  <dd></dd>
+  <dd><p>Créez une formule salariale équitable et rendez-la transparente.</p></dd>
 
   <dt><a href="support-role.html">Rôle de Soutien</a></dt>
   <dd><p>Appliquez cette pratique pour les contractuels externes.</p></dd>

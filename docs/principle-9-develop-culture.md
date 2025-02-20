@@ -1,19 +1,19 @@
 ---
-title: "Principe 9 - Développer activement la culture"
-next_page_title: "Principe 10 – Bâtir des modèles mentaux partagés"
+title: "Principe 9 - Développer Activement la Culture"
+next_page_title: "Principe 10 – Bâtir des Modèles Mentaux Partagés"
 next_page_url: "principle-10-shared-mental-models.html"
 prev_page_title: "Principe 8 - Investir dans l'Apprentissage"
 prev_page_url: "principle-8-invest-in-learning.html"
 ---
 
 
-**_Collaborate on fostering a cooperative culture where everyone can achieve their fuller potential, so that you build and maintain an engaging and productive work environment._**
+**_Œuvrez à l'émergence d'une culture coopérative où chacun peut exprimer son plein potentiel. Faites en sorte de construire et de maintenir un environnement de travail engageant et productif._**
 
 Des pratiques essentielles pour vous y aider :
 
-- [Artful Participation](artful-participation.html) – Introducing the concept of Artful Participation to people invites them to pay conscious attention to how they contribute, and to make changes when they realize their current approach can be improved.
-- [Adopt the Seven Principles](adopt-the-seven-principles.html) – The seven principles provide guidelines for behavior that enable a productive, engaging, and cooperative culture.
+- [Participation Élégante](artful-participation.html) – Introduire le concept de participation élégante, invite les gens à prêter une attention consciente à la façon dont ils contribuent et à apporter des changements lorsqu'ils réalisent que leur approche actuelle peut être améliorée.
+- [Adopter les Sept Principes](adopt-the-seven-principles.html) – Les sept principes fournissent des consignes de comportement qui permettent une culture productive, engageante et coopérative.
 - [S'Accorder sur des Valeurs](agree-on-values.html) – S'accorder sur les consignes fondamentales de comportement dans l'organisation, définir des paramètres éthiques pour l'action et faciliter la cohérence.
-- [Evaluate and Evolve Agreements](evaluate-and-evolve-agreements.html) – Regular review and intentional evolution of agreements relating to culture keeps them alive in the consciousness of the people and helps identify when and how these agreements can be improved.
-- [Contract for Successful Collaboration](contract-for-successful-collaboration.html) – Co-creating mutually beneficial agreements for collaboration from the start supports building and maintaining an engaging and productive working environment and a culture of trust between parties.
+- [Évaluer et Faire Évoluer les Accords](evaluate-and-evolve-agreements.html) – Revoir régulièrement et faire évoluer activement les accords relatifs à la culture, aide à les maintenir en vie dans la conscience des gens et à identifier quand et comment ils peuvent être améliorés.
+- [Contrat de Collaboration Réussie](contract-for-successful-collaboration.html) – Cocréer dès le début des accords de collaboration mutuellement bénéfiques, soutient la construction et le maintien d'un environnement de travail engageant et productif et d'une culture de confiance entre les parties.
 - [Changements Organisationnels en Flux Tiré](create-a-pull-system-for-organizational-change.html) – Distribuer la responsabilité du développement de la culture à tout le monde, invite à la proactivité, à relever les défis et les opportunités au fur et à mesure qu'ils se présentent.

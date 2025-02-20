@@ -16,7 +16,7 @@ La S3 promeut une approche de la prise de décision fondée sur la validation d'
 <dl>
 
   <dt><a href="contract-for-successful-collaboration.html">Contrat de Collaboration Réussie</a></dt>
-  <dd><p>Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.</p></dd>
+  <dd><p>Soutenez une collaboration réussie dès le début et bâtissez une confiance mutuelle entre des parties en cocréant des contrats qui soient mutuellement bénéfiques et juridiquement solides.</p></dd>
 
   <dt><a href="record-agreements.html">Consigner les Accords</a></dt>
   <dd><p>Consignez les détails des accords que vous passez, afin de vous en souvenir plus tard, d'évaluer les résultats obtenus et de faire évoluer ces accords dans le temps.</p></dd>

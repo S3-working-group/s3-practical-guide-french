@@ -1,7 +1,7 @@
 # Dix principes pour faire progresser les équipes et les organisations
 
 
-**Principe 1 – Clarifier la finalité :** _Veillez à ce que tout le monde comprenne qui l'organisation ou l'équipe sert, pourquoi et à quelle fin, afin que les gens puissent se focaliser et unir leurs efforts vers cette finalité._
+**Principe 1 – Clarifier la Raison d'Être :** _Veillez à ce que tout le monde comprenne qui l'organisation ou l'équipe sert, pourquoi et à quelle fin, afin que les gens puissent se focaliser et unir leurs efforts vers cette finalité._
 
 **Principe 2 – Développer la Stratégie :** _Élaborez une stratégie qui oriente la création de valeur, afin que les collaborateurs partagent une direction commune, et que la stratégie soit en phase avec la raison d'être._
 
@@ -17,6 +17,6 @@
 
 **Principe 8 - Investir dans l'apprentissage :** _Veillez à ce chacun développe ses aptitudes et ses compétences, afin que sa contribution reste précieuse et que l'organisation puisse continuer de progresser._
 
-**Principe 9 - Développer activement la culture :** _Œuvrez à l'émergence d'une culture coopérative où les gens peuvent exprimer leur plein potentiel, afin de construire et de maintenir un environnement de travail engageant et productif._
+**Principe 9 - Développer Activement la Culture :** _Œuvrez à l'émergence d'une culture coopérative où les gens peuvent exprimer leur plein potentiel, afin de construire et de maintenir un environnement de travail engageant et productif._
 
-**Principe 10 – Bâtir des modèles mentaux partagés :** _Construisez des modèles mentaux partagés, afin que chacun puisse participer à un dialogue constructif sur ce qui se passe et sur ce qui doit être fait, et qu'au passage ils approfondissent leur compréhension du fonctionnement de l'organisation, ce qu'elle fait et pourquoi._
+**Principe 10 – Bâtir des Modèles Mentaux Partagés :** _Construisez des modèles mentaux partagés, afin que chacun puisse participer à un dialogue constructif sur ce qui se passe et sur ce qui doit être fait, et qu'au passage ils approfondissent leur compréhension du fonctionnement de l'organisation, ce qu'elle fait et pourquoi._

@@ -6,14 +6,14 @@ Utilisez l'information révélée par une objection pour identifier les moyens d
 
 
 <only presets="jekyll">
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}
 
 </only>
 
-## Overview
+## Aperçu
 
 Typically it's most effective to **take one [objection](glossary:objection) at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal.
 

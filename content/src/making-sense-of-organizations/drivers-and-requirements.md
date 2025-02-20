@@ -14,50 +14,50 @@
 
 ## Aperçu
 
-Identifier et interagir dans des situations qui justifient une sorte de réponse est un aspect fondamental de la journée de travail de chacun dans une organisation.
+Identifier et interagir dans des situations qui justifient une sorte de réponse est un aspect fondamental du quotidien de chacun dans une organisation.
 
 Dans le contexte de la Sociocratie 3.0, l'[efficacité](section:principle-effectiveness) est un principe clé qui invite les membres d'une organisation à faire le meilleur usage de leurs ressources, de l'énergie et du temps en consacrant des efforts à ne faire que ce qui rapproche l'organisation de la réalisation de ses objectifs généraux. Pour bien réaliser sur quoi il est important de se concentrer, et une meilleure compréhension partagée de ce qui est bénéfique de faire ou de ne pas faire, nous utilisons les concepts de _Drivers Organisationnels_ et d'_Exigences_.
 
-Reflecting on and describing organizational drivers and requirements supports:
+Penser et décrire ses drivers organisationnels et ses exigences permet :
 
-- understanding situations that motivate action (**sense-making)**
-- establishing whether and why a situation is relevant to respond to (**meaning-making**)
-- determining direction and scope for a suitable response to the situation (**decision-making**)
+- d'identifier les situations qui suggèrent d'agir (**ressentir)**
+- de déterminer si et pourquoi une situation mérite une réponse (**comprendre**)
+- de déterminer l'orientation et l'ampleur d'une réponse adéquate à la situation (**décider**)
 
-## Organizational Drivers
+## Drivers Organisationnels
 
-Identifying and understanding situations that present potential impediments or opportunities in relation to an organization's objectives is important if we are to successfully orient through our daily work and make the best use of our limited resources, energy, and time.
+Identifier et comprendre des situations qui présentent des obstacles ou des opportunités potentielles par rapport aux objectifs d'une organisation est important si nous voulons cheminer avec succès dans notre travail quotidien et faire le meilleur usage de nos ressources, de notre énergie, et de notre limités.
 
-However, not all situations that motivate an organization's members to act, are pertinent for the organization to respond to. With the concept of organizational drivers we give a name to those situations an organization's members investigate and determine as relevant to respond to because they anticipate that doing so would be beneficial for the organization – by helping to generate value, eliminate waste, or avoid undesirable risks or consequences.
+Cependant, toutes les situations qui motivent les membres d'une organisation à agir, ne sont pas pertinentes pour l'organisation. Avec le concept de drivers organisationnels, nous donnons un nom à ces situations que les membres de l'organisation explorent et déterminent comme pertinentes à adresser car ils prévoient que cela sera bénéfique pour l'organisation - soit pour générer de la valeur, éliminer du gaspillage ou pour éviter certains risques ou conséquences indésirables.
 
-Making sense of situations that arise in the course of daily work and establishing if those situations are relevant to deal with, before deciding how to respond to them, has evident **benefits**:
+Comprendre les situations qui surviennent au cours du travail quotidien et déterminer si elles sont pertinentes à traiter, avant de décider comment y répondre, a les **bienfaits évidents** :
 
-- A clear and accurate understanding of a situation that requires an intervention, **supports people to develop a better idea of what's required to deal with it**. Un problème bien défini est un problème à moitié résolu (voir [Répondre aux Drivers Organisationnels](section:respond-to-organizational-drivers))
-- Explicitly describing a driver helps to **communicate about it effectively** with others and **develop a shared understanding** of the situation and its relevance for the organization (see [Describe Organizational Drivers](section:describe-organizational-drivers))
-- Thinking about organizational drivers supports people to reflect on, **understand and communicate about why they do the things they do**. It provides a way to investigate and make explicit the reasons behind actions and decisions and it helps to understand **why we are motivated to pursue particular objectives and goals**.
-- Taking time to investigate situations and their potential relevance, before acting, helps to **determine if and when intervening is worthwhile**, because people can be mistaken, both regarding their conclusions about what they are perceiving, and in terms of the relevance they ascribe to the situations they perceive (see [Navigate via Tension](section:navigate-via-tension)).
-- Being clear about why you are doing things will make it easier to **regularly evaluate the outcomes** of your actions and identify ways to improve your approach. (When doing so, also consider whether the organizational driver has changed: the situation is different, or its relevance for the organization has changed.)
+- Une compréhension claire et précise d'une situation qui nécessite une intervention, **aide les gens à développer une meilleure idée de ce qu'il est nécessaire de traiter**. Un problème bien défini est un problème à moitié résolu (voir [Répondre aux Drivers Organisationnels](section:respond-to-organizational-drivers))
+- Décrire explicitement un driver aide à **communiquer efficacement** avec les autres et à **développer une compréhension partagée** de la situation et de sa pertinence pour l'organisation (voir [Décrire les Drivers Organisationnels](section:describe-organizational-drivers))
+- Penser aux drivers organisationnels aide les gens à réfléchir, à **comprendre et à communiquer sur les raisons pour lesquelles ils font ce qu'ils font**. Cela donne un moyen d'explorer et de rendre explicites les raisons de nos actions et de nos décisions et nous aide à comprendre **pourquoi nous sommes motivés à poursuivre certains buts et objectifs précis**.
+- Prendre le temps d'étudier les situations et leur pertinence potentielle, avant d'agir, aide à **déterminer si et quand une intervention vaut la peine**, parce que les gens peuvent se tromper, que ce soit sur les conclusions de ce qu'ils perçoivent, ou que ce soit sur la pertinence qu'ils attribuent aux situations qu'ils perçoivent (voir [Naviguer par Tension](section:navigate-via-tension)).
+- Être clair sur les raisons pour lesquelles vous faites des choses permettra **d'évaluer régulièrement les résultats** de vos actions et d'identifier des moyens d'améliorer votre approche. (Lorsque vous le faites, vérifiez également si le driver organisationnel a changé : si la situation est différente ou si sa pertinence pour l'organisation a changé.)
 
-Determining whether a situation qualifies as an organizational driver is dependent on adequate understanding of the overall purpose of the organization (its [primary driver](glossary:primary-driver) and main [requirement](glossary:requirement), its [strategy](glossary:strategy), [objectives](glossary:objective), [values](glossary:values), existing [agreements](glossary:agreement), and so on. Once it's established that responding to a particular situation would be beneficial for the organization, it qualifies as an organization driver and can then be prioritized accordingly. Such diligence ensures that people remain focused on, and responsive to, challenges and opportunities that are relevant to the organization's purpose and objectives.
+Déterminer si une situation est considérée comme un driver organisationnel dépend de la compréhension adéquate du but global de l'organisation (son [driver primaire](glossary:primary-driver) et de son  [exigence](glossary:requirement) principal, de sa [strategie](glossary:strategy), de ses [objectifs](glossary:objective), de ses [valeurs](glossary:values), de ses [accords](glossary:agreement), et ainsi de suite). Une fois qu'il est établi que répondre à une situation particulière serait bénéfique pour l'organisation, elle se qualifie comme driver organisationnel et peut ensuite être priorisé en conséquence. Une telle diligence fait en sorte que les gens restent concentrés sur les défis et les possibilités qui sont pertinents pour les buts et les objectifs de l'organisation.
 
-### Relationships between organizational drivers
+### Relations entre les drivers organisationnels
 
-All organizational drivers arise as a consequence of the decision to respond to the organization's primary driver and fulfill its main requirement. The decision to respond to a driver often reveals necessary steps, obstacles and opportunities that need taking care of. To describe the relationship between organizational drivers, we use the terms [subdriver](glossary:subdriver) and [superdriver](glossary:superdriver).
+Tous les drivers organisationnels découlent de la décision de répondre au driver primaire de l'organisation et de remplir son exigence principale. La décision de répondre à un driver révèle souvent des étapes, des obstacles et des opportunités nécessaires qui doivent être pris en charge. Pour décrire la relation entre les drivers organisationnels, nous utilisons les termes [Sous-driver](glossary:subdriver) et [Super-driver](glossary:superdriver).
 
 ### Drivers, Valeur et gaspillage
 
-By adopting the concepts of value and waste in organizations, many practices and ideas from lean production and lean software development are immediately applicable for organizations pulling in S3 patterns, like the Kanban Method, or Value Stream Mapping.
+En adoptant les concepts de valeur et de gaspillage dans les organisations, de nombreuses pratiques et idées provenant de la production lean et du développement de logiciels lean sont immédiatement applicables pour les organisations qui utilisent les pratiques S3, comme la Méthode Kanban, ou la Cartographie de la Chaîne de Valeur
 
-Both concepts can be explained in relation to drivers:
+Les deux concepts peuvent être expliqués par rapport aux drivers :
 
 {{define:value}}
 
 {{define:waste}}
 
-There's a wealth of research and development about the concept of value and waste in organizations. We'd encourage you to explore that for yourself.
+Il existe de nombreuses recherches sur le concept de valeur et de gaspillage dans les organisations. Nous vous encourageons à explorer cela par vous-même.
 
 ## Exigences
 
-Éclaircir intentionnellement et explicitement la direction générale et la portée de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
+Clarifier intentionnellement et explicitement la direction générale et l'ampleur de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
 
 Avoir une attitude orientée solutions est très apprécié dans les organisations. Cependant, dans les contextes collaboratifs, fixer des idées précises trop rapidement peut étouffer la créativité et entraîner des tensions et des conflits inutiles. Lorsqu'on est chargé de répondre à un driver organisationnel, sauter immédiatement à des solutions concrètes peut restreindre ou diminuer le champ des possibilités envisagées. En outre, des solutions spécifiques peuvent être apportées par des individus projetant leurs expériences passées sur la situation ou agissant en fonction de leurs habitudes, plutôt que sur la base d'une analyse approfondie et réfléchie de la situation en cours, et une décision délibérée et explicite concernant l'exigence : comprendre ce qui est nécessaire ou désiré pour répondre à ce driver et comment répondre à l'exigence pourrait avoir un impact positif sur la situation (comme décrit dans la pratique [Déterminer les Exigences](section:determine-requirements).

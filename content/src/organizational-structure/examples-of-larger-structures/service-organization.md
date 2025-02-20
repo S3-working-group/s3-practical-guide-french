@@ -1,4 +1,4 @@
-# Organisation de service
+# Organisation de Service
 
 <summary>
 Collaboration impliquant de multiples parties prenantes, partageant un driver (ou objectif) commun.
@@ -6,7 +6,7 @@ Collaboration impliquant de multiples parties prenantes, partageant un driver (o
 
 - améliore le potentiel d'équivalence entre diverses entités
 - augmente l'alignement inter-départemental / organisationnel
-- permet des collaborations plurielles entre des départements ou des organisations ayant des  motivations primaires différentes, ou étant en conflit
+- permet des collaborations plurielles entre des départements ou des organisations ayant des  motivations primaires différentes, ou même étant en conflit
 - convient pour les projets ponctuels, ou la collaboration continue
 
 **Note** : une organisation de service est souvent appelée **organisation vertébrale**.

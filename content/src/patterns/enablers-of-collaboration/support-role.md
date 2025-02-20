@@ -12,4 +12,4 @@
 
 Les contractuels externes acceptent de prendre leur rôle.
 
-**Voir aussi:** [Contrat de Collaboration Réussie](section:contract-for-successful-collaboration)
+**Voir aussi :** [Contrat de Collaboration Réussie](section:contract-for-successful-collaboration)

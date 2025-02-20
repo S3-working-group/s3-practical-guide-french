@@ -1,8 +1,8 @@
-[:menu-title]: # "Focaliser sur la valeur"
+[:menu-title]: # "Focaliser sur la Valeur"
 
-# Principe 3 - Focaliser sur la valeur
+# Principe 3 - Focaliser sur la Valeur
 
-**_Concentrez votre travail quotidien sur la création de valeur, afin que les choses qui concourent à votre raison d'être soient faites._**
+**_Concentrez votre travail quotidien sur la création de valeur, afin que les choses qui contribuent à votre raison d'être soient faites._**
 
 Des pratiques essentielles pour vous y aider :
 

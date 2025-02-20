@@ -40,9 +40,9 @@ A regular cadence for evaluating significant decisions and deliberately checking
 
 ## Préoccupations
 
-**Not all arguments raised are objections, but they might reveal concerns.**
+**Tous les arguments présentés ne sont pas des objections, mais ils peuvent révéler des préoccupations .**
 
 {{define:concern}}
 
-Concerns don't prevent proposals becoming agreements, only objections do. Nevertheless, considering people's concerns can provide insight into how to further evolve proposals and agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. This is why it's important to bring up concerns if you think it's valuable to consider them. However, determining whether an argument is an objection or concern is sometimes dependent on context. Therefore, if you are in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too (see [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)).
+Concerns don't prevent proposals becoming agreements, only objections do. Nevertheless, considering people's concerns can provide insight into how to further evolve proposals and agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. This is why it's important to bring up concerns if you think it's valuable to consider them. However, determining whether an argument is an objection or concern is sometimes dependent on context. Par conséquent, si vous doutez de savoir si vous avez une objection ou une préoccupation, soyez proactif et vérifiez avec les autres pour voir ce qu'ils pensent (voir [Examiner les Objections](section:test-arguments-qualify-as-objections)).
 

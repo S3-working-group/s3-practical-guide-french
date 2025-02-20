@@ -1,4 +1,4 @@
-# Organisation décentralisée
+# Organisation Décentralisée
 
 <summary>
 Apportez de la valeur aux environnements complexes et compétitifs à travers la _décentralisation_ (des ressources et de l'influence) et _l'interaction directe_ entre les créateurs de valeur et les clients qu'ils servent.
@@ -11,6 +11,6 @@ Les équipes en périphérie :
 
 Le centre fournit des services internes pour soutenir l'organisation.
 
-Les [domaines](glossary:domain) sont liés si nécessaire pour que l'information circule et pour s'influencer, et pour collaborer autour des dépendances.
+Les [Domaines](glossary:domain) sont liés pour permettre à l'information et l'influence de circuler, ainsi que pour soutenir la collaboration en cas de dépendances.
 
-![Organisation décentralisée](img/structural-patterns/peach-organization.png)
+![Organisation Décentralisée](img/structural-patterns/peach-organization.png)

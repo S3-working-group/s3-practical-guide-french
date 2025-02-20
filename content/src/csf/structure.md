@@ -1,4 +1,4 @@
-# Deux principes pour se structurer
+# Deux Principes pour se Structurer
 
 
-![Deux principes pour se structurer : Cultiver l'Autonomie – Collaborer sur les Dépendances](img/csf/csf-light-structure.png)
+![Deux Principes pour se Structurer : Cultiver l'Autonomie – Collaborer sur les Dépendances](img/csf/csf-light-structure.png)

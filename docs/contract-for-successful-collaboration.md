@@ -7,7 +7,7 @@ prev_page_url: "defining-agreements.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.
+<div class="card summary"><div class="card-body">Soutenez une collaboration réussie dès le début et bâtissez une confiance mutuelle entre des parties en cocréant des contrats qui soient mutuellement bénéfiques et juridiquement solides.
 </div></div>
 
 **Table des matières**
@@ -16,9 +16,9 @@ prev_page_url: "defining-agreements.html"
   {:toc}
 
 
-## Overview
+## Aperçu
 
-A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies.
+Un **contrat** est un corpus d'engagements qu'au moins deux parties acceptent de rendre juridiquement contraignants, c'est-à-dire que si ces engagements sont violés, les parties lésées disposent des recours juridiques (ou d'alternatives).
 
 Le développement d'une compréhension commune des besoins et des attentes est essentiel pour une collaboration réussie.
 
@@ -26,11 +26,11 @@ En négociant et en acceptant un contrat, modélisez la culture de la collaborat
 
 Cette pratique se réfère aux contrats relatifs à la collaboration autour de toute transaction commerciale entre une organisation et d'autres parties (ex : les employés, les consultants, les fournisseurs de services, les actionnaires ou les clients). Elle est particulièrement pertinente pour les contrats qui ont une influence significative sur l'avenir d'une organisation ou d'un de ses partenaires, comme :
 
-- employment contracts and contracts with external contractors or consultants in [support roles](support-role.html) (including any agreement that results in a change of remuneration or working hours)
+- les contrats des salariés et les contrats avec des contractuels externes ou des consultants dans des [rôles de soutien](support-role.html) (y compris tout accord qui entraîne un changement de rémunération ou d'heures de travail)
 - les contrats régissant la collaboration avec les clients, les fournisseurs ou les fournisseurs de services
 - les accords d'actionnariat
 
-**Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
+**Remarque :** De nombreux accords de collaboration au sein d'une organisation ne nécessitent pas de contrats dédiés, car ils sont déjà régis par ou soumis à des contrats existants.
 
 ## Critères de succès pour une négociation de contrat
 
@@ -45,7 +45,7 @@ Lors de la négociation d'un contrat, assurez-vous:
 
 Si, pour quelque raison que ce soit, un ou plusieurs de ces critères ne peuvent être remplis, il est probablement sage de ne pas poursuivre.
 
-## Co-création du contrat
+## Cocréation du contrat
 
 La façon dont un contrat est négocié peut contribuer de manière significative à bâtir la confiance entre les parties. Envisagez la contractualisation comme un accord entre partenaires, et non entre adversaires: co-créez le contrat, adaptez-le à son contexte spécifique, et assurez-vous qu'il soit juridiquement solide.
 
@@ -54,9 +54,9 @@ La façon dont un contrat est négocié peut contribuer de manière significativ
 - si vous devez utiliser des termes techniques ou juridiques spécifiques qui pourraient être peu familiers à l'une des parties, expliquez-les dans un glossaire qui fait partie du contrat
 - consultez un juriste qui comprend la culture à laquelle vous aspirez et qui est compétent dans le domaine où vous évoluez
 
-## Lors de la Co-création d'un contrat :
+## Lors de la cocréation d'un contrat :
 
-- ensure all parties have a delegation that includes representation for all affected <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domains</a> (e.g. not only sales, but also development, production, support etc.)
+- assurez-vous que toutes les parties ont une délégation qui inclut la représentation pour tous les <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> concernés (ex : pas seulement les ventes, mais aussi le développement / la production / le support, etc)
 - décrivez explicitement la culture que vous voulez développer, en tenant compte des points communs comme des différences culturelles entre les parties
 - indiquez les raisons de la collaboration proposée, et soyez transparent sur les attentes et les besoins de toutes les parties
 - divulguez toutes les informations pertinentes (si nécessaire via un accord de confidentialité)
@@ -78,9 +78,9 @@ Tout contrat peut être modifié à tout moment, à condition que tous les signa
 
 ## Culture 
 
-Every contract influences the culture of the collaboration it governs, even when it appears to only describe _what_ needs to be delivered:
+Chaque contrat influence la culture de la collaboration qu'il régit, même lorsqu'il semble seulement décrire ce qui doit être livré :
 
-- intentionally create the culture of collaboration you want to see by including expectations on _how_ things should be done
+- créez volontairement la culture de la collaboration que vous voulez voir en incluant les attentes sur _comment_ les choses doivent être faites
 - alignez le contrat sur la culture organisationnelle (de toutes les parties) et aux obligations légales
 - construisez des contrats qui permettent et encouragent la redevabilité
 

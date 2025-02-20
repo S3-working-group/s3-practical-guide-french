@@ -1,6 +1,6 @@
 ---
-title: "Organisation de service"
-next_page_title: "Organisation fractale"
+title: "Organisation de Service"
+next_page_title: "Organisation Fractale"
 next_page_url: "fractal-organization.html"
 prev_page_title: "Hiérarchie à Double Lien"
 prev_page_url: "double-linked-hierarchy.html"
@@ -12,7 +12,7 @@ prev_page_url: "double-linked-hierarchy.html"
 
 - améliore le potentiel d'équivalence entre diverses entités
 - augmente l'alignement inter-départemental / organisationnel
-- permet des collaborations plurielles entre des départements ou des organisations ayant des  motivations primaires différentes, ou étant en conflit
+- permet des collaborations plurielles entre des départements ou des organisations ayant des  motivations primaires différentes, ou même étant en conflit
 - convient pour les projets ponctuels, ou la collaboration continue
 
 **Note** : une organisation de service est souvent appelée **organisation vertébrale**.

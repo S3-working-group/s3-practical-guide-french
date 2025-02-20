@@ -16,4 +16,4 @@ Le travail en cours inclut :
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 
-Lorsqu'une nouvelle action ferait dépasser la limite du nombre de tâches en cours de travail, il faut le porter à l'attention de l'équipe avant de continuer.
+Lorsque l'ajout d'une nouvelle tâche ferait dépasser la limite du nombre d'en cours, il faut le porter à l'attention de l'équipe avant de continuer.

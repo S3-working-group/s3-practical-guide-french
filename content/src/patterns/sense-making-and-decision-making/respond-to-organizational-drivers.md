@@ -6,14 +6,14 @@ Respond to all organizational drivers you are responsible for, in order of prior
 
 
 <only presets="jekyll">
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}
 
 </only>
 
-## Overview
+## Aperçu
 
 When a role keeper or a team becomes aware of a new driver they are responsible for dealing with, it's usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
 

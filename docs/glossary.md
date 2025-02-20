@@ -60,7 +60,7 @@ prev_page_url: "authors.html"
 <dd>Une équipe (ex : un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l'autorité à un représentant pour agir en leur nom dans d'autres équipes ou organisations.</dd>
 
 
-<dt id="entry-standard-constraint">Contrainte standard</dt>
+<dt id="entry-standard-constraint">Contrainte Standard</dt>
 <dd>Une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l'organisation (ex : la stratégie d'entreprise, le modèle d'affaire ou un règlement interne).</dd>
 
 
@@ -237,7 +237,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-superdriver">Super-driver</dt>
-<dd>voir sous-driver.</dd>
+<dd>voir Sous-driver.</dd>
 
 
 <dt id="entry-social-technology">Technologie Sociale</dt>

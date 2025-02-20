@@ -5,7 +5,7 @@ Un processus de groupe (facilité) pour la prise de décision : inviter les part
 </summary>
 
 <only presets="jekyll">
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}
@@ -15,7 +15,7 @@ Un processus de groupe (facilité) pour la prise de décision : inviter les part
 ![Décider par Consentement](img/agreements/consent-decision-making.png)
 
 
-## Overview
+## Aperçu
 
 Le consentement invite les gens à être (au moins) raisonnables et ouverts à apprendre et à s'améliorer. Lorsque vous appliquez le principe [de consentement](section:principle-consent), vous acceptez de rechercher intentionnellement des [objections](section:objection).
 
@@ -30,20 +30,20 @@ Tous les arguments présentés ne sont pas des objections, mais ils peuvent rév
 {{define:concern}}
 
 
-## Step 1: Consent to Driver and Requirement
+## Étape 1 : Consentement au Driver et à l'Exigence
 
-_Make sure the [driver](glossary:organizational-driver) and [requirement](glossary:requirement) are summarized clearly enough and that it is relevant for this group to deal with them._
+_Assurez-vous que le [driver](glossary:organizational-driver) et l'[exigence](glossary:requirement) sont suffisamment bien résumés et qu'il est pertinent pour ce groupe de les traiter._
 
-Facilitator asks: _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
+Le facilitateur demande : _Est-ce que la description de ce driver et de cette exigence sont suffisamment clairs ? Est-ce un driver organisationnel ? Est-il pertinent pour nous de répondre à ce driver ? Et, est-ce que l'exigence est adéquate ?_
 
-**Note:** As a general recommendation, aim to complete this step with meeting attendees asynchronously, [prior to the meeting](section:prepare-for-meetings). Cela vous donnera la possibilité d'apporter des précisions à l'avance et vous épargnera un temps précieux en réunion. However, in a case where someone is presenting a proposal to a group of stakeholders who were not involved in creating it, or if there are people who are only now joining the decision-making process, check everyone understands the driver and requirement for the proposal, and make sure that it's described clearly enough, the requirement is considered to be suitable and it's relevant for those present to deal with this, before considering the proposal itself.
+**Remarque :** Il est généralement recommandé de viser à terminer cette étape avec les participants à la réunion de manière asynchrone, [avant la réunion](section:prepare-for-meetings). Cela vous donnera la possibilité d'apporter des précisions à l'avance et vous épargnera un temps précieux en réunion. Cependant, dans un cas où quelqu'un présente une proposition à un groupe de parties prenantes qui n'ont pas participé à sa création, ou s'il y a des personnes qui rejoignent tout juste le processus décisionnel, vérifiez que tout le monde comprend bien le driver et l'exigence de la proposition, et assurez-vous qu'il est décrit assez clairement et qu'il est pertinent pour les personnes présentes d'y répondre, avant de considérer la proposition elle-même.
 
--   If the driver is not described clearly enough, take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer considering the proposal, until the driver is clear.
--   If the driver is not relevant for this group, pass it on to the appropriate person or team, or, if it's decided that this is not an organizational driver at all, discard it.
--   If the requirement is considered to be unsuitable, hear the argument(s) and if they qualify as objections, resolve them before considering the proposal.
+-   Si le driver n'est pas décrit assez clairement : prenez le temps de clarifier et de faire les changements nécessaires au résumé du driver jusqu'à ce qu'il n'y ait plus d'objections. À moins que cela ne soit un changement rapide, envisagez de le faire après la réunion et reportez la prise de décision jusqu'à ce que le driver soit clair.
+-   Si le driver n'est pas pertinent pour ce groupe, transmettez-le à la personne ou à l'équipe appropriée, ou, s'il est décidé que ce n'est pas du tout un driver organisationnel, jetez-le.
+-   Si l'exigence est jugée inappropriée, entendez les arguments et s'ils sont considérés comme des objections, résolvez-les avant d'examiner la proposition.
 
 
-## Étape 2 : présenter la proposition
+## Étape 2 : Présenter la Proposition
 
 _Partagez la proposition avec tout le monde._
 
@@ -60,7 +60,7 @@ Si vous êtes celui qui présente une proposition, notez-la, partagez-la avec le
 **Remarque :** Impliquer les parties-prenantes dans la création de la proposition peut améliorer l'engagement et la prise en charge de ce qui sera décidé parce que les gens sont plus à même de s'approprier un accord qu'ils ont participé à créer. D'un autre côté, la prise de décision participative ou collaborative exige du temps et des efforts, donc ne l'utilisez que lorsque les gains en valent la peine.
 
 
-## Étape 3 : Comprendre la proposition
+## Étape 3 : Comprendre la Proposition
 
 _Assurez-vous que tout le monde comprend la proposition._
 
@@ -84,7 +84,7 @@ Les questions de clarification révèlent parfois des moyens utiles de modifier 
 -   Évitez tout préambule et collez au sujet, par exemple : "_Bien, une chose qui n'est pas claire pour moi, ou du moins, que je veux être sûr de bien comprendre, c'est … _" ou "_. Je ne suis pas sûr comment articuler cela, mais laissez-moi essayer … _", etc.
 
 
-## Étape 4: Réponse courte
+## Étape 4: Réponse Courte
 
 _Ayez une idée de la façon dont cette proposition est reçue par tout le monde._
 
@@ -113,7 +113,7 @@ Exemples:
 -   Il est utile d'entendre quelque chose de la part de tout le monde dans ce tour de table, alors évitez de passer. Si vous  avez perdu vos mots, vous pouvez toujours dire quelque chose comme "_j'ai besoin de plus de temps pour y penser_" ou "_je ne suis pas sûr comment je me positionne à ce stade_
 
 
-## Étape 5 : Vérifier les objections potentielles
+## Étape 5 : Vérifier les Objections Potentielles
 
 _Les gens examinent la proposition et indiquent ensuite s'ils ont des objections potentielles ou des préoccupations._
 
@@ -141,7 +141,7 @@ Dans le cas où la distinction entre objections et préoccupations est encore fl
 **Si personne n'indique avoir des objections potentielles, vous êtes parvenus à un accord, passez à l'étape 8 (Célébrez) !**
 
 
-## Étape 6: Tester si un argument est une objection
+## Étape 6 : Tester si un Argument est une Objection
 
 _Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont._
 
@@ -160,7 +160,7 @@ Voir la pratique [Examiner les Objections](section:test-arguments-qualify-as-obj
 **Si l'argument ne se qualifie pas comme une objection, retournez à l'étape 5 (Vérifier les objections potentielles), sinon passez à l'étape suivante.**
 
 
-## Étape 7 : Résoudre l'objection
+## Étape 7 : Résoudre l'Objection
 
 _Améliorer la proposition, à l'aide des informations dévoilées par l'objection révélée lors de l'étape précédente._
 
@@ -169,12 +169,12 @@ Voir la pratique [Résoudre les Objections](section:resolve-objections) pour plu
 Une fois que l'objection est résolue, **retournez à l'étape 5.**
 
 
-## Étape 8 : Célébrez !
+## Étape 8 : Célébrer !
 
 **Incroyable ! Vous avez conclu un accord! Et, avec la pratique, vous irez encore plus vite !** Prenez un moment pour entériner qu'un accord a été conclu. Célébrez!
 
 
-## Étape 9 : Considérer les préoccupations
+## Étape 9 : Considérer les Préoccupations
 
 Après avoir célébré, vérifiez si des préoccupations que vous avez vaut la peine d'en faire part au groupe avant de passer au sujet suivant. Si ce n'est pas le cas, consignez-les après la réunion au côté des critères d'évaluation de cet accord. Des informations sur les préoccupations pourraient s'avérer utiles au moment de l'évaluation de l'accord
 

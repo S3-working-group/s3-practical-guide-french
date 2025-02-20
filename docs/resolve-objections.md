@@ -11,13 +11,13 @@ prev_page_url: "test-arguments-qualify-as-objections.html"
 </div></div>
 
 
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}
 
 
-## Overview
+## Aperçu
 
 Typically it's most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: Un argument – relatif à une proposition, un accord existant, ou une activité menée par un ou plusieurs membres de l&#x27;organisation - révélant des conséquences ou des risques qu&#x27;il serait préférable d&#x27;éviter pour l&#x27;organisation, ou démontrant des améliorations potentielles significatives.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal.
 

@@ -19,13 +19,13 @@ prev_page_url: "prioritize-backlogs.html"
 
 ## Choses à suivre:
 
-- **types de tâches** (ex : demande client, tâches de projet, tâches de reporting, retouches)
+- **type de tâche** (ex : demande client, tâches de projet, tâches de reporting, retouches)
 - **date de démarrage** (et **date d'échéance** si nécessaire)
 - **priorités**
-- **étapes** du travail (ex : « à faire », « en cours », « à revoir » et « terminé »)
+- **stade** d'avancement (ex : "à faire", "en cours", "à revoir" et "terminé")
 - obstacles / entraves
 - qui travaille sur quoi
-- <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a> et attentes guidant le flux de travail (ex : définition de "terminé", politique, normes de qualité)
+- <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">Accords</a> et attentes guidant le flux de travail (ex : définition de "terminé", politique, normes de qualité)
 - utiliser des couleurs, des symboles, du surlignement, etc.
 
 ![Une carte représentant un élément de travail](img/workflow-and-value/card.png)

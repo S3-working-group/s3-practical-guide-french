@@ -1,6 +1,6 @@
 ---
 title: "Principe 5 – Expérimenter"
-next_page_title: "Deux principes pour se structurer"
+next_page_title: "Deux Principes pour se Structurer"
 next_page_url: "structure.html"
 prev_page_title: "Principe 4 - Sentir et Réagir"
 prev_page_url: "principle-4-sense-respond.html"

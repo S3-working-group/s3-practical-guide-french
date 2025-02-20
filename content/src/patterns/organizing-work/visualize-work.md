@@ -13,13 +13,13 @@ Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'é
 
 ## Choses à suivre:
 
-- **types de tâches** (ex : demande client, tâches de projet, tâches de reporting, retouches)
+- **type de tâche** (ex : demande client, tâches de projet, tâches de reporting, retouches)
 - **date de démarrage** (et **date d'échéance** si nécessaire)
 - **priorités**
-- **étapes** du travail (ex : « à faire », « en cours », « à revoir » et « terminé »)
+- **stade** d'avancement (ex : "à faire", "en cours", "à revoir" et "terminé")
 - obstacles / entraves
 - qui travaille sur quoi
-- [accords](glossary:agreement) et attentes guidant le flux de travail (ex : définition de "terminé", politique, normes de qualité)
+- [Accords](glossary:agreement) et attentes guidant le flux de travail (ex : définition de "terminé", politique, normes de qualité)
 - utiliser des couleurs, des symboles, du surlignement, etc.
 
 ![Une carte représentant un élément de travail](img/workflow-and-value/card.png)

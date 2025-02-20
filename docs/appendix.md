@@ -2,7 +2,7 @@
 title: "Annexe"
 next_page_title: "Historique des modifications"
 next_page_url: "changelog.html"
-prev_page_title: "Par où commencer ?"
+prev_page_title: "Par où Commencer ?"
 prev_page_url: "where-to-start.html"
 ---
 

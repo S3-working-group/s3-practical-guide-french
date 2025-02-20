@@ -1,4 +1,4 @@
-# Le Principe d'efficacité
+# Le Principe d'Efficacité
 
 _{{glossary:effectiveness}}_
 

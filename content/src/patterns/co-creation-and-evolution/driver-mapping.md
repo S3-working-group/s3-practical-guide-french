@@ -34,7 +34,7 @@ En préparation :
 - Les participants peuvent déjà se préparer en réfléchissant et en consignant des idées d'acteurs et des besoins connexes.
 - Préparez un poster avec la description du domaine à présenter dans la première étape. Vous aurez également besoin de notes adhésives A5 et rectangulaires, de stylos et d'un grand mur pour travailler. 
 
-## Le processus de cartographie des motifs:
+## Le processus de cartographie des drivers :
 
 Voici les étapes à suivre :
 

@@ -1,4 +1,4 @@
-# Trois principes pour se transformer
+# Trois Principes pour se Transformer
 
 
-![Trois principes pour se transformer : investir dans l'apprentissage - Développer activement la culture - Bâtir des modèles mentaux partagés](img/csf/csf-light-transformation.png)
+![Trois Principes pour se Transformer : Investir dans l'Apprentissage - Développer Activement la Culture - Bâtir des Modèles Mentaux Partagés](img/csf/csf-light-transformation.png)

@@ -2,7 +2,7 @@
 title: "Concepts clés pour comprendre les organisations"
 next_page_title: "Drivers Organisationnels et Exigences"
 next_page_url: "drivers-and-requirements.html"
-prev_page_title: "Le principe de redevabilité"
+prev_page_title: "Le Principe de Redevabilité"
 prev_page_url: "principle-accountability.html"
 ---
 

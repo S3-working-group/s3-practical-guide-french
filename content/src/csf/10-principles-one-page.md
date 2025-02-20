@@ -1,7 +1,7 @@
 # Tous les principes sur une seule page
 
 
-**Principe 1 – Clarifier la finalité** \
+**Principe 1 – Clarifier la Raison d'Être** \
 _Veillez à ce que tout le monde comprenne qui l'organisation ou l'équipe sert, pourquoi et à quelle fin._
 
 **Principe 2 – Développer la Stratégie** \
@@ -25,9 +25,9 @@ _Cocréez et faites évoluer un système cohérent pour gérer toutes les dépen
 **Principe 8 – Investir dans l'apprentissage** \
 _Soutenez chacun dans le développement de ses aptitudes et compétences._
 
-**Principe 9 – Développer activement la culture** \
+**Principe 9 – Développer Activement la culture** \
 _Œuvrez à l'émergence d'une culture coopérative où chacun peut exprimer son plein potentiel._
 
-**Principe 10 – Bâtir des modèles mentaux partagés** \
+**Principe 10 – Bâtir des Modèles Mentaux Partagés** \
 _Investissez dans la construction de modèles mentaux partagés._
 

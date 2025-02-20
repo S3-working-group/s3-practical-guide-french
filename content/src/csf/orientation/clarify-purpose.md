@@ -1,4 +1,4 @@
-# Principe 1 – Clarifier l’intention
+# Principe 1 – Clarifier la Raison d'Être
 
 
 **_Veillez à ce que tout le monde comprenne qui l'organisation ou l'équipe sert, pourquoi et à quelle fin, afin que les gens puissent se focaliser et unir leurs efforts vers cette finalité._**

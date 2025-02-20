@@ -162,13 +162,13 @@ prev_page_url: "pattern-index.html"
 
 **Fournir une orientation stratégique claire et des priorités** pour guider le service marketing et assurer l'alignement sur les objectifs commerciaux de l'entreprise. La société opère dans une industrie dynamique où les priorités changent rapidement, ce qui conduit parfois à une inadéquation des efforts et à une utilisation inefficace des ressources.
 
-**Soyez réactif:** Maintenir des canaux de communication ouverts pour les commentaires et l'escalade afin de résoudre rapidement les problèmes et de garder les initiatives de marketing sur la bonne voie. Les retards dans la prise de décision paralysent les projets de marketing et débouchent sur des échéances manquées et des occasions perdues.
+**Soyez réactif :** Maintenir des canaux de communication ouverts pour les retours et les escalades afin de résoudre rapidement les problèmes et de garder les initiatives de marketing sur la bonne voie. Les retards dans la prise de décision paralysent les projets de marketing et débouchent sur des échéances manquées et des occasions perdues.
 
 **Soutenez le développement et la formation professionnels** pour s'assurer que les compétences et les connaissances de l'équipe de marketing restent à la pointe de la technologie. Le domaine du marketing est en constante évolution, ce qui conduit à des écarts de compétences et à un retard par rapport aux normes de l'industrie sans formation continue.
 
 **Examinez les changements importants apportés à la stratégie de marketing ou aux tactiques de campagne** pour maintenir la cohérence stratégique et atténuer les risques.
 
-**Veiller à ce que le service de marketing soit tenu informé des développements commerciaux et organisationnels pertinents** afin de faciliter les décisions de marketing proactives et éclairées.
+**Veiller à ce que le service de marketing soit tenu informé des développements commerciaux et organisationnels pertinents** afin de faciliter des décisions de marketing proactives et éclairées.
 
 ## Aptitudes, qualités et compétences
 

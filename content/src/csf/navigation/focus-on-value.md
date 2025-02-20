@@ -1,4 +1,4 @@
-# Principe 3 - Focaliser sur la valeur
+# Principe 3 - Focaliser sur la Valeur
 
 
 **_Concentrez vos tâches quotidiennes sur la valeur créée afin que votre travail vous rapproche de vos objectifs._**

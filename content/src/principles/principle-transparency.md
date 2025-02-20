@@ -1,4 +1,4 @@
-# Le principe de transparence
+# Le Principe de Transparence
 
 _{{glossary:transparency}}_
 

@@ -1,5 +1,5 @@
 ---
-title: "Organisation décentralisée"
+title: "Organisation Décentralisée"
 next_page_title: "Hiérarchie à Double Lien"
 next_page_url: "double-linked-hierarchy.html"
 prev_page_title: "Exemples de Structures plus Grandes"
@@ -17,6 +17,6 @@ Les équipes en périphérie :
 
 Le centre fournit des services internes pour soutenir l'organisation.
 
-Les <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> sont liés si nécessaire pour que l'information circule et pour s'influencer, et pour collaborer autour des dépendances.
+Les <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">Domaines</a> sont liés pour permettre à l'information et l'influence de circuler, ainsi que pour soutenir la collaboration en cas de dépendances.
 
-![Organisation décentralisée](img/structural-patterns/peach-organization.png)
+![Organisation Décentralisée](img/structural-patterns/peach-organization.png)

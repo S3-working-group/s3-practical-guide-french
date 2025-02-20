@@ -187,15 +187,15 @@ En pratiquant la Sociocratie 3.0 on comprend la valeur essentielle que ces princ
 
 ***Impliquez les personnes dans la prise et l'évolution des décisions qui les affectent,** afin d'augmenter leur sens de l'engagement et de la redevabilité, et d'utiliser l'intelligence distribuée pour atteindre et faire évoluer vos objectifs.*
 
-**_Principe de transparence_ :**
+**_Le Principe de Transparence_ :**
 
 ***Consignez par écrit toutes les informations précieuses pour l'organisation et rendez-les accessibles à tous les membres de l'organisation, à moins qu'il n'y ait un impératif de confidentialité,** afin que chacun dispose des informations dont il a besoin pour comprendre comment faire son travail tout en contribuant efficacement à l'ensemble.*
 
-**_Principe de redevabilité_:**
+**_Principe de Redevabilité_:**
 
 ***Réagissez lorsque c'est nécessaire, faites ce que vous avez accepté de faire et acceptez votre part de responsabilité dans  l'organisation,** afin que ce qui est à faire le soit, que rien ne soit négligé et que chacun contribue à l'efficacité et à l'intégrité de l'organisation.*
 
-### Le Principe d'efficacité
+### Le Principe d'Efficacité
 
 _**Ne consacrez du temps qu'à ce qui vous rapproche des objectifs généraux de votre organisation**, afin de faire le meilleur usage de votre temps, de votre énergie et de vos ressources limitées._
 
@@ -410,7 +410,7 @@ Certaines prises de décision seront meilleures en faisant appel à des perspect
 
 
 
-### Le principe de transparence
+### Le Principe de Transparence
 
 _**Consignez par écrit toutes les informations précieuses pour l'organisation et rendez-les accessibles à tous les membres de l'organisation, à moins qu'il n'y ait un impératif de confidentialité,** afin que chacun dispose des informations dont il a besoin pour comprendre comment faire son travail tout en contribuant efficacement à l'ensemble._
 
@@ -449,7 +449,7 @@ Documenter les informations pertinentes d'une manière cohérente et accessible 
 
 
 
-### Le principe de redevabilité
+### Le Principe de Redevabilité
 
 _**Réagissez lorsque c'est nécessaire, faites ce que vous avez accepté de faire et acceptez votre part de responsabilité dans  l'organisation,** afin que ce qui est à faire le soit, que rien ne soit négligé et que chacun contribue à l'efficacité et à l'intégrité de l'organisation._
 
@@ -488,8 +488,8 @@ Le principe de la redevabilité s'applique à tous. Il promeut une transition de
 Il ne suffit pas de clarifier ce que les gens peuvent et ne peuvent pas faire pour encourager une culture où la redevabilité est acceptée. En fait, en soi, cela peut avoir l'effet inverse. Pour augmenter le niveau d'auto-responsabilisation dans une organisation, il y a plusieurs facteurs qui peuvent aider :
 
 -   **Implication** : plus les gens sont capables d'influencer les décisions qui les impactent, plus ils se les approprient, et plus il y a de chances qu'ils se sentent redevables des résultats (voir aussi : _Le principe d'équivalence_)
--   **Accès à l'information**: quand les gens ont la possibilité de savoir ce qui se passe au sein de l'organisation et pourquoi certaines décisions sont prises, ils peuvent comprendre comment mieux contribuer à l'ensemble en étant un membre participant activement et élégamment à l'organisation (voir aussi: _Le principe de transparence_)
--   **Le droit au désaccord **: lorsque les gens sont libres d'exprimer leurs opinions et d'apprendre à écouter et exprimer leur désaccord de manière constructive, l’organisation peut compter sur plus de perspectives, d’expériences et d’expertise, et les gens se sentent plus en sécurité psychologique et en contrôle (voir aussi : _Le principe du consentement_)
+-   **Accès à l'information**: quand les gens ont la possibilité de savoir ce qui se passe au sein de l'organisation et pourquoi certaines décisions sont prises, ils peuvent comprendre comment mieux contribuer à l'ensemble en étant un membre participant activement et élégamment à l'organisation (voir aussi: _Le Principe de Transparence_)
+-   **Le droit au désaccord **: lorsque les gens sont libres d'exprimer leurs opinions et d'apprendre à écouter et exprimer leur désaccord de manière constructive, l’organisation peut compter sur plus de perspectives, d’expériences et d’expertise, et les gens se sentent plus en sécurité psychologique et en contrôle (voir aussi : _Le principe de Consentement_)
 
 #### Rendez explicites les responsabilités implicites
 
@@ -540,51 +540,51 @@ _Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de
 
 #### Aperçu
 
-Identifier et interagir dans des situations qui justifient une sorte de réponse est un aspect fondamental de la journée de travail de chacun dans une organisation.
+Identifier et interagir dans des situations qui justifient une sorte de réponse est un aspect fondamental du quotidien de chacun dans une organisation.
 
 Dans le contexte de la Sociocratie 3.0, l'_efficacité_ est un principe clé qui invite les membres d'une organisation à faire le meilleur usage de leurs ressources, de l'énergie et du temps en consacrant des efforts à ne faire que ce qui rapproche l'organisation de la réalisation de ses objectifs généraux. Pour bien réaliser sur quoi il est important de se concentrer, et une meilleure compréhension partagée de ce qui est bénéfique de faire ou de ne pas faire, nous utilisons les concepts de _Drivers Organisationnels_ et d'_Exigences_.
 
-Reflecting on and describing organizational drivers and requirements supports:
+Penser et décrire ses drivers organisationnels et ses exigences permet :
 
-- understanding situations that motivate action (**sense-making)**
-- establishing whether and why a situation is relevant to respond to (**meaning-making**)
-- determining direction and scope for a suitable response to the situation (**decision-making**)
+- d'identifier les situations qui suggèrent d'agir (**ressentir)**
+- de déterminer si et pourquoi une situation mérite une réponse (**comprendre**)
+- de déterminer l'orientation et l'ampleur d'une réponse adéquate à la situation (**décider**)
 
-#### Organizational Drivers
+#### Drivers Organisationnels
 
-Identifying and understanding situations that present potential impediments or opportunities in relation to an organization's objectives is important if we are to successfully orient through our daily work and make the best use of our limited resources, energy, and time.
+Identifier et comprendre des situations qui présentent des obstacles ou des opportunités potentielles par rapport aux objectifs d'une organisation est important si nous voulons cheminer avec succès dans notre travail quotidien et faire le meilleur usage de nos ressources, de notre énergie, et de notre limités.
 
-However, not all situations that motivate an organization's members to act, are pertinent for the organization to respond to. With the concept of organizational drivers we give a name to those situations an organization's members investigate and determine as relevant to respond to because they anticipate that doing so would be beneficial for the organization – by helping to generate value, eliminate waste, or avoid undesirable risks or consequences.
+Cependant, toutes les situations qui motivent les membres d'une organisation à agir, ne sont pas pertinentes pour l'organisation. Avec le concept de drivers organisationnels, nous donnons un nom à ces situations que les membres de l'organisation explorent et déterminent comme pertinentes à adresser car ils prévoient que cela sera bénéfique pour l'organisation - soit pour générer de la valeur, éliminer du gaspillage ou pour éviter certains risques ou conséquences indésirables.
 
-Making sense of situations that arise in the course of daily work and establishing if those situations are relevant to deal with, before deciding how to respond to them, has evident **benefits**:
+Comprendre les situations qui surviennent au cours du travail quotidien et déterminer si elles sont pertinentes à traiter, avant de décider comment y répondre, a les **bienfaits évidents** :
 
-- A clear and accurate understanding of a situation that requires an intervention, **supports people to develop a better idea of what's required to deal with it**. Un problème bien défini est un problème à moitié résolu (voir _Répondre aux Drivers Organisationnels_)
-- Explicitly describing a driver helps to **communicate about it effectively** with others and **develop a shared understanding** of the situation and its relevance for the organization (see _Describe Organizational Drivers_)
-- Thinking about organizational drivers supports people to reflect on, **understand and communicate about why they do the things they do**. It provides a way to investigate and make explicit the reasons behind actions and decisions and it helps to understand **why we are motivated to pursue particular objectives and goals**.
-- Taking time to investigate situations and their potential relevance, before acting, helps to **determine if and when intervening is worthwhile**, because people can be mistaken, both regarding their conclusions about what they are perceiving, and in terms of the relevance they ascribe to the situations they perceive (see _Navigate via Tension_).
-- Being clear about why you are doing things will make it easier to **regularly evaluate the outcomes** of your actions and identify ways to improve your approach. (When doing so, also consider whether the organizational driver has changed: the situation is different, or its relevance for the organization has changed.)
+- Une compréhension claire et précise d'une situation qui nécessite une intervention, **aide les gens à développer une meilleure idée de ce qu'il est nécessaire de traiter**. Un problème bien défini est un problème à moitié résolu (voir _Répondre aux Drivers Organisationnels_)
+- Décrire explicitement un driver aide à **communiquer efficacement** avec les autres et à **développer une compréhension partagée** de la situation et de sa pertinence pour l'organisation (voir _Décrire les Drivers Organisationnels_)
+- Penser aux drivers organisationnels aide les gens à réfléchir, à **comprendre et à communiquer sur les raisons pour lesquelles ils font ce qu'ils font**. Cela donne un moyen d'explorer et de rendre explicites les raisons de nos actions et de nos décisions et nous aide à comprendre **pourquoi nous sommes motivés à poursuivre certains buts et objectifs précis**.
+- Prendre le temps d'étudier les situations et leur pertinence potentielle, avant d'agir, aide à **déterminer si et quand une intervention vaut la peine**, parce que les gens peuvent se tromper, que ce soit sur les conclusions de ce qu'ils perçoivent, ou que ce soit sur la pertinence qu'ils attribuent aux situations qu'ils perçoivent (voir _Naviguer par Tension_).
+- Être clair sur les raisons pour lesquelles vous faites des choses permettra **d'évaluer régulièrement les résultats** de vos actions et d'identifier des moyens d'améliorer votre approche. (Lorsque vous le faites, vérifiez également si le driver organisationnel a changé : si la situation est différente ou si sa pertinence pour l'organisation a changé.)
 
-Determining whether a situation qualifies as an organizational driver is dependent on adequate understanding of the overall purpose of the organization (its <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Primaire: Le driver primaire d&#x27;un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">primary driver</a> and main <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">requirement</a>, its <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">strategy</a>, <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectives</a>, <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un driver.">values</a>, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">agreements</a>, and so on. Once it's established that responding to a particular situation would be beneficial for the organization, it qualifies as an organization driver and can then be prioritized accordingly. Such diligence ensures that people remain focused on, and responsive to, challenges and opportunities that are relevant to the organization's purpose and objectives.
+Déterminer si une situation est considérée comme un driver organisationnel dépend de la compréhension adéquate du but global de l'organisation (son <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Primaire: Le driver primaire d&#x27;un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">driver primaire</a> et de son  <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> principal, de sa <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">strategie</a>, de ses <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectifs</a>, de ses <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un driver.">valeurs</a>, de ses <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a>, et ainsi de suite). Une fois qu'il est établi que répondre à une situation particulière serait bénéfique pour l'organisation, elle se qualifie comme driver organisationnel et peut ensuite être priorisé en conséquence. Une telle diligence fait en sorte que les gens restent concentrés sur les défis et les possibilités qui sont pertinents pour les buts et les objectifs de l'organisation.
 
-##### Relationships between organizational drivers
+##### Relations entre les drivers organisationnels
 
-All organizational drivers arise as a consequence of the decision to respond to the organization's primary driver and fulfill its main requirement. The decision to respond to a driver often reveals necessary steps, obstacles and opportunities that need taking care of. To describe the relationship between organizational drivers, we use the terms <a href="glossary.html#entry-subdriver" class="glossary-tooltip" data-toggle="tooltip" title="Sous-driver: Un sous-driver (ou sous-intention) surgit comme la conséquence d&#x27;un autre driver (le super-driver) et est fondamental pour répondre efficacement au super-driver.">subdriver</a> and <a href="glossary.html#entry-superdriver" class="glossary-tooltip" data-toggle="tooltip" title="Super-driver: voir sous-driver.">superdriver</a>.
+Tous les drivers organisationnels découlent de la décision de répondre au driver primaire de l'organisation et de remplir son exigence principale. La décision de répondre à un driver révèle souvent des étapes, des obstacles et des opportunités nécessaires qui doivent être pris en charge. Pour décrire la relation entre les drivers organisationnels, nous utilisons les termes <a href="glossary.html#entry-subdriver" class="glossary-tooltip" data-toggle="tooltip" title="Sous-driver: Un sous-driver (ou sous-intention) surgit comme la conséquence d&#x27;un autre driver (le super-driver) et est fondamental pour répondre efficacement au super-driver.">Sous-driver</a> et <a href="glossary.html#entry-superdriver" class="glossary-tooltip" data-toggle="tooltip" title="Super-driver: voir Sous-driver.">Super-driver</a>.
 
 ##### Drivers, Valeur et gaspillage
 
-By adopting the concepts of value and waste in organizations, many practices and ideas from lean production and lean software development are immediately applicable for organizations pulling in S3 patterns, like the Kanban Method, or Value Stream Mapping.
+En adoptant les concepts de valeur et de gaspillage dans les organisations, de nombreuses pratiques et idées provenant de la production lean et du développement de logiciels lean sont immédiatement applicables pour les organisations qui utilisent les pratiques S3, comme la Méthode Kanban, ou la Cartographie de la Chaîne de Valeur
 
-Both concepts can be explained in relation to drivers:
+Les deux concepts peuvent être expliqués par rapport aux drivers :
 
 _La **valeur** est l'importance ou l'utilité de quelque chose lié à un driver._
 
 _Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un driver._
 
-There's a wealth of research and development about the concept of value and waste in organizations. We'd encourage you to explore that for yourself.
+Il existe de nombreuses recherches sur le concept de valeur et de gaspillage dans les organisations. Nous vous encourageons à explorer cela par vous-même.
 
 #### Exigences
 
-Éclaircir intentionnellement et explicitement la direction générale et la portée de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
+Clarifier intentionnellement et explicitement la direction générale et l'ampleur de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
 
 Avoir une attitude orientée solutions est très apprécié dans les organisations. Cependant, dans les contextes collaboratifs, fixer des idées précises trop rapidement peut étouffer la créativité et entraîner des tensions et des conflits inutiles. Lorsqu'on est chargé de répondre à un driver organisationnel, sauter immédiatement à des solutions concrètes peut restreindre ou diminuer le champ des possibilités envisagées. En outre, des solutions spécifiques peuvent être apportées par des individus projetant leurs expériences passées sur la situation ou agissant en fonction de leurs habitudes, plutôt que sur la base d'une analyse approfondie et réfléchie de la situation en cours, et une décision délibérée et explicite concernant l'exigence : comprendre ce qui est nécessaire ou désiré pour répondre à ce driver et comment répondre à l'exigence pourrait avoir un impact positif sur la situation (comme décrit dans la pratique _Déterminer les Exigences_.
 
@@ -676,11 +676,11 @@ A regular cadence for evaluating significant decisions and deliberately checking
 
 #### Préoccupations
 
-**Not all arguments raised are objections, but they might reveal concerns.**
+**Tous les arguments présentés ne sont pas des objections, mais ils peuvent révéler des préoccupations .**
 
 _Une **préoccupation** est une supposition qui ne peut (du moins pour le moment) être étayée par un raisonnement ou par suffisamment de preuves pour être considérée comme une objection à ceux qui la considèrent._
 
-Concerns don't prevent proposals becoming agreements, only objections do. Nevertheless, considering people's concerns can provide insight into how to further evolve proposals and agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. This is why it's important to bring up concerns if you think it's valuable to consider them. However, determining whether an argument is an objection or concern is sometimes dependent on context. Therefore, if you are in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too (see _Test Arguments Qualify as Objections_).
+Concerns don't prevent proposals becoming agreements, only objections do. Nevertheless, considering people's concerns can provide insight into how to further evolve proposals and agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. This is why it's important to bring up concerns if you think it's valuable to consider them. However, determining whether an argument is an objection or concern is sometimes dependent on context. Par conséquent, si vous doutez de savoir si vous avez une objection ou une préoccupation, soyez proactif et vérifiez avec les autres pour voir ce qu'ils pensent (voir _Examiner les Objections_).
 
 
 
@@ -766,7 +766,7 @@ Dans ce guide, les pratiques sont regroupées en onze catégories pour vous aide
 - [Comprendre et Décider](sense-making-and-decision-making.html)
 - [Faire Évoluer les Organisations](evolving-organizations.html)
 - [Progresser entre Pairs](peer-development.html)
-- [Catalyser la cocréation](enablers-of-co-creation.html)
+- [Catalyser la Cocréation](enablers-of-co-creation.html)
 - [Bâtir des Organisations](building-organizations.html)
 - [Intégrer la S3](bringing-in-s3.html)
 - [Passer des Accords](defining-agreements.html)
@@ -788,7 +788,7 @@ Dans ce guide, les pratiques sont regroupées en onze catégories pour vous aide
 
 
 
-##### Overview
+##### Aperçu
 
 When a role keeper or a team becomes aware of a new driver they are responsible for dealing with, it's usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
 
@@ -1020,7 +1020,7 @@ Effect is already occurring and relevance is implicit:
 
 ##### Aperçu
 
-Identifier et répondre aux drivers organisationnels sont deux aspects fondamentaux de la journée de travail de chacun au sein d'une organisation. Éclaircir intentionnellement et explicitement la direction générale et la portée de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
+Identifier et répondre aux drivers organisationnels sont deux aspects fondamentaux de la journée de travail de chacun au sein d'une organisation. Clarifier intentionnellement et explicitement la direction générale et l'ampleur de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
 
 _Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile._
 
@@ -1125,7 +1125,7 @@ Determine the requirement _before_ deciding how to specifically respond to an or
 ![Décider par Consentement](img/agreements/consent-decision-making.png)
 
 
-##### Overview
+##### Aperçu
 
 Le consentement invite les gens à être (au moins) raisonnables et ouverts à apprendre et à s'améliorer. Lorsque vous appliquez le principe _de consentement_, vous acceptez de rechercher intentionnellement des _objections_.
 
@@ -1140,20 +1140,20 @@ Tous les arguments présentés ne sont pas des objections, mais ils peuvent rév
 _Une **préoccupation** est une supposition qui ne peut (du moins pour le moment) être étayée par un raisonnement ou par suffisamment de preuves pour être considérée comme une objection à ceux qui la considèrent._
 
 
-##### Step 1: Consent to Driver and Requirement
+##### Étape 1 : Consentement au Driver et à l'Exigence
 
-_Make sure the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> and <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">requirement</a> are summarized clearly enough and that it is relevant for this group to deal with them._
+_Assurez-vous que le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> sont suffisamment bien résumés et qu'il est pertinent pour ce groupe de les traiter._
 
-Facilitator asks: _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
+Le facilitateur demande : _Est-ce que la description de ce driver et de cette exigence sont suffisamment clairs ? Est-ce un driver organisationnel ? Est-il pertinent pour nous de répondre à ce driver ? Et, est-ce que l'exigence est adéquate ?_
 
-**Note:** As a general recommendation, aim to complete this step with meeting attendees asynchronously, _prior to the meeting_. Cela vous donnera la possibilité d'apporter des précisions à l'avance et vous épargnera un temps précieux en réunion. However, in a case where someone is presenting a proposal to a group of stakeholders who were not involved in creating it, or if there are people who are only now joining the decision-making process, check everyone understands the driver and requirement for the proposal, and make sure that it's described clearly enough, the requirement is considered to be suitable and it's relevant for those present to deal with this, before considering the proposal itself.
+**Remarque :** Il est généralement recommandé de viser à terminer cette étape avec les participants à la réunion de manière asynchrone, _avant la réunion_. Cela vous donnera la possibilité d'apporter des précisions à l'avance et vous épargnera un temps précieux en réunion. Cependant, dans un cas où quelqu'un présente une proposition à un groupe de parties prenantes qui n'ont pas participé à sa création, ou s'il y a des personnes qui rejoignent tout juste le processus décisionnel, vérifiez que tout le monde comprend bien le driver et l'exigence de la proposition, et assurez-vous qu'il est décrit assez clairement et qu'il est pertinent pour les personnes présentes d'y répondre, avant de considérer la proposition elle-même.
 
--   If the driver is not described clearly enough, take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer considering the proposal, until the driver is clear.
--   If the driver is not relevant for this group, pass it on to the appropriate person or team, or, if it's decided that this is not an organizational driver at all, discard it.
--   If the requirement is considered to be unsuitable, hear the argument(s) and if they qualify as objections, resolve them before considering the proposal.
+-   Si le driver n'est pas décrit assez clairement : prenez le temps de clarifier et de faire les changements nécessaires au résumé du driver jusqu'à ce qu'il n'y ait plus d'objections. À moins que cela ne soit un changement rapide, envisagez de le faire après la réunion et reportez la prise de décision jusqu'à ce que le driver soit clair.
+-   Si le driver n'est pas pertinent pour ce groupe, transmettez-le à la personne ou à l'équipe appropriée, ou, s'il est décidé que ce n'est pas du tout un driver organisationnel, jetez-le.
+-   Si l'exigence est jugée inappropriée, entendez les arguments et s'ils sont considérés comme des objections, résolvez-les avant d'examiner la proposition.
 
 
-##### Étape 2 : présenter la proposition
+##### Étape 2 : Présenter la Proposition
 
 _Partagez la proposition avec tout le monde._
 
@@ -1170,7 +1170,7 @@ Si vous êtes celui qui présente une proposition, notez-la, partagez-la avec le
 **Remarque :** Impliquer les parties-prenantes dans la création de la proposition peut améliorer l'engagement et la prise en charge de ce qui sera décidé parce que les gens sont plus à même de s'approprier un accord qu'ils ont participé à créer. D'un autre côté, la prise de décision participative ou collaborative exige du temps et des efforts, donc ne l'utilisez que lorsque les gains en valent la peine.
 
 
-##### Étape 3 : Comprendre la proposition
+##### Étape 3 : Comprendre la Proposition
 
 _Assurez-vous que tout le monde comprend la proposition._
 
@@ -1194,7 +1194,7 @@ Les questions de clarification révèlent parfois des moyens utiles de modifier 
 -   Évitez tout préambule et collez au sujet, par exemple : "_Bien, une chose qui n'est pas claire pour moi, ou du moins, que je veux être sûr de bien comprendre, c'est … _" ou "_. Je ne suis pas sûr comment articuler cela, mais laissez-moi essayer … _", etc.
 
 
-##### Étape 4: Réponse courte
+##### Étape 4: Réponse Courte
 
 _Ayez une idée de la façon dont cette proposition est reçue par tout le monde._
 
@@ -1223,7 +1223,7 @@ Exemples:
 -   Il est utile d'entendre quelque chose de la part de tout le monde dans ce tour de table, alors évitez de passer. Si vous  avez perdu vos mots, vous pouvez toujours dire quelque chose comme "_j'ai besoin de plus de temps pour y penser_" ou "_je ne suis pas sûr comment je me positionne à ce stade_
 
 
-##### Étape 5 : Vérifier les objections potentielles
+##### Étape 5 : Vérifier les Objections Potentielles
 
 _Les gens examinent la proposition et indiquent ensuite s'ils ont des objections potentielles ou des préoccupations._
 
@@ -1251,7 +1251,7 @@ Dans le cas où la distinction entre objections et préoccupations est encore fl
 **Si personne n'indique avoir des objections potentielles, vous êtes parvenus à un accord, passez à l'étape 8 (Célébrez) !**
 
 
-##### Étape 6: Tester si un argument est une objection
+##### Étape 6 : Tester si un Argument est une Objection
 
 _Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont._
 
@@ -1270,7 +1270,7 @@ Voir la pratique _Examiner les Objections_ pour plus de détails.
 **Si l'argument ne se qualifie pas comme une objection, retournez à l'étape 5 (Vérifier les objections potentielles), sinon passez à l'étape suivante.**
 
 
-##### Étape 7 : Résoudre l'objection
+##### Étape 7 : Résoudre l'Objection
 
 _Améliorer la proposition, à l'aide des informations dévoilées par l'objection révélée lors de l'étape précédente._
 
@@ -1279,12 +1279,12 @@ Voir la pratique _Résoudre les Objections_ pour plus de détails.
 Une fois que l'objection est résolue, **retournez à l'étape 5.**
 
 
-##### Étape 8 : Célébrez !
+##### Étape 8 : Célébrer !
 
 **Incroyable ! Vous avez conclu un accord! Et, avec la pratique, vous irez encore plus vite !** Prenez un moment pour entériner qu'un accord a été conclu. Célébrez!
 
 
-##### Étape 9 : Considérer les préoccupations
+##### Étape 9 : Considérer les Préoccupations
 
 Après avoir célébré, vérifiez si des préoccupations que vous avez vaut la peine d'en faire part au groupe avant de passer au sujet suivant. Si ce n'est pas le cas, consignez-les après la réunion au côté des critères d'évaluation de cet accord. Des informations sur les préoccupations pourraient s'avérer utiles au moment de l'évaluation de l'accord
 
@@ -1305,7 +1305,7 @@ Si vous commencez à utiliser la prise de décision par consentement, nous vous 
 </div></div>
 
 
-##### Overview
+##### Aperçu
 
 Quand quelqu'un lève une objection potentielle (un argument pour changer quelque chose), vérifiez que l'argument présenté révèle comment des conséquences indésirables vont ou pourraient survenir si l’on ne change rien, ou qu'il vous indique un moyen utile d'améliorer la façon de réaliser vos objectifs.
 
@@ -1429,7 +1429,7 @@ The person who brought the original argument has the option to refine, rephrase 
 
 
 
-##### Overview
+##### Aperçu
 
 Typically it's most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: Un argument – relatif à une proposition, un accord existant, ou une activité menée par un ou plusieurs membres de l&#x27;organisation - révélant des conséquences ou des risques qu&#x27;il serait préférable d&#x27;éviter pour l&#x27;organisation, ou démontrant des améliorations potentielles significatives.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal.
 
@@ -1607,7 +1607,7 @@ En plus d'ateliers en présentiel, vous pouvez adapter ce processus pour fonctio
 </div></div>
 
 
-##### Overview
+##### Aperçu
 
 
 Proposal Forming involves people in co-creating agreements through a facilitated group process that draws on the collective intelligence and diversity of perspective within a group, and fosters accountability and sense of ownership.
@@ -1637,11 +1637,11 @@ _Proposal Forming_ may also be used by an individual.
 ![Processus d'élaboration d'une proposition](img/agreements/proposal-forming.png)
 
 
-##### Step 1: Consent to Driver and Requirement
+##### Étape 1 : Consentement au Driver et à l'Exigence
 
 _Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to._
 
-Facilitator asks: _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
+Le facilitateur demande : _Est-ce que la description de ce driver et de cette exigence sont suffisamment clairs ? Est-ce un driver organisationnel ? Est-il pertinent pour nous de répondre à ce driver ? Et, est-ce que l'exigence est adéquate ?_
 
 This first step is simply about ensuring that the driver is summarized clearly enough and that it's relevant for those who are involved to respond to it. Once the driver has been accepted, you'll have the chance to ask further questions and learn more in the next step
 
@@ -1945,7 +1945,7 @@ Cette pratique peut également être utilisée dans toute situation où il est n
 </div></div>
 
 
-##### Overview
+##### Aperçu
 
 A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domains</a> – distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
 
@@ -2618,7 +2618,7 @@ Changez les choses lorsqu'il y a un intérêt à le faire :
 </div></div>
 
 
-##### Overview
+##### Aperçu
 
 Au cours de l’atelier, les participants sont pleinement responsables du processus du début à la fin, à mesure qu'ils progressent rapidement du concept à une collaboration pleinement opérationnelle.
 
@@ -2626,11 +2626,11 @@ Identifiez les parties prenantes concernées, cartographiez les exigences connex
 
 Vous pouvez cartographier les drivers pour :
 
--   organize start-ups
--   kick-off projects
--   tackle major impediments or opportunities
+-   organiser des start-ups
+-   lancer les projets
+-   adresser des obstacles majeurs ou des opportunités
 -   mettre en œuvre une stratégie
--   develop organizational structure to better enable the flow of value
+-   développer une structure organisationnelle pour mieux activer le flux de valeur
 
 Le résultat d'un atelier de cartographie des drivers est typiquement :
 
@@ -2639,31 +2639,31 @@ Le résultat d'un atelier de cartographie des drivers est typiquement :
 -   une première ébauche des backlogs de gouvernance et des opérations pour chaque sous-domaine identifié.
 -   la délégation d'influence et l’affectation des personnes aux sous-domaines par auto-sélection et nomination.
 
-Although Driver Mapping is often used for identifying and defining new domains, there are also applications for identifying and distributing governance and operational drivers among existing domains in an organization, e.g. when an initiative will be dealt with by existing teams in an organization, or if a group feels they're stuck in their current structure and are looking for inspiration for how to incrementally adapt it. The group can decide if they would map to existing domains and figure out which new ones they'd need to create, or even create a new structure from scratch.
+Bien que Cartographier les Drivers serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi d’identifier et de distribuer la gouvernance et les drivers opérationnels parmi les domaines existants dans une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
 
 Dans une petite équipe ou un petit cercle (max 6-8 personnes), lorsque la distribution du travail n'est pas une priorité, l'équipe peut n'utiliser que les étapes 1-5, pour comprendre le périmètre et remplir les backlogs opérationnels et de gouvernance, puis formuler des propositions ou utiliser une autre approche pour identifier ses stratégies et/ou ses prochaines étapes.
 
 En préparation :
 
 -   Invitez des personnes qui peuvent apporter une contribution pertinente à ce projet. Envoyer l'ordre du jour de l'atelier à l'avance.
--   Send out a description of the primary driver and the main requirement you'll work with, and in case of an existing domain, the domain description for the project/initiative in advance so people can familiarize themselves with it. Essayez de résoudre toute objection avant l'atelier.
+-   Envoyez à l'avance une description du driver primaire et de l'exigence principale sur lesquels vous travaillerez, et dans le cas d'un domaine existant, la description du domaine pour le projet ou l'initiative afin que les gens puissent se familiariser avec. Essayez de résoudre toute objection avant l'atelier.
 -   Les participants peuvent déjà se préparer en réfléchissant et en consignant des idées d'acteurs et des besoins connexes.
 -   Préparez un poster avec la description du domaine à présenter dans la première étape. Vous aurez également besoin de notes adhésives A5 et rectangulaires, de stylos et d'un grand mur pour travailler.
 
 
-##### Le processus de cartographie des motifs:
+##### Le processus de cartographie des drivers :
 
 Voici les étapes à suivre :
 
-![Cartographier les Drivers : processus](img/process/driver-mapping.png)
+![Cartographier les Drivers : Le Processus](img/process/driver-mapping.png)
 
 
 ###### 1. Pourquoi sommes-nous réunis?
 
-_Present and consent to the primary driver and main requirement._
+_Présenter et consentir au driver primaire et à l'exigence principale._
 
--   Present the primary driver and main requirement, to the group
--   Consent to the driver and requirement– _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for the group to respond to? And, is the requirement suitable?_
+-   Présenter le driver primaire l'exigence principale au groupe
+-   Consentement au driver et à l'exigence – _Les descriptions du driver et de l'exigence sont-elles suffisamment claires ? Est-ce un driver organisationnel? Est-il pertinent pour le groupe de répondre à ce driver ? Et est-ce que l'exigence est adéquate ?_
 -   Clarifiez les contraintes existantes du délégant, par exemple le budget, la date d'échéance, les attentes, etc. Dans le cas d'un domaine existant, présentez la description du domaine. Invitez les participants à poser des questions mieux comprendre ce qui se passe et ce qui est nécessaire.
 -   Explicitez le niveau d'engagement qu'il est attendu des participants. Par exemple : les personnes sont censées être ici pour la durée de l'atelier seulement, ou pour la durée de l'initiative, etc.
 -   Enregistrez toutes les informations pertinentes qui apparaissent.
@@ -2671,7 +2671,7 @@ _Present and consent to the primary driver and main requirement._
 
 ###### 2. Qui sera impacté?
 
-_Who will be impacted as we fulfill the related requirement? Consider who can help, stand in the way, benefit, lose, or be harmed._
+_Qui sera affecté lorsque nous remplirons les exigences afférentes ? Considérez qui peut aider / faire obstacle / bénéficier / perdre ou subir_
 
 -   Listez les acteurs sur les notes adhésives et les afficher sur un tableau
 -   Concentrez-vous sur les personnes qui seront réellement impactées par cette initiative (groupes ou individus), et évitez de faire des suppositions à propos des rôles futurs (ex : _Chef de Projet_) ou d'autres domaines (ex :  _Marketing_) à ce stade.
@@ -2679,15 +2679,15 @@ _Who will be impacted as we fulfill the related requirement? Consider who can he
 
 ###### 3. Que faut-il faire?
 
-_Consider the various actors and describe what is needed: what do they need in context of the primary driver and main requirement, and what do we need from them?_
+_Considérez les différents acteurs et décrivez ce qui est nécessaire : de quoi ont-ils besoin dans le contexte du driver primaire, et qu'attendons-nous d'eux ?_
 
--   Write each suggestion on a separate sticky note (requirement card)
--   Describe the requirement as well as the anticipated impact of fulfilling the requirement
+-   Écrivez chaque suggestion sur une note adhésive séparée (carte d'exigence)
+-   Décrivez l'exigence ainsi que l'impact prévu du respect de l'exigence
 -   Utilisez le format _"Nous avons/ils ont besoin de… afin de…"_
 -   Ajoutez le nom de l'acteur dans le coin supérieur gauche de la carte
 -   Ajoutez votre nom dans le coin supérieur droit de la carte
 
-![Driver Mapping: A Requirement Card](img/templates/requirement-card.png)
+![Cartographier les Drivers : une Carte d'Exigence](img/templates/requirement-card.png)
 
 
 ###### 4. Identifiez l'expérience et l'expertise
@@ -2695,24 +2695,24 @@ _Consider the various actors and describe what is needed: what do they need in c
 _Identifiez qui a l'expérience ou une expertise requise pour répondre à ces besoins, de sorte que, plus tard, lorsque les personnes devront répondre à un besoin particulier, ils sauront qui solliciter._
 
 
--   Take time to familiarize yourself with the various _requirement cards_.
--   Add your name to those _requirement cards_ you have experience with, or ideas how to address, so that later in the process people can consult with you if helpful.
+-   Prenez le temps de vous familiariser avec les différentes _cartes d'exigences_.
+-   Ajoutez votre nom aux _cartes d'exigences_ pour lesquelles vous avez de l'expérience, ou des idées de comment aborder la chose, de sorte que, plus tard dans le processus, les gens pourront vous solliciter si nécessaire.
 -   Pensez à ajouter des noms de personnes qui ne sont pas présentes si vous pensez qu'elles auraient une contribution précieuse à apporter.
--   Write the name(s) of these people at the bottom of the _requirement card_.
--   Adding your name to a card in this step, doesn't mean you're taking responsibility for the requirement, only that you're able and willing to contribute to finding a solution if that's helpful later.
+-   Écrivez le nom de ces personnes au bas de la _carte d'exigence_.
+-   Ajouter votre nom à une carte à cette étape ne signifie pas que vous assumez la responsabilité du besoin, seulement que vous pouvez et voulez contribuer à trouver une solution si cela est utile plus tard.
 
 
 ###### 5. Identifier les domaines
 
-_Cluster actors and/or requirements according to relevance, into coherent domains as a starting point for sorting and prioritizing needs. Réfléchissez à comment optimiser la chaîne de production de valeur pour les différents acteurs que vous avez identifiés à l'étape 2._
+_Regroupez les acteurs et/ou les besoins en fonction de leur pertinence, dans des domaines cohérents comme point de départ pour trier et prioriser les besoins. Réfléchissez à comment optimiser la chaîne de production de valeur pour les différents acteurs que vous avez identifiés à l'étape 2._
 
 Moyens pour identifier les domaines:
 
 -   Regrouper les acteurs similaires (centré sur l'acteur)
--   Cluster groups of similar requirements (needs-centric)
--   Une combinaison des deux (besoins et acteurs) est fréquente
+-   Regrouper les exigences similaires (centré sur le besoin)
+-   Une combinaison des deux (acteurs et exigences) est fréquente
 
-Consider this step complete, as soon as you've agreed on a first iteration of a meaningful distribution of work. Remember, you can make changes to the domains you defined at any time (later during the workshop or afterward), so you only need to aim for something that's good enough to start.
+Considérez que cette étape est terminée, dès que vous vous êtes mis d'accord sur une première version de la répartition du travail. N'oubliez pas que vous pouvez apporter des modifications aux domaines que vous avez définis à tout moment (plus tard pendant l'atelier ou après), donc il vous suffit de chercher quelque chose qui est suffisant pour commencer.
 
 En tant que facilitateur, soutenez légèrement le groupe dans son auto-organisation et soyez attentif à ce que certains n'abandonnent pas la conversation. Ce processus comprend souvent une phase qui semble chaotique pour certains participants, et qui pourrait les rendre mal à l'aise. Pour tester si un résultat est obtenu, demandez s'il y a des objections à ce que les domaines sont suffisants pour le moment.
 
@@ -2726,7 +2726,7 @@ _Les participants s'organisent en plus petites équipes autour des différents d
 -   Vérifiez que tous les domaines sont suffisamment pris en compte
 -   Dans chaque groupe :
     -   accordez-vous sur un nom de domaine.
-    -   define the primary driver and main requirement for the domain (and draft a brief domain description if helpful).
+    -   définissez le driver primaire et l'exigence principale pour le domaine (et ébauchez une brève description si c'est utile).
 -   Enfin, demandez à chaque groupe de présenter brièvement son domaine, et au cours de chaque présentation, recherchez les dépendances et les chevauchements entre ces domaines.
 
 Dans cette phase, certaines personnes peuvent errer entre les domaines jusqu'à ce qu'elles en trouvent un auquel elles ont le sentiment de pouvoir contribuer.
@@ -2743,8 +2743,8 @@ _Organisez le travail à faire dans chaque domaine, assurez vous que les choses 
     -   backlog de gouvernance : besoins qui pourraient bénéficier ou nécessiter une décision
 -   Combinez et reformulez les cartes si nécessaire, de sorte que la description sur chacune soit claire. Consultez l'auteur de la carte en cas de doute.
 -   Priorisez les cartes sur chaque tableau.
--   Archive any _requirement cards_ that appear superfluous.
--   Consider the domain and describe and prioritize other requirements that may not have been identified.
+-   Archivez toutes les _cartes d'exigences_ qui semblent superflues.
+-   Considérez le domaine et décrivez et priorisez les autres exigences qui n'ont peut-être pas été identifiées.
 -   Passez sur les cartes qui semblent être de la responsabilité d'un autre domaine
 -   Mettre de côté les cartes relatives à plusieurs domaines. Vous pourrez les traiter à l'étape 8.
 
@@ -2752,25 +2752,25 @@ En tant que facilitateur du processus de cartographie des drivers, proposez un e
 
 Faites des pauses régulières pour partager les rapports entre les différents domaines. Remarque : Certains domaines peuvent être dissous, modifiés ou fusionnés avec d'autres.
 
-![Cartographier les Drivers: un modèle pour les domaines](img/templates/domain-template.png)
+![Cartographier les Drivers : un Modèle pour les Domaines](img/templates/domain-template.png)
 
 
 ###### 8. Connecter les domaines
 
 _Créez une structure pour gérer les dépendances et traiter les questions qui vont au-delà de la portée d'un domaine ou qui concernent l'organisation au sens large_
 
--  For a new organization or project, consider _Delegate Circles_, _Service Circles_ or _Double-linking between domains_.
+-  Pour une nouvelle organisation ou un nouveau projet, considérez des _Cercles Délégués_, des _Cercles de Service_ ou des _Double Lien entre les domaines_.
 -  Pour une organisation existante, envisagez également de vous connecter à des domaines existants dans l'organisation.
 
 
 ###### 9. Quoi d'autre?
 
-_Take a moment to check if anything's missing._
+_Prenez un moment pour vérifier si quelque chose est manquant._
 
 Que devons-nous encore examiner…
 
 -  …pour avancer en toute sécurité?
--  … to effectively fulfill the main requirement?
+-  … pour effectivement répondre à l'exigence principale ?
 
 
 ###### 10. Célébrez!
@@ -2851,7 +2851,7 @@ Un plan de développement (et toutes les recommandations de changement aux descr
 
 ![Un modèle pour les plans de développement](img/templates/development-plan-template.png)
 
-### Catalyser la cocréation
+### Catalyser la Cocréation
 
 
 
@@ -2983,8 +2983,8 @@ Soyez responsable :
 
 #### Salaire Ouvert
 
-Créez une formule salariale équitable et rendez-la transparente.
-</summary>
+<div class="card summary"><div class="card-body">Créez une formule salariale équitable et rendez-la transparente.
+</div></div>
 
 La salaire transparent (parfois appelé "salaire ouvert") est une pratique qui consiste à déterminer la rémunération de chaque employé en fonction d'un ensemble de règles — la _formule salariale_  — au lieu que la rémunération fasse l'objet d'une négociation individuelle entre l'employeur et l'employé. La formule salariale – et souvent la rémunération individuelle – est transparente pour tous les membres d'une organisation, et parfois même publique.
 
@@ -3272,13 +3272,13 @@ La S3 promeut une approche de la prise de décision fondée sur la validation d'
 
 #### Contrat de Collaboration Réussie
 
-<div class="card summary"><div class="card-body">Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.
+<div class="card summary"><div class="card-body">Soutenez une collaboration réussie dès le début et bâtissez une confiance mutuelle entre des parties en cocréant des contrats qui soient mutuellement bénéfiques et juridiquement solides.
 </div></div>
 
 
-##### Overview
+##### Aperçu
 
-A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies.
+Un **contrat** est un corpus d'engagements qu'au moins deux parties acceptent de rendre juridiquement contraignants, c'est-à-dire que si ces engagements sont violés, les parties lésées disposent des recours juridiques (ou d'alternatives).
 
 Le développement d'une compréhension commune des besoins et des attentes est essentiel pour une collaboration réussie.
 
@@ -3286,11 +3286,11 @@ En négociant et en acceptant un contrat, modélisez la culture de la collaborat
 
 Cette pratique se réfère aux contrats relatifs à la collaboration autour de toute transaction commerciale entre une organisation et d'autres parties (ex : les employés, les consultants, les fournisseurs de services, les actionnaires ou les clients). Elle est particulièrement pertinente pour les contrats qui ont une influence significative sur l'avenir d'une organisation ou d'un de ses partenaires, comme :
 
-- employment contracts and contracts with external contractors or consultants in _support roles_ (including any agreement that results in a change of remuneration or working hours)
+- les contrats des salariés et les contrats avec des contractuels externes ou des consultants dans des _rôles de soutien_ (y compris tout accord qui entraîne un changement de rémunération ou d'heures de travail)
 - les contrats régissant la collaboration avec les clients, les fournisseurs ou les fournisseurs de services
 - les accords d'actionnariat
 
-**Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
+**Remarque :** De nombreux accords de collaboration au sein d'une organisation ne nécessitent pas de contrats dédiés, car ils sont déjà régis par ou soumis à des contrats existants.
 
 ##### Critères de succès pour une négociation de contrat
 
@@ -3305,7 +3305,7 @@ Lors de la négociation d'un contrat, assurez-vous:
 
 Si, pour quelque raison que ce soit, un ou plusieurs de ces critères ne peuvent être remplis, il est probablement sage de ne pas poursuivre.
 
-##### Co-création du contrat
+##### Cocréation du contrat
 
 La façon dont un contrat est négocié peut contribuer de manière significative à bâtir la confiance entre les parties. Envisagez la contractualisation comme un accord entre partenaires, et non entre adversaires: co-créez le contrat, adaptez-le à son contexte spécifique, et assurez-vous qu'il soit juridiquement solide.
 
@@ -3314,9 +3314,9 @@ La façon dont un contrat est négocié peut contribuer de manière significativ
 - si vous devez utiliser des termes techniques ou juridiques spécifiques qui pourraient être peu familiers à l'une des parties, expliquez-les dans un glossaire qui fait partie du contrat
 - consultez un juriste qui comprend la culture à laquelle vous aspirez et qui est compétent dans le domaine où vous évoluez
 
-##### Lors de la Co-création d'un contrat :
+##### Lors de la cocréation d'un contrat :
 
-- ensure all parties have a delegation that includes representation for all affected <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domains</a> (e.g. not only sales, but also development, production, support etc.)
+- assurez-vous que toutes les parties ont une délégation qui inclut la représentation pour tous les <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> concernés (ex : pas seulement les ventes, mais aussi le développement / la production / le support, etc)
 - décrivez explicitement la culture que vous voulez développer, en tenant compte des points communs comme des différences culturelles entre les parties
 - indiquez les raisons de la collaboration proposée, et soyez transparent sur les attentes et les besoins de toutes les parties
 - divulguez toutes les informations pertinentes (si nécessaire via un accord de confidentialité)
@@ -3338,9 +3338,9 @@ Tout contrat peut être modifié à tout moment, à condition que tous les signa
 
 ##### Culture 
 
-Every contract influences the culture of the collaboration it governs, even when it appears to only describe _what_ needs to be delivered:
+Chaque contrat influence la culture de la collaboration qu'il régit, même lorsqu'il semble seulement décrire ce qui doit être livré :
 
-- intentionally create the culture of collaboration you want to see by including expectations on _how_ things should be done
+- créez volontairement la culture de la collaboration que vous voulez voir en incluant les attentes sur _comment_ les choses doivent être faites
 - alignez le contrat sur la culture organisationnelle (de toutes les parties) et aux obligations légales
 - construisez des contrats qui permettent et encouragent la redevabilité
 
@@ -3711,7 +3711,7 @@ Préparation :
 
 **Après la réunion:** nettoyer l'emplacement, rendre les clés, régler tous les détails, et s'assurer que le procès-verbal est distribué.
 
-**Voir aussi : ** _Faciliter les Réunions_, _Préparer les Réunions_
+**Voir aussi :** _Faciliter les Réunions_, _Préparer les Réunions_
 
 #### Facilitateur de Gouvernance
 
@@ -3771,7 +3771,7 @@ Un élément (priorisé) du backlog de gouvernance fournit généralement des in
 <div class="card summary"><div class="card-body">Tenez à jour une liste de choses que vous devez adresser, afin de vous en souvenir, et utilisez ces informations pour planifier et organiser votre travail. 
 </div></div>
 
-_Un **backlog** (liste à faire) est une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités._
+_Un **backlog** est une liste (souvent priorisée) de choses inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités._
 
 Les Backlogs sont au cœur de tout système fiable et transparent pour l'organiser le travail et la gouvernance. Pensez à rendre les backlogs visibles, pas seulement aux membres de l'équipe, mais aussi à toute l'organisation.
 
@@ -3787,8 +3787,8 @@ Plusieurs types de backlog existent :
 
 **Implémentation :**
 
-- **backlog physique : ** post-its sur le mur, fiches cartonnées, magnets et tableau blanc
-- **backlog numérique:** ex : [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
+- **backlog physique :** post-its sur le mur, fiches cartonnées, magnets et tableau blanc
+- **backlog numérique:** par exemple [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), ou [Asana](https://asana.com/)
 
 Chaque entrée d'un backlog (priorisé) contient typiquement :
 
@@ -3796,7 +3796,7 @@ Chaque entrée d'un backlog (priorisé) contient typiquement :
 - référence à d'autres projets ou **tâches connexes**, ainsi qu'à toute **autre information pertinente**
 - une estimation **du temps nécessaire à** pour la traiter
 
-Il peut également être utile d'inclure : - une date d'échéance (si nécessaire) - une façon de visualiser le rang ou les priorités (voir [Backlog Priorisé](https://patterns.sociocracy30.org/prioritize-backlogs.html))
+Il peut également être utile d'inclure : une date d'échéance (si nécessaire) et une façon de visualiser le rang ou les priorités (voir [Prioriser les Backlogs](https://patterns.sociocracy30.org/prioritize-backlogs.html)).
 
 #### Prioriser les Backlogs
 
@@ -3821,13 +3821,13 @@ Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="t
 
 ##### Choses à suivre:
 
-- **types de tâches** (ex : demande client, tâches de projet, tâches de reporting, retouches)
+- **type de tâche** (ex : demande client, tâches de projet, tâches de reporting, retouches)
 - **date de démarrage** (et **date d'échéance** si nécessaire)
 - **priorités**
-- **étapes** du travail (ex : « à faire », « en cours », « à revoir » et « terminé »)
+- **stade** d'avancement (ex : "à faire", "en cours", "à revoir" et "terminé")
 - obstacles / entraves
 - qui travaille sur quoi
-- <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a> et attentes guidant le flux de travail (ex : définition de "terminé", politique, normes de qualité)
+- <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">Accords</a> et attentes guidant le flux de travail (ex : définition de "terminé", politique, normes de qualité)
 - utiliser des couleurs, des symboles, du surlignement, etc.
 
 ![Une carte représentant un élément de travail](img/workflow-and-value/card.png)
@@ -3858,7 +3858,7 @@ Le travail en cours inclut :
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 
-Lorsqu'une nouvelle action ferait dépasser la limite du nombre de tâches en cours de travail, il faut le porter à l'attention de l'équipe avant de continuer.
+Lorsque l'ajout d'une nouvelle tâche ferait dépasser la limite du nombre d'en cours, il faut le porter à l'attention de l'équipe avant de continuer.
 
 #### Allouer des Blocs de Temps
 
@@ -3868,18 +3868,18 @@ Lorsqu'une nouvelle action ferait dépasser la limite du nombre de tâches en co
 _Un **bloc de temps** est une période de temps fixée pour se concentrer sur une activité particulière (qui ne sera pas nécessairement terminée à la fin du temps limite)._
 
 - pour tirer parti du bloc de temps, soyez au clair sur ce que vous souhaitez accomplir
-- accordez-vous sur la durée du bloc de temps et visualisez le temps qui s'écoule
-- négociez et soyez d'accord pour étendre un bloc de temps avant que le temps ne soit écoulé
+- décidez de la durée du bloc de temps et visualisez le temps qui s'écoule
+- si vous souhaitez étendre un bloc de temps, négociez et mettez-vous d'accord avant que le temps ne soit écoulé
 - décomposez les activités les plus longues en petits blocs de temps gérables
 - envisagez une évaluation fréquente de votre avancement
-- envisagez de choisir quelqu'un (le "gardien du temps") afin d'aider les autres à rester conscients du temps
+- envisagez de choisir un "gardien du temps" qui aidera tout le monde à garder la notion du temps
 
 Vous pouvez utiliser les blocs de temps pour :
 
 - les réunions, les appels, les discussions
 - les tâches
 - les expérimentations
-- une tentative de résoudre un problème
+- une tentative de résolution de problème
 - vérifier vos emails
 - les pauses
 - une période de travail plus longue (un sprint)
@@ -3923,7 +3923,7 @@ La Sociocratie 3.0 décrit une collection de _**modèles structurels**_ pour d�
 
 
 
-#### Organisation décentralisée
+#### Organisation Décentralisée
 
 <div class="card summary"><div class="card-body">Apportez de la valeur aux environnements complexes et compétitifs à travers la <em>décentralisation</em> (des ressources et de l'influence) et <em>l'interaction directe</em> entre les créateurs de valeur et les clients qu'ils servent.
 </div></div>
@@ -3935,37 +3935,37 @@ Les équipes en périphérie :
 
 Le centre fournit des services internes pour soutenir l'organisation.
 
-Les <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> sont liés si nécessaire pour que l'information circule et pour s'influencer, et pour collaborer autour des dépendances.
+Les <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">Domaines</a> sont liés pour permettre à l'information et l'influence de circuler, ainsi que pour soutenir la collaboration en cas de dépendances.
 
-![Organisation décentralisée](img/structural-patterns/peach-organization.png)
+![Organisation Décentralisée](img/structural-patterns/peach-organization.png)
 
 
 #### Hiérarchie à Double Lien
 
-<div class="card summary"><div class="card-body">Déléguez toute autorité pour prendre des décisions de gouvernance à des cercles auto-gérés, reliés par deux liens à tous les niveaux de la hiérarchie, pour transiter d'une hiérarchie traditionnelle vers une structure plus à même d'exploiter l'intelligence collective, assurer l'équivalence et construire l'engagement.
+<div class="card summary"><div class="card-body">Déléguez à des cercles auto-gérés reliés par deux liens, l'autorité de prendre toutes les décisions de gouvernance. Faites ceci, à tous les niveaux de la hiérarchie, afin de transiter vers une structure plus à-même de profiter de l'intelligence collective, d'assurer l'équivalence et de générer de l'engagement.
 </div></div>
 
 1. Déplacez les prises de décision de gouvernance des individus vers les équipes en formant des <a href="glossary.html#entry-circle" class="glossary-tooltip" data-toggle="tooltip" title="Cercle: Une équipe autogouvernée et semi-autonome de personnes équivalentes qui collaborent pour s&#x27;occuper d&#x27;un domaine.">cercles</a> [auto-gouvernés](glossary-circle) à tous les niveaux de votre organisation.
-2. Les membres de chaque cercle choisissent l'un des leurs pour représenter leurs intérêts et participer aux prises de décision de la <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a> du prochain cercle supérieur, et vice versa.
+2. Les membres de chaque cercle choisissent l'un des leurs pour représenter leurs intérêts et participer aux prises de décision de la <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a> du cercle du dessus, et vice versa.
 
 Une hiérarchie à double lien :
 
-- apporte de l'équivalence à la gouvernance
+- apporte de l'<a href="glossary.html#entry-equivalence" class="glossary-tooltip" data-toggle="tooltip" title="Equivalence (principe): **Impliquez les personnes dans la prise et l&#x27;évolution des décisions qui les affectent,** afin d&#x27;augmenter leur sens de l&#x27;engagement et de la redevabilité, et d&#x27;utiliser l&#x27;intelligence distribuée pour atteindre et faire évoluer vos objectifs.">équivalence</a> à la gouvernance
 - conserve la possibilité d'avoir une hiérarchie fonctionnelle (si elle permet le flux de valeur).
 
 ![Une hiérarchie à double lien: une hiérarchie pas comme les autres](img/structural-patterns/double-linked-hierarchy.png)
 
-\*\*Voir aussi : \*\* _Cercle_, _Double Lien_, _Représentant_
+**Voir aussi :** _Cercle_, _Double Lien_, _Représentant_
 
 
-#### Organisation de service
+#### Organisation de Service
 
 <div class="card summary"><div class="card-body">Collaboration impliquant de multiples parties prenantes, partageant un driver (ou objectif) commun.
 </div></div>
 
 - améliore le potentiel d'équivalence entre diverses entités
 - augmente l'alignement inter-départemental / organisationnel
-- permet des collaborations plurielles entre des départements ou des organisations ayant des  motivations primaires différentes, ou étant en conflit
+- permet des collaborations plurielles entre des départements ou des organisations ayant des  motivations primaires différentes, ou même étant en conflit
 - convient pour les projets ponctuels, ou la collaboration continue
 
 **Note** : une organisation de service est souvent appelée **organisation vertébrale**.
@@ -3973,14 +3973,14 @@ Une hiérarchie à double lien :
 ![Organisation de Service](img/structural-patterns/service-organization-text.png)
 
 
-#### Organisation fractale
+#### Organisation Fractale
 
 <div class="card summary"><div class="card-body">De multiples constituants (organisations ou projets) ayant un driver primaire et une structure commune (ou similaire) peuvent partager des savoirs inter-domaines, coordonner leurs actions et prendre des décisions de gouvernance de haut niveau (ex : la stratégie générale).
 </div></div>
 
 Créer une organisation fractale peut permettre à un vaste réseau de s’adapter rapidement à des contextes changeants.
 
-Si nécessaire, la pratique peut être répétée pour connecter plusieurs organisations fractales en une seule.
+Si nécessaire, la structure peut être répétée pour connecter plusieurs organisations fractales en une seule.
 
 ![Organisation Fractale](img/structural-patterns/fractal-organization.png)
 
@@ -3988,13 +3988,13 @@ Si nécessaire, la pratique peut être répétée pour connecter plusieurs organ
 
 Une organisation fractale peut être constituée soit de multiples organisations in(ter-)dépendantes qui partagent un <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> (primaire) commun, soit par de multiples branches, départements, ou projets au sein d'une organisation plus large.
 
-Ces <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituant: Une équipe (ex : un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l&#x27;autorité à un représentant pour agir en leur nom dans d&#x27;autres équipes ou organisations.">constituants</a> (ex : organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
+Ces <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituant: Une équipe (ex : un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l&#x27;autorité à un représentant pour agir en leur nom dans d&#x27;autres équipes ou organisations.">constituants</a> (organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
 
 ##### Niveaux
 
 Une organisation fractale a au moins trois niveaux :
 
-- Premier niveau : les **constituants** (ex : organisations, branches, départements ou projets)
+- Premier niveau : les **constituants** (organisations, branches, départements ou projets)
 - Second niveau : les **_cercles délégués_ par fonction** pour partager les savoir, créer et faire évoluer des accords au nom des domaines fonctionnels
 - Troisième niveau : un **cercle délégué transverse** pour créer et faire évoluer les accords en réponse aux drivers affectant l'ensemble des constituants
 
@@ -4053,7 +4053,7 @@ Le **Framework du Sens Commun** (FSC) décrit ce qu'il faut considérer pour bâ
 ### Dix principes pour faire progresser les équipes et les organisations
 
 
-**Principe 1 – Clarifier la finalité :** _Veillez à ce que tout le monde comprenne qui l'organisation ou l'équipe sert, pourquoi et à quelle fin, afin que les gens puissent se focaliser et unir leurs efforts vers cette finalité._
+**Principe 1 – Clarifier la Raison d'Être :** _Veillez à ce que tout le monde comprenne qui l'organisation ou l'équipe sert, pourquoi et à quelle fin, afin que les gens puissent se focaliser et unir leurs efforts vers cette finalité._
 
 **Principe 2 – Développer la Stratégie :** _Élaborez une stratégie qui oriente la création de valeur, afin que les collaborateurs partagent une direction commune, et que la stratégie soit en phase avec la raison d'être._
 
@@ -4069,51 +4069,51 @@ Le **Framework du Sens Commun** (FSC) décrit ce qu'il faut considérer pour bâ
 
 **Principe 8 - Investir dans l'apprentissage :** _Veillez à ce chacun développe ses aptitudes et ses compétences, afin que sa contribution reste précieuse et que l'organisation puisse continuer de progresser._
 
-**Principe 9 - Développer activement la culture :** _Œuvrez à l'émergence d'une culture coopérative où les gens peuvent exprimer leur plein potentiel, afin de construire et de maintenir un environnement de travail engageant et productif._
+**Principe 9 - Développer Activement la Culture :** _Œuvrez à l'émergence d'une culture coopérative où les gens peuvent exprimer leur plein potentiel, afin de construire et de maintenir un environnement de travail engageant et productif._
 
-**Principe 10 – Bâtir des modèles mentaux partagés :** _Construisez des modèles mentaux partagés, afin que chacun puisse participer à un dialogue constructif sur ce qui se passe et sur ce qui doit être fait, et qu'au passage ils approfondissent leur compréhension du fonctionnement de l'organisation, ce qu'elle fait et pourquoi._
-
-
-### Deux principes pour s'orienter
+**Principe 10 – Bâtir des Modèles Mentaux Partagés :** _Construisez des modèles mentaux partagés, afin que chacun puisse participer à un dialogue constructif sur ce qui se passe et sur ce qui doit être fait, et qu'au passage ils approfondissent leur compréhension du fonctionnement de l'organisation, ce qu'elle fait et pourquoi._
 
 
-![Deux principes pour s'orienter : clarifier la finalité - développer la stratégie](img/csf/csf-light-orientation.png)
+### Deux Principes pour s'Orienter
+
+
+![Deux Principes pour s'Orienter : Clarifier la Raison d'Être - Développer la Stratégie](img/csf/csf-light-orientation.png)
 
 
 
-#### Principe 1 – Clarifier l’intention
+#### Principe 1 – Clarifier la Raison d'Être
 
 **_Veiller à ce que tout le monde comprenne qui l'organisation ou l'équipe sert, pourquoi et à quelle fin, afin que tout le monde puisse se focaliser et unir ses efforts pour atteindre cet objectif._**
 
 Des pratiques essentielles pour vous y aider :
 
-- _Décrire des drivers organisationnels_ – Comprendre ce qui pousse à agir dans une situation donnée est un élément essentiel pour comprendre, définir et communiquer la raison d'être d'une organisation, d'une équipe ou d'un département.
-- _Déterminer les exigences_ - Clarifier l'exigence principale auquel une organisation ou une équipe répond aide les gens à développer une compréhension partagée de la direction que doit prendre leur contribution.
+- _Décrire les Drivers Organisationnels_ – Comprendre ce qui pousse à agir dans une situation donnée est un élément essentiel pour comprendre, définir et communiquer la raison d'être d'une organisation, d'une équipe ou d'un département.
+- _Déterminer les Exigences_ - Clarifier l'exigence principale à laquelle une organisation ou une équipe doit répondre aide les gens à développer une compréhension partagée de la direction que doit prendre leur contribution.
 
 
-#### Principe 2 – Développer la stratégie
+#### Principe 2 – Développer la Stratégie
 
-**_Develop a strategy to guide value creation, so that everyone shares a common direction, and strategy is adapted as necessary to achieve the purpose._**
+**_Élaborez une stratégie qui guide la création de valeur, afin que les collaborateurs partagent une direction commune, tout en restant en phase avec la raison d'être._**
 
 Des pratiques essentielles pour vous y aider :
 
-- _Clarify and Develop Domains_ – A clearly defined area of influence, activity and decision-making is a prerequisite for defining an effective strategy for an organization, a team, or a role.
-- _Clarify Intended Outcome_ – Defining the intended outcome of a strategy is an essential component for monitoring and evaluating its effectiveness, and adapting things when necessary.
-- _Describe Organizational Drivers_ – Understanding the motive for acting in response to a specific situation is an essential component for designing an effective strategy for responding to it
+- _Clarifier et Affiner les Domaines_ – Une zone d’influence, d'activité et de prise de décision clairement définie est un préalable à l'élaboration d'une stratégie efficace pour une organisation, une équipe ou un rôle.
+- _Clarifier le Résultat Attendu_ - Définir le résultat attendu d'une stratégie est un élément essentiel pour surveiller et évaluer son efficacité, puis adapter les choses si nécessaire.
+- _Décrire les Drivers Organisationnels_ – Comprendre ce qui appelle à agir dans une situation donnée est un élément essentiel pour concevoir une stratégie de réponse efficace.
 - [Clarifier et Affiner la Stratégie](section-clarify-and-develop-strategy) –  Au niveau de l'organisation, d' une équipe ou d'un rôle, pour qu'une stratégie reste pertinente et efficace, les parties prenantes doivent collaborer à sa création et à son évolution.
-- _Evaluate And Evolve Agreements_ – Reviewing strategy and evolving it as necessary over time ensures it remains helpful and relevant to the organization, team, or role.
-- _Evaluation Criteria_ – Defining criteria for success or failure is necessary for figuring out whether or not the strategy is effective.
+- _Évaluer et Faire Évoluer les Accords_ - Évaluer la stratégie et la faire évoluer si nécessaire au fil du temps garantit qu'elle reste utile et pertinente pour l'organisation, une équipe ou un rôle.
+- _Critères d'Évaluation_ – Définir des critères de succès ou d'échec est nécessaire pour déterminer si une stratégie est efficace ou non.
 
 
-### Trois principes pour naviguer
+### Trois Principes pour Naviguer
 
 
-![Trois principes pour naviguer : mettre l’accent sur la valeur – sentir & réagir – expériementer](img/csf/csf-light-navigation.png)
+![Trois Principes pour Naviguer : Focaliser sur la Valeur – Sentir & Réagir – Expérimenter](img/csf/csf-light-navigation.png)
 
 
-#### Principe 3 - Focaliser sur la valeur
+#### Principe 3 - Focaliser sur la Valeur
 
-**_Concentrez votre travail quotidien sur la création de valeur, afin que les choses qui concourent à votre raison d'être soient faites._**
+**_Concentrez votre travail quotidien sur la création de valeur, afin que les choses qui contribuent à votre raison d'être soient faites._**
 
 Des pratiques essentielles pour vous y aider :
 
@@ -4155,48 +4155,48 @@ Des pratiques essentielles pour vous y aider :
 - _Changements Organisationnels en Flux Tiré_ – Inviter les gens à mener des expérimentations lorsqu'ils découvrent les besoins organisationnels permet une adaptation efficace et décentralisée de l'organisation.
 
 
-### Deux principes pour se structurer
+### Deux Principes pour se Structurer
 
 
-![Deux principes pour se structurer : Cultiver l'Autonomie – Collaborer sur les Dépendances](img/csf/csf-light-structure.png)
+![Deux Principes pour se Structurer : Cultiver l'Autonomie – Collaborer sur les Dépendances](img/csf/csf-light-structure.png)
 
 
 #### Principe 6 – Cultiver l'Autonomie
 
-**_Free individuals and teams up to create value as autonomously as possible, so that you can deliver value fast and avoid unnecessary dependencies._**
+**_Permettez aux individus et aux équipes de créer de la valeur avec le plus d'autonomie possible, pour la délivrer rapidement et éviter des dépendances inutiles._**
 
 Des pratiques essentielles pour vous y aider :
 
-- _Clarify and Develop Domains_ – When people understand their own areas of responsibility, and those of others too, they know what is expected of them and where they are dependent on others.
+- _Clarifier et Affiner les Domaines_ – Lorsque les gens comprennent leurs propres domaines de responsabilité, et ceux des autres aussi, ils comprennent également sur quelles dépendances ils devront collaborer.
 - _Travailler en Flux Tiré_ – Le fait que les gens puissent commencer de nouvelles tâches seulement quand ils ont la capacité de les traiter, élimine la surcharge et améliore la productivité.
-- _Role_ – Delegating autonomy to an individual to decide and act within clearly defined constraints frees individuals up to create value, and enables those who delegate to retain as much influence as necessary.
-- _Circle_ – Delegating autonomy to a team to organize and govern themselves within clearly defined constraints frees the team up to create value, and enables those who delegate that authority to retain as much influence as necessary.
+- _Rôle_ – Déléguer à une personne l'autonomie de décider et d'agir dans un cadre aux contraintes clairement définies libère la création de valeur et permet aux délégants de conserver autant d'influence que nécessaire.
+- _Cercle_ – Déléguer à une équipe l'autonomie de s'organiser et de se réguler selon des contraintes clairement définies, libère la création de valeur et permet aux délégants de conserver autant d'influence que nécessaire.
 - [Clarifier et Affiner la Stratégie](section-clarify-and-develop-strategy) –  Au niveau de l'organisation, d' une équipe ou d'un rôle, pour qu'une stratégie reste pertinente et efficace, les parties prenantes doivent collaborer à sa création et à son évolution.
 - _Plan de Développement_ – Collaborer à l'élaboration d'un plan de développement avec les parties prenantes concernées, aide les équipes et les porteurs de rôles à développer leurs compétences ainsi qu'à renforcer leur confiance mutuelle.
-- _Align Flow_ – Moving decision-making close to where value is created while retaining the influence of the relevant stakeholders supports the flow of value, and eliminates unnecessary dependencies and delays.
+- _Aligner les Flux_ – Déplacer la prise de décision au plus proche de la création de valeur, tout en conservant l’influence des parties prenantes pertinentes, soutient le flux de valeur, élimine les dépendances inutiles et les retards.
 
 
 #### Principe 7 - Collaborer sur les Dépendances
 
-**_Co-create and evolve a coherent system to deal with all dependencies, so that you deliver value fast when dependencies cannot be avoided._**
+**_Co-créez et améliorez un système cohérent pour gérer toutes les dépendances, afin de délivrer de la valeur rapidement même lorsque les dépendances ne peuvent pas être évitées._**
 
 Des pratiques essentielles pour vous y aider :
 
-- _Navigate via Tension_ – Everyone in the organization paying attention to dependencies maximizes the potential for unmanaged dependencies to be identified and responded to.
-- _Clarify and Develop Domains_ – When people understand their own areas of responsibility, and those of others too, they also understand where collaboration on dependencies will be necessary.
+- _Naviguer par Tension_ – Lorsque tout le monde dans une organisation reste vigilent aux dépendances cela maximise les chances d'identifier les dépendances non gérées à adresser.
+- _Clarifier et Affiner les Domaines_ – Lorsque les gens comprennent leurs propres domaines de responsabilité, ainsi que ceux des autres, ils comprennent également sur quelles dépendances il sera nécessaire de collaborer.
 - _Visualizer le Travail_ – Visualiser les tâches et les dépendances entre elles rend la gestion des dépendances en coopération avec les bonnes parties-prenantes.
 - _Répondre aux Drivers Organisationnels_ – Comprendre pourquoi une dépendance existe en premier lieu, et veiller à la gérer, est essentiel pour bien collaborer à l'adresser ou à l'éliminer.
 - _Impliquer les Concernés_ – Pour traiter les dépendances de manière efficace, il est souvent utile de rassembler les points de vue de toutes les parties prenantes (concernées) et de les impliquer dans le processus décisionnel.
-- _Linking_ – Dependencies between two teams can often be addressed effectively by sending a _Representative_ to the decision-making of the other team, to ensure all relevant perspectives are considered and ownership of decisions is shared.
-- _Delegate Circle_ – When teams depend on each other, they can delegate the power to make and evolve agreements relating to specific dependencies to a circle of _Representatives_, to bring together relevant perspectives and generate ownership among all represented teams.
-- _Align Flow_ – Moving decision-making close to where value is created brings together the people necessary for making decisions in response to specific dependencies and eliminates unnecessary decision-making bottlenecks.
+- _Lien_ – Les dépendances entre deux équipes peuvent souvent être traitées efficacement en envoyant un représentant lors de la prise de décision de l'autre équipe, afin que tous les points de vue utiles soient considérés et que la propriété des décisions soit bien partagée.
+- _Cercle Délégué_ – Quand les équipes dépendent les unes des autres, elles peuvent déléguer le pouvoir de conclure des accords régissant les dépendances spécifiques à un cercle de _Représentants_, afin de regrouper les points de vues pertinents et de susciter l'adhésion des équipes représentées.
+- _Aligner les Flux_ – Déplacer la prise de décision au plus près de la création de valeur rassemble les personnes nécessaires pour prendre des décisions en réponse à des dépendances spécifiques et élimine les goulets d’étranglement décisionnels superflus.
 - _Changements Organisationnels en Flux Tiré_ – Inviter les gens à apporter des changements à la structure organisationnelle, fournit un moyen efficace de gérer les dépendances dont elles ont la responsabilité, facilite l'évolution continue d'une organisation cohérente et efficace.
 
 
-### Trois principes pour se transformer
+### Trois Principes pour se Transformer
 
 
-![Trois principes pour se transformer : investir dans l'apprentissage - Développer activement la culture - Bâtir des modèles mentaux partagés](img/csf/csf-light-transformation.png)
+![Trois Principes pour se Transformer : Investir dans l'Apprentissage - Développer Activement la Culture - Bâtir des Modèles Mentaux Partagés](img/csf/csf-light-transformation.png)
 
 
 #### Principe 8 - Investir dans l'Apprentissage
@@ -4212,39 +4212,39 @@ Des pratiques essentielles pour vous y aider :
 - _Retour entre Pairs_ – Demander des retours à nos pairs, nous aide à comprendre nos forces et nos faiblesses, afin d'investir nos efforts d'apprentissage au bon endroit.
 
 
-#### Principe 9 - Développer activement la culture
+#### Principe 9 - Développer Activement la Culture
 
-**_Collaborate on fostering a cooperative culture where everyone can achieve their fuller potential, so that you build and maintain an engaging and productive work environment._**
+**_Œuvrez à l'émergence d'une culture coopérative où chacun peut exprimer son plein potentiel. Faites en sorte de construire et de maintenir un environnement de travail engageant et productif._**
 
 Des pratiques essentielles pour vous y aider :
 
-- _Artful Participation_ – Introducing the concept of Artful Participation to people invites them to pay conscious attention to how they contribute, and to make changes when they realize their current approach can be improved.
-- _Adopt the Seven Principles_ – The seven principles provide guidelines for behavior that enable a productive, engaging, and cooperative culture.
+- _Participation Élégante_ – Introduire le concept de participation élégante, invite les gens à prêter une attention consciente à la façon dont ils contribuent et à apporter des changements lorsqu'ils réalisent que leur approche actuelle peut être améliorée.
+- _Adopter les Sept Principes_ – Les sept principes fournissent des consignes de comportement qui permettent une culture productive, engageante et coopérative.
 - _S'Accorder sur des Valeurs_ – S'accorder sur les consignes fondamentales de comportement dans l'organisation, définir des paramètres éthiques pour l'action et faciliter la cohérence.
-- _Evaluate and Evolve Agreements_ – Regular review and intentional evolution of agreements relating to culture keeps them alive in the consciousness of the people and helps identify when and how these agreements can be improved.
-- _Contract for Successful Collaboration_ – Co-creating mutually beneficial agreements for collaboration from the start supports building and maintaining an engaging and productive working environment and a culture of trust between parties.
+- _Évaluer et Faire Évoluer les Accords_ – Revoir régulièrement et faire évoluer activement les accords relatifs à la culture, aide à les maintenir en vie dans la conscience des gens et à identifier quand et comment ils peuvent être améliorés.
+- _Contrat de Collaboration Réussie_ – Cocréer dès le début des accords de collaboration mutuellement bénéfiques, soutient la construction et le maintien d'un environnement de travail engageant et productif et d'une culture de confiance entre les parties.
 - _Changements Organisationnels en Flux Tiré_ – Distribuer la responsabilité du développement de la culture à tout le monde, invite à la proactivité, à relever les défis et les opportunités au fur et à mesure qu'ils se présentent.
 
 
-#### Principe 10 – Bâtir des modèles mentaux partagés
+#### Principe 10 – Bâtir des Modèles Mentaux Partagés
 
 **_Bâtissez des modèles mentaux partagés, afin que chacun puisse participer à un dialogue constructif sur ce qui se passe et sur ce qui doit être fait, et qu'au passage ils approfondissent leur compréhension du fonctionnement de l'organisation, ce qu'elle fait et pourquoi._**
 
 Des pratiques essentielles pour vous y aider :
 
-- _Navigate via Tension_ – Looking out for, and addressing situations that could benefit from building or refining a shared mental model, helps people to get on the same page and supports productive dialogue.
-- _Determine Requirements_ – Determining what's required to respond appropriately to an organizational driver before deciding what to do helps develop a shared understanding of the direction and scope of a suitable response to the driver.
-- _Clarify and Develop Domains_ – Explicitly clarifying and documenting areas of  responsibility ensures a shared mental model regarding expectations and responsibilities.
-- _Clarify Intended Outcome_ – By first agreeing on the intended outcome of a proposed activity, project, or agreement, people develop shared understanding of where things should be headed and can then engage in productive dialog about how to get there.
+- _Naviguer par Tension_ – Rechercher, et traiter les situations qui requièrent d'établir ou d'affiner un modèle mental partagé, aide les gens à mieux se comprendre et à avoir un dialogue productif.
+- _Déterminer les Exigences_ – Déterminer ce qui est nécessaire pour adresser un driver avant d'engager des actions aide à développer une compréhension partagée de la direction à suivre et du périmètre de la réponse.
+- _Clarifier et Affiner les Domaines_ – Clarifier et documenter explicitement des domaines de responsabilité donne un modèle mental partagé des attentes et des responsabilités de chacun.
+- _Clarifier le Résultat Attendu_ – Lorsque les gens commencent par s'accorder sur le résultat attendu d'une activité, d'un projet ou d'une proposition, ils développent une compréhension partagée d'où il faut aller et peuvent ensuite entamer un dialogue productif sur la façon d'y arriver.
 
 
-### Par où commencer ?
+### Par où Commencer ?
 
 ![Dix principes pour faire progresser les équipes et les organisations](img/csf/csf-light.png)
 
-Chaque principe soutient un résultat précis. Pour déterminer par où commencer dans votre organisation ou votre équipe, **jetez un œil aux résultats de chaque principe** (le texte après "_ afin que_") et réfléchissez à vos plus grands besoins du moment. Dans tous les cas, **vérifiez que vous êtes suffisamment clair sur la raison d'être et la stratégie de votre organisation ou de votre équipe avant de continuer**.
+Chaque principe soutient un résultat précis. Pour déterminer par où commencer dans votre organisation ou votre équipe, **jetez un œil aux résultats de chaque principe** (le texte après "_afin que_") et réfléchissez à vos plus grands besoins du moment. Dans tous les cas, **vérifiez que vous êtes suffisamment clair sur la raison d'être et la stratégie de votre organisation ou de votre équipe avant de continuer**.
 
-Dans l'illustration ci-dessous, vous pouvez voir que certains des principes sont plus étroitement liés que d'autres, ce qui pourrait vous indiquer l'endroit par où commencer.
+Dans l'illustration ci-dessus, vous pouvez voir que certains des principes sont plus étroitement liés que d'autres, ce qui pourrait vous indiquer l'endroit par où commencer.
 
 Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous pouvez essayer. Ces suggestions sont tirées du menu [des pratiques contenues dans la Sociocratie 3.0](http://patterns.sociocracy30.org). Jusqu'ici, nous avons seulement ajouté les pratiques les plus essentielles qui soutiennent chaque principe. Dans les futures versions de ce framework, nous inclurons encore plus de pratiques. 
 
@@ -4310,7 +4310,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - révision du _Principe de Consentement_ et de la description d'_Objection_
 - mise à jour du glossaire : 
     - révision des définitions de <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">Domaine</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Livrable: Un produit, un service, un composant ou un document fourni pour répondre à une exigence.">Livrable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">Driver Organisationnel</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: Un argument – relatif à une proposition, un accord existant, ou une activité menée par un ou plusieurs membres de l&#x27;organisation - révélant des conséquences ou des risques qu&#x27;il serait préférable d&#x27;éviter pour l&#x27;organisation, ou démontrant des améliorations potentielles significatives.">Objection</a> et <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Préoccupation: Une supposition qui ne peut (du moins pour le moment) être étayée par un raisonnement ou par suffisamment de preuves être considérée comme une objection à ceux qui la considèrent.">Préoccupation</a>
-    - ajout de nouvelles définitions pour <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">Exigence</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Contrainte standard: Une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l&#x27;organisation (ex : la stratégie d&#x27;entreprise, le modèle d&#x27;affaire ou un règlement interne).">Constrainte Standard</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine Global: Le domaine qui définit la raison d&#x27;être de l&#x27;organisation, sa stratégie globale, son modèle d&#x27;affaire, et d&#x27;autres contraintes standard.">Domaine Général</a>
+    - ajout de nouvelles définitions pour <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">Exigence</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Contrainte Standard: Une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l&#x27;organisation (ex : la stratégie d&#x27;entreprise, le modèle d&#x27;affaire ou un règlement interne).">Constrainte Standard</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine Global: Le domaine qui définit la raison d&#x27;être de l&#x27;organisation, sa stratégie globale, son modèle d&#x27;affaire, et d&#x27;autres contraintes standard.">Domaine Général</a>
 
 #### Changements du 26-04-2022
 
@@ -4443,7 +4443,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 #### Changements du 11-09-2019
 
-- Principe de transparence : description revue pour clarifier que les informations doivent être enregistrées, puis transmises à tous les membres de l'organisation
+- Principe de Transparence : description revue pour clarifier que les informations doivent être enregistrées, puis transmises à tous les membres de l'organisation
 - Principe d'Empirisme : clarifié que seules les hypothèses sur lesquelles on s'appuie doivent être testées
 
 #### Changements du 27-06-2019
@@ -4455,7 +4455,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 #### Changements du 03-05-2019
 
 - termes du glossaire raffinés pour <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accord</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organisation : Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.">organisation</a> et <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>, terme du glossaire ajouté pour <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectif</a>
-- Principe de redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
+- Principe de Redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - _Contrat de Collaboration Réussie_ : texte révisé
 - _Décrire les Livrables_: ajouts des User Stories comme exemple pour décrire les livrables
 - _Hiérarchie à Double Lien_: résumé révisé
@@ -4725,7 +4725,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Consignez les détails des accords que vous passez, afin de vous en souvenir plus tard, d'évaluer les résultats obtenus et de faire évoluer ces accords dans le temps.</p></dd>
 
   <dt><a href="contract-for-successful-collaboration.html">Contrat de Collaboration Réussie</a></dt>
-  <dd><p>Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.</p></dd>
+  <dd><p>Soutenez une collaboration réussie dès le début et bâtissez une confiance mutuelle entre des parties en cocréant des contrats qui soient mutuellement bénéfiques et juridiquement solides.</p></dd>
 
   <dt><a href="coordinator.html">Coordinateur</a></dt>
   <dd><p>Une personne remplissant le rôle de coordinateur est redevable de <strong>la coordination des opérations d'un domaine</strong> et est <strong>sélectionnée pour un mandat limité</strong>.</p></dd>
@@ -4866,7 +4866,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Faites évoluer consciemment la culture de votre organisation.</p></dd>
 
   <dt><a href="open-salary.html">Salaire Ouvert</a></dt>
-  <dd></dd>
+  <dd><p>Créez une formule salariale équitable et rendez-la transparente.</p></dd>
 
   <dt><a href="bylaws.html">Statuts et Règlements</a></dt>
   <dd><p>Intégrez les principes et pratiques S3 dans vos statuts et règlements pour protéger <strong>l'intégrité légale</strong> et la <strong>culture organisationnelle</strong>.</p></dd>
@@ -5052,13 +5052,13 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 **Fournir une orientation stratégique claire et des priorités** pour guider le service marketing et assurer l'alignement sur les objectifs commerciaux de l'entreprise. La société opère dans une industrie dynamique où les priorités changent rapidement, ce qui conduit parfois à une inadéquation des efforts et à une utilisation inefficace des ressources.
 
-**Soyez réactif:** Maintenir des canaux de communication ouverts pour les commentaires et l'escalade afin de résoudre rapidement les problèmes et de garder les initiatives de marketing sur la bonne voie. Les retards dans la prise de décision paralysent les projets de marketing et débouchent sur des échéances manquées et des occasions perdues.
+**Soyez réactif :** Maintenir des canaux de communication ouverts pour les retours et les escalades afin de résoudre rapidement les problèmes et de garder les initiatives de marketing sur la bonne voie. Les retards dans la prise de décision paralysent les projets de marketing et débouchent sur des échéances manquées et des occasions perdues.
 
 **Soutenez le développement et la formation professionnels** pour s'assurer que les compétences et les connaissances de l'équipe de marketing restent à la pointe de la technologie. Le domaine du marketing est en constante évolution, ce qui conduit à des écarts de compétences et à un retard par rapport aux normes de l'industrie sans formation continue.
 
 **Examinez les changements importants apportés à la stratégie de marketing ou aux tactiques de campagne** pour maintenir la cohérence stratégique et atténuer les risques.
 
-**Veiller à ce que le service de marketing soit tenu informé des développements commerciaux et organisationnels pertinents** afin de faciliter les décisions de marketing proactives et éclairées.
+**Veiller à ce que le service de marketing soit tenu informé des développements commerciaux et organisationnels pertinents** afin de faciliter des décisions de marketing proactives et éclairées.
 
 #### Aptitudes, qualités et compétences
 
@@ -5395,7 +5395,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Constituant:** Une équipe (ex : un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l'autorité à un représentant pour agir en leur nom dans d'autres équipes ou organisations.
 
 
-**Contrainte standard:** Une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l'organisation (ex : la stratégie d'entreprise, le modèle d'affaire ou un règlement interne).
+**Contrainte Standard:** Une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l'organisation (ex : la stratégie d'entreprise, le modèle d'affaire ou un règlement interne).
 
 
 **Coordination:** Le processus de permettre aux individus et aux équipes de collaborer efficacement dans différents domaines pour atteindre des objectifs communs.
@@ -5527,7 +5527,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Super-domaine:** Un domaine contenant entièrement un autre domaine.
 
 
-**Super-driver:** voir sous-driver.
+**Super-driver:** voir Sous-driver.
 
 
 **Technologie Sociale:** Tout processus, technique, méthode, compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — afin de soutenir l'atteinte d'objectifs communs et de mener des interactions et des échanges sensés.

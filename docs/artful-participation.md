@@ -2,7 +2,7 @@
 title: "Participation Élégante"
 next_page_title: "Adopter les Sept Principes"
 next_page_url: "adopt-the-seven-principles.html"
-prev_page_title: "Catalyser la cocréation"
+prev_page_title: "Catalyser la Cocréation"
 prev_page_url: "enablers-of-co-creation.html"
 ---
 

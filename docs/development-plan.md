@@ -1,6 +1,6 @@
 ---
 title: "Plan de Développement"
-next_page_title: "Catalyser la cocréation"
+next_page_title: "Catalyser la Cocréation"
 next_page_url: "enablers-of-co-creation.html"
 prev_page_title: "Evaluation entre Pairs"
 prev_page_url: "peer-review.html"

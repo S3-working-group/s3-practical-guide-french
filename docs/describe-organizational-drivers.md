@@ -10,7 +10,7 @@ prev_page_url: "navigate-via-tension.html"
 <div class="card summary"><div class="card-body">Décrire les drivers organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.
 </div></div>
 
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}

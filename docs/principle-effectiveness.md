@@ -1,5 +1,5 @@
 ---
-title: "Le Principe d'efficacité"
+title: "Le Principe d'Efficacité"
 next_page_title: "Le Principe de Consentement"
 next_page_url: "principle-consent.html"
 prev_page_title: "Les Sept Principes"

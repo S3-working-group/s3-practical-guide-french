@@ -2,7 +2,7 @@
 title: "Le Framework du Sens Commun"
 next_page_title: "Une organisation où les collaborateurs ET l'organisation peuvent prospérer"
 next_page_url: "thrive.html"
-prev_page_title: "Organisation fractale"
+prev_page_title: "Organisation Fractale"
 prev_page_url: "fractal-organization.html"
 ---
 

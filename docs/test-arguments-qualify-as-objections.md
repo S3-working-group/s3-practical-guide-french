@@ -10,13 +10,13 @@ prev_page_url: "consent-decision-making.html"
 <div class="card summary"><div class="card-body">Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.
 </div></div>
 
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}
 
 
-## Overview
+## Aperçu
 
 Quand quelqu'un lève une objection potentielle (un argument pour changer quelque chose), vérifiez que l'argument présenté révèle comment des conséquences indésirables vont ou pourraient survenir si l’on ne change rien, ou qu'il vous indique un moyen utile d'améliorer la façon de réaliser vos objectifs.
 

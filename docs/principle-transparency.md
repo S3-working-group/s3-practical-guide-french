@@ -1,6 +1,6 @@
 ---
-title: "Le principe de transparence"
-next_page_title: "Le principe de redevabilité"
+title: "Le Principe de Transparence"
+next_page_title: "Le Principe de Redevabilité"
 next_page_url: "principle-accountability.html"
 prev_page_title: "Le Principe d'Équivalence"
 prev_page_url: "principle-equivalence.html"

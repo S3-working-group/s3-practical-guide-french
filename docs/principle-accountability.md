@@ -1,8 +1,8 @@
 ---
-title: "Le principe de redevabilité"
+title: "Le Principe de Redevabilité"
 next_page_title: "Concepts clés pour comprendre les organisations"
 next_page_url: "making-sense-of-organizations.html"
-prev_page_title: "Le principe de transparence"
+prev_page_title: "Le Principe de Transparence"
 prev_page_url: "principle-transparency.html"
 ---
 
@@ -44,8 +44,8 @@ Le principe de la redevabilité s'applique à tous. Il promeut une transition de
 Il ne suffit pas de clarifier ce que les gens peuvent et ne peuvent pas faire pour encourager une culture où la redevabilité est acceptée. En fait, en soi, cela peut avoir l'effet inverse. Pour augmenter le niveau d'auto-responsabilisation dans une organisation, il y a plusieurs facteurs qui peuvent aider :
 
 -   **Implication** : plus les gens sont capables d'influencer les décisions qui les impactent, plus ils se les approprient, et plus il y a de chances qu'ils se sentent redevables des résultats (voir aussi : [Le principe d'équivalence](principle-equivalence.html))
--   **Accès à l'information**: quand les gens ont la possibilité de savoir ce qui se passe au sein de l'organisation et pourquoi certaines décisions sont prises, ils peuvent comprendre comment mieux contribuer à l'ensemble en étant un membre participant activement et élégamment à l'organisation (voir aussi: [Le principe de transparence](principle-transparency.html))
--   **Le droit au désaccord **: lorsque les gens sont libres d'exprimer leurs opinions et d'apprendre à écouter et exprimer leur désaccord de manière constructive, l’organisation peut compter sur plus de perspectives, d’expériences et d’expertise, et les gens se sentent plus en sécurité psychologique et en contrôle (voir aussi : [Le principe du consentement](principle-consent.html))
+-   **Accès à l'information**: quand les gens ont la possibilité de savoir ce qui se passe au sein de l'organisation et pourquoi certaines décisions sont prises, ils peuvent comprendre comment mieux contribuer à l'ensemble en étant un membre participant activement et élégamment à l'organisation (voir aussi: [Le Principe de Transparence](principle-transparency.html))
+-   **Le droit au désaccord **: lorsque les gens sont libres d'exprimer leurs opinions et d'apprendre à écouter et exprimer leur désaccord de manière constructive, l’organisation peut compter sur plus de perspectives, d’expériences et d’expertise, et les gens se sentent plus en sécurité psychologique et en contrôle (voir aussi : [Le principe de Consentement](principle-consent.html))
 
 ## Rendez explicites les responsabilités implicites
 

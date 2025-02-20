@@ -1,13 +1,13 @@
 ---
-title: "Principe 3 - Focaliser sur la valeur"
+title: "Principe 3 - Focaliser sur la Valeur"
 next_page_title: "Principe 4 - Sentir et Réagir"
 next_page_url: "principle-4-sense-respond.html"
-prev_page_title: "Trois principes pour naviguer"
+prev_page_title: "Trois Principes pour Naviguer"
 prev_page_url: "navigation.html"
 ---
 
 
-**_Concentrez votre travail quotidien sur la création de valeur, afin que les choses qui concourent à votre raison d'être soient faites._**
+**_Concentrez votre travail quotidien sur la création de valeur, afin que les choses qui contribuent à votre raison d'être soient faites._**
 
 Des pratiques essentielles pour vous y aider :
 

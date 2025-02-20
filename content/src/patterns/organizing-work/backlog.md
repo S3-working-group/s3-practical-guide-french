@@ -20,8 +20,8 @@ Plusieurs types de backlog existent :
 
 **Implémentation :**
 
-- **backlog physique : ** post-its sur le mur, fiches cartonnées, magnets et tableau blanc
-- **backlog numérique:** ex : [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
+- **backlog physique :** post-its sur le mur, fiches cartonnées, magnets et tableau blanc
+- **backlog numérique:** par exemple [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), ou [Asana](https://asana.com/)
 
 Chaque entrée d'un backlog (priorisé) contient typiquement :
 
@@ -29,4 +29,4 @@ Chaque entrée d'un backlog (priorisé) contient typiquement :
 - référence à d'autres projets ou **tâches connexes**, ainsi qu'à toute **autre information pertinente**
 - une estimation **du temps nécessaire à** pour la traiter
 
-Il peut également être utile d'inclure : - une date d'échéance (si nécessaire) - une façon de visualiser le rang ou les priorités (voir [Backlog Priorisé](https://patterns.sociocracy30.org/prioritize-backlogs.html))
+Il peut également être utile d'inclure : une date d'échéance (si nécessaire) et une façon de visualiser le rang ou les priorités (voir [Prioriser les Backlogs](https://patterns.sociocracy30.org/prioritize-backlogs.html)).

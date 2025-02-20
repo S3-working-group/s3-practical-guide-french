@@ -1,4 +1,4 @@
-# Principe 10 – Bâtir des modèles mentaux partagés
+# Principe 10 – Bâtir des Modèles Mentaux Partagés
 
 
 **_Bâtissez des modèles mentaux partagés, afin que chacun puisse participer à un dialogue constructif sur ce qui se passe et sur ce qui doit être fait, et qu'au passage ils approfondissent leur compréhension du fonctionnement de l'organisation, ce qu'elle fait et pourquoi._**

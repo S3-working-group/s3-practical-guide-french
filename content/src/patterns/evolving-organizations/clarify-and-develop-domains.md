@@ -5,14 +5,14 @@ Explicitly clarify, and then regularly evaluate and develop the design of domain
 </summary>
 
 <only presets="jekyll">
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}
 
 </only>
 
-## Overview
+## Aperçu
 
 A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing [domains](glossary:domain) – distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
 

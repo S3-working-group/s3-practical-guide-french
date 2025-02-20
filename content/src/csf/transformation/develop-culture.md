@@ -1,4 +1,4 @@
-# Principe 9 - Développer activement la culture
+# Principe 9 - Développer Activement la Culture
 
 
 **_Œuvrez à l'émergence d'une culture coopérative où chacun peut exprimer son plein potentiel, de sorte à construire et à maintenir un environnement de travail engageant et productif._**

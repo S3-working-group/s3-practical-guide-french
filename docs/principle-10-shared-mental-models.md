@@ -1,8 +1,8 @@
 ---
-title: "Principe 10 – Bâtir des modèles mentaux partagés"
-next_page_title: "Par où commencer ?"
+title: "Principe 10 – Bâtir des Modèles Mentaux Partagés"
+next_page_title: "Par où Commencer ?"
 next_page_url: "where-to-start.html"
-prev_page_title: "Principe 9 - Développer activement la culture"
+prev_page_title: "Principe 9 - Développer Activement la Culture"
 prev_page_url: "principle-9-develop-culture.html"
 ---
 
@@ -11,7 +11,7 @@ prev_page_url: "principle-9-develop-culture.html"
 
 Des pratiques essentielles pour vous y aider :
 
-- [Navigate via Tension](navigate-via-tension.html) – Looking out for, and addressing situations that could benefit from building or refining a shared mental model, helps people to get on the same page and supports productive dialogue.
-- [Determine Requirements](determine-requirements.html) – Determining what's required to respond appropriately to an organizational driver before deciding what to do helps develop a shared understanding of the direction and scope of a suitable response to the driver.
-- [Clarify and Develop Domains](clarify-and-develop-domains.html) – Explicitly clarifying and documenting areas of  responsibility ensures a shared mental model regarding expectations and responsibilities.
-- [Clarify Intended Outcome](clarify-intended-outcome.html) – By first agreeing on the intended outcome of a proposed activity, project, or agreement, people develop shared understanding of where things should be headed and can then engage in productive dialog about how to get there.
+- [Naviguer par Tension](navigate-via-tension.html) – Rechercher, et traiter les situations qui requièrent d'établir ou d'affiner un modèle mental partagé, aide les gens à mieux se comprendre et à avoir un dialogue productif.
+- [Déterminer les Exigences](determine-requirements.html) – Déterminer ce qui est nécessaire pour adresser un driver avant d'engager des actions aide à développer une compréhension partagée de la direction à suivre et du périmètre de la réponse.
+- [Clarifier et Affiner les Domaines](clarify-and-develop-domains.html) – Clarifier et documenter explicitement des domaines de responsabilité donne un modèle mental partagé des attentes et des responsabilités de chacun.
+- [Clarifier le Résultat Attendu](clarify-intended-outcome.html) – Lorsque les gens commencent par s'accorder sur le résultat attendu d'une activité, d'un projet ou d'une proposition, ils développent une compréhension partagée d'où il faut aller et peuvent ensuite entamer un dialogue productif sur la façon d'y arriver.

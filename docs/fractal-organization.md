@@ -1,8 +1,8 @@
 ---
-title: "Organisation fractale"
+title: "Organisation Fractale"
 next_page_title: "Le Framework du Sens Commun"
 next_page_url: "csf.html"
-prev_page_title: "Organisation de service"
+prev_page_title: "Organisation de Service"
 prev_page_url: "service-organization.html"
 ---
 
@@ -12,7 +12,7 @@ prev_page_url: "service-organization.html"
 
 Créer une organisation fractale peut permettre à un vaste réseau de s’adapter rapidement à des contextes changeants.
 
-Si nécessaire, la pratique peut être répétée pour connecter plusieurs organisations fractales en une seule.
+Si nécessaire, la structure peut être répétée pour connecter plusieurs organisations fractales en une seule.
 
 ![Organisation Fractale](img/structural-patterns/fractal-organization.png)
 
@@ -20,13 +20,13 @@ Si nécessaire, la pratique peut être répétée pour connecter plusieurs organ
 
 Une organisation fractale peut être constituée soit de multiples organisations in(ter-)dépendantes qui partagent un <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> (primaire) commun, soit par de multiples branches, départements, ou projets au sein d'une organisation plus large.
 
-Ces <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituant: Une équipe (ex : un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l&#x27;autorité à un représentant pour agir en leur nom dans d&#x27;autres équipes ou organisations.">constituants</a> (ex : organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
+Ces <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituant: Une équipe (ex : un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l&#x27;autorité à un représentant pour agir en leur nom dans d&#x27;autres équipes ou organisations.">constituants</a> (organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
 
 ## Niveaux
 
 Une organisation fractale a au moins trois niveaux :
 
-- Premier niveau : les **constituants** (ex : organisations, branches, départements ou projets)
+- Premier niveau : les **constituants** (organisations, branches, départements ou projets)
 - Second niveau : les **[cercles délégués](delegate-circle.html) par fonction** pour partager les savoir, créer et faire évoluer des accords au nom des domaines fonctionnels
 - Troisième niveau : un **cercle délégué transverse** pour créer et faire évoluer les accords en réponse aux drivers affectant l'ensemble des constituants
 

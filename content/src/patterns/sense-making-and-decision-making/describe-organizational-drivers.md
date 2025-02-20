@@ -5,7 +5,7 @@ Décrire les drivers organisationnels, pour comprendre et communiquer sur les si
 </summary>
 
 <only presets="jekyll">
-**Table of Contents**
+**Table des matières**
 
 * toc
 {:toc}
