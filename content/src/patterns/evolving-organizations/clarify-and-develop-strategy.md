@@ -1,7 +1,7 @@
 # Clarifier et Affiner la Stratégie
 
 <summary>
-For the whole organization and for each domain, devise a strategy for how to create value, and develop it over time based on what you learn.
+Pour toute l'organisation et pour chaque domaine, définissez une stratégie de création de valeur et faites la évoluer au fil du temps en fonction de ce que vous apprendrez.
 </summary>
 
 {{define:strategy}}

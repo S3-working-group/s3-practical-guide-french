@@ -31,10 +31,10 @@ prev_page_url: "changelog.html"
   <dd><p>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</p></dd>
 
   <dt><a href="backlog.html">Backlog</a></dt>
-  <dd><p>Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work.</p></dd>
+  <dd><p>Tenez à jour une liste de choses que vous devez adresser, afin de vous en souvenir, et utilisez ces informations pour planifier et organiser votre travail.</p></dd>
 
   <dt><a href="governance-backlog.html">Backlog de Gouvernance</a></dt>
-  <dd><p>Tenez un backlog dédié pour les éléments qui nécessitent une décision de gouvernance, afin de vous en souvenir et utilisez l'information pour planifier et organiser votre gouvernance.</p></dd>
+  <dd><p>Tenez un backlog dédié pour les éléments qui nécessitent une décision de gouvernance, afin de vous en souvenir et utilisez ces informations pour planifier et organiser votre gouvernance.</p></dd>
 
   <dt><a href="driver-mapping.html">Cartographier les Drivers</a></dt>
   <dd><p>Un format d’atelier permettant aux grands groupes de cocréer et de s’organiser en réponse à une situation complexe d’envergure.</p></dd>
@@ -52,7 +52,7 @@ prev_page_url: "changelog.html"
   <dd><p>Créez un environnement qui invite les membres d'une organisation à mener des changements.</p></dd>
 
   <dt><a href="clarify-and-develop-strategy.html">Clarifier et Affiner la Stratégie</a></dt>
-  <dd><p>For the whole organization and for each domain, devise a strategy for how to create value, and develop it over time based on what you learn.</p></dd>
+  <dd><p>Pour toute l'organisation et pour chaque domaine, définissez une stratégie de création de valeur et faites la évoluer au fil du temps en fonction de ce que vous apprendrez.</p></dd>
 
   <dt><a href="clarify-and-develop-domains.html">Clarifier et Affiner les Domaines</a></dt>
   <dd><p>Explicitly clarify, and then regularly evaluate and develop the design of domains throughout the organization, based on learning, to enable those with responsibility for each domain to deliver value as effectively as possible to the customers they serve.</p></dd>
@@ -64,10 +64,10 @@ prev_page_url: "changelog.html"
   <dd><p>Rassemblez les gens pour co-créer des propositions en réponse aux drivers organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.</p></dd>
 
   <dt><a href="collaborate-on-dependencies.html">Collaborer sur les Dépendances</a></dt>
-  <dd><p>For each dependency, work with all stakeholders to agree on how to deal with it effectively, and act accordingly.</p></dd>
+  <dd><p>Convenez avec toutes les parties prenantes concernées d'une façon efficace de traiter chaque dépendance et agissez en conséquence.</p></dd>
 
   <dt><a href="design-adaptable-systems.html">Concevoir des Systèmes Adaptatifs</a></dt>
-  <dd><p>Develop a coherent set of constraints that enable the organization to easily adapt and grow to meet changing demand, customer requirements and market conditions.</p></dd>
+  <dd><p>Développez un ensemble cohérent de contraintes qui permettent à l'organisation de s'adapter et de grandir facilement pour répondre à une demande changeante, aux exigences des clients et aux conditions du marché.</p></dd>
 
   <dt><a href="record-agreements.html">Consigner les Accords</a></dt>
   <dd><p>Consignez les détails des accords que vous passez, afin de vous en souvenir plus tard, d'évaluer les résultats obtenus et de faire évoluer ces accords dans le temps.</p></dd>
@@ -76,13 +76,13 @@ prev_page_url: "changelog.html"
   <dd><p>Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.</p></dd>
 
   <dt><a href="coordinator.html">Coordinateur</a></dt>
-  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term</strong>.</p></dd>
+  <dd><p>Une personne remplissant le rôle de coordinateur est redevable de <strong>la coordination des opérations d'un domaine</strong> et est <strong>sélectionnée pour un mandat limité</strong>.</p></dd>
 
   <dt><a href="evaluation-criteria.html">Critères d'Évaluation</a></dt>
   <dd><p>Développez des critères d'évaluation bien définis pour déterminer si agir selon un accord a eu l'effet escompté.</p></dd>
 
   <dt><a href="enable-autonomy.html">Cultiver l'Autonomie</a></dt>
-  <dd><p>Laissez les personnes décider et agir par elle-mêmes autant que possible, pour qu'elles délivrent de la valeur rapidement et s'adaptent aux changements quand c'est nécessaire.</p></dd>
+  <dd><p>Laissez les personnes décider et agir par elle-mêmes autant que possible, afin qu'elles délivrent de la valeur rapidement et s'adaptent aux changements quand c'est nécessaire.</p></dd>
 
   <dt><a href="ask-for-help.html">Demander de l'Aide</a></dt>
   <dd><p>Un protocole simple pour apprendre, partager ses compétences et établir des liens, en respectant les attributions de chacun.</p></dd>
@@ -133,7 +133,7 @@ prev_page_url: "changelog.html"
   <dd><p>Sélectionnez un membre de votre équipe pour être spécifiquement redevable de maintenir à jour toutes les informations dont l'équipe a besoin.</p></dd>
 
   <dt><a href="manage-the-whole-system.html">Gérer l'Ensemble du Système</a></dt>
-  <dd><p>S'assurer que l'efficacité et l'intégrité de l'ensemble de l'organisation sont surveillées et maintenues, afin que l'organisation soit en mesure de poursuivre sa raison d'être façon continue et adéquate.</p></dd>
+  <dd><p>S'assurer que l'efficacité et l'intégrité de l'ensemble de l'organisation sont surveillées et maintenues, afin que l'organisation soit en mesure d'exercer sa raison d'être de façon continue et adéquate.</p></dd>
 
   <dt><a href="meeting-host.html">Hôte de Réunion</a></dt>
   <dd><p>Sélectionnez quelqu'un pour prendre la responsabilité de la préparation et du suivi des réunions, des ateliers ou d'autres événements.</p></dd>

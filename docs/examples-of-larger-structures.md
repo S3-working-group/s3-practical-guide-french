@@ -1,5 +1,5 @@
 ---
-title: "Exemples de structures plus grandes"
+title: "Exemples de Structures plus Grandes"
 next_page_title: "Organisation décentralisée"
 next_page_url: "peach-organization.html"
 prev_page_title: "Structurer une Organisation"
@@ -19,5 +19,5 @@ prev_page_url: "organizational-structure.html"
   <dd><p>Collaboration impliquant de multiples parties prenantes, partageant un driver (ou objectif) commun.</p></dd>
 
   <dt><a href="fractal-organization.html">Organisation fractale</a></dt>
-  <dd><p>De multiples constituants (organisations ou projets) avec une intention primaire et une structure commune (ou similaire) peuvent partager des savoirs à travers des domaines, aligner leurs actions et prendre des décisions de gouvernance de haut niveau (ex: la stratégie générale).</p></dd>
+  <dd><p>De multiples constituants (organisations ou projets) ayant un driver primaire et une structure commune (ou similaire) peuvent partager des savoirs inter-domaines, coordonner leurs actions et prendre des décisions de gouvernance de haut niveau (ex : la stratégie générale).</p></dd>
 </dl>

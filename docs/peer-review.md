@@ -19,10 +19,10 @@ Invitez un [facilitateur](facilitate-meetings.html) ainsi que des personnes ayan
 Donnez à chacun des appréciations et des suggestions d'amélioration, en considérant :
 
 - La **valeur** que la personne a apporté à l'organisation en s'occupant de ses <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a>.
-- The role keeper's or team's **work processes**, and their **collaboration** with the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">delegator</a> and with other relevant stakeholders, and – in the case of a team – with each other.
+- Les méthodes de travail et de collaboration des **porteurs de rôle** avec leurs <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégants</a> et les parties prenantes concernées ainsi que la collaboration entre équipes.
 - À quel point le **délégant** prend en charge ses responsabilités.
 - La **conception du domaine** lui-même (et potentiellement la conception d'autres domaines liés).
-- The role keeper's or team's **competencies and skills** in relation to the domain.
+- Les **compétences et aptitudes** du porteur de rôle ou de l'équipe par rapport au domaine.
 - La **<a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie </a>** que le porteur de rôle ou l'équipe suit pour s'occuper de ses domaines.
 
 ![L'amélioration continue des capacités des personnes à porter efficacement leurs rôles ou à collaborer en équipe](img/evolution/development-process.png)

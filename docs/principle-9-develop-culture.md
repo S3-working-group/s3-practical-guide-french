@@ -2,7 +2,7 @@
 title: "Principe 9 - Développer activement la culture"
 next_page_title: "Principe 10 – Bâtir des modèles mentaux partagés"
 next_page_url: "principle-10-shared-mental-models.html"
-prev_page_title: "Principe 8 - Investir dans l'apprentissage"
+prev_page_title: "Principe 8 - Investir dans l'Apprentissage"
 prev_page_url: "principle-8-invest-in-learning.html"
 ---
 

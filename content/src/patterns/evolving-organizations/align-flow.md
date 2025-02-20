@@ -13,6 +13,6 @@ Atteignez et maintenez l'alignement des flux à travers l'amélioration continue
 -   mettez à disposition toute information utile
 -   visez à raccourcir les boucles de retour pour amplifier l'apprentissage.
 
-When decision-making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is significantly reduced.
+Lorsque les décisions sont prises à proximité de la création de valeur, et que le flux d'information soutien un flux de valeur continu et constant, le potentiel d'accumulation de gaspillage est réduit.
 
 ![Aligner le flux d'information avec le flux de valeur](img/workflow-and-value/align-flow.png)

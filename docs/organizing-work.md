@@ -10,7 +10,7 @@ prev_page_url: "governance-backlog.html"
 <dl>
 
   <dt><a href="backlog.html">Backlog</a></dt>
-  <dd><p>Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work.</p></dd>
+  <dd><p>Tenez à jour une liste de choses que vous devez adresser, afin de vous en souvenir, et utilisez ces informations pour planifier et organiser votre travail.</p></dd>
 
   <dt><a href="prioritize-backlogs.html">Prioriser les Backlogs</a></dt>
   <dd><p>Ordonnez toutes les tâches inachevées en partant des plus importantes, puis dépilez par le haut lorsqu'il y a une nouvelle capacité.</p></dd>
@@ -31,5 +31,5 @@ prev_page_url: "governance-backlog.html"
   <dd><p>Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.</p></dd>
 
   <dt><a href="coordinator.html">Coordinateur</a></dt>
-  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term</strong>.</p></dd>
+  <dd><p>Une personne remplissant le rôle de coordinateur est redevable de <strong>la coordination des opérations d'un domaine</strong> et est <strong>sélectionnée pour un mandat limité</strong>.</p></dd>
 </dl>

@@ -1,6 +1,6 @@
 ---
-title: "Principe d'empirisme"
-next_page_title: "Le Principe de l'Amélioration Continue"
+title: "Le Principe d'Empirisme"
+next_page_title: "Le Principe d'Amélioration Continue"
 next_page_url: "principle-continuous-improvement.html"
 prev_page_title: "Le Principe de Consentement"
 prev_page_url: "principle-consent.html"

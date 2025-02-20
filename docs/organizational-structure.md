@@ -1,6 +1,6 @@
 ---
 title: "Structurer une Organisation"
-next_page_title: "Exemples de structures plus grandes"
+next_page_title: "Exemples de Structures plus Grandes"
 next_page_url: "examples-of-larger-structures.html"
 prev_page_title: "Coordinateur"
 prev_page_url: "coordinator.html"

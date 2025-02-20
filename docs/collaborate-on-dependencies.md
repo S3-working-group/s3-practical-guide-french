@@ -7,5 +7,5 @@ prev_page_url: "enable-autonomy.html"
 ---
 
 
-<div class="card summary"><div class="card-body">For each dependency, work with all stakeholders to agree on how to deal with it effectively, and act accordingly.
+<div class="card summary"><div class="card-body">Convenez avec toutes les parties prenantes concernées d'une façon efficace de traiter chaque dépendance et agissez en conséquence.
 </div></div>

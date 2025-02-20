@@ -10,7 +10,7 @@ prev_page_url: "csf.html"
 
 **Observez la situation générale – identifiez ce dont vous avez besoin – priorisez par quoi commencer.**
 
-Les gens sont confrontés à de nombreux défis et opportunités dans les organisations et identifient les améliorations potentielles, mais ils sont incertains ou incapables de s’entendre sur comment et par où commencer ni sur quoi faire pour aller de l’avant.
+Les gens sont confrontés à de nombreux défis et opportunités dans les organisations. Ils identifient des améliorations potentielles, mais sont incertains ou incapables de s'entendre sur comment et par où commencer ni sur quoi faire pour aller de l’avant.
 
 Ils ont besoin d'un moyen simple de construire une compréhension partagée de ce qui se passe au sein de leur organisation et de ce qui doit être fait, afin qu'ils puissent réagir efficacement et de façon durable face aux obstacles et aux opportunités qui surviennent.
 

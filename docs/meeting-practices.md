@@ -31,5 +31,5 @@ prev_page_url: "coordination-meeting.html"
   <dd><p>Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.</p></dd>
 
   <dt><a href="governance-backlog.html">Backlog de Gouvernance</a></dt>
-  <dd><p>Tenez un backlog dédié pour les éléments qui nécessitent une décision de gouvernance, afin de vous en souvenir et utilisez l'information pour planifier et organiser votre gouvernance.</p></dd>
+  <dd><p>Tenez un backlog dédié pour les éléments qui nécessitent une décision de gouvernance, afin de vous en souvenir et utilisez ces informations pour planifier et organiser votre gouvernance.</p></dd>
 </dl>

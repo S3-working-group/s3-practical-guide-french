@@ -2,7 +2,7 @@
 title: "Organisation décentralisée"
 next_page_title: "Hiérarchie à Double Lien"
 next_page_url: "double-linked-hierarchy.html"
-prev_page_title: "Exemples de structures plus grandes"
+prev_page_title: "Exemples de Structures plus Grandes"
 prev_page_url: "examples-of-larger-structures.html"
 ---
 

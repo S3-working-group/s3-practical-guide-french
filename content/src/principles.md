@@ -14,15 +14,15 @@ En pratiquant la Sociocratie 3.0 on comprend la valeur essentielle que ces princ
 
 *{{glossary:consent}}*
 
-**[Principe d'empirisme](section:principle-empiricism) :**
+**[Le Principe d'Empirisme](section:principle-empiricism) :**
 
 *{{glossary:empiricism}}*
 
-**[Le Principe de l'Amélioration Continue](section:principle-continuous-improvement) :**
+**[Le Principe d'Amélioration Continue](section:principle-continuous-improvement) :**
 
 *{{glossary:continuous-improvement}}*
 
-**[Principe d'équivalence](section:principle-equivalence) :**
+**[Le Principe d'Équivalence](section:principle-equivalence) :**
 
 *{{glossary:equivalence}}*
 

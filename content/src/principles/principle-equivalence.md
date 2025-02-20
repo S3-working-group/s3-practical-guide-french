@@ -1,4 +1,4 @@
-# Le principe d'équivalence
+# Le Principe d'Équivalence
 
 _{{glossary:equivalence}}_
 

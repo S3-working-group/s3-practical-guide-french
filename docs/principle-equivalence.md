@@ -1,8 +1,8 @@
 ---
-title: "Le principe d'équivalence"
+title: "Le Principe d'Équivalence"
 next_page_title: "Le principe de transparence"
 next_page_url: "principle-transparency.html"
-prev_page_title: "Le Principe de l'Amélioration Continue"
+prev_page_title: "Le Principe d'Amélioration Continue"
 prev_page_url: "principle-continuous-improvement.html"
 ---
 

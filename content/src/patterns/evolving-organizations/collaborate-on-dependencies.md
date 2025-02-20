@@ -1,5 +1,5 @@
 # Collaborer sur les Dépendances
 
 <summary>
-For each dependency, work with all stakeholders to agree on how to deal with it effectively, and act accordingly.
+Convenez avec toutes les parties prenantes concernées d'une façon efficace de traiter chaque dépendance et agissez en conséquence.
 </summary>

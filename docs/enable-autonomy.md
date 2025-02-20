@@ -7,5 +7,5 @@ prev_page_url: "manage-the-whole-system.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Laissez les personnes décider et agir par elle-mêmes autant que possible, pour qu'elles délivrent de la valeur rapidement et s'adaptent aux changements quand c'est nécessaire.
+<div class="card summary"><div class="card-body">Laissez les personnes décider et agir par elle-mêmes autant que possible, afin qu'elles délivrent de la valeur rapidement et s'adaptent aux changements quand c'est nécessaire.
 </div></div>

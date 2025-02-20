@@ -1,6 +1,6 @@
 ---
 title: "Principe 3 - Focaliser sur la valeur"
-next_page_title: "Principe 4 - Sentir et réagir"
+next_page_title: "Principe 4 - Sentir et Réagir"
 next_page_url: "principle-4-sense-respond.html"
 prev_page_title: "Trois principes pour naviguer"
 prev_page_url: "navigation.html"

@@ -13,10 +13,10 @@ Invitez un [facilitateur](section:facilitate-meetings) ainsi que des personnes a
 Donnez à chacun des appréciations et des suggestions d'amélioration, en considérant :
 
 - La **valeur** que la personne a apporté à l'organisation en s'occupant de ses [domaines](glossary:domain).
-- The role keeper's or team's **work processes**, and their **collaboration** with the [delegator](glossary:delegator) and with other relevant stakeholders, and – in the case of a team – with each other.
+- Les méthodes de travail et de collaboration des **porteurs de rôle** avec leurs [délégants](glossary:delegator) et les parties prenantes concernées ainsi que la collaboration entre équipes.
 - À quel point le **délégant** prend en charge ses responsabilités.
 - La **conception du domaine** lui-même (et potentiellement la conception d'autres domaines liés).
-- The role keeper's or team's **competencies and skills** in relation to the domain.
+- Les **compétences et aptitudes** du porteur de rôle ou de l'équipe par rapport au domaine.
 - La **[stratégie ](glossary:strategy)** que le porteur de rôle ou l'équipe suit pour s'occuper de ses domaines.
 
 ![L'amélioration continue des capacités des personnes à porter efficacement leurs rôles ou à collaborer en équipe](img/evolution/development-process.png)

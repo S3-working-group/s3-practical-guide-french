@@ -1,8 +1,8 @@
 ---
-title: "Le Principe de l'Amélioration Continue"
-next_page_title: "Le principe d'équivalence"
+title: "Le Principe d'Amélioration Continue"
+next_page_title: "Le Principe d'Équivalence"
 next_page_url: "principle-equivalence.html"
-prev_page_title: "Principe d'empirisme"
+prev_page_title: "Le Principe d'Empirisme"
 prev_page_url: "principle-empiricism.html"
 ---
 

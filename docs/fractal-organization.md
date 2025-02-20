@@ -7,7 +7,7 @@ prev_page_url: "service-organization.html"
 ---
 
 
-<div class="card summary"><div class="card-body">De multiples constituants (organisations ou projets) avec une intention primaire et une structure commune (ou similaire) peuvent partager des savoirs à travers des domaines, aligner leurs actions et prendre des décisions de gouvernance de haut niveau (ex: la stratégie générale).
+<div class="card summary"><div class="card-body">De multiples constituants (organisations ou projets) ayant un driver primaire et une structure commune (ou similaire) peuvent partager des savoirs inter-domaines, coordonner leurs actions et prendre des décisions de gouvernance de haut niveau (ex : la stratégie générale).
 </div></div>
 
 Créer une organisation fractale peut permettre à un vaste réseau de s’adapter rapidement à des contextes changeants.

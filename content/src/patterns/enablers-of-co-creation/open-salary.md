@@ -3,18 +3,18 @@
 Créez une formule salariale équitable et rendez-la transparente.
 </summary>
 
-Open salary (also referred to as "transparenty salary") is the practice of determining each employee's compensation according to a set of rules – the _salary formula_ – instead of making compensation subject to individual negotiation between employer and employee. The salary formula – and often individual compensation as well – is transparent to all members of an organization, and sometimes to the public.
+La salaire transparent (parfois appelé "salaire ouvert") est une pratique qui consiste à déterminer la rémunération de chaque employé en fonction d'un ensemble de règles — la _formule salariale_  — au lieu que la rémunération fasse l'objet d'une négociation individuelle entre l'employeur et l'employé. La formule salariale – et souvent la rémunération individuelle – est transparente pour tous les membres d'une organisation, et parfois même publique.
 
-A open salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
+Une formule salariale ouverte doit convenir au contexte d'une organisation et être perçue comme suffisamment juste par tous les intéressés.
 
 La perception de l'équité varie d'une personne à l'autre et selon le contexte, de sorte que la création d'une formule salariale nécessite une compréhension partagée de ce qui est considéré comme juste.
 
-Lorsque vous décidez (ou vous accordez sur) d'une formule salariale pour une organisation ou un département, envisagez :
+Lorsque vous décidez de (ou passez un accord sur) la formule salariale d'une organisation ou d'un département, prenez en compte :
 
-- que serait une garantie de subsistance fixe appropriée
+- le montant fixe adéquat pour une garantie de subsistance
 - comment calculer la rémunération selon le besoin, l'investissement, la productivité ou le mérite
-- comment distribuer les profits de l'organisation et couvrir les pertes en fonction des attentes et des besoins des diverses partie-prenantes
+- comment distribuer les profits de l'organisation et couvrir les pertes en fonction des attentes et des besoins des différents intéressés
 
-Decide how to handle remuneration for changing roles and [develop a strategy](section:clarify-and-develop-strategy) for how to transition towards new contracts and compensation agreements.
+Décidez comment gérer la rémunération pour les changements de rôles et [développez une stratégie](section:clarify-and-develop-strategy) pour la transition vers de nouveaux contrats et accords de rémunération.
 
-![Two ways of opening salaries](img/process/opening-salaries.png)
+![Deux façons d'ouvrir les salaires](img/process/opening-salaries.png)

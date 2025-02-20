@@ -1,4 +1,4 @@
-# Principe d'empirisme
+# Le Principe d'Empirisme
 
 _{{glossary:empiricism}}_
 

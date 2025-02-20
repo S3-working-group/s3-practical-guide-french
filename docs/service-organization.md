@@ -17,4 +17,4 @@ prev_page_url: "double-linked-hierarchy.html"
 
 **Note** : une organisation de service est souvent appelée **organisation vertébrale**.
 
-![Organisation de service](img/structural-patterns/service-organization-text.png)
+![Organisation de Service](img/structural-patterns/service-organization-text.png)

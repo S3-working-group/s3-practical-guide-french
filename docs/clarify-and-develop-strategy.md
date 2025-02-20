@@ -7,7 +7,7 @@ prev_page_url: "collaborate-on-dependencies.html"
 ---
 
 
-<div class="card summary"><div class="card-body">For the whole organization and for each domain, devise a strategy for how to create value, and develop it over time based on what you learn.
+<div class="card summary"><div class="card-body">Pour toute l'organisation et pour chaque domaine, définissez une stratégie de création de valeur et faites la évoluer au fil du temps en fonction de ce que vous apprendrez.
 </div></div>
 
 _Une **stratégie** est une approche de haut niveau sur la façon dont les personnes vont créer de la valeur pour s'occuper avec succès d'un domaine._

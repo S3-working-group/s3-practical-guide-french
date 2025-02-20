@@ -21,15 +21,15 @@ En pratiquant la Sociocratie 3.0 on comprend la valeur essentielle que ces princ
 
 ***Soulever, rechercher et résoudre les objections aux propositions, aux accords existants et à l'activité**, de réduire le potentiel de décisions conduisant à des conséquences indésirables et de découvrir des moyens utiles pour s'améliorer.*
 
-**[Principe d'empirisme](principle-empiricism.html) :**
+**[Le Principe d'Empirisme](principle-empiricism.html) :**
 
 ***Testez toutes les hypothèses sur lesquelles vous vous appuyez à l'aide d'expériences et d'évaluations en continu,** afin d'apprendre rapidement, de comprendre et d'appréhender la complexité aussi efficacement que possible.*
 
-**[Le Principe de l'Amélioration Continue](principle-continuous-improvement.html) :**
+**[Le Principe d'Amélioration Continue](principle-continuous-improvement.html) :**
 
 ***Évaluez régulièrement vos résultats, puis apportez des améliorations progressives à ce que vous faites et à la façon dont vous le faites, en fonction de ce que vous apprendrez,** afin de vous adapter aux changements quand c'est nécessaire, et de maintenir ou d'améliorer votre efficacité au fil du temps.*
 
-**[Principe d'équivalence](principle-equivalence.html) :**
+**[Le Principe d'Équivalence](principle-equivalence.html) :**
 
 ***Impliquez les personnes dans la prise et l'évolution des décisions qui les affectent,** afin d'augmenter leur sens de l'engagement et de la redevabilité, et d'utiliser l'intelligence distribuée pour atteindre et faire évoluer vos objectifs.*
 

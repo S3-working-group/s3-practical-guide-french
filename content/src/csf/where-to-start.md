@@ -2,7 +2,7 @@
 
 ![Dix principes pour faire progresser les équipes et les organisations](img/csf/csf-light.png)
 
-Chaque principe soutient un résultat spécifique. Pour déterminer par où commencer dans votre organisation ou votre équipe, **jetez un œil aux résultats de chaque principe** (le texte après "_ afin que_") et réfléchissez à vos plus grands besoins du moment. Dans tous les cas, **vérifiez que vous êtes suffisamment clair sur la raison d'être et la stratégie de votre organisation ou de votre équipe avant de continuer**.
+Chaque principe soutient un résultat précis. Pour déterminer par où commencer dans votre organisation ou votre équipe, **jetez un œil aux résultats de chaque principe** (le texte après "_ afin que_") et réfléchissez à vos plus grands besoins du moment. Dans tous les cas, **vérifiez que vous êtes suffisamment clair sur la raison d'être et la stratégie de votre organisation ou de votre équipe avant de continuer**.
 
 Dans l'illustration ci-dessous, vous pouvez voir que certains des principes sont plus étroitement liés que d'autres, ce qui pourrait vous indiquer l'endroit par où commencer.
 

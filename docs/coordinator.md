@@ -7,7 +7,7 @@ prev_page_url: "timebox-activities.html"
 ---
 
 
-<div class="card summary"><div class="card-body">A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term</strong>.
+<div class="card summary"><div class="card-body">Une personne remplissant le rôle de coordinateur est redevable de <strong>la coordination des opérations d'un domaine</strong> et est <strong>sélectionnée pour un mandat limité</strong>.
 </div></div>
 
 Le coordinateur peut être sélectionné par l'équipe elle-même, ou par le <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</a>.

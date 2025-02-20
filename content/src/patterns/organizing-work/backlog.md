@@ -1,14 +1,14 @@
 # Backlog
 
 <summary>
-Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work. 
+Tenez à jour une liste de choses que vous devez adresser, afin de vous en souvenir, et utilisez ces informations pour planifier et organiser votre travail. 
 </summary>
 
 {{define:backlog}}
 
-Les Backlogs sont au cœur de tout système fiable et transparent pour l'organisation du travail et de la gouvernance. Pensez à rendre les backlogs visibles, pas seulement aux membres de l'équipe, mais aussi à toute l'organisation.
+Les Backlogs sont au cœur de tout système fiable et transparent pour l'organiser le travail et la gouvernance. Pensez à rendre les backlogs visibles, pas seulement aux membres de l'équipe, mais aussi à toute l'organisation.
 
-Plutôt que de se faire détourner lorsqu'un nouvel élément de travail surgit, prenez-en note dans le backlog approprié, afin de rester concentré sur le travail en cours.
+Plutôt que de vous interrompre lorsqu'un nouvel élément de travail surgit, notez le dans le backlog approprié, afin de rester concentré sur le travail en cours.
 
 Plusieurs types de backlog existent :
 
@@ -26,7 +26,7 @@ Plusieurs types de backlog existent :
 Chaque entrée d'un backlog (priorisé) contient typiquement :
 
 - une **courte description** de la tâche (généralement un [livrable](glossary:deliverable), une [exigence](glossary:requirement) ou un [driver](glossary:organizational-driver))
-- référence à d'autres projets ou ** tâches connexes**, ainsi qu'à toute **autre information pertinente**
-- an **estimate of the time** required to deal with it
+- référence à d'autres projets ou **tâches connexes**, ainsi qu'à toute **autre information pertinente**
+- une estimation **du temps nécessaire à** pour la traiter
 
 Il peut également être utile d'inclure : - une date d'échéance (si nécessaire) - une façon de visualiser le rang ou les priorités (voir [Backlog Priorisé](https://patterns.sociocracy30.org/prioritize-backlogs.html))

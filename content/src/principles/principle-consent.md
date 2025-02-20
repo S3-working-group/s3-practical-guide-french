@@ -7,7 +7,7 @@ La recherche délibérée d'objections est un moyen de puiser dans l'intelligenc
 
 L'adoption du principe de consentement invite à un changement d'orientation dans la prise de décision, en déplaçant l'intention rechercher un accord - «_Tout le monde peut-il être d'accord avec cela?_» - vers la pratique de vérifier délibérément les objections - y a-t-il des arguments qui soutiennent que ce n'est pas assez bon, pas assez sûr, ou qu'il y a des moyens valables de l'améliorer ?
 
-Le consentement ne signifie pas que tout le monde est activement impliqué dans la prise de toutes les décisions, car ce serait inefficace. Cela exige cependant un niveau de [transparence](section:principle-transparency) adéquat et une prise de conscience de la part des décideurs, d'informer et d'impliquer les personnes qui seraient impactées (à des degrés différents), ou d'inviter ceux qui peuvent apporter une expérience ou une expertise pertinente (voir [le principe d'équivalence](section:principle-equivalence)).
+Le consentement ne signifie pas que tout le monde est activement impliqué dans la prise de toutes les décisions, car ce serait inefficace. Cela exige cependant un niveau de [transparence](section:principle-transparency) adéquat et une prise de conscience de la part des décideurs, d'informer et d'impliquer les personnes qui seraient impactées (à des degrés différents), ou d'inviter ceux qui peuvent apporter une expérience ou une expertise pertinente (voir [Le Principe d'Équivalence](section:principle-equivalence)).
 
 
 ## Invitez le désaccord

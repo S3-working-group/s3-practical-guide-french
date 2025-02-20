@@ -1,4 +1,4 @@
-# Le Principe de l'Amélioration Continue
+# Le Principe d'Amélioration Continue
 
 _{{glossary:continuous-improvement}}_
 

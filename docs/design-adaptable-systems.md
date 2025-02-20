@@ -7,5 +7,5 @@ prev_page_url: "clarify-and-develop-strategy.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Develop a coherent set of constraints that enable the organization to easily adapt and grow to meet changing demand, customer requirements and market conditions.
+<div class="card summary"><div class="card-body">Développez un ensemble cohérent de contraintes qui permettent à l'organisation de s'adapter et de grandir facilement pour répondre à une demande changeante, aux exigences des clients et aux conditions du marché.
 </div></div>

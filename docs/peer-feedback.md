@@ -24,4 +24,4 @@ Pendant la session, essayez de :
 
 Évitez de discuter ou de juger les retours que vous recevez et n'oubliez pas de remercier votre interlocuteur d'avoir pris du temps pour vous.
 
-After the session, review your notes and decide for yourself what you will do with the feedback you received. It's your choice if you want to share your decision with your peer.
+Après la session, relisez vos notes et décidez par vous-même ce que vous ferez de ces retours. Si vous le souhaitez, partagez vos décisions avec votre interlocuteur.

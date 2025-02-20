@@ -11,4 +11,4 @@ Collaboration impliquant de multiples parties prenantes, partageant un driver (o
 
 **Note** : une organisation de service est souvent appelée **organisation vertébrale**.
 
-![Organisation de service](img/structural-patterns/service-organization-text.png)
+![Organisation de Service](img/structural-patterns/service-organization-text.png)

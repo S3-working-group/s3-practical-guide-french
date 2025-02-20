@@ -199,7 +199,7 @@ prev_page_url: "appendix.html"
 ## Changements du 11-09-2019
 
 - Principe de transparence : description revue pour clarifier que les informations doivent être enregistrées, puis transmises à tous les membres de l'organisation
-- Principe d'empirisme : clarifié que seules les hypothèses sur lesquelles on s'appuie doivent être testées
+- Principe d'Empirisme : clarifié que seules les hypothèses sur lesquelles on s'appuie doivent être testées
 
 ## Changements du 27-06-2019
 
