@@ -9,7 +9,7 @@ prev_page_url: "where-to-start.html"
 
 - [Historique des modifications](changelog.html)
 - [Liste alphabétique de toutes les pratiques](pattern-index.html)
-- [Example de description de domaine : département marketing](example-domain-description.html)
+- [Exemple de description de domaine : département marketing](example-domain-description.html)
 - [Liens](links.html)
 - [Licence](license.html)
 - [Avertissement](disclaimer.html)

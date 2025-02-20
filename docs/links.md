@@ -2,7 +2,7 @@
 title: "Liens"
 next_page_title: "Licence"
 next_page_url: "license.html"
-prev_page_title: "Example de description de domaine : département marketing"
+prev_page_title: "Exemple de description de domaine : département marketing"
 prev_page_url: "example-domain-description.html"
 ---
 
