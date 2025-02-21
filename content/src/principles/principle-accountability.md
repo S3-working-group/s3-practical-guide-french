@@ -38,7 +38,7 @@ Il ne suffit pas de clarifier ce que les gens peuvent et ne peuvent pas faire po
 
 -   **Implication** : plus les gens sont capables d'influencer les décisions qui les impactent, plus ils se les approprient, et plus il y a de chances qu'ils se sentent redevables des résultats (voir aussi : [Le principe d'équivalence](section:principle-equivalence))
 -   **Accès à l'information**: quand les gens ont la possibilité de savoir ce qui se passe au sein de l'organisation et pourquoi certaines décisions sont prises, ils peuvent comprendre comment mieux contribuer à l'ensemble en étant un membre participant activement et élégamment à l'organisation (voir aussi: [Le Principe de Transparence](section:principle-transparency))
--   **Le droit au désaccord **: lorsque les gens sont libres d'exprimer leurs opinions et d'apprendre à écouter et exprimer leur désaccord de manière constructive, l’organisation peut compter sur plus de perspectives, d’expériences et d’expertise, et les gens se sentent plus en sécurité psychologique et en contrôle (voir aussi : [Le principe de Consentement](section:principle-consent))
+-   **Le droit au désaccord** : lorsque les gens sont libres d'exprimer leurs opinions et d'apprendre à écouter et exprimer leur désaccord de manière constructive, l’organisation peut compter sur plus de perspectives, d’expériences et d’expertise, et les gens se sentent plus en sécurité psychologique et en contrôle (voir aussi : [Le principe de Consentement](section:principle-consent))
 
 ## Rendez explicites les responsabilités implicites
 

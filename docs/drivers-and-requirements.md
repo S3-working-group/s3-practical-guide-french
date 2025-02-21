@@ -9,8 +9,7 @@ prev_page_url: "making-sense-of-organizations.html"
 
 **Table des matières**
 
-- toc
-  {:toc}
+-
 
 
 _Un **driver organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables)._

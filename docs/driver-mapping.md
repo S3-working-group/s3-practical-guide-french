@@ -12,7 +12,7 @@ prev_page_url: "create-a-pull-system-for-organizational-change.html"
 
 **Table des matières**
 
-*
+* toc
 {:toc}
 
 

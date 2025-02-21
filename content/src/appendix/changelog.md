@@ -2,7 +2,7 @@
 
 <only presets="jekyll"> **Table des matières**
 
-- toc {:toc}
+- 
 
 </only>
 

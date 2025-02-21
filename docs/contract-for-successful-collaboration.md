@@ -12,8 +12,7 @@ prev_page_url: "defining-agreements.html"
 
 **Table des matières**
 
-- toc
-  {:toc}
+-
 
 
 ## Aperçu

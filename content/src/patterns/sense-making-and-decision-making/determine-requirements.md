@@ -7,8 +7,7 @@ Déterminer ce qui est requis pour répondre de manière appropriée à un drive
 <only presets="jekyll">
 **Table des matières**
 
-- toc
-  {:toc}
+-
 
 </only>
 

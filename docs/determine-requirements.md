@@ -12,8 +12,7 @@ prev_page_url: "describe-organizational-drivers.html"
 
 **Table des matières**
 
-- toc
-  {:toc}
+-
 
 
 ## Aperçu

@@ -14,8 +14,7 @@ prev_page_url: "pattern-index.html"
 
 **Table des matières**
 
-- toc
-  {:toc}
+-
 
 
 ## Raison d'être

@@ -8,7 +8,7 @@ prev_page_url: "appendix.html"
 
 
 
-- toc {:toc}
+- 
 
 
 ## Changements du 18-04-2024

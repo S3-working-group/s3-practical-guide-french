@@ -7,8 +7,7 @@ Soutenez une collaboration réussie dès le début et bâtissez une confiance mu
 <only presets="jekyll">
 **Table des matières**
 
-- toc
-  {:toc}
+-
 
 </only>
 

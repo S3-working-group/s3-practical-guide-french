@@ -7,7 +7,7 @@ Un format d’atelier permettant aux grands groupes de cocréer et de s’organi
 <only presets="jekyll">
 **Table des matières**
 
-*
+* toc
 {:toc}
 
 </only>
