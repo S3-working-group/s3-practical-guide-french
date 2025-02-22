@@ -190,7 +190,7 @@ prev_page_url: "changelog.html"
   <dd><p>Respond to all organizational drivers you are responsible for, in order of priority, by fulfilling the requirements you determine necessary in each case.</p></dd>
 
   <dt><a href="resolve-objections.html">Résoudre les Objections</a></dt>
-  <dd><p>Utilisez l'information révélée par une objection pour identifier les moyens de faire évoluer les propositions, les ententes et les actions vers un état suffisamment bon.</p></dd>
+  <dd><p>Utilisez les informations révélées par une objection pour améliorer les propositions, les accords et les actions afin qu'ils deviennent suffisamment bons.</p></dd>
 
   <dt><a href="retrospective.html">Rétrospective</a></dt>
   <dd><p>Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer les processus de travail.</p></dd>

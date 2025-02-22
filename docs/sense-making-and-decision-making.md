@@ -28,7 +28,7 @@ prev_page_url: "patterns.html"
   <dd><p>Gagnez en efficacité en ne traitant que les arguments qui se qualifient comme objections.</p></dd>
 
   <dt><a href="resolve-objections.html">Résoudre les Objections</a></dt>
-  <dd><p>Utilisez l'information révélée par une objection pour identifier les moyens de faire évoluer les propositions, les ententes et les actions vers un état suffisamment bon.</p></dd>
+  <dd><p>Utilisez les informations révélées par une objection pour améliorer les propositions, les accords et les actions afin qu'ils deviennent suffisamment bons.</p></dd>
 
   <dt><a href="evaluate-and-evolve-agreements.html">Évaluer et Améliorer des Accords</a></dt>
   <dd><p>Développez continuellement un corpus d'accords et éliminez le gaspillage.</p></dd>
