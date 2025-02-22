@@ -578,7 +578,7 @@ Les deux concepts peuvent être expliqués par rapport aux moteurs :
 
 _La **valeur** est l'importance ou l'utilité de quelque chose lié à un moteur._
 
-_Le **gaspillage** désigne tout ce qui est superflu ou qui entrave une réponse efficace à un moteur._
+_Le **gaspillage** désigne tout ce qui est superflu ou qui empêche une réponse efficace à un moteur._
 
 Il existe de nombreuses recherches sur le concept de valeur et de gaspillage dans les organisations. Nous vous encourageons à explorer cela par vous-même.
 
@@ -3023,7 +3023,7 @@ Les contractuels externes acceptent de prendre leur rôle.
 <div class="card summary"><div class="card-body">Intégrez les principes et pratiques S3 dans vos statuts et règlements pour protéger <strong>l'intégrité légale</strong> et la <strong>culture organisationnelle</strong>.
 </div></div>
 
-Consignez :
+Indiquez :
 
 -   le consentement et l'équivalence pour la prise de décision
 -   le processus de sélection pour les rôles de leadership
@@ -3240,7 +3240,7 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 
 #### Amélioration Continue des Méthodes de Travail
 
-<div class="card summary"><div class="card-body">Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour transformer l'organisation en améliorant continuellement le processus de travail.
+<div class="card summary"><div class="card-body">Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour améliorer continuellement les méthodes de travail.
 </div></div>
 
 - introduction du principe de consentement et de _Naviguer par tension_ pour faire évoluer les méthodes de travail d'une équipe
@@ -3252,11 +3252,11 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 
 ##### Gaspillage et Amélioration Continue
 
-_Le **gaspillage** désigne tout ce qui est superflu ou qui entrave une réponse efficace à un moteur._
+_Le **gaspillage** désigne tout ce qui est superflu ou qui empêche une réponse efficace à un moteur._
 
 Le gaspillage peut prendre différentes formes et se manifester à plusieurs niveaux (tâches, processus, structures organisationnelles, modèles mentaux, etc.).
 
-Mettre en place un processus d'amélioration continue permet à l’organisation d'évoluer naturellement vers une plus grande efficacité et de s'adapter à un contexte changeant.
+Instaurer un processus d'amélioration continue permet à l'organisation d'optimiser son efficacité et de s'adapter en permanence à son environnement.
 
 ![Moteurs, Valeur et Gaspillage](img/workflow-and-value/drivers-value-waste.png)
 
@@ -3493,7 +3493,7 @@ De nombreuses activités pour chaque phase peuvent être trouvées sur [plans-fo
 
 #### Réunion de Gouvernance
 
-<div class="card summary"><div class="card-body">Les équipes se rencontrent à intervalles réguliers pour décider de ce qu'il faut faire pour atteindre les objectifs et pour définir des contraintes sur la façon et le moment de faire les choses.
+<div class="card summary"><div class="card-body">Les équipes se réunissent régulièrement pour décider des actions à entreprendre afin d'atteindre leurs objectifs et pour définir les contraintes liées aux méthodes et aux échéances.
 </div></div>
 
 Une réunion de gouvernance est habituellement :
@@ -3523,7 +3523,7 @@ Un ordre du jour typique inclut :
 -  _Déterminer les Exigences_
 -  _élaborer des propositions_
 -  _passer des accords_
--  _concevoir des domaines_ et décider comment les exercer (ex : nouveaux _rôles_, _cercles_ ou tout autre type ou équipe)
+-  _concevoir des domaines_ et décider comment les exercer (ex : nouveaux _rôles_, _cercles_ ou tout autre type d'équipe)
 -  _affecter les personnes aux rôles_
 
 
@@ -4677,7 +4677,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.</p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Amélioration Continue des Méthodes de Travail</a></dt>
-  <dd><p>Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour transformer l'organisation en améliorant continuellement le processus de travail.</p></dd>
+  <dd><p>Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour améliorer continuellement les méthodes de travail.</p></dd>
 
   <dt><a href="role-selection.html">Attribution de Rôles</a></dt>
   <dd><p>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</p></dd>
@@ -4851,7 +4851,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Réunissez-vous régulièrement (généralement chaque semaine) pour rendre compte et coordonner le travail dans les domaines.</p></dd>
 
   <dt><a href="governance-meeting.html">Réunion de Gouvernance</a></dt>
-  <dd><p>Les équipes se rencontrent à intervalles réguliers pour décider de ce qu'il faut faire pour atteindre les objectifs et pour définir des contraintes sur la façon et le moment de faire les choses.</p></dd>
+  <dd><p>Les équipes se réunissent régulièrement pour décider des actions à entreprendre afin d'atteindre leurs objectifs et pour définir les contraintes liées aux méthodes et aux échéances.</p></dd>
 
   <dt><a href="planning-and-review-meetings.html">Réunions de Planification et d'Évaluation</a></dt>
   <dd><p>Les gens se rencontrent à intervalles réguliers (1-4 semaines) lors de réunions en temps limité pour planifier et évaluer le travail.</p></dd>

@@ -7,7 +7,7 @@ prev_page_url: "retrospective.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Les équipes se rencontrent à intervalles réguliers pour décider de ce qu'il faut faire pour atteindre les objectifs et pour définir des contraintes sur la façon et le moment de faire les choses.
+<div class="card summary"><div class="card-body">Les équipes se réunissent régulièrement pour décider des actions à entreprendre afin d'atteindre leurs objectifs et pour définir les contraintes liées aux méthodes et aux échéances.
 </div></div>
 
 Une réunion de gouvernance est habituellement :
@@ -37,7 +37,7 @@ Un ordre du jour typique inclut :
 -  [Déterminer les Exigences](determine-requirements.html)
 -  [élaborer des propositions](co-create-proposals.html)
 -  [passer des accords](consent-decision-making.html)
--  [concevoir des domaines](clarify-and-develop-domains.html) et décider comment les exercer (ex : nouveaux [rôles](role.html), [cercles](circle.html) ou tout autre type ou équipe)
+-  [concevoir des domaines](clarify-and-develop-domains.html) et décider comment les exercer (ex : nouveaux [rôles](role.html), [cercles](circle.html) ou tout autre type d'équipe)
 -  [affecter les personnes aux rôles](role-selection.html)
 
 

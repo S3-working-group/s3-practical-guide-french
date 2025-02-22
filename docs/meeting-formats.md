@@ -13,7 +13,7 @@ prev_page_url: "logbook-keeper.html"
   <dd><p>Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer les processus de travail.</p></dd>
 
   <dt><a href="governance-meeting.html">Réunion de Gouvernance</a></dt>
-  <dd><p>Les équipes se rencontrent à intervalles réguliers pour décider de ce qu'il faut faire pour atteindre les objectifs et pour définir des contraintes sur la façon et le moment de faire les choses.</p></dd>
+  <dd><p>Les équipes se réunissent régulièrement pour décider des actions à entreprendre afin d'atteindre leurs objectifs et pour définir les contraintes liées aux méthodes et aux échéances.</p></dd>
 
   <dt><a href="daily-standup.html">Point Quotidien</a></dt>
   <dd><p>Réunissez-vous chaque jour pour coordonner le travail, faciliter l'apprentissage, améliorer votre productivité et votre efficacité.</p></dd>

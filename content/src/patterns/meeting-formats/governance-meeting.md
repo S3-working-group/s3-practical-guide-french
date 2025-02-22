@@ -1,7 +1,7 @@
 # Réunion de Gouvernance
 
 <summary>
-Les équipes se rencontrent à intervalles réguliers pour décider de ce qu'il faut faire pour atteindre les objectifs et pour définir des contraintes sur la façon et le moment de faire les choses.
+Les équipes se réunissent régulièrement pour décider des actions à entreprendre afin d'atteindre leurs objectifs et pour définir les contraintes liées aux méthodes et aux échéances.
 </summary>
 
 Une réunion de gouvernance est habituellement :
@@ -31,7 +31,7 @@ Un ordre du jour typique inclut :
 -  [Déterminer les Exigences](section:determine-requirements)
 -  [élaborer des propositions](section:co-create-proposals)
 -  [passer des accords](section:consent-decision-making)
--  [concevoir des domaines](section:clarify-and-develop-domains) et décider comment les exercer (ex : nouveaux [rôles](section:role), [cercles](section:circle) ou tout autre type ou équipe)
+-  [concevoir des domaines](section:clarify-and-develop-domains) et décider comment les exercer (ex : nouveaux [rôles](section:role), [cercles](section:circle) ou tout autre type d'équipe)
 -  [affecter les personnes aux rôles](section:role-selection)
 
 

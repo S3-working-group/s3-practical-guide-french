@@ -7,7 +7,7 @@ prev_page_url: "open-space-for-change.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour transformer l'organisation en améliorant continuellement le processus de travail.
+<div class="card summary"><div class="card-body">Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour améliorer continuellement les méthodes de travail.
 </div></div>
 
 - introduction du principe de consentement et de [Naviguer par tension](navigate-via-tension.html) pour faire évoluer les méthodes de travail d'une équipe
@@ -19,10 +19,10 @@ prev_page_url: "open-space-for-change.html"
 
 ## Gaspillage et Amélioration Continue
 
-_Le **gaspillage** désigne tout ce qui est superflu ou qui entrave une réponse efficace à un moteur._
+_Le **gaspillage** désigne tout ce qui est superflu ou qui empêche une réponse efficace à un moteur._
 
 Le gaspillage peut prendre différentes formes et se manifester à plusieurs niveaux (tâches, processus, structures organisationnelles, modèles mentaux, etc.).
 
-Mettre en place un processus d'amélioration continue permet à l’organisation d'évoluer naturellement vers une plus grande efficacité et de s'adapter à un contexte changeant.
+Instaurer un processus d'amélioration continue permet à l'organisation d'optimiser son efficacité et de s'adapter en permanence à son environnement.
 
 ![Moteurs, Valeur et Gaspillage](img/workflow-and-value/drivers-value-waste.png)

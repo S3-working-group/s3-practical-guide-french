@@ -10,7 +10,7 @@ prev_page_url: "support-role.html"
 <div class="card summary"><div class="card-body">Intégrez les principes et pratiques S3 dans vos statuts et règlements pour protéger <strong>l'intégrité légale</strong> et la <strong>culture organisationnelle</strong>.
 </div></div>
 
-Consignez :
+Indiquez :
 
 -   le consentement et l'équivalence pour la prise de décision
 -   le processus de sélection pour les rôles de leadership

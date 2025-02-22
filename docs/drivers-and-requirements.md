@@ -56,7 +56,7 @@ Les deux concepts peuvent être expliqués par rapport aux moteurs :
 
 _La **valeur** est l'importance ou l'utilité de quelque chose lié à un moteur._
 
-_Le **gaspillage** désigne tout ce qui est superflu ou qui entrave une réponse efficace à un moteur._
+_Le **gaspillage** désigne tout ce qui est superflu ou qui empêche une réponse efficace à un moteur._
 
 Il existe de nombreuses recherches sur le concept de valeur et de gaspillage dans les organisations. Nous vous encourageons à explorer cela par vous-même.
 

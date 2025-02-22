@@ -25,7 +25,7 @@ prev_page_url: "changelog.html"
   <dd><p>Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.</p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Amélioration Continue des Méthodes de Travail</a></dt>
-  <dd><p>Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour transformer l'organisation en améliorant continuellement le processus de travail.</p></dd>
+  <dd><p>Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour améliorer continuellement les méthodes de travail.</p></dd>
 
   <dt><a href="role-selection.html">Attribution de Rôles</a></dt>
   <dd><p>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</p></dd>
@@ -199,7 +199,7 @@ prev_page_url: "changelog.html"
   <dd><p>Réunissez-vous régulièrement (généralement chaque semaine) pour rendre compte et coordonner le travail dans les domaines.</p></dd>
 
   <dt><a href="governance-meeting.html">Réunion de Gouvernance</a></dt>
-  <dd><p>Les équipes se rencontrent à intervalles réguliers pour décider de ce qu'il faut faire pour atteindre les objectifs et pour définir des contraintes sur la façon et le moment de faire les choses.</p></dd>
+  <dd><p>Les équipes se réunissent régulièrement pour décider des actions à entreprendre afin d'atteindre leurs objectifs et pour définir les contraintes liées aux méthodes et aux échéances.</p></dd>
 
   <dt><a href="planning-and-review-meetings.html">Réunions de Planification et d'Évaluation</a></dt>
   <dd><p>Les gens se rencontrent à intervalles réguliers (1-4 semaines) lors de réunions en temps limité pour planifier et évaluer le travail.</p></dd>
