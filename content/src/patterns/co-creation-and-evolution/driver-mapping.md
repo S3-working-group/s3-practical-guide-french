@@ -10,20 +10,20 @@ Identifiez les parties prenantes concernées, cartographiez les exigences connex
 
 Vous pouvez cartographier les moteurs pour :
 
-- organiser des start-ups, 
+- structurer des start-ups, 
 - lancer les projets, 
-- adresser des obstacles majeurs ou des opportunités, 
+- traiter des obstacles majeurs ou saisir des opportunités 
 - mettre en œuvre une stratégie
-- développer une structure organisationnelle pour mieux activer le flux de valeur.
+- optimiser une structure organisationnelle afin de fluidifier la création de valeur.
 
-Le résultat d'un atelier de cartographie des moteurs est typiquement :
+Le résultat d'un atelier de cartographie des motifs est typiquement :
 
 - une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes. 
 - une structure organisationnelle sur mesure qui rassemble tout le monde, y compris les domaines interconnectés pour gérer les dépendances.
 - une première ébauche des backlogs de gouvernance et d'opérations pour chaque sous-domaine identifié.
 - la délégation d'influence et l’affectation des personnes aux sous-domaines par auto-sélection et nomination.
 
-Bien que Cartographier les Moteurs serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi d’identifier et de distribuer la gouvernance et les moteurs opérationnels parmi les domaines existants dans une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
+Bien que la cartographie des moteurs serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi de clarifier la répartition de la gouvernance et des moteurs opérationnels au sein des domaines existants d'une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
 
 Dans une petite équipe ou un cercle (max. 6-8 personnes), lorsque la distribution du travail n'est pas prioritaire, l'équipe peut utiliser seulement les étapes 1-5, pour comprendre la portée et remplir le backlogs d’opérations et de gouvernance, puis utiliser "Élaborer une Proposition" ou toute autre approche pour identifier la stratégie et/ou les étapes suivantes.
 
@@ -34,7 +34,7 @@ En préparation :
 - Les participants peuvent déjà se préparer en réfléchissant et en consignant des idées d'acteurs et des besoins connexes.
 - Préparez un poster avec la description du domaine à présenter dans la première étape. Vous aurez également besoin de notes adhésives A5 et rectangulaires, de stylos et d'un grand mur pour travailler. 
 
-## Le processus de cartographie des moteurs :
+## Le processus de cartographie des moteurs  :
 
 Voici les étapes à suivre :
 
@@ -101,8 +101,8 @@ Considérez que cette étape est terminée, dès que vous vous êtes mis d’acc
 - Commencez avec au moins 1 ou 2 personnes possédant l'expertise. Utilisez les informations se trouvant les cartes, 
 - Vérifiez que tous les domaines sont suffisamment pris en compte 
 - Dans chaque groupe : 
-    - accordez-vous sur un nom de domaine.
-    - définissez le moteur principal du domaine (et ébauchez une brève description si nécessaire). 
+    - trouvez un nom pour le domaine.
+    - Définissez son moteur principal et son exigence principale (et ajoutez une brève description si nécessaire). 
 - Enfin, demandez à chaque groupe de présenter brièvement son domaine, et au cours de chaque présentation, recherchez les dépendances et les chevauchements entre ces domaines.
 
 Dans cette phase, certaines personnes peuvent errer entre les domaines jusqu'à ce qu'elles en trouvent un auquel elles ont le sentiment de pouvoir contribuer.
@@ -146,4 +146,4 @@ Que devons-nous encore examiner…
 
 ### 10. Célébrez !
 
-*Prenez un moment pour célébrer ce que vous avez accompli afin que votre organisation ou votre initiative démarre !*
+*Prenez un moment pour célébrer vos avancées et lancer votre organisation ou votre initiative sur de bonnes bases !*

@@ -37,7 +37,7 @@ prev_page_url: "patterns.html"
   <dd><p>Rassemblez les gens pour co-créer des propositions en réponse aux moteurs organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.</p></dd>
 
   <dt><a href="proposal-forming.html">Élaborer une Proposition</a></dt>
-  <dd><p>Un processus de groupe (facilité) pour co-créer une réponse à un motif.</p></dd>
+  <dd><p>Un processus de groupe (facilité) pour co-créer une réponse à un moteur.</p></dd>
 
   <dt><a href="reasoned-decision-making.html">Prise de Décision Raisonnée</a></dt>
   <dd><p>Engagez un dialogue productif en explorant les différentes perspectives et les connaissances des participants, afin de parvenir à un accord sur ce qui est considéré viable, pertinent, valide ou empiriquement vrai.</p></dd>

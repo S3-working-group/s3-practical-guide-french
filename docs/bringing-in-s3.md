@@ -22,5 +22,5 @@ prev_page_url: "helping-team.html"
   <dd><p>Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.</p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Amélioration Continue des Méthodes de Travail</a></dt>
-  <dd><p>Faites apparaître les moteurs et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.</p></dd>
+  <dd><p>Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour transformer l'organisation en améliorant continuellement le processus de travail.</p></dd>
 </dl>

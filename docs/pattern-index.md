@@ -25,7 +25,7 @@ prev_page_url: "changelog.html"
   <dd><p>Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.</p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Amélioration Continue des Méthodes de Travail</a></dt>
-  <dd><p>Faites apparaître les moteurs et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.</p></dd>
+  <dd><p>Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour transformer l'organisation en améliorant continuellement le processus de travail.</p></dd>
 
   <dt><a href="role-selection.html">Attribution de Rôles</a></dt>
   <dd><p>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</p></dd>
@@ -238,7 +238,7 @@ prev_page_url: "changelog.html"
   <dd><p>Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de toutes les tâches actuellement en attente, en cours ou terminées.</p></dd>
 
   <dt><a href="proposal-forming.html">Élaborer une Proposition</a></dt>
-  <dd><p>Un processus de groupe (facilité) pour co-créer une réponse à un motif.</p></dd>
+  <dd><p>Un processus de groupe (facilité) pour co-créer une réponse à un moteur.</p></dd>
 
   <dt><a href="open-team.html">Équipe Ouverte</a></dt>
   <dd><p>Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.</p></dd>

@@ -10,35 +10,35 @@ prev_page_url: "respond-to-organizational-drivers.html"
 <div class="card summary"><div class="card-body">Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié tout moteur organisationnel que vous découvrez.
 </div></div>
 
-**Challenges and opportunities** for an organization are revealed by people reflecting on the reasons why they experience tension.
+Les **défis et opportunités** pour une organisation émergent lorsque les individus réfléchissent aux raisons pour lesquelles ils ressentent une tension.
 
 
-## Step 1: Notice tension
+## Étape 1 : Identifier la tension
 
-In this context, _tension_ is an inner state of alert: a personal experience that's triggered when there's some kind of dissonance between an individual's perception of a situation, and what they expect or would prefer to see.
-
-
-## Step 2: Understand situation
-
-Investigate **the situation** you are perceiving that stimulates tension in you. Sometimes this inquiry can reveal misconceptions and the tension goes away.
+Dans ce contexte, une _tension_ est un état interne d'alerte : une expérience personnelle déclenchée lorsqu'il existe une dissonance entre la perception d’une situation par un individu et ce qu’il attend ou préférerait voir.
 
 
-## Step 3: Is this an Organizational Driver?
+## Étape 2 : Comprendre la situation
 
-A simple way to determine whether a driver is relevant for the organization is by asking the question:
-
-_Would responding to this situation help the organization to generate value, eliminate waste or avoid undesirable consequences?_
-
--   If you think the answer is **yes**, it's likely you've identified an organizational driver that needs a response.
--   If you think the answer is **no**, you can ignore the situation and focus on relevant things instead.
--   If you are **unclear**, investigate further, which might include reaching out to others who could have a clearer idea.
+Analysez la situation que vous percevez et qui génère une tension en vous. Parfois, cette enquête révèle des malentendus et la tension disparaît.
 
 
-## Step 4: Is it in my/our domain? If not, pass it on
+## Étape 3 : Est-ce un moteur organisationnel ?
 
-Ça pourrait être parce que le moteur tombe dans le périmètre d'un domaine dont vous êtes responsable, auquel cas vous voudriez le placer sur votre liste de priorités et y répondre en fonction (voir [Répondre aux Moteurs Organisationnels](respond-to-organizational-drivers.html)). Even if it does fall outside of your area of responsibility, it might still be something that you are best placed to deal with, or at the very least, you can take care of it without  causing any impediments or harm, in which case, consider just doing it. It might not be worth the effort to go and find somebody else and explain to them about the situation if it's something you can simply deal with yourself.
+Une manière simple de déterminer si un moteur est pertinent pour l'organisation est de se poser la question suivante :
 
-On other occasions however, you'll come across drivers that are the responsibility of others to respond to. Therefore, to Navigate Via Tension effectively, there needs to be enough clarity around who is responsible for what in the organization so that people know, or can find out, who to inform about new organizational drivers they discover, so they can pass that information on to them.
+_Répondre à cette situation aiderait-il l'organisation à créer de la valeur, éliminer du gaspillage ou éviter des conséquences indésirables ?_
+
+-   Si la réponse est **oui**, il est probable que vous ayez identifié un moteur organisationnel qui nécessite une réponse.
+-   Si la réponse est **non**, vous pouvez ignorer la situation et vous concentrer sur des éléments pertinents.
+-   Si la réponse est **incertaine**, approfondissez votre analyse, y compris en consultant d'autres personnes qui pourraient avoir une vision plus claire.
+
+
+## Étape 4 : Est-ce dans mon/notre domaine ?  Sinon, transmettez-le
+
+Si le moteur relève du périmètre d'un domaine dont vous êtes responsable, vous voudrez l'ajouter à votre liste de priorités et y répondre en conséquence (voir [Répondre aux Moteurs Organisationnels](respond-to-organizational-drivers.html)). Même s'il ne relève pas directement de votre domaine de responsabilité, il se peut que vous soyez la personne la mieux placée pour y répondre ou, à tout le moins, que vous puissiez le traiter sans créer d'entraves ou de dommages.  Dans ce cas, envisagez simplement de vous en occuper. Il ne vaut peut-être pas la peine de chercher une autre personne et de lui expliquer la situation si vous pouvez la gérer vous-même rapidement.
+
+Dans d'autres cas, vous identifierez des moteurs qui relèvent de la responsabilité d'autres personnes.  Pour que Naviguer par Tension soit efficace, il est essentiel d'avoir suffisamment de clarté sur qui est responsable de quoi dans l'organisation. Cela permet aux membres de savoir, ou de découvrir, à qui transmettre les nouveaux moteurs organisationnels qu'ils identifient, afin qu'ils soient pris en charge de manière appropriée.
 
 
 ![Naviguer par Tension](img/process/nvt.png)

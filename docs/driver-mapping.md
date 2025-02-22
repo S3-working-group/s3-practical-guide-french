@@ -24,20 +24,20 @@ Identifiez les parties prenantes concernées, cartographiez les exigences connex
 
 Vous pouvez cartographier les moteurs pour :
 
--   organiser des start-ups
+-   structurer des start-ups
 -   lancer les projets
--   adresser des obstacles majeurs ou des opportunités
+-   traiter des obstacles majeurs ou saisir des opportunités
 -   mettre en œuvre une stratégie
--   développer une structure organisationnelle pour mieux activer le flux de valeur
+-   optimiser une structure organisationnelle afin de fluidifier la création de valeur
 
-Le résultat d'un atelier de cartographie des moteurs est typiquement :
+Le résultat d'un atelier de cartographie des motifs est typiquement :
 
 -   une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes.
 -   une structure organisationnelle sur mesure qui rassemble tout le monde, y compris les domaines interconnectés pour gérer les dépendances.
 -   une première ébauche des backlogs de gouvernance et des opérations pour chaque sous-domaine identifié.
 -   la délégation d'influence et l’affectation des personnes aux sous-domaines par auto-sélection et nomination.
 
-Bien que Cartographier les Moteurs serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi d’identifier et de distribuer la gouvernance et les moteurs opérationnels parmi les domaines existants dans une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
+Bien que la cartographie des moteurs serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi de clarifier la répartition de la gouvernance et des moteurs opérationnels au sein des domaines existants d'une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
 
 Dans une petite équipe ou un petit cercle (max 6-8 personnes), lorsque la distribution du travail n'est pas une priorité, l'équipe peut n'utiliser que les étapes 1-5, pour comprendre le périmètre et remplir les backlogs opérationnels et de gouvernance, puis formuler des propositions ou utiliser une autre approche pour identifier ses stratégies et/ou ses prochaines étapes.
 
@@ -49,7 +49,7 @@ En préparation :
 -   Préparez un poster avec la description du domaine à présenter dans la première étape. Vous aurez également besoin de notes adhésives A5 et rectangulaires, de stylos et d'un grand mur pour travailler.
 
 
-## Le processus de cartographie des moteurs :
+## Le processus de cartographie des moteurs  :
 
 Voici les étapes à suivre :
 
@@ -58,10 +58,10 @@ Voici les étapes à suivre :
 
 ### 1. Pourquoi sommes-nous réunis?
 
-_Présenter et consentir au moteur principal et à l'exigence principale._
+_Présenter et valider le moteur principal ainsi que l'exigence principale._
 
 -   Présenter le moteur principal l'exigence principale au groupe
--   Consentement au moteur et à l'exigence – _Les descriptions du moteur et de l'exigence sont-elles suffisamment claires ? Est-ce un moteur organisationnel? Est-il pertinent pour le groupe de répondre à ce moteur ? Et est-ce que l'exigence est adéquate ?_
+-   Validation du moteur et de l"exigence – _Les descriptions sont-elles suffisamment claires ? Ce moteur est-il bien organisationnel ? L'exigence est-elle adéquate ? Et est-ce que l'exigence est adéquate ?_
 -   Clarifiez les contraintes existantes du délégant, par exemple le budget, la date d'échéance, les attentes, etc. Dans le cas d'un domaine existant, présentez la description du domaine. Invitez les participants à poser des questions mieux comprendre ce qui se passe et ce qui est nécessaire.
 -   Explicitez le niveau d'engagement qu'il est attendu des participants. Par exemple : les personnes sont censées être ici pour la durée de l'atelier seulement, ou pour la durée de l'initiative, etc.
 -   Enregistrez toutes les informations pertinentes qui apparaissent.
@@ -123,8 +123,8 @@ _Les participants s'organisent en plus petites équipes autour des différents d
 -   Ajoutez d'abord au moins 1 ou 2 personnes possédant une expertise. Utilisez les informations sur les cartes,
 -   Vérifiez que tous les domaines sont suffisamment pris en compte
 -   Dans chaque groupe :
-    -   accordez-vous sur un nom de domaine.
-    -   définissez le moteur principal et l'exigence principale pour le domaine (et ébauchez une brève description si c'est utile).
+    -   trouvez un nom pour le domaine.
+    -   Définissez son moteur principal et son exigence principale (et ajoutez une brève description si nécessaire).
 -   Enfin, demandez à chaque groupe de présenter brièvement son domaine, et au cours de chaque présentation, recherchez les dépendances et les chevauchements entre ces domaines.
 
 Dans cette phase, certaines personnes peuvent errer entre les domaines jusqu'à ce qu'elles en trouvent un auquel elles ont le sentiment de pouvoir contribuer.
@@ -144,7 +144,7 @@ _Organisez le travail à faire dans chaque domaine, assurez vous que les choses 
 -   Archivez toutes les _cartes d'exigences_ qui semblent superflues.
 -   Considérez le domaine et décrivez et priorisez les autres exigences qui n'ont peut-être pas été identifiées.
 -   Passez sur les cartes qui semblent être de la responsabilité d'un autre domaine
--   Mettre de côté les cartes relatives à plusieurs domaines. Vous pourrez les traiter à l'étape 8.
+-   Mettez de côté les cartes liées à plusieurs domaines. Elles seront traitées à l'étape 8. Vous pourrez les traiter à l'étape 8.
 
 En tant que facilitateur du processus de cartographie des moteurs, proposez un espace pour collecter des cartes concernant plusieurs domaines afin qu'elles puissent être traitées plus tard.
 
@@ -173,5 +173,5 @@ Que devons-nous encore examiner…
 
 ### 10. Célébrez!
 
-_Prenez un moment pour célébrer ce que vous avez accompli afin que votre organisation ou votre initiative démarre !_
+_Prenez un moment pour célébrer vos avancées et lancer votre organisation ou votre initiative sur de bonnes bases !_
 

@@ -534,7 +534,7 @@ Si vous ne comprenez pas l'un de ces termes, consultez notre glossaire à la fin
 ### Moteurs Organisationnels et Exigences
 
 
-_Un **moteur organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables)._
+_Un **moteur organisationnel** désigne une situation perçue par les membres de l'organisation comme méritant une réponse, car ils anticipent un bienfait pour l'organisation (création de valeur, réduction du gaspillage ou atténuation des risques aux conséquences indésirables)._
 
 _Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile._
 
@@ -554,21 +554,21 @@ Penser et décrire ses moteurs organisationnels et ses exigences permet :
 
 Identifier et comprendre des situations qui présentent des obstacles ou des opportunités potentielles par rapport aux objectifs d'une organisation est important si nous voulons cheminer avec succès dans notre travail quotidien et faire le meilleur usage de nos ressources, de notre énergie, et de notre limités.
 
-Cependant, toutes les situations qui motivent les membres d'une organisation à agir, ne sont pas pertinentes pour l'organisation. Avec le concept de moteurs organisationnels, nous donnons un nom à ces situations que les membres de l'organisation explorent et déterminent comme pertinentes à adresser car ils prévoient que cela sera bénéfique pour l'organisation - soit pour générer de la valeur, éliminer du gaspillage ou pour éviter certains risques ou conséquences indésirables.
+Cependant, toutes les situations qui incitent les membres d'une organisation à agir ne sont pas forcément pertinentes pour celle-ci. Avec le concept de moteurs organisationnels, nous donnons un nom à ces situations que les membres de l'organisation explorent et déterminent comme pertinentes à adresser car ils prévoient que cela sera bénéfique pour l'organisation - soit pour générer de la valeur, éliminer du gaspillage ou pour éviter certains risques ou conséquences indésirables.
 
 Comprendre les situations qui surviennent au cours du travail quotidien et déterminer si elles sont pertinentes à traiter, avant de décider comment y répondre, a les **bienfaits évidents** :
 
 - Une compréhension claire et précise d'une situation qui nécessite une intervention, **aide les gens à développer une meilleure idée de ce qu'il est nécessaire de traiter**. Un problème bien défini est un problème à moitié résolu (voir _Répondre aux Moteurs Organisationnels_)
-- Décrire explicitement un moteur aide à **communiquer efficacement** avec les autres et à **développer une compréhension partagée** de la situation et de sa pertinence pour l'organisation (voir _Décrire les Moteurs Organisationnels_)
+- Exprimer clairement un moteur permet de **mieux communiquer** avec les autres et de **construire une compréhension partagée** de la situation et de son impact pour l'organisation (voir _Décrire les Moteurs Organisationnels_).
 - Penser aux moteurs organisationnels aide les gens à réfléchir, à **comprendre et à communiquer sur les raisons pour lesquelles ils font ce qu'ils font**. Cela donne un moyen d'explorer et de rendre explicites les raisons de nos actions et de nos décisions et nous aide à comprendre **pourquoi nous sommes motivés à poursuivre certains buts et objectifs précis**.
-- Prendre le temps d'étudier les situations et leur pertinence potentielle, avant d'agir, aide à **déterminer si et quand une intervention vaut la peine**, parce que les gens peuvent se tromper, que ce soit sur les conclusions de ce qu'ils perçoivent, ou que ce soit sur la pertinence qu'ils attribuent aux situations qu'ils perçoivent (voir _Naviguer par Tension_).
+- Étudier les situations et leur pertinence avant d'agir aide à déterminer si et quand une intervention est nécessaire. En effet, les gens peuvent se tromper, que ce soit dans leur interprétation des faits ou dans leur évaluation de l'importance de la situation (voir _Naviguer par Tension_).
 - Être clair sur les raisons pour lesquelles vous faites des choses permettra **d'évaluer régulièrement les résultats** de vos actions et d'identifier des moyens d'améliorer votre approche. (Lorsque vous le faites, vérifiez également si le moteur organisationnel a changé : si la situation est différente ou si sa pertinence pour l'organisation a changé.)
 
-Déterminer si une situation est considérée comme un moteur organisationnel dépend de la compréhension adéquate du but global de l'organisation (son <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.">moteur principal</a> et de son  <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> principal, de sa <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">strategie</a>, de ses <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectifs</a>, de ses <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un moteur.">valeurs</a>, de ses <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a>, et ainsi de suite). Une fois qu'il est établi que répondre à une situation particulière serait bénéfique pour l'organisation, elle se qualifie comme moteur organisationnel et peut ensuite être priorisé en conséquence. Une telle diligence fait en sorte que les gens restent concentrés sur les défis et les possibilités qui sont pertinents pour les buts et les objectifs de l'organisation.
+Déterminer si une situation constitue un moteur organisationnel dépend d’une compréhension claire du but global de l’organisation (son <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.">moteur principal</a> son  <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> principale, sa <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">strategie</a>, ses <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectifs</a>, ses <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un moteur.">valeurs</a>, ses <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a>, et.). Une fois qu'il est établi que répondre à une situation particulière serait bénéfique pour l'organisation, elle se qualifie comme moteur organisationnel et peut ensuite être priorisé en conséquence. Une telle diligence fait en sorte que les gens restent concentrés sur les défis et les possibilités qui sont pertinents pour les buts et les objectifs de l'organisation.
 
 ##### Relations entre les moteurs organisationnels
 
-Tous les moteurs organisationnels découlent de la décision de répondre au moteur principal de l'organisation et de remplir son exigence principale. La décision de répondre à un moteur révèle souvent des étapes, des obstacles et des opportunités nécessaires qui doivent être pris en charge. Pour décrire la relation entre les moteurs organisationnels, nous utilisons les termes <a href="glossary.html#entry-subdriver" class="glossary-tooltip" data-toggle="tooltip" title="Sous-moteur: Un sous-moteur (ou sous-intention) surgit comme la conséquence d&#x27;un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.">Sous-moteur</a> et <a href="glossary.html#entry-superdriver" class="glossary-tooltip" data-toggle="tooltip" title="Super-moteur: voir Sous-moteur.">Super-moteur</a>.
+Tous les moteurs organisationnels découlent de la décision de répondre au moteur principal de l'organisation et de remplir son exigence principale. La décision de répondre à un moteur révèle souvent des étapes, des obstacles et des opportunités nécessaires qui doivent être pris en charge. Pour décrire la relation entre les moteurs organisationnels, nous utilisons les termes <a href="glossary.html#entry-subdriver" class="glossary-tooltip" data-toggle="tooltip" title="Sous-moteur: Un sous-moteur surgit comme la conséquence d&#x27;un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.">Sous-moteur</a> et <a href="glossary.html#entry-superdriver" class="glossary-tooltip" data-toggle="tooltip" title="Super-moteur: voir Sous-moteur.">Super-moteur</a>.
 
 ##### Moteurs, Valeur et Gaspillage
 
@@ -578,7 +578,7 @@ Les deux concepts peuvent être expliqués par rapport aux moteurs :
 
 _La **valeur** est l'importance ou l'utilité de quelque chose lié à un moteur._
 
-_Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un moteur._
+_Le **gaspillage** désigne tout ce qui est superflu ou qui entrave une réponse efficace à un moteur._
 
 Il existe de nombreuses recherches sur le concept de valeur et de gaspillage dans les organisations. Nous vous encourageons à explorer cela par vous-même.
 
@@ -867,35 +867,35 @@ For more information on reviewing agreements, check _Evaluate and Evolve Agreeme
 <div class="card summary"><div class="card-body">Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié tout moteur organisationnel que vous découvrez.
 </div></div>
 
-**Challenges and opportunities** for an organization are revealed by people reflecting on the reasons why they experience tension.
+Les **défis et opportunités** pour une organisation émergent lorsque les individus réfléchissent aux raisons pour lesquelles ils ressentent une tension.
 
 
-##### Step 1: Notice tension
+##### Étape 1 : Identifier la tension
 
-In this context, _tension_ is an inner state of alert: a personal experience that's triggered when there's some kind of dissonance between an individual's perception of a situation, and what they expect or would prefer to see.
-
-
-##### Step 2: Understand situation
-
-Investigate **the situation** you are perceiving that stimulates tension in you. Sometimes this inquiry can reveal misconceptions and the tension goes away.
+Dans ce contexte, une _tension_ est un état interne d'alerte : une expérience personnelle déclenchée lorsqu'il existe une dissonance entre la perception d’une situation par un individu et ce qu’il attend ou préférerait voir.
 
 
-##### Step 3: Is this an Organizational Driver?
+##### Étape 2 : Comprendre la situation
 
-A simple way to determine whether a driver is relevant for the organization is by asking the question:
-
-_Would responding to this situation help the organization to generate value, eliminate waste or avoid undesirable consequences?_
-
--   If you think the answer is **yes**, it's likely you've identified an organizational driver that needs a response.
--   If you think the answer is **no**, you can ignore the situation and focus on relevant things instead.
--   If you are **unclear**, investigate further, which might include reaching out to others who could have a clearer idea.
+Analysez la situation que vous percevez et qui génère une tension en vous. Parfois, cette enquête révèle des malentendus et la tension disparaît.
 
 
-##### Step 4: Is it in my/our domain? If not, pass it on
+##### Étape 3 : Est-ce un moteur organisationnel ?
 
-Ça pourrait être parce que le moteur tombe dans le périmètre d'un domaine dont vous êtes responsable, auquel cas vous voudriez le placer sur votre liste de priorités et y répondre en fonction (voir _Répondre aux Moteurs Organisationnels_). Even if it does fall outside of your area of responsibility, it might still be something that you are best placed to deal with, or at the very least, you can take care of it without  causing any impediments or harm, in which case, consider just doing it. It might not be worth the effort to go and find somebody else and explain to them about the situation if it's something you can simply deal with yourself.
+Une manière simple de déterminer si un moteur est pertinent pour l'organisation est de se poser la question suivante :
 
-On other occasions however, you'll come across drivers that are the responsibility of others to respond to. Therefore, to Navigate Via Tension effectively, there needs to be enough clarity around who is responsible for what in the organization so that people know, or can find out, who to inform about new organizational drivers they discover, so they can pass that information on to them.
+_Répondre à cette situation aiderait-il l'organisation à créer de la valeur, éliminer du gaspillage ou éviter des conséquences indésirables ?_
+
+-   Si la réponse est **oui**, il est probable que vous ayez identifié un moteur organisationnel qui nécessite une réponse.
+-   Si la réponse est **non**, vous pouvez ignorer la situation et vous concentrer sur des éléments pertinents.
+-   Si la réponse est **incertaine**, approfondissez votre analyse, y compris en consultant d'autres personnes qui pourraient avoir une vision plus claire.
+
+
+##### Étape 4 : Est-ce dans mon/notre domaine ?  Sinon, transmettez-le
+
+Si le moteur relève du périmètre d'un domaine dont vous êtes responsable, vous voudrez l'ajouter à votre liste de priorités et y répondre en conséquence (voir _Répondre aux Moteurs Organisationnels_). Même s'il ne relève pas directement de votre domaine de responsabilité, il se peut que vous soyez la personne la mieux placée pour y répondre ou, à tout le moins, que vous puissiez le traiter sans créer d'entraves ou de dommages.  Dans ce cas, envisagez simplement de vous en occuper. Il ne vaut peut-être pas la peine de chercher une autre personne et de lui expliquer la situation si vous pouvez la gérer vous-même rapidement.
+
+Dans d'autres cas, vous identifierez des moteurs qui relèvent de la responsabilité d'autres personnes.  Pour que Naviguer par Tension soit efficace, il est essentiel d'avoir suffisamment de clarté sur qui est responsable de quoi dans l'organisation. Cela permet aux membres de savoir, ou de découvrir, à qui transmettre les nouveaux moteurs organisationnels qu'ils identifient, afin qu'ils soient pris en charge de manière appropriée.
 
 
 ![Naviguer par Tension](img/process/nvt.png)
@@ -911,7 +911,7 @@ On other occasions however, you'll come across drivers that are the responsibili
 </div></div>
 
 
-_Un **moteur organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables)._
+_Un **moteur organisationnel** désigne une situation perçue par les membres de l'organisation comme méritant une réponse, car ils anticipent un bienfait pour l'organisation (création de valeur, réduction du gaspillage ou atténuation des risques aux conséquences indésirables)._
 
 Organizational drivers are identified by individuals (see _Navigate Via Tension_) who either respond to them directly (when a driver falls within their own domain of responsibility), or who pass on information about drivers they discover to others in the organization (whom they believe are responsible for dealing with them).
 
@@ -1144,7 +1144,7 @@ _Une **préoccupation** est une supposition qui ne peut (du moins pour le moment
 
 _Assurez-vous que le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a> et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> sont suffisamment bien résumés et qu'il est pertinent pour ce groupe de les traiter._
 
-Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Est-ce un moteur organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
 
 **Remarque :** Il est généralement recommandé de viser à terminer cette étape avec les participants à la réunion de manière asynchrone, _avant la réunion_. Cela vous donnera la possibilité d'apporter des précisions à l'avance et vous épargnera un temps précieux en réunion. Cependant, dans un cas où quelqu'un présente une proposition à un groupe de parties prenantes qui n'ont pas participé à sa création, ou s'il y a des personnes qui rejoignent tout juste le processus décisionnel, vérifiez que tout le monde comprend bien le moteur et l'exigence de la proposition, et assurez-vous qu'il est décrit assez clairement et qu'il est pertinent pour les personnes présentes d'y répondre, avant de considérer la proposition elle-même.
 
@@ -1603,21 +1603,21 @@ En plus d'ateliers en présentiel, vous pouvez adapter ce processus pour fonctio
 
 #### Élaborer une Proposition
 
-<div class="card summary"><div class="card-body">Un processus de groupe (facilité) pour co-créer une réponse à un motif.
+<div class="card summary"><div class="card-body">Un processus de groupe (facilité) pour co-créer une réponse à un moteur.
 </div></div>
 
 
 ##### Aperçu
 
 
-Proposal Forming involves people in co-creating agreements through a facilitated group process that draws on the collective intelligence and diversity of perspective within a group, and fosters accountability and sense of ownership.
+L'élaboration d'une proposition implique la co-création d'accords au sein d'un groupe facilité, en exploitant l'intelligence collective et la diversité des perspectives. Ce processus favorise la responsabilisation et le sentiment d'appropriation.
 
-_Proposal Forming_ may also be used by an individual.
+_Élaborer une Proposition_ peut également être utilisée par un individu.
 
 
 ##### Étapes d'élaboration d'une proposition
 
-**1. Consent to Driver and Requirement:** Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to.
+**1. Consentement au Moteur et à l'Exigence** Vérifiez que le moteur et l'exigence sont clairement résumés et pertinents pour le groupe.
 
 **2. Questions about the Driver and Requirement:** Deepen individual and shared understanding of the driver and Requirement.
 
@@ -1641,7 +1641,7 @@ _Proposal Forming_ may also be used by an individual.
 
 _Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to._
 
-Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Est-ce un moteur organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
 
 This first step is simply about ensuring that the driver is summarized clearly enough and that it's relevant for those who are involved to respond to it. Once the driver has been accepted, you'll have the chance to ask further questions and learn more in the next step
 
@@ -2626,20 +2626,20 @@ Identifiez les parties prenantes concernées, cartographiez les exigences connex
 
 Vous pouvez cartographier les moteurs pour :
 
--   organiser des start-ups
+-   structurer des start-ups
 -   lancer les projets
--   adresser des obstacles majeurs ou des opportunités
+-   traiter des obstacles majeurs ou saisir des opportunités
 -   mettre en œuvre une stratégie
--   développer une structure organisationnelle pour mieux activer le flux de valeur
+-   optimiser une structure organisationnelle afin de fluidifier la création de valeur
 
-Le résultat d'un atelier de cartographie des moteurs est typiquement :
+Le résultat d'un atelier de cartographie des motifs est typiquement :
 
 -   une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes.
 -   une structure organisationnelle sur mesure qui rassemble tout le monde, y compris les domaines interconnectés pour gérer les dépendances.
 -   une première ébauche des backlogs de gouvernance et des opérations pour chaque sous-domaine identifié.
 -   la délégation d'influence et l’affectation des personnes aux sous-domaines par auto-sélection et nomination.
 
-Bien que Cartographier les Moteurs serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi d’identifier et de distribuer la gouvernance et les moteurs opérationnels parmi les domaines existants dans une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
+Bien que la cartographie des moteurs serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi de clarifier la répartition de la gouvernance et des moteurs opérationnels au sein des domaines existants d'une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
 
 Dans une petite équipe ou un petit cercle (max 6-8 personnes), lorsque la distribution du travail n'est pas une priorité, l'équipe peut n'utiliser que les étapes 1-5, pour comprendre le périmètre et remplir les backlogs opérationnels et de gouvernance, puis formuler des propositions ou utiliser une autre approche pour identifier ses stratégies et/ou ses prochaines étapes.
 
@@ -2651,7 +2651,7 @@ En préparation :
 -   Préparez un poster avec la description du domaine à présenter dans la première étape. Vous aurez également besoin de notes adhésives A5 et rectangulaires, de stylos et d'un grand mur pour travailler.
 
 
-##### Le processus de cartographie des moteurs :
+##### Le processus de cartographie des moteurs  :
 
 Voici les étapes à suivre :
 
@@ -2660,10 +2660,10 @@ Voici les étapes à suivre :
 
 ###### 1. Pourquoi sommes-nous réunis?
 
-_Présenter et consentir au moteur principal et à l'exigence principale._
+_Présenter et valider le moteur principal ainsi que l'exigence principale._
 
 -   Présenter le moteur principal l'exigence principale au groupe
--   Consentement au moteur et à l'exigence – _Les descriptions du moteur et de l'exigence sont-elles suffisamment claires ? Est-ce un moteur organisationnel? Est-il pertinent pour le groupe de répondre à ce moteur ? Et est-ce que l'exigence est adéquate ?_
+-   Validation du moteur et de l"exigence – _Les descriptions sont-elles suffisamment claires ? Ce moteur est-il bien organisationnel ? L'exigence est-elle adéquate ? Et est-ce que l'exigence est adéquate ?_
 -   Clarifiez les contraintes existantes du délégant, par exemple le budget, la date d'échéance, les attentes, etc. Dans le cas d'un domaine existant, présentez la description du domaine. Invitez les participants à poser des questions mieux comprendre ce qui se passe et ce qui est nécessaire.
 -   Explicitez le niveau d'engagement qu'il est attendu des participants. Par exemple : les personnes sont censées être ici pour la durée de l'atelier seulement, ou pour la durée de l'initiative, etc.
 -   Enregistrez toutes les informations pertinentes qui apparaissent.
@@ -2725,8 +2725,8 @@ _Les participants s'organisent en plus petites équipes autour des différents d
 -   Ajoutez d'abord au moins 1 ou 2 personnes possédant une expertise. Utilisez les informations sur les cartes,
 -   Vérifiez que tous les domaines sont suffisamment pris en compte
 -   Dans chaque groupe :
-    -   accordez-vous sur un nom de domaine.
-    -   définissez le moteur principal et l'exigence principale pour le domaine (et ébauchez une brève description si c'est utile).
+    -   trouvez un nom pour le domaine.
+    -   Définissez son moteur principal et son exigence principale (et ajoutez une brève description si nécessaire).
 -   Enfin, demandez à chaque groupe de présenter brièvement son domaine, et au cours de chaque présentation, recherchez les dépendances et les chevauchements entre ces domaines.
 
 Dans cette phase, certaines personnes peuvent errer entre les domaines jusqu'à ce qu'elles en trouvent un auquel elles ont le sentiment de pouvoir contribuer.
@@ -2746,7 +2746,7 @@ _Organisez le travail à faire dans chaque domaine, assurez vous que les choses 
 -   Archivez toutes les _cartes d'exigences_ qui semblent superflues.
 -   Considérez le domaine et décrivez et priorisez les autres exigences qui n'ont peut-être pas été identifiées.
 -   Passez sur les cartes qui semblent être de la responsabilité d'un autre domaine
--   Mettre de côté les cartes relatives à plusieurs domaines. Vous pourrez les traiter à l'étape 8.
+-   Mettez de côté les cartes liées à plusieurs domaines. Elles seront traitées à l'étape 8. Vous pourrez les traiter à l'étape 8.
 
 En tant que facilitateur du processus de cartographie des moteurs, proposez un espace pour collecter des cartes concernant plusieurs domaines afin qu'elles puissent être traitées plus tard.
 
@@ -2775,7 +2775,7 @@ Que devons-nous encore examiner…
 
 ###### 10. Célébrez!
 
-_Prenez un moment pour célébrer ce que vous avez accompli afin que votre organisation ou votre initiative démarre !_
+_Prenez un moment pour célébrer vos avancées et lancer votre organisation ou votre initiative sur de bonnes bases !_
 
 
 
@@ -3240,7 +3240,7 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 
 #### Amélioration Continue des Méthodes de Travail
 
-<div class="card summary"><div class="card-body">Faites apparaître les moteurs et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.
+<div class="card summary"><div class="card-body">Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour transformer l'organisation en améliorant continuellement le processus de travail.
 </div></div>
 
 - introduction du principe de consentement et de _Naviguer par tension_ pour faire évoluer les méthodes de travail d'une équipe
@@ -3252,11 +3252,11 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 
 ##### Gaspillage et Amélioration Continue
 
-_Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un moteur._
+_Le **gaspillage** désigne tout ce qui est superflu ou qui entrave une réponse efficace à un moteur._
 
-Le gaspillage existe sous plusieurs formes et à différents niveaux (tâches, processus, structure organisationnelle, modèles mentaux, etc.)
+Le gaspillage peut prendre différentes formes et se manifester à plusieurs niveaux (tâches, processus, structures organisationnelles, modèles mentaux, etc.).
 
-Mettre en place un processus continu d'élimination du gaspillage permet l'évolution naturelle d'une organisation vers une plus grande efficacité, et l'adaptation à un contexte changeant.
+Mettre en place un processus d'amélioration continue permet à l’organisation d'évoluer naturellement vers une plus grande efficacité et de s'adapter à un contexte changeant.
 
 ![Moteurs, Valeur et Gaspillage](img/workflow-and-value/drivers-value-waste.png)
 
@@ -4677,7 +4677,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.</p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Amélioration Continue des Méthodes de Travail</a></dt>
-  <dd><p>Faites apparaître les moteurs et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.</p></dd>
+  <dd><p>Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour transformer l'organisation en améliorant continuellement le processus de travail.</p></dd>
 
   <dt><a href="role-selection.html">Attribution de Rôles</a></dt>
   <dd><p>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</p></dd>
@@ -4890,7 +4890,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Maintenez un système qui permet à toutes les parties prenantes d'évaluer l'état de toutes les tâches actuellement en attente, en cours ou terminées.</p></dd>
 
   <dt><a href="proposal-forming.html">Élaborer une Proposition</a></dt>
-  <dd><p>Un processus de groupe (facilité) pour co-créer une réponse à un motif.</p></dd>
+  <dd><p>Un processus de groupe (facilité) pour co-créer une réponse à un moteur.</p></dd>
 
   <dt><a href="open-team.html">Équipe Ouverte</a></dt>
   <dd><p>Occupez-vous délibérément d'un domaine sur invitation plutôt que par affectation et demandez que ceux qui sont invités contribuent quand ils peuvent.</p></dd>
@@ -5518,7 +5518,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Sous-domaine:** Un domaine entièrement contenu dans un autre domaine.
 
 
-**Sous-moteur:** Un sous-moteur (ou sous-intention) surgit comme la conséquence d'un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.
+**Sous-moteur:** Un sous-moteur surgit comme la conséquence d'un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.
 
 
 **Stratégie:** Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.

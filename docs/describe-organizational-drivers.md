@@ -16,7 +16,7 @@ prev_page_url: "navigate-via-tension.html"
 {:toc}
 
 
-_Un **moteur organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables)._
+_Un **moteur organisationnel** désigne une situation perçue par les membres de l'organisation comme méritant une réponse, car ils anticipent un bienfait pour l'organisation (création de valeur, réduction du gaspillage ou atténuation des risques aux conséquences indésirables)._
 
 Organizational drivers are identified by individuals (see [Navigate Via Tension](navigate-via-tension.html)) who either respond to them directly (when a driver falls within their own domain of responsibility), or who pass on information about drivers they discover to others in the organization (whom they believe are responsible for dealing with them).
 

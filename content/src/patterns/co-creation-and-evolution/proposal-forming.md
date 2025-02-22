@@ -1,7 +1,7 @@
 # Élaborer une Proposition
 
 <summary>
-<strong>Un processus de groupe (facilité) pour co-créer une réponse à un motif.</strong>
+<strong>Un processus de groupe (facilité) pour cocréer une réponse à un moteur.</strong>
 </summary>
 
 - s’appuie sur l’intelligence collective et la diversité des perspectives au sein d’un groupe

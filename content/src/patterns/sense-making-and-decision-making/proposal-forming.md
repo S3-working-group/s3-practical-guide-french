@@ -1,7 +1,7 @@
 # Élaborer une Proposition
 
 <summary>
-Un processus de groupe (facilité) pour co-créer une réponse à un motif.
+Un processus de groupe (facilité) pour co-créer une réponse à un moteur.
 </summary>
 
 <only presets="jekyll">
@@ -15,14 +15,14 @@ Un processus de groupe (facilité) pour co-créer une réponse à un motif.
 ## Aperçu
 
 
-Proposal Forming involves people in co-creating agreements through a facilitated group process that draws on the collective intelligence and diversity of perspective within a group, and fosters accountability and sense of ownership.
+L'élaboration d'une proposition implique la co-création d'accords au sein d'un groupe facilité, en exploitant l'intelligence collective et la diversité des perspectives. Ce processus favorise la responsabilisation et le sentiment d'appropriation.
 
-_Proposal Forming_ may also be used by an individual.
+_Élaborer une Proposition_ peut également être utilisée par un individu.
 
 
 ## Étapes d'élaboration d'une proposition
 
-**1. Consent to Driver and Requirement:** Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to.
+**1. Consentement au Moteur et à l'Exigence** Vérifiez que le moteur et l'exigence sont clairement résumés et pertinents pour le groupe.
 
 **2. Questions about the Driver and Requirement:** Deepen individual and shared understanding of the driver and Requirement.
 
@@ -46,7 +46,7 @@ _Proposal Forming_ may also be used by an individual.
 
 _Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to._
 
-Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Est-ce un moteur organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
 
 This first step is simply about ensuring that the driver is summarized clearly enough and that it's relevant for those who are involved to respond to it. Once the driver has been accepted, you'll have the chance to ask further questions and learn more in the next step
 

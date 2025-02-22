@@ -225,7 +225,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-subdriver">Sous-moteur</dt>
-<dd>Un sous-moteur (ou sous-intention) surgit comme la conséquence d'un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.</dd>
+<dd>Un sous-moteur surgit comme la conséquence d'un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.</dd>
 
 
 <dt id="entry-strategy">Stratégie</dt>

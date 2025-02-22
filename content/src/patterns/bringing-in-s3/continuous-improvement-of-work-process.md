@@ -1,7 +1,7 @@
 # Amélioration Continue des Méthodes de Travail
 
 <summary>
-Faites apparaître les moteurs et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.
+Identifiez les moteurs et mettez en place un système mesurable à flux tirés pour transformer l'organisation en améliorant continuellement le processus de travail.
 </summary>
 
 - introduction du principe de consentement et de [Naviguer par tension](section:navigate-via-tension) pour faire évoluer les méthodes de travail d'une équipe
@@ -15,8 +15,8 @@ Faites apparaître les moteurs et établissez in système mesurable à flux tir�
 
 {{define:waste}}
 
-Le gaspillage existe sous plusieurs formes et à différents niveaux (tâches, processus, structure organisationnelle, modèles mentaux, etc.)
+Le gaspillage peut prendre différentes formes et se manifester à plusieurs niveaux (tâches, processus, structures organisationnelles, modèles mentaux, etc.).
 
-Mettre en place un processus continu d'élimination du gaspillage permet l'évolution naturelle d'une organisation vers une plus grande efficacité, et l'adaptation à un contexte changeant.
+Mettre en place un processus d'amélioration continue permet à l’organisation d'évoluer naturellement vers une plus grande efficacité et de s'adapter à un contexte changeant.
 
 ![Moteurs, Valeur et Gaspillage](img/workflow-and-value/drivers-value-waste.png)

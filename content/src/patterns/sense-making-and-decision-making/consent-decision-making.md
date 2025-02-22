@@ -34,7 +34,7 @@ Tous les arguments présentés ne sont pas des objections, mais ils peuvent rév
 
 _Assurez-vous que le [moteur](glossary:organizational-driver) et l'[exigence](glossary:requirement) sont suffisamment bien résumés et qu'il est pertinent pour ce groupe de les traiter._
 
-Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Est-ce un moteur organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
 
 **Remarque :** Il est généralement recommandé de viser à terminer cette étape avec les participants à la réunion de manière asynchrone, [avant la réunion](section:prepare-for-meetings). Cela vous donnera la possibilité d'apporter des précisions à l'avance et vous épargnera un temps précieux en réunion. Cependant, dans un cas où quelqu'un présente une proposition à un groupe de parties prenantes qui n'ont pas participé à sa création, ou s'il y a des personnes qui rejoignent tout juste le processus décisionnel, vérifiez que tout le monde comprend bien le moteur et l'exigence de la proposition, et assurez-vous qu'il est décrit assez clairement et qu'il est pertinent pour les personnes présentes d'y répondre, avant de considérer la proposition elle-même.
 
