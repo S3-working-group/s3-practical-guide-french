@@ -12,7 +12,7 @@ prev_page_url: "navigation.html"
 Des pratiques essentielles pour vous y aider :
 
 - [Clarifier et Affiner les Domaines](clarify-and-develop-domains.html) – Clarifier le domaine d'influence, d'activité et de prise de décision d'une équipe ou d'un porteur de rôle, leur permet de comprendre la valeur qu'ils sont censés apporter.
-- [Répondre aux Drivers Organisationnels](respond-to-organizational-drivers.html) – S'assurer que les membres d'une organisation réagissent aux obstacles et aux opportunités adéquates maximise le potentiel de création de valeur de l'organisation.
+- [Répondre aux Moteurs Organisationnels](respond-to-organizational-drivers.html) – S'assurer que les membres d'une organisation réagissent aux obstacles et aux opportunités adéquates maximise le potentiel de création de valeur de l'organisation.
 - [Prioriser les Backlogs](prioritize-backlogs.html) – Lorsque vous priorisez votre liste de tâches par valeur, celles à travailler en premier deviennent évidentes.
 - [Limiter le Travail en Cours](limit-work-in-progress.html) – Limiter le nombre de tâches simultanées des personnes et des équipes aide à maintenir un flux de valeur soutenu et encourage la collaboration lorsque le travail se trouve bloqué.
 - [Point Quotidien](daily-standup.html) – Un point quotidien donne à une équipe l'espace nécessaire pour organiser sa création de valeur pour la journée à venir.

@@ -7,12 +7,12 @@ prev_page_url: "evaluate-and-evolve-agreements.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Rassemblez les gens pour co-créer des propositions en réponse aux drivers organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.
+<div class="card summary"><div class="card-body">Rassemblez les gens pour co-créer des propositions en réponse aux moteurs organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.
 </div></div>
 
 Il existe de nombreuses façons de co-créer des propositions. Elles suivent généralement un modèle similaire :
 
-1. S'accorder sur le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> (ou problème/opportunité/besoins)
+1. S'accorder sur le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a> et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> (ou problème/opportunité/besoins)
 2. Explorer le sujet et comprendre les contraintes
 3. Générer des idées
 4. Formuler une proposition (souvent en petit groupe)

@@ -12,7 +12,7 @@ La clarification des domaines explicite le contrat entre [délégants](glossary:
 
 Un moyen simple d'aider les parties prenantes à développer une compréhension partagée des différents aspects d'un domaine est de créer une **description de domaine** qui contient les informations suivantes :
 
--   Driver primaire (et/ou raison d’être)
+-   Moteur principal (et/ou raison d’être)
 -   Responsabilités Clés
 -   Dépendances
 -   Contraintes externes
@@ -69,15 +69,15 @@ Tous les éléments suivants sont importants à considérer lors de la clarifica
 ![Un modèle pour les descriptions de domaine](img/templates/domain-description-template.png)
 
 
-### Driver Primaire
+### Moteur Principal
 
 Expliquez comment le ou les délégués contribueront à la raison d'être générale de l'organisation, en clarifiant les besoins organisationnels spécifiques dont ils s'occuperont.
 
-Décrivez le driver primaire auquel les délégués devront répondre, par exemple en utilisant la pratique [Décrire les Drivers Organisationnels](section:describe-organizational-drivers).
+Décrivez le moteur principal auquel les délégués devront répondre, par exemple en utilisant la pratique [Décrire les Moteurs Organisationnels](section:describe-organizational-drivers).
 
 N'utilisez pas plus d'une ou deux phrases, afin que l'information soit facile à retenir et à traiter.
 
-Outre ce résumé, plus de détails sur le driver peuvent être consignés dans le [registre](section:logbook).
+Outre ce résumé, plus de détails sur le moteur peuvent être consignés dans le [registre](section:logbook).
 
 
 ### Responsabilités Clés
@@ -131,7 +131,7 @@ Quels sont les défis connus ou attendus auxquels les délégués pourraient êt
 
 ### Livrables clés
 
-Qu’est-ce que l’équipe ou le rôle fait pour répondre à son driver primaire, aux responsabilités et défis clés rencontrés ?
+Qu’est-ce que l’équipe ou le rôle fait pour répondre à son moteur principal, aux responsabilités et défis clés rencontrés ?
 
 En tant que délégant, examinez attentivement dans quelle mesure vous laisserez la conception des livrables aux délégués, qui pourront ensuite définir les livrables et les ajouter à la description du domaine plus tard. Laisser les délégués mener la conception des livrables leur permet souvent de délivrer de la valeur grâce à leurs qualités et leurs intérêts.
 
@@ -165,7 +165,7 @@ Décrivez les responsabilités du délégant avec des termes concrets et mesurab
 
 ### Indicateurs Clés
 
-Les [Indicateurs Clés](glossary:metric)  sont des statistiques qui permettent de suivre le progrès, la santé ou la performance d'un projet. Ils se rapportent au driver primaire (et/ou la raison d'être), aux responsabilités clés, aux défis, aux livrables et aux responsabilités du délégant de ce domaine.
+Les [Indicateurs Clés](glossary:metric)  sont des statistiques qui permettent de suivre le progrès, la santé ou la performance d'un projet. Ils se rapportent au moteur principal (et/ou la raison d'être), aux responsabilités clés, aux défis, aux livrables et aux responsabilités du délégant de ce domaine.
 
 Les Indicateurs Clés sont suivis et analysés fréquemment. Ce sont des critères pertinents pour évaluer les résultats et la réussite lors des évaluations planifiées (voir « Évaluation » ci-dessous).
 

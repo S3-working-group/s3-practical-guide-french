@@ -1,5 +1,5 @@
 ---
-title: "Cartographier les Drivers"
+title: "Cartographier les Moteurs"
 next_page_title: "Progresser entre Pairs"
 next_page_url: "peer-development.html"
 prev_page_title: "Changements Organisationnels en Flux Tiré"
@@ -22,7 +22,7 @@ Au cours de l’atelier, les participants sont pleinement responsables du proces
 
 Identifiez les parties prenantes concernées, cartographiez les exigences connexes et utilisez-les pour identifier les choses à faire et les décisions à prendre, pour répartir le travail et définir une structure initiale de collaboration.
 
-Vous pouvez cartographier les drivers pour :
+Vous pouvez cartographier les moteurs pour :
 
 -   organiser des start-ups
 -   lancer les projets
@@ -30,38 +30,38 @@ Vous pouvez cartographier les drivers pour :
 -   mettre en œuvre une stratégie
 -   développer une structure organisationnelle pour mieux activer le flux de valeur
 
-Le résultat d'un atelier de cartographie des drivers est typiquement :
+Le résultat d'un atelier de cartographie des moteurs est typiquement :
 
 -   une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes.
 -   une structure organisationnelle sur mesure qui rassemble tout le monde, y compris les domaines interconnectés pour gérer les dépendances.
 -   une première ébauche des backlogs de gouvernance et des opérations pour chaque sous-domaine identifié.
 -   la délégation d'influence et l’affectation des personnes aux sous-domaines par auto-sélection et nomination.
 
-Bien que Cartographier les Drivers serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi d’identifier et de distribuer la gouvernance et les drivers opérationnels parmi les domaines existants dans une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
+Bien que Cartographier les Moteurs serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi d’identifier et de distribuer la gouvernance et les moteurs opérationnels parmi les domaines existants dans une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
 
 Dans une petite équipe ou un petit cercle (max 6-8 personnes), lorsque la distribution du travail n'est pas une priorité, l'équipe peut n'utiliser que les étapes 1-5, pour comprendre le périmètre et remplir les backlogs opérationnels et de gouvernance, puis formuler des propositions ou utiliser une autre approche pour identifier ses stratégies et/ou ses prochaines étapes.
 
 En préparation :
 
 -   Invitez des personnes qui peuvent apporter une contribution pertinente à ce projet. Envoyer l'ordre du jour de l'atelier à l'avance.
--   Envoyez à l'avance une description du driver primaire et de l'exigence principale sur lesquels vous travaillerez, et dans le cas d'un domaine existant, la description du domaine pour le projet ou l'initiative afin que les gens puissent se familiariser avec. Essayez de résoudre toute objection avant l'atelier.
+-   Envoyez à l'avance une description du moteur principal et de l'exigence principale sur lesquels vous travaillerez, et dans le cas d'un domaine existant, la description du domaine pour le projet ou l'initiative afin que les gens puissent se familiariser avec. Essayez de résoudre toute objection avant l'atelier.
 -   Les participants peuvent déjà se préparer en réfléchissant et en consignant des idées d'acteurs et des besoins connexes.
 -   Préparez un poster avec la description du domaine à présenter dans la première étape. Vous aurez également besoin de notes adhésives A5 et rectangulaires, de stylos et d'un grand mur pour travailler.
 
 
-## Le processus de cartographie des drivers :
+## Le processus de cartographie des moteurs :
 
 Voici les étapes à suivre :
 
-![Cartographier les Drivers : Le Processus](img/process/driver-mapping.png)
+![Cartographier les Moteurs : Le Processus](img/process/driver-mapping.png)
 
 
 ### 1. Pourquoi sommes-nous réunis?
 
-_Présenter et consentir au driver primaire et à l'exigence principale._
+_Présenter et consentir au moteur principal et à l'exigence principale._
 
--   Présenter le driver primaire l'exigence principale au groupe
--   Consentement au driver et à l'exigence – _Les descriptions du driver et de l'exigence sont-elles suffisamment claires ? Est-ce un driver organisationnel? Est-il pertinent pour le groupe de répondre à ce driver ? Et est-ce que l'exigence est adéquate ?_
+-   Présenter le moteur principal l'exigence principale au groupe
+-   Consentement au moteur et à l'exigence – _Les descriptions du moteur et de l'exigence sont-elles suffisamment claires ? Est-ce un moteur organisationnel? Est-il pertinent pour le groupe de répondre à ce moteur ? Et est-ce que l'exigence est adéquate ?_
 -   Clarifiez les contraintes existantes du délégant, par exemple le budget, la date d'échéance, les attentes, etc. Dans le cas d'un domaine existant, présentez la description du domaine. Invitez les participants à poser des questions mieux comprendre ce qui se passe et ce qui est nécessaire.
 -   Explicitez le niveau d'engagement qu'il est attendu des participants. Par exemple : les personnes sont censées être ici pour la durée de l'atelier seulement, ou pour la durée de l'initiative, etc.
 -   Enregistrez toutes les informations pertinentes qui apparaissent.
@@ -77,7 +77,7 @@ _Qui sera affecté lorsque nous remplirons les exigences afférentes ? Consid�
 
 ### 3. Que faut-il faire?
 
-_Considérez les différents acteurs et décrivez ce qui est nécessaire : de quoi ont-ils besoin dans le contexte du driver primaire, et qu'attendons-nous d'eux ?_
+_Considérez les différents acteurs et décrivez ce qui est nécessaire : de quoi ont-ils besoin dans le contexte du moteur principal, et qu'attendons-nous d'eux ?_
 
 -   Écrivez chaque suggestion sur une note adhésive séparée (carte d'exigence)
 -   Décrivez l'exigence ainsi que l'impact prévu du respect de l'exigence
@@ -85,7 +85,7 @@ _Considérez les différents acteurs et décrivez ce qui est nécessaire : de qu
 -   Ajoutez le nom de l'acteur dans le coin supérieur gauche de la carte
 -   Ajoutez votre nom dans le coin supérieur droit de la carte
 
-![Cartographier les Drivers : une Carte d'Exigence](img/templates/requirement-card.png)
+![Cartographier les Moteurs : une Carte d'Exigence](img/templates/requirement-card.png)
 
 
 ### 4. Identifiez l'expérience et l'expertise
@@ -124,7 +124,7 @@ _Les participants s'organisent en plus petites équipes autour des différents d
 -   Vérifiez que tous les domaines sont suffisamment pris en compte
 -   Dans chaque groupe :
     -   accordez-vous sur un nom de domaine.
-    -   définissez le driver primaire et l'exigence principale pour le domaine (et ébauchez une brève description si c'est utile).
+    -   définissez le moteur principal et l'exigence principale pour le domaine (et ébauchez une brève description si c'est utile).
 -   Enfin, demandez à chaque groupe de présenter brièvement son domaine, et au cours de chaque présentation, recherchez les dépendances et les chevauchements entre ces domaines.
 
 Dans cette phase, certaines personnes peuvent errer entre les domaines jusqu'à ce qu'elles en trouvent un auquel elles ont le sentiment de pouvoir contribuer.
@@ -146,11 +146,11 @@ _Organisez le travail à faire dans chaque domaine, assurez vous que les choses 
 -   Passez sur les cartes qui semblent être de la responsabilité d'un autre domaine
 -   Mettre de côté les cartes relatives à plusieurs domaines. Vous pourrez les traiter à l'étape 8.
 
-En tant que facilitateur du processus de cartographie des drivers, proposez un espace pour collecter des cartes concernant plusieurs domaines afin qu'elles puissent être traitées plus tard.
+En tant que facilitateur du processus de cartographie des moteurs, proposez un espace pour collecter des cartes concernant plusieurs domaines afin qu'elles puissent être traitées plus tard.
 
 Faites des pauses régulières pour partager les rapports entre les différents domaines. Remarque : Certains domaines peuvent être dissous, modifiés ou fusionnés avec d'autres.
 
-![Cartographier les Drivers : un Modèle pour les Domaines](img/templates/domain-template.png)
+![Cartographier les Moteurs : un Modèle pour les Domaines](img/templates/domain-template.png)
 
 
 ### 8. Connecter les domaines

@@ -20,7 +20,7 @@ Une équipe de soutien :
 Les membres de l'équipe de soutien :
 
 - peuvent objecter les décisions du délégant qui les affectent
-- peuvent ajouter des entrées au <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog de Gouvernance: Une liste visible, priorisée de sujets (drivers et/ou exigences) relatifs à la gouvernance d&#x27;un domaine.">backlog de gouvernance</a> du délégant
+- peuvent ajouter des entrées au <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog de Gouvernance: Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d&#x27;un domaine.">backlog de gouvernance</a> du délégant
 - peuvent être invités à sélectionner un [représentant](representative.html) pour participer aux décisions de gouvernance du délégant
 
 ![Équipe de Soutien](img/structural-patterns/helping-team.png)

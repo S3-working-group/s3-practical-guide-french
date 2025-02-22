@@ -12,7 +12,7 @@ prev_page_url: "double-linking.html"
 
 Les représentants (les liens):
 
-- défendent les intérêts d'une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a> dans une autre
+- défendent les intérêts d'une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a> dans une autre
 - sont élus pour une durée limitée
 - participent aux **décisions de gouvernance** de l'équipe avec laquelle ils sont reliés, et peuvent : 
     - porter des points à l'ordre du jour

@@ -12,6 +12,6 @@ prev_page_url: "principle-9-develop-culture.html"
 Des pratiques essentielles pour vous y aider :
 
 - [Naviguer par Tension](navigate-via-tension.html) – Rechercher, et traiter les situations qui requièrent d'établir ou d'affiner un modèle mental partagé, aide les gens à mieux se comprendre et à avoir un dialogue productif.
-- [Déterminer les Exigences](determine-requirements.html) – Déterminer ce qui est nécessaire pour adresser un driver avant d'engager des actions aide à développer une compréhension partagée de la direction à suivre et du périmètre de la réponse.
+- [Déterminer les Exigences](determine-requirements.html) – Déterminer ce qui est nécessaire pour adresser un moteur avant d'engager des actions aide à développer une compréhension partagée de la direction à suivre et du périmètre de la réponse.
 - [Clarifier et Affiner les Domaines](clarify-and-develop-domains.html) – Clarifier et documenter explicitement des domaines de responsabilité donne un modèle mental partagé des attentes et des responsabilités de chacun.
 - [Clarifier le Résultat Attendu](clarify-intended-outcome.html) – Lorsque les gens commencent par s'accorder sur le résultat attendu d'une activité, d'un projet ou d'une proposition, ils développent une compréhension partagée d'où il faut aller et peuvent ensuite entamer un dialogue productif sur la façon d'y arriver.

@@ -29,7 +29,7 @@ Un ordre du jour typique inclut :
 - de brefs rapports
 - l'examen des [accords](glossary:agreement) qui doivent être évalués
 - la sélection des porteurs de rôles
-- de nouveaux drivers nécessitant des prises de décisions, comme : 
+- de nouveaux moteurs nécessitant des prises de décisions, comme : 
     - [élaborer des propositions](section:co-create-proposals)
     - [créer des accords](section:consent-decision-making)
     - [concevoir des domaines](section:clarify-and-develop-domains) et décider comment s'en occuper (ex : de nouveaux [rôles](section:role), [cercles](section:circle), équipes ou [domaines ouverts](section:open-domain))

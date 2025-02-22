@@ -14,7 +14,7 @@
 
 ## Raison d'être
 
-**Driver primaire** : la croissance de l'organisation est actuellement freinée par un manque d'image de marque et de pénétration du marché, malgré un produit qui répond bien aux attentes du marché. Cela entraîne une baisse du volume des ventes et un ralentissement du taux d'acquisition client par rapport à ce qui est possible, étant donné que nous voulons maintenir notre croissance et notre part de marché dans une industrie où l'innovation est rapide et la concurrence élevée.
+**Moteur principal** : la croissance de l'organisation est actuellement freinée par un manque d'image de marque et de pénétration du marché, malgré un produit qui répond bien aux attentes du marché. Cela entraîne une baisse du volume des ventes et un ralentissement du taux d'acquisition client par rapport à ce qui est possible, étant donné que nous voulons maintenir notre croissance et notre part de marché dans une industrie où l'innovation est rapide et la concurrence élevée.
 
 **Exigences principales:** Nous devons élever le profil de la marque de l'entreprise et articuler la proposition de valeur unique de nos produits sur le marché cible, afin que les clients potentiels comprennent pourquoi notre produit est le bon choix pour eux, ce qui entraînera une croissance de l'engagement client et des revenus.
 

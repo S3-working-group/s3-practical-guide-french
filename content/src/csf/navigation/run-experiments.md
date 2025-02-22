@@ -5,7 +5,7 @@
 
 Des pratiques essentielles pour vous y aider :
 
--   [Décrire les Drivers Organisationnels](section:describe-organizational-drivers) – Construire un modèle mental partagé de la situation que vous voulez aborder, est essentiel pour réussir à concevoir, exécuter et ultérieurement évaluer vos expériences.
+-   [Décrire les Moteurs Organisationnels](section:describe-organizational-drivers) – Construire un modèle mental partagé de la situation que vous voulez aborder, est essentiel pour réussir à concevoir, exécuter et ultérieurement évaluer vos expériences.
 -   [Clarifier les résultats attendus](section:clarify-intended-outcome) – Une description claire du résultat attendu d'une expérience est essentiel pour comprendre ce que cette expérience nous a appris.
 -   [Critères d'Évaluation](section:evaluation-criteria) – Définir avant le début d'une expérience de critères clairs de succès, aide à révéler des défauts dans sa conception et favorise une analyse efficace des résultats.
 -   [Décider par Consentement](section:consent-decision-making) – Un processus de groupe efficace pour examiner une proposition avec plusieurs perspectives et pour tester s'il est suffisamment bon et sûr de démarrer une expérimentation.

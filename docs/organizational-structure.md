@@ -23,6 +23,6 @@ Les domaines peuvent être reliés pour former une hiérarchie ou une **hétéro
 La Sociocratie 3.0 décrit une collection de [**modèles structurels**](building-organizations.html) pour développer une structure organisationnelle.
 
 - les modèles structurels de S3 s'appliquent à différents niveaux d'abstraction
-- différents modèles structurels répondent à différents <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">besoins</a>
+- différents modèles structurels répondent à différents <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">besoins</a>
 - les modèles structurels peuvent être adaptés et combinés au besoin
 - d'autres pratiques existent et seront découvertes

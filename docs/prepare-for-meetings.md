@@ -12,7 +12,7 @@ prev_page_url: "facilitate-meetings.html"
 
 Quelques considérations pour préparer avec succès une réunion :
 
-- clarifiez et communiquez le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a>, et le <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Résultat Attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat attendu</a> de la réunion
+- clarifiez et communiquez le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a>, et le <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Résultat Attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat attendu</a> de la réunion
 - décidez qui inviter
 - créez un ordre du jour
 - planifiez la réunion suffisamment à l'avance, pour que les gens aient le temps de se préparer
@@ -25,7 +25,7 @@ Impliquez les gens dans la préparation et la priorisation de l'ordre du jour et
 
 Pour chaque point de l'ordre du jour, convenez :
 
-- du driver
+- du moteur
 - des résultats attendus
 - du processus
 - du temps que vous voulez y passer

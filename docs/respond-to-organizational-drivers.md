@@ -1,5 +1,5 @@
 ---
-title: "Répondre aux Drivers Organisationnels"
+title: "Répondre aux Moteurs Organisationnels"
 next_page_title: "Naviguer par Tension"
 next_page_url: "navigate-via-tension.html"
 prev_page_title: "Comprendre et Décider"
@@ -26,7 +26,7 @@ Here's a series of steps you can take which will support you to make the best us
 
 1. Confirm that this situation is both relevant for the organization to respond to, and that responding is the responsibility of you or your team.
 2. Trier le dans votre backlog en fonction de sa priorité. When it's time to respond to the driver:
-3. Determine the <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">requirement</a>
+3. Determine the <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">requirement</a>
 4. Decide on how to fulfill the requirement
 5. act on what's been agreed
 6. Regularly review outcomes and, if needed, adapt your decision to improve it, based on what you learn.
@@ -46,16 +46,16 @@ To keep track of new drivers that you become aware of (or that others identify a
 
 ## Step 2: Determine Priority
 
-Une fois que vous avez décidé qu'un driver est décrit assez clairement et qu'il est pertinent d'y répondre, il doit être priorisé et déplacé vers le backlog approprié, pour être récupéré et traité en conséquence.
+Une fois que vous avez décidé qu'un moteur est décrit assez clairement et qu'il est pertinent d'y répondre, il doit être priorisé et déplacé vers le backlog approprié, pour être récupéré et traité en conséquence.
 
-Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn't imply that it's also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Par conséquent, les nouveaux drivers doivent être priorisés par rapport aux autres tâches, afin de rester concentré sur ce qui est le plus important, et toujours travailler efficacement à la réalisation de vos objectifs.
+Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn't imply that it's also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Par conséquent, les nouveaux moteurs doivent être priorisés par rapport aux autres tâches, afin de rester concentré sur ce qui est le plus important, et toujours travailler efficacement à la réalisation de vos objectifs.
 
 
 ## Step 3: Determine the requirement
 
 After establishing that a driver is both relevant and a priority, it's helpful to determine the requirement – what you consider is needed or desirable to effectively respond to the situation – before narrowing down on a specific solution.
 
-_Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile._
+_Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile._
 
 In some cases, the requirement is already clear, because there is an existing agreement that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern [Determine Requirement](determine-requirements.html) for guidance.
 

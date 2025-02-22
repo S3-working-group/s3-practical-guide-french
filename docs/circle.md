@@ -19,7 +19,7 @@ Un cercle:
 - **semi-autonome:**
     
     - Les membres d'un cercle agissent selon les contraintes de leur <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaine</a>.
-    - Chaque cercle peut créer de la <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Valeur: L&#x27;importance ou l&#x27;utilité de quelque chose lié à un driver. C’est aussi &quot;un principe significatif guidant le comportement&quot; (principalement utilisé au pluriel, les &quot;valeurs&quot; ou les &quot;valeurs organisationnelles&quot;).">valeur</a> en autonomie.
+    - Chaque cercle peut créer de la <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Valeur: L&#x27;importance ou l&#x27;utilité de quelque chose lié à un moteur. C’est aussi &quot;un principe significatif guidant le comportement&quot; (principalement utilisé au pluriel, les &quot;valeurs&quot; ou les &quot;valeurs organisationnelles&quot;).">valeur</a> en autonomie.
 - **auto-gouverné:** 
     - Les membres d'un cercle décident continuellement ensemble comment gérer leur domaine, et définissent les contraintes sur comment et quand les choses seront faites.
 - **équivalence des membres du cercle :** 

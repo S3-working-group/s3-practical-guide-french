@@ -1,12 +1,12 @@
 # Co-créer des Propositions
 
 <summary>
-<strong>Rassemblez les gens pour co-créer des propositions en réponse aux drivers organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.</strong>
+<strong>Rassemblez les gens pour co-créer des propositions en réponse aux moteurs organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.</strong>
 </summary>
 
 Il existe de nombreuses façons de co-créer des propositions. Elles suivent généralement un modèle similaire :
 
-1. Se mettre d'accord sur un [driver](glossary:organizational-driver) (ou un problème / une opportunité / un besoin)
+1. Se mettre d'accord sur un [moteur](glossary:organizational-driver) (ou un problème / une opportunité / un besoin)
 2. Explorer le sujet et comprendre les contraintes
 3. Générer des idées
 4. Formuler une proposition (souvent en petit groupe)

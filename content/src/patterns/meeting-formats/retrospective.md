@@ -4,7 +4,7 @@
 Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer les processus de travail.
 </summary>
 
--   en sortie : modifications des processus de travail, nouvelles tâches, accords [à la volée](glossary:agreement), et [drivers](glossary:organizational-driver) nécessitant un accord
+-   en sortie : modifications des processus de travail, nouvelles tâches, accords [à la volée](glossary:agreement), et [moteurs](glossary:organizational-driver) nécessitant un accord
 -   réunion facilitée (environ 1h)
 -   à intervalles réguliers (1 à 4 semaines)
 -   s'adapter à la situation et au contexte

@@ -16,8 +16,8 @@ prev_page_url: "organizational-structure.html"
   <dd><p>Déléguez à des cercles auto-gérés reliés par deux liens, l'autorité de prendre toutes les décisions de gouvernance. Faites ceci, à tous les niveaux de la hiérarchie, afin de transiter vers une structure plus à-même de profiter de l'intelligence collective, d'assurer l'équivalence et de générer de l'engagement.</p></dd>
 
   <dt><a href="service-organization.html">Organisation de Service</a></dt>
-  <dd><p>Collaboration impliquant de multiples parties prenantes, partageant un driver (ou objectif) commun.</p></dd>
+  <dd><p>Collaboration impliquant de multiples parties prenantes, partageant un moteur (ou objectif) commun.</p></dd>
 
   <dt><a href="fractal-organization.html">Organisation Fractale</a></dt>
-  <dd><p>De multiples constituants (organisations ou projets) ayant un driver primaire et une structure commune (ou similaire) peuvent partager des savoirs inter-domaines, coordonner leurs actions et prendre des décisions de gouvernance de haut niveau (ex : la stratégie générale).</p></dd>
+  <dd><p>De multiples constituants (organisations ou projets) ayant un moteur principal et une structure commune (ou similaire) peuvent partager des savoirs inter-domaines, coordonner leurs actions et prendre des décisions de gouvernance de haut niveau (ex : la stratégie générale).</p></dd>
 </dl>

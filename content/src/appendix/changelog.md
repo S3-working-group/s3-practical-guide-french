@@ -48,18 +48,18 @@
 ## Changements du 08-02-2024
 
 - introduction de *Exigence* comme concept de base distinct de *Driver*: 
-    - ajout d'une explication de *Exigence* à [Drivers et Exigences](section:drivers-and-requirements)
+    - ajout d'une explication de *Exigence* à [Moteurs et Exigences](section:moteurs-and-requirements)
     - ajout d'une nouvelle pratique [Déterminer les Exigences](section:determine-requirements)
-    - mise à jour de [Répondre aux Drivers Organisationnels](section:respond-to-organizational-drivers)
-    - mise à jour de [Décrire les Drivers Organisationnels](section:describe-organizational-drivers) :
+    - mise à jour de [Répondre aux Moteurs Organisationnels](section:respond-to-organizational-drivers)
+    - mise à jour de [Décrire les Moteurs Organisationnels](section:describe-organizational-drivers) :
     - mise à jour de [Naviguer par Tension](section:navigate-via-tension)
-    - révision de [Élaborer une Proposition](section:proposal-forming), [Décider par Consentement](section:consent-decision-making) and [Cartographier les Drivers](section:driver-mapping)
+    - révision de [Élaborer une Proposition](section:proposal-forming), [Décider par Consentement](section:consent-decision-making) and [Cartographier les Moteurs](section:driver-mapping)
 - Extension de [Clarifier et Affiner les Domaines](section:clarify-and-develop-domains) pour inclure une description détaillée et des exemples pour chaque aspect d'une description de domaine
 - ajout d'un exemple [de description de domaine](section:example-domain-description) à l'annexe
 - ajout d'une description détaillée pour chaque étape de [Élaborer une proposition](section:proposal-forming)
 - révision du [Principe de Consentement](section:principle-consent) et de la description d'[Objection](section:objection)
 - mise à jour du glossaire : 
-    - révision des définitions de [Domaine](glossary:domain), [Livrable](glossary:deliverable), [Driver Organisationnel](glossary:organizational-driver), [Objection](glossary:objection) et [Préoccupation](glossary:concern)
+    - révision des définitions de [Domaine](glossary:domain), [Livrable](glossary:deliverable), [Moteur Organisationnel](glossary:organizational-driver), [Objection](glossary:objection) et [Préoccupation](glossary:concern)
     - ajout de nouvelles définitions pour [Exigence](glossary:requirement), [Constrainte Standard](glossary:standard-constraint), [Domaine Général](glossary:overall-domain)
 
 ## Changements du 26-04-2022
@@ -87,7 +87,7 @@
     - et déplacement de quelques pratiques autour
 - Aligné l'orthographe de la prise de décision à travers le guide
 - révision du résumé de [Résoudre les Objections](section:resolve-objections)
-- revisé le texte de [Cartographier les Drivers](section:driver-mapping) (étape 7)
+- revisé le texte de [Cartographier les Moteurs](section:driver-mapping) (étape 7)
 
 ## Changements du 22-09-2021
 
@@ -114,7 +114,7 @@
 
 ## Changements du 15-05-2021
 
-- [Naviguer par Tension](section:navigate-via-tension) : plus d'explications sur le transfert de drivers à un autre domaine
+- [Naviguer par Tension](section:navigate-via-tension) : plus d'explications sur le transfert de moteurs à un autre domaine
 - [Clarifier et Affiner les Domaines](section:clarify-and-develop-domains): plus d'explications sur le raffinement des éléments d'une description de domaine, plus d'informations sur les métriques, le suivi et l'évaluation, ajout de l'illustration du modèle.
 
 ## Changements du 15-03-2021
@@ -128,7 +128,7 @@
 
 ## Changements du 11-02-2021
 
-- [Cartographier les Drivers](section:driver-mapping): ajout d'explications sur les applications de la pratique et instructions détaillées pour chaque étape du format
+- [Cartographier les Moteurs](section:driver-mapping): ajout d'explications sur les applications de la pratique et instructions détaillées pour chaque étape du format
 
 ## Changements du 06-02-2021
 
@@ -162,7 +162,7 @@
 - [Enfreindre les Accords](section:breaking-agreements) : ajout du résumé
 - ajout d'une entrée au glossaire pour "indicateur"
 - revue de l'entrée du glossaire pour "gouvernance"
-- [Décrire les Drivers Organisationnels](section:describe-organizational-drivers) : texte revu
+- [Décrire les Moteurs Organisationnels](section:describe-organizational-drivers) : texte revu
 - Introduction : 
     - ajout de plus de détails à la section sur les domaines et la délégation
     - suppression de l'illustration dans la section sur les pratiques et ajout des groupes de pratiques dans le texte
@@ -230,7 +230,7 @@
 
 - ajout d'[équipe](glossary:team) au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
 - mise à jour de la définition de [livrable](glossary:deliverable)
-- suppression de **déclaration de driver** du texte et du glossaire
+- suppression de **déclaration de moteur** du texte et du glossaire
 - des définitions mises à jour pour [governance](glossary:governance), [operations](glossary:operations)et [auto-organisation](glossary:self-organization)
 
 **Illustrations :**
@@ -242,7 +242,7 @@
 
 - [Accord ](section:record-agreements) : la description mentionne maintenant que toutes les attentes doivent être enregistrées
 - [Décrire les Livrables](section:describe-deliverables): mise à jour du résumé
-- [Décrire les Drivers Organisationnels](section:describe-organizational-drivers) : plus d'informations sur le résumé des drivers
+- [Décrire les Moteurs Organisationnels](section:describe-organizational-drivers) : plus d'informations sur le résumé des moteurs
 - [Résoudre les Objections](section:resolve-objections) : résumé et description ajoutés
 
 ## Changements du 17-08-2018
@@ -256,18 +256,18 @@
 
 **Glossaire :**
 
-- **mise à jour de :** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, driver primaire, principe, rôle, auto-organisation, semi-autonomie, sous-driver, valeurs
-- **ajout de:** constituant, coordination, délégation, déclaration de driver, évoluer (v.), flux de valeur, équipe d'aide, domaine ouvert
-- **suppression de : **driver de pair
+- **mise à jour de :** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, moteur principal, principe, rôle, auto-organisation, semi-autonomie, sous-moteur, valeurs
+- **ajout de:** constituant, coordination, délégation, déclaration de moteur, évoluer (v.), flux de valeur, équipe d'aide, domaine ouvert
+- **suppression de : **moteur de pair
 
 **Modifications de l'introduction**
 
-- ajout du driver pour créer Sociocratie 3.0
+- ajout du moteur pour créer Sociocratie 3.0
 - Les Sept Principes : 
     - *Le Principe d'Empirisme*: référence supprimée à la "falsification"
     - *Le Principe de Consentement* est maintenant expliqué plus clairement comme "soulever, chercher et résoudre les objections aux décisions et aux actions"
 - *Gouvernance, semi-autonomie et auto-organisation*: nous avons affiné les définitions de gouvernance, d'opérations et d'auto-organisation, supprimé toute référence à la "coordination" et clarifié la distinction entre gouvernance et opérations
-- *Drivers et Domaines* : nous avons clarifié comment les domaines peuvent être compris par rapport aux drivers organisationnels
+- *Moteurs et Domaines* : nous avons clarifié comment les domaines peuvent être compris par rapport aux moteurs organisationnels
 
 **Modifications des pratiques :**
 
@@ -284,7 +284,7 @@
 - [Cercle Délégué](section:delegate-circle): description améliorée
 - *Déléguer l'Influence*: description améliorée
 - [Décrire les Livrables](section:describe-deliverables) : description améliorée
-- [Décrire les Drivers Organisationnels](section:describe-organizational-drivers) : rendu explicite qu'une déclaration de driver est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations de driver de *Répondre aux Drivers Organisationnels * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les drivers organisationnels
+- [Décrire les Moteurs Organisationnels](section:describe-organizational-drivers) : rendu explicite qu'une déclaration de moteur est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations de moteur de *Répondre aux Moteurs Organisationnels * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les moteurs organisationnels
 - [Double lien](section:double-linking): description alignée à *Lien*
 - [Hiérarchie à Double Lien](section:double-linked-hierarchy): explication détaillée de ce qu'est une hiérarchie à double lien, et comment elle est créée
 - [Évaluer et faire évoluer les accords](section:evaluate-and-evolve-agreements): réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
@@ -296,7 +296,7 @@
 - [Accueillir le Changement](section:invite-change) : la description se concentre maintenant sur *comment* inviter aux changements
 - [Lien](section:linking): description alignée à [Double Lien](section:double-linking)
 - [Registre](section:logbook): précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
-- [Naviguer par Tension](section:navigate-via-tension) : description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par Tension*, *Décrire les Drivers Organisationnels* et *Répondre aux Drivers Organisationnels*
+- [Naviguer par Tension](section:navigate-via-tension) : description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par Tension*, *Décrire les Moteurs Organisationnels* et *Répondre aux Moteurs Organisationnels*
 - *Objection* : clarifié la différence entre objection et préoccupation, clarifié ce qui est qualifié comme une objection, et comment qualifier les objections dans un contexte de groupe
 - [Domaine ouvert](section:open-team): description améliorée et illustration mise à jour
 - [Systèmes ouverts](section:open-systems): description améliorée
@@ -305,7 +305,7 @@
 - [Élaborer une Proposition](section:proposal-forming) : texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour l'aligner sur le modèle pour les accords
 - [Représentant](section:representative): description améliorée
 - [Résoudre les objections](section:resolve-objections): mise à jour des deux illustrations
-- [Répondre aux Drivers Organisationnels](section:respond-to-organizational-drivers) : description améliorée, qualification simplifiée des drivers organisationnels
+- [Répondre aux Moteurs Organisationnels](section:respond-to-organizational-drivers) : description améliorée, qualification simplifiée des moteurs organisationnels
 - [Rôle](section:role): description améliorée
 - [Attribution de Rôles](section:role-selection) : description améliorée, ajout de la description de chaque étape
 - [Tours de Table](section:rounds) : description améliorée
@@ -327,8 +327,8 @@
 
 ## Changements du 21-03-2018
 
-- renommage de *Décrire les Drivers* en *Décrire les Drivers Organisationnels*
-- [Décrire les Drivers Organisationnels](section:describe-organizational-drivers) : explication des quatre aspects d'un driver : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
+- renommage de *Décrire les Moteurs* en *Décrire les Moteurs Organisationnels*
+- [Décrire les Moteurs Organisationnels](section:describe-organizational-drivers) : explication des quatre aspects d'un moteur : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
 - ajout de *besoin* au glossaire
 
 ## Changements du 16-11-2017
@@ -362,7 +362,7 @@
 
 - ajouté "en quoi cela peut m'aider?"
 - ajout de définitions pour la gouvernance, l’auto-organisation, semi-autonomie, opérations d’introduction
-- clarification des domaines et relation aux drivers
+- clarification des domaines et relation aux moteurs
 - concepts fondamentaux développés
 - tous les principes sont maintenant actionnables
 
@@ -372,7 +372,7 @@
 - *Accords*: clarification que le concept d'accord est applicable aux détenteurs de rôles
 - *Clarifier les domaines*: description améliorée
 - *Cercle*: mise à jour de la définition de "cercle", description améliorée
-- *Driver*: mise à jour de la définition de "driver"
+- *Driver*: mise à jour de la définition de "moteur"
 - *Plan de Développement* : description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec Double Lien* : nouvelle illustration
@@ -381,7 +381,7 @@
 - *Carnet* : ajout de détails sur la gouvernance au carnet personnel
 - *Objections* : clarification de la qualification des objections
 - *Évaluation entre Pairs* : description améliorée
-- *Répondre aux Drivers Organisationnels* : intégration d'informations sur la qualification des drivers
+- *Répondre aux Moteurs Organisationnels* : intégration d'informations sur la qualification des moteurs
 - *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
 - *Elaboration d'une proposition* : ajout de critères pour la sélection de rédacteurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Résoudre les Objections* : illustration mise à jour pour mieux refléter le processus
@@ -398,11 +398,11 @@
     **Pratiques ajoutées :**
     
     - *Déléguer l'influence*
-    - *Décrire les drivers*
+    - *Décrire les moteurs*
     - *Domaine ouvert*
     
     **Pratiques supprimées :**
     
     - *Cercle de Coordination*
     - *Domaines imbriqués*
-    - *Qualifier un driver*
+    - *Qualifier un moteur*

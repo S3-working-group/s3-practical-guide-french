@@ -50,7 +50,7 @@ _Proposal Forming_ may also be used by an individual.
 
 _Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to._
 
-Le facilitateur demande : _Est-ce que la description de ce driver et de cette exigence sont suffisamment clairs ? Est-ce un driver organisationnel ? Est-il pertinent pour nous de répondre à ce driver ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Est-ce un moteur organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
 
 This first step is simply about ensuring that the driver is summarized clearly enough and that it's relevant for those who are involved to respond to it. Once the driver has been accepted, you'll have the chance to ask further questions and learn more in the next step
 

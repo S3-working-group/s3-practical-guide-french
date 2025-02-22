@@ -7,7 +7,7 @@ prev_page_url: "open-space-for-change.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Faites apparaître les drivers et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.
+<div class="card summary"><div class="card-body">Faites apparaître les moteurs et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.
 </div></div>
 
 - introduction du principe de consentement et de [Naviguer par tension](navigate-via-tension.html) pour faire évoluer les méthodes de travail d'une équipe
@@ -19,10 +19,10 @@ prev_page_url: "open-space-for-change.html"
 
 ## Gaspillage et Amélioration Continue
 
-_Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un driver._
+_Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un moteur._
 
 Le gaspillage existe sous plusieurs formes et à différents niveaux (tâches, processus, structure organisationnelle, modèles mentaux, etc.)
 
 Mettre en place un processus continu d'élimination du gaspillage permet l'évolution naturelle d'une organisation vers une plus grande efficacité, et l'adaptation à un contexte changeant.
 
-![Drivers, Valeur et gaspillage](img/workflow-and-value/drivers-value-waste.png)
+![Moteurs, Valeur et Gaspillage](img/workflow-and-value/drivers-value-waste.png)

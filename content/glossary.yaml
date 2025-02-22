@@ -26,8 +26,8 @@ terms:
     glossary: Le processus d'aligner les actions de l'ensemble des parties d'une organisation aux objectifs de l'organisation.
   backlog:
     name: Backlog
-    definition: Un **backlog** est une liste (souvent priorisée) de choses inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.
-    glossary: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.
+    definition: Un **backlog** est une liste (souvent priorisée) de choses inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.
+    glossary: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.
   chosen-values:
     name: Valeurs Choisies
     glossary: Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider ses actions et collaboration en son sein.
@@ -82,7 +82,7 @@ terms:
     glossary: Une zone de responsabilité et d'autorité bien délimitée au sein d'une organisation.
   driver:
     name: Driver
-    definition: Un **driver** est le motif d'un groupe ou d'un individu pour réagir à une situation donnée.
+    definition: Un **moteur** est le motif d'un groupe ou d'un individu pour réagir à une situation donnée.
     glossary: Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.
   effectiveness:
     name: Efficacité (principe)
@@ -108,8 +108,8 @@ terms:
     glossary: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l'atteinte de ces objectifs.
   governance-backlog:
     name: Backlog de Gouvernance
-    definition: Un **backlog de gouvernance** est une liste visible et priorisée de sujets (drivers et/ou exigences) liés à la gouvernance d'un domaine.
-    glossary: Une liste visible, priorisée de sujets (drivers et/ou exigences) relatifs à la gouvernance d'un domaine.
+    definition: Un **backlog de gouvernance** est une liste visible et priorisée de sujets (moteurs et/ou exigences) liés à la gouvernance d'un domaine.
+    glossary: Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d'un domaine.
   intended-outcome:
     name: Résultat Attendu
     definition:
@@ -152,10 +152,10 @@ terms:
   organization:
     name: Organisation 
     definition:
-    glossary: Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
+    glossary: Un groupe de personnes qui collaborent sur un moteur partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
   organizational-driver:
-    name: Driver Organisationnel
-    definition: Un **driver organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).
+    name: Moteur Organisationnel
+    definition: Un **moteur organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).
     glossary: Toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).
   overall-domain:
     name: Domaine Global
@@ -170,17 +170,17 @@ terms:
     definition:
     glossary: Deux domaines pairs sont contenus dans le même super-domaine immédiat, et peuvent se recouper.
   primary-driver:
-    name: Driver Primaire
+    name: Moteur Principal
     definition:
-    glossary: Le driver primaire d'un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.
+    glossary: Le moteur principal d'un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.
   principle:
     name: Principe
     definition: Un **principe** est une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.
     glossary: Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.
   requirement:
     name: Exigence
-    definition: Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.
-    glossary: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.
+    definition: Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.
+    glossary: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.
   role:
     name: Rôle
     definition:
@@ -224,13 +224,13 @@ terms:
     definition:
     glossary: Un domaine entièrement contenu dans un autre domaine.
   subdriver:
-    name: Sous-driver
+    name: Sous-moteur
     definition:
-    glossary: Un sous-driver (ou sous-intention) surgit comme la conséquence d'un autre driver (le super-driver) et est fondamental pour répondre efficacement au super-driver.
+    glossary: Un sous-moteur (ou sous-intention) surgit comme la conséquence d'un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.
   superdriver:
-    name: Super-driver
+    name: Super-moteur
     definition:
-    glossary: voir Sous-driver.
+    glossary: voir Sous-moteur.
   superdomain:
     name: Super-domaine
     definition:
@@ -238,7 +238,7 @@ terms:
   team:
     name: Equipe
     definition:
-    glossary: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d'une organisation ou est formée pour la collaboration entre plusieurs organisations.
+    glossary: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d'une organisation ou est formée pour la collaboration entre plusieurs organisations.
   tension:
     name: Tensions
     definition:
@@ -253,13 +253,13 @@ terms:
     glossary: "**Consignez par écrit toutes les informations précieuses pour l'organisation et rendez-les accessibles à tous les membres de l'organisation, à moins qu'il n'y ait un impératif de confidentialité,** afin que chacun dispose des informations dont il a besoin pour comprendre comment faire son travail tout en contribuant efficacement à l'ensemble."
   value:
     name: Valeur
-    definition: "La **valeur** est l'importance ou l'utilité de quelque chose lié à un driver."
-    glossary: L'importance ou l'utilité de quelque chose lié à un driver. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, les "valeurs" ou les "valeurs organisationnelles").
+    definition: "La **valeur** est l'importance ou l'utilité de quelque chose lié à un moteur."
+    glossary: L'importance ou l'utilité de quelque chose lié à un moteur. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, les "valeurs" ou les "valeurs organisationnelles").
   values:
     name: Valeurs
     definition: "Les **Valeurs** sont des principes importants qui guident le comportement. Les valeurs définissent une portée d'action et des contraintes éthiques."
-    glossary: "Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'un driver."
+    glossary: "Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'un moteur."
   waste:
     name: Gaspillage
-    definition: "Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un driver."
-    glossary: Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à une réponse (plus) efficace à un driver.
+    definition: "Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un moteur."
+    glossary: Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à une réponse (plus) efficace à un moteur.

@@ -1,7 +1,7 @@
 # Organisation Fractale
 
 <summary>
-De multiples constituants (organisations ou projets) ayant un driver primaire et une structure commune (ou similaire) peuvent partager des savoirs à travers des domaines, aligner leurs actions et prendre des décisions de gouvernance de haut niveau (ex : la stratégie générale)
+De multiples constituants (organisations ou projets) ayant un moteur principal et une structure commune (ou similaire) peuvent partager des savoirs à travers des domaines, aligner leurs actions et prendre des décisions de gouvernance de haut niveau (ex : la stratégie générale)
 </summary>
 
 Créer une organisation fractale peut permettre à un vaste réseau de s’adapter rapidement à des contextes changeants.
@@ -22,7 +22,7 @@ Une organisation fractale a au moins trois niveaux :
 
 - premier niveau : les **constituants** (organisations, branches, départements ou projets)
 - second niveau : **[les cercles délégués](section:delegate-circle) fonctionnels** pour partager les savoirs et créer et faire évoluer des accords au nom des domaines fonctionnels
-- troisième niveau : un **cercle délégué transverse** pour créer et faire évoluer les accords en réponse aux drivers affectant l'ensemble des constituants
+- troisième niveau : un **cercle délégué transverse** pour créer et faire évoluer les accords en réponse aux moteurs affectant l'ensemble des constituants
 
 ## Formation d'une organisation fractale
 

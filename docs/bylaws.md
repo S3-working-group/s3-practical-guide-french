@@ -14,6 +14,6 @@ Consignez :
 
 -   le consentement et l'équivalence pour la prise de décision
 -   le processus de sélection pour les rôles de leadership
--   la structure organisationnelle, les <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un driver.">valeurs</a> et les <a href="glossary.html#entry-principle" class="glossary-tooltip" data-toggle="tooltip" title="Principe: Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.">principes</a>
+-   la structure organisationnelle, les <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un moteur.">valeurs</a> et les <a href="glossary.html#entry-principle" class="glossary-tooltip" data-toggle="tooltip" title="Principe: Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.">principes</a>
 -   l'influence des propriétaires ou actionnaires
 -   le partage des gains et des coûts

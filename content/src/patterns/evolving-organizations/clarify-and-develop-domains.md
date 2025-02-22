@@ -116,7 +116,7 @@ _What's the primary driver and the associated requirement this team (or role kee
 
 Describing the specific purpose the team (or role keeper) is responsible for fulfilling within the organization, clarifies why this domain exists, so that delegatees understand what's expected of them and why their work is relevant for the organization.
 
-Vous pouvez décrire le driver primaire en utilisant la pratique [Décrire les Drivers Organisationnels](section:describe-organizational-drivers) et regarder la pratique [Répondre aux Drivers Organisationnels](section:respond-to-organizational-drivers) pour des suggestions sur la façon de décrire cette exigence.
+Vous pouvez décrire le moteur principal en utilisant la pratique [Décrire les Moteurs Organisationnels](section:describe-organizational-drivers) et regarder la pratique [Répondre aux Moteurs Organisationnels](section:respond-to-organizational-drivers) pour des suggestions sur la façon de décrire cette exigence.
 
 
 **Describe:**
@@ -486,7 +486,7 @@ _What are the critical indicators of progress, performance, project health, etc,
 
 Les [Indicateurs Clés](glossary:metric) sont des statistiques qui aident les délégués à surveiller l'efficacité de leur travail et à identifier quand ils ont besoin d'ajuster leur action. Les Indicateurs Clés doivent être surveillés fréquemment car ils permettent de suivre le progrès, la santé ou la performance d'un projet. They typically relate to the primary driver and main requirement, key responsibilities, customers, deliverables, key challenges, and the delegator responsibilities that have been defined for the domain.
 
-**Définir** des indicateurs simples et spécifiques qui vous permettent de surveiller la progression et l'efficacité, ainsi que de repérer les problèmes ou des opportunités lorsqu'elles se présentent. Spécifiez quand ou à quelle fréquence les indicateurs clés seront vérifiés, et par qui, et précisez le but poursuivi par cet indicateur (décrivez au moins l'exigence et, si c'est utile, le driver, aussi).
+**Définir** des indicateurs simples et spécifiques qui vous permettent de surveiller la progression et l'efficacité, ainsi que de repérer les problèmes ou des opportunités lorsqu'elles se présentent. Spécifiez quand ou à quelle fréquence les indicateurs clés seront vérifiés, et par qui, et précisez le but poursuivi par cet indicateur (décrivez au moins l'exigence et, si c'est utile, le moteur, aussi).
 
 **Recommended format:** Title, Description, Rate, Responsibilities, Threshold, and Purpose (include information about the Driver (current situation and anticipated or current effect. And, Requirement ((requirement) and (anticipated impact)) as necessary.
 

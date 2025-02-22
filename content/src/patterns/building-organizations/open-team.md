@@ -8,7 +8,7 @@ Occupez-vous délibérément d'un domaine sur invitation plutôt que par affecta
 
 Le [délégant](glossary:delegator) du domaine crée une invitation qui clarifie :
 
-- le [driver primaire](glossary:primary-driver), les responsabilités clés et les contraintes du domaine de l'équipe ouverte
+- le [moteur principal](glossary:primary-driver), les responsabilités clés et les contraintes du domaine de l'équipe ouverte
 - qui est invité à contribuer (les membres de l'équipe ouverte)
 - les contraintes liées à la participation du délégant à la [gouvernance](glossary:governance) de l'équipe ouverte
 

@@ -1,7 +1,7 @@
 # Amélioration Continue des Méthodes de Travail
 
 <summary>
-Faites apparaître les drivers et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.
+Faites apparaître les moteurs et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.
 </summary>
 
 - introduction du principe de consentement et de [Naviguer par tension](section:navigate-via-tension) pour faire évoluer les méthodes de travail d'une équipe
@@ -19,4 +19,4 @@ Le gaspillage existe sous plusieurs formes et à différents niveaux (tâches, p
 
 Mettre en place un processus continu d'élimination du gaspillage permet l'évolution naturelle d'une organisation vers une plus grande efficacité, et l'adaptation à un contexte changeant.
 
-![Drivers, Valeur et gaspillage](img/workflow-and-value/drivers-value-waste.png)
+![Moteurs, Valeur et Gaspillage](img/workflow-and-value/drivers-value-waste.png)

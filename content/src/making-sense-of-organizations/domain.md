@@ -34,11 +34,11 @@ Le [délégant](glossary:delegator) conserve toujours la redevabilité globale d
 - les **responsabilités clés** (les livrables clés, tout risque critique à gérer, tout autre travail essentiel ou prises de décision effectivement délégués)
 - **des contraintes sur l'autonomie et l'influence** du ou des délégués, généralement liées à l'organisation elle-même (dépendances, implication du délégant, rapports, etc.)
 
-## Drivers et domaines
+## Moteurs et Domaines
 
-Il est également possible de comprendre un domaine par rapport aux drivers organisationnels :
+Il est également possible de comprendre un domaine par rapport aux moteurs organisationnels :
 
-- le **driver primaire** du domaine - le principal driver auquel les délégués répondent
-- l'ensemble des sous-drivers que l'organisation peut avoir à traiter en répondant au driver primaire du domaine, notamment : 
-    - les **responsabilités clés** (n'importe quel driver dérivant directement du driver primaire)
-    - les **dépendances** et les **contraintes externes** (drivers liés à d'autres domaines ou à l'environnement externe de l'organisation) qui contraignent l'autonomie des délégués
+- le **moteur principal** du domaine - le principal moteur auquel les délégués répondent
+- l'ensemble des sous-moteurs que l'organisation peut avoir à traiter en répondant au moteur principal du domaine, notamment : 
+    - les **responsabilités clés** (n'importe quel moteur dérivant directement du moteur principal)
+    - les **dépendances** et les **contraintes externes** (moteurs liés à d'autres domaines ou à l'environnement externe de l'organisation) qui contraignent l'autonomie des délégués

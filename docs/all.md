@@ -531,62 +531,62 @@ Lorsque les gens comprennent ces concepts, cela leur donne un langage commun pou
 
 Si vous ne comprenez pas l'un de ces termes, consultez notre glossaire à la fin.
 
-### Drivers Organisationnels et Exigences
+### Moteurs Organisationnels et Exigences
 
 
-_Un **driver organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables)._
+_Un **moteur organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables)._
 
-_Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile._
+_Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile._
 
 #### Aperçu
 
 Identifier et interagir dans des situations qui justifient une sorte de réponse est un aspect fondamental du quotidien de chacun dans une organisation.
 
-Dans le contexte de la Sociocratie 3.0, l'_efficacité_ est un principe clé qui invite les membres d'une organisation à faire le meilleur usage de leurs ressources, de l'énergie et du temps en consacrant des efforts à ne faire que ce qui rapproche l'organisation de la réalisation de ses objectifs généraux. Pour bien réaliser sur quoi il est important de se concentrer, et une meilleure compréhension partagée de ce qui est bénéfique de faire ou de ne pas faire, nous utilisons les concepts de _Drivers Organisationnels_ et d'_Exigences_.
+Dans le contexte de la Sociocratie 3.0, l'_efficacité_ est un principe clé qui invite les membres d'une organisation à faire le meilleur usage de leurs ressources, de l'énergie et du temps en consacrant des efforts à ne faire que ce qui rapproche l'organisation de la réalisation de ses objectifs généraux. Pour bien réaliser sur quoi il est important de se concentrer, et une meilleure compréhension partagée de ce qui est bénéfique de faire ou de ne pas faire, nous utilisons les concepts de _Moteurs Organisationnels_ et d'_Exigences_.
 
-Penser et décrire ses drivers organisationnels et ses exigences permet :
+Penser et décrire ses moteurs organisationnels et ses exigences permet :
 
 - d'identifier les situations qui suggèrent d'agir (**ressentir)**
 - de déterminer si et pourquoi une situation mérite une réponse (**comprendre**)
 - de déterminer l'orientation et l'ampleur d'une réponse adéquate à la situation (**décider**)
 
-#### Drivers Organisationnels
+#### Moteurs Organisationnels
 
 Identifier et comprendre des situations qui présentent des obstacles ou des opportunités potentielles par rapport aux objectifs d'une organisation est important si nous voulons cheminer avec succès dans notre travail quotidien et faire le meilleur usage de nos ressources, de notre énergie, et de notre limités.
 
-Cependant, toutes les situations qui motivent les membres d'une organisation à agir, ne sont pas pertinentes pour l'organisation. Avec le concept de drivers organisationnels, nous donnons un nom à ces situations que les membres de l'organisation explorent et déterminent comme pertinentes à adresser car ils prévoient que cela sera bénéfique pour l'organisation - soit pour générer de la valeur, éliminer du gaspillage ou pour éviter certains risques ou conséquences indésirables.
+Cependant, toutes les situations qui motivent les membres d'une organisation à agir, ne sont pas pertinentes pour l'organisation. Avec le concept de moteurs organisationnels, nous donnons un nom à ces situations que les membres de l'organisation explorent et déterminent comme pertinentes à adresser car ils prévoient que cela sera bénéfique pour l'organisation - soit pour générer de la valeur, éliminer du gaspillage ou pour éviter certains risques ou conséquences indésirables.
 
 Comprendre les situations qui surviennent au cours du travail quotidien et déterminer si elles sont pertinentes à traiter, avant de décider comment y répondre, a les **bienfaits évidents** :
 
-- Une compréhension claire et précise d'une situation qui nécessite une intervention, **aide les gens à développer une meilleure idée de ce qu'il est nécessaire de traiter**. Un problème bien défini est un problème à moitié résolu (voir _Répondre aux Drivers Organisationnels_)
-- Décrire explicitement un driver aide à **communiquer efficacement** avec les autres et à **développer une compréhension partagée** de la situation et de sa pertinence pour l'organisation (voir _Décrire les Drivers Organisationnels_)
-- Penser aux drivers organisationnels aide les gens à réfléchir, à **comprendre et à communiquer sur les raisons pour lesquelles ils font ce qu'ils font**. Cela donne un moyen d'explorer et de rendre explicites les raisons de nos actions et de nos décisions et nous aide à comprendre **pourquoi nous sommes motivés à poursuivre certains buts et objectifs précis**.
+- Une compréhension claire et précise d'une situation qui nécessite une intervention, **aide les gens à développer une meilleure idée de ce qu'il est nécessaire de traiter**. Un problème bien défini est un problème à moitié résolu (voir _Répondre aux Moteurs Organisationnels_)
+- Décrire explicitement un moteur aide à **communiquer efficacement** avec les autres et à **développer une compréhension partagée** de la situation et de sa pertinence pour l'organisation (voir _Décrire les Moteurs Organisationnels_)
+- Penser aux moteurs organisationnels aide les gens à réfléchir, à **comprendre et à communiquer sur les raisons pour lesquelles ils font ce qu'ils font**. Cela donne un moyen d'explorer et de rendre explicites les raisons de nos actions et de nos décisions et nous aide à comprendre **pourquoi nous sommes motivés à poursuivre certains buts et objectifs précis**.
 - Prendre le temps d'étudier les situations et leur pertinence potentielle, avant d'agir, aide à **déterminer si et quand une intervention vaut la peine**, parce que les gens peuvent se tromper, que ce soit sur les conclusions de ce qu'ils perçoivent, ou que ce soit sur la pertinence qu'ils attribuent aux situations qu'ils perçoivent (voir _Naviguer par Tension_).
-- Être clair sur les raisons pour lesquelles vous faites des choses permettra **d'évaluer régulièrement les résultats** de vos actions et d'identifier des moyens d'améliorer votre approche. (Lorsque vous le faites, vérifiez également si le driver organisationnel a changé : si la situation est différente ou si sa pertinence pour l'organisation a changé.)
+- Être clair sur les raisons pour lesquelles vous faites des choses permettra **d'évaluer régulièrement les résultats** de vos actions et d'identifier des moyens d'améliorer votre approche. (Lorsque vous le faites, vérifiez également si le moteur organisationnel a changé : si la situation est différente ou si sa pertinence pour l'organisation a changé.)
 
-Déterminer si une situation est considérée comme un driver organisationnel dépend de la compréhension adéquate du but global de l'organisation (son <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Primaire: Le driver primaire d&#x27;un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">driver primaire</a> et de son  <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> principal, de sa <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">strategie</a>, de ses <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectifs</a>, de ses <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un driver.">valeurs</a>, de ses <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a>, et ainsi de suite). Une fois qu'il est établi que répondre à une situation particulière serait bénéfique pour l'organisation, elle se qualifie comme driver organisationnel et peut ensuite être priorisé en conséquence. Une telle diligence fait en sorte que les gens restent concentrés sur les défis et les possibilités qui sont pertinents pour les buts et les objectifs de l'organisation.
+Déterminer si une situation est considérée comme un moteur organisationnel dépend de la compréhension adéquate du but global de l'organisation (son <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.">moteur principal</a> et de son  <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> principal, de sa <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">strategie</a>, de ses <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectifs</a>, de ses <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un moteur.">valeurs</a>, de ses <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a>, et ainsi de suite). Une fois qu'il est établi que répondre à une situation particulière serait bénéfique pour l'organisation, elle se qualifie comme moteur organisationnel et peut ensuite être priorisé en conséquence. Une telle diligence fait en sorte que les gens restent concentrés sur les défis et les possibilités qui sont pertinents pour les buts et les objectifs de l'organisation.
 
-##### Relations entre les drivers organisationnels
+##### Relations entre les moteurs organisationnels
 
-Tous les drivers organisationnels découlent de la décision de répondre au driver primaire de l'organisation et de remplir son exigence principale. La décision de répondre à un driver révèle souvent des étapes, des obstacles et des opportunités nécessaires qui doivent être pris en charge. Pour décrire la relation entre les drivers organisationnels, nous utilisons les termes <a href="glossary.html#entry-subdriver" class="glossary-tooltip" data-toggle="tooltip" title="Sous-driver: Un sous-driver (ou sous-intention) surgit comme la conséquence d&#x27;un autre driver (le super-driver) et est fondamental pour répondre efficacement au super-driver.">Sous-driver</a> et <a href="glossary.html#entry-superdriver" class="glossary-tooltip" data-toggle="tooltip" title="Super-driver: voir Sous-driver.">Super-driver</a>.
+Tous les moteurs organisationnels découlent de la décision de répondre au moteur principal de l'organisation et de remplir son exigence principale. La décision de répondre à un moteur révèle souvent des étapes, des obstacles et des opportunités nécessaires qui doivent être pris en charge. Pour décrire la relation entre les moteurs organisationnels, nous utilisons les termes <a href="glossary.html#entry-subdriver" class="glossary-tooltip" data-toggle="tooltip" title="Sous-moteur: Un sous-moteur (ou sous-intention) surgit comme la conséquence d&#x27;un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.">Sous-moteur</a> et <a href="glossary.html#entry-superdriver" class="glossary-tooltip" data-toggle="tooltip" title="Super-moteur: voir Sous-moteur.">Super-moteur</a>.
 
-##### Drivers, Valeur et gaspillage
+##### Moteurs, Valeur et Gaspillage
 
 En adoptant les concepts de valeur et de gaspillage dans les organisations, de nombreuses pratiques et idées provenant de la production lean et du développement de logiciels lean sont immédiatement applicables pour les organisations qui utilisent les pratiques S3, comme la Méthode Kanban, ou la Cartographie de la Chaîne de Valeur
 
-Les deux concepts peuvent être expliqués par rapport aux drivers :
+Les deux concepts peuvent être expliqués par rapport aux moteurs :
 
-_La **valeur** est l'importance ou l'utilité de quelque chose lié à un driver._
+_La **valeur** est l'importance ou l'utilité de quelque chose lié à un moteur._
 
-_Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un driver._
+_Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un moteur._
 
 Il existe de nombreuses recherches sur le concept de valeur et de gaspillage dans les organisations. Nous vous encourageons à explorer cela par vous-même.
 
 #### Exigences
 
-Clarifier intentionnellement et explicitement la direction générale et l'ampleur de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
+Clarifier intentionnellement et explicitement la direction générale et l'ampleur de la réponse à un moteur _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
 
-Avoir une attitude orientée solutions est très apprécié dans les organisations. Cependant, dans les contextes collaboratifs, fixer des idées précises trop rapidement peut étouffer la créativité et entraîner des tensions et des conflits inutiles. Lorsqu'on est chargé de répondre à un driver organisationnel, sauter immédiatement à des solutions concrètes peut restreindre ou diminuer le champ des possibilités envisagées. En outre, des solutions spécifiques peuvent être apportées par des individus projetant leurs expériences passées sur la situation ou agissant en fonction de leurs habitudes, plutôt que sur la base d'une analyse approfondie et réfléchie de la situation en cours, et une décision délibérée et explicite concernant l'exigence : comprendre ce qui est nécessaire ou désiré pour répondre à ce driver et comment répondre à l'exigence pourrait avoir un impact positif sur la situation (comme décrit dans la pratique _Déterminer les Exigences_.
+Avoir une attitude orientée solutions est très apprécié dans les organisations. Cependant, dans les contextes collaboratifs, fixer des idées précises trop rapidement peut étouffer la créativité et entraîner des tensions et des conflits inutiles. Lorsqu'on est chargé de répondre à un moteur organisationnel, sauter immédiatement à des solutions concrètes peut restreindre ou diminuer le champ des possibilités envisagées. En outre, des solutions spécifiques peuvent être apportées par des individus projetant leurs expériences passées sur la situation ou agissant en fonction de leurs habitudes, plutôt que sur la base d'une analyse approfondie et réfléchie de la situation en cours, et une décision délibérée et explicite concernant l'exigence : comprendre ce qui est nécessaire ou désiré pour répondre à ce moteur et comment répondre à l'exigence pourrait avoir un impact positif sur la situation (comme décrit dans la pratique _Déterminer les Exigences_.
 
 
 ### Domaines
@@ -613,7 +613,7 @@ _La délégation est l’octroi par une partie (le délégant) à une autre (le 
 
 La responsabilité des domaines est déléguée à des groupes ou à des individus, qui agissent ensuite dans un cadre défini de contraintes sur leur autonomie et leur influence.
 
-Lorsqu'un domaine est délégué à un groupe de personnes, ils deviennent une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>. Quand il est délégué à un individu, il devient un <a href="glossary.html#entry-role-keeper" class="glossary-tooltip" data-toggle="tooltip" title="Porteur de Rôle: Une personne qui assume la responsabilité d&#x27;un rôle.">porteur de rôle</a>.
+Lorsqu'un domaine est délégué à un groupe de personnes, ils deviennent une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>. Quand il est délégué à un individu, il devient un <a href="glossary.html#entry-role-keeper" class="glossary-tooltip" data-toggle="tooltip" title="Porteur de Rôle: Une personne qui assume la responsabilité d&#x27;un rôle.">porteur de rôle</a>.
 
 Les <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</a> peuvent faire tout ce qu'ils pensent pouvoir les rapprocher de leur but, sauf si c'est en dehors du domaine de l'organisation, explicitement interdit, que ça viole le domaine (explicite) de quelqu'un d'autre ou si ça empêche d'autres personnes à contribuer à l'organisation.
 
@@ -625,14 +625,14 @@ Le <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle=
 - les **responsabilités clés** (les livrables clés, tout risque critique à gérer, tout autre travail essentiel ou prises de décision effectivement délégués)
 - **des contraintes sur l'autonomie et l'influence** du ou des délégués, généralement liées à l'organisation elle-même (dépendances, implication du délégant, rapports, etc.)
 
-#### Drivers et domaines
+#### Moteurs et Domaines
 
-Il est également possible de comprendre un domaine par rapport aux drivers organisationnels :
+Il est également possible de comprendre un domaine par rapport aux moteurs organisationnels :
 
-- le **driver primaire** du domaine - le principal driver auquel les délégués répondent
-- l'ensemble des sous-drivers que l'organisation peut avoir à traiter en répondant au driver primaire du domaine, notamment : 
-    - les **responsabilités clés** (n'importe quel driver dérivant directement du driver primaire)
-    - les **dépendances** et les **contraintes externes** (drivers liés à d'autres domaines ou à l'environnement externe de l'organisation) qui contraignent l'autonomie des délégués
+- le **moteur principal** du domaine - le principal moteur auquel les délégués répondent
+- l'ensemble des sous-moteurs que l'organisation peut avoir à traiter en répondant au moteur principal du domaine, notamment : 
+    - les **responsabilités clés** (n'importe quel moteur dérivant directement du moteur principal)
+    - les **dépendances** et les **contraintes externes** (moteurs liés à d'autres domaines ou à l'environnement externe de l'organisation) qui contraignent l'autonomie des délégués
 
 ### Objections
 
@@ -646,7 +646,7 @@ Dans une organisation qui suit le _Principe de Consentement_, les individus sont
 
 Lorsque vous réfléchissez à la question de savoir si vous avez ou non des objections, examinez les questions suivantes :
 
--   Est-ce que poursuivre dans cette voie nous empêcherait de bien répondre au driver et à l'exigence que la proposition est supposée traiter de manière efficace ? (**efficacité**)
+-   Est-ce que poursuivre dans cette voie nous empêcherait de bien répondre au moteur et à l'exigence que la proposition est supposée traiter de manière efficace ? (**efficacité**)
 -   Est-ce que poursuivre entraînerait des conséquences indésirables ou des risques pour votre domaine, pour l'organisation ou au-delà ? (**effets secondaires**)
 -   Est-ce que poursuivre dans cette voie entraînerait du gaspillage, ou passerait à côté de d'améliorations substantielles ? (**efficience**)
 
@@ -658,7 +658,7 @@ Les informations apportées par les objections peuvent être utilisées pour am�
 -   la façon dont les gens exécutent les décisions
 -   les accords existants
 -   les propositions
--   la compréhension commune des drivers
+-   la compréhension commune des moteurs
 
 
 #### Visez à ce que les décisions soient "suffisamment bonnes et sûres pour le moment"
@@ -690,7 +690,7 @@ _Un **accord** est une ligne directrice, un processus, un protocole ou une polit
 
 Des directives et principes partagées sur pourquoi, comment et quand agir, et ce qui est spécifiquement nécessaire permettant une collaboration efficace.
 
-Les accords sont créés en réponse à des <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">drivers organisationnels</a>, ils sont **régulièrement évalués**, et évoluent si nécessaire.
+Les accords sont créés en réponse à des <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteurs organisationnels</a>, ils sont **régulièrement évalués**, et évoluent si nécessaire.
 
 **La redevabilité générale** d'un accord appartient aux personnes qui le créent.
 
@@ -781,7 +781,7 @@ Dans ce guide, les pratiques sont regroupées en onze catégories pour vous aide
 
 
 
-#### Répondre aux Drivers Organisationnels
+#### Répondre aux Moteurs Organisationnels
 
 <div class="card summary"><div class="card-body">Respond to all organizational drivers you are responsible for, in order of priority, by fulfilling the requirements you determine necessary in each case.
 </div></div>
@@ -797,7 +797,7 @@ Here's a series of steps you can take which will support you to make the best us
 
 1. Confirm that this situation is both relevant for the organization to respond to, and that responding is the responsibility of you or your team.
 2. Trier le dans votre backlog en fonction de sa priorité. When it's time to respond to the driver:
-3. Determine the <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">requirement</a>
+3. Determine the <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">requirement</a>
 4. Decide on how to fulfill the requirement
 5. act on what's been agreed
 6. Regularly review outcomes and, if needed, adapt your decision to improve it, based on what you learn.
@@ -817,16 +817,16 @@ To keep track of new drivers that you become aware of (or that others identify a
 
 ##### Step 2: Determine Priority
 
-Une fois que vous avez décidé qu'un driver est décrit assez clairement et qu'il est pertinent d'y répondre, il doit être priorisé et déplacé vers le backlog approprié, pour être récupéré et traité en conséquence.
+Une fois que vous avez décidé qu'un moteur est décrit assez clairement et qu'il est pertinent d'y répondre, il doit être priorisé et déplacé vers le backlog approprié, pour être récupéré et traité en conséquence.
 
-Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn't imply that it's also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Par conséquent, les nouveaux drivers doivent être priorisés par rapport aux autres tâches, afin de rester concentré sur ce qui est le plus important, et toujours travailler efficacement à la réalisation de vos objectifs.
+Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn't imply that it's also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Par conséquent, les nouveaux moteurs doivent être priorisés par rapport aux autres tâches, afin de rester concentré sur ce qui est le plus important, et toujours travailler efficacement à la réalisation de vos objectifs.
 
 
 ##### Step 3: Determine the requirement
 
 After establishing that a driver is both relevant and a priority, it's helpful to determine the requirement – what you consider is needed or desirable to effectively respond to the situation – before narrowing down on a specific solution.
 
-_Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile._
+_Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile._
 
 In some cases, the requirement is already clear, because there is an existing agreement that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern _Determine Requirement_ for guidance.
 
@@ -864,7 +864,7 @@ For more information on reviewing agreements, check _Evaluate and Evolve Agreeme
 
 #### Naviguer par Tension
 
-<div class="card summary"><div class="card-body">Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié tout driver organisationnel que vous découvrez.
+<div class="card summary"><div class="card-body">Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié tout moteur organisationnel que vous découvrez.
 </div></div>
 
 **Challenges and opportunities** for an organization are revealed by people reflecting on the reasons why they experience tension.
@@ -893,7 +893,7 @@ _Would responding to this situation help the organization to generate value, eli
 
 ##### Step 4: Is it in my/our domain? If not, pass it on
 
-Ça pourrait être parce que le driver tombe dans le périmètre d'un domaine dont vous êtes responsable, auquel cas vous voudriez le placer sur votre liste de priorités et y répondre en fonction (voir _Répondre aux Drivers Organisationnels_). Even if it does fall outside of your area of responsibility, it might still be something that you are best placed to deal with, or at the very least, you can take care of it without  causing any impediments or harm, in which case, consider just doing it. It might not be worth the effort to go and find somebody else and explain to them about the situation if it's something you can simply deal with yourself.
+Ça pourrait être parce que le moteur tombe dans le périmètre d'un domaine dont vous êtes responsable, auquel cas vous voudriez le placer sur votre liste de priorités et y répondre en fonction (voir _Répondre aux Moteurs Organisationnels_). Even if it does fall outside of your area of responsibility, it might still be something that you are best placed to deal with, or at the very least, you can take care of it without  causing any impediments or harm, in which case, consider just doing it. It might not be worth the effort to go and find somebody else and explain to them about the situation if it's something you can simply deal with yourself.
 
 On other occasions however, you'll come across drivers that are the responsibility of others to respond to. Therefore, to Navigate Via Tension effectively, there needs to be enough clarity around who is responsible for what in the organization so that people know, or can find out, who to inform about new organizational drivers they discover, so they can pass that information on to them.
 
@@ -901,17 +901,17 @@ On other occasions however, you'll come across drivers that are the responsibili
 ![Naviguer par Tension](img/process/nvt.png)
 
 
-![Naviguer par Tension dans le contexte de la Décrire les Drivers Organisationnels, Répondre aux Drivers Organisationnels et Déterminer les Exigences](img/process/navigate-describe-respond-determine.png)
+![Naviguer par Tension dans le contexte de la Décrire les Moteurs Organisationnels, Répondre aux Moteurs Organisationnels et Déterminer les Exigences](img/process/navigate-describe-respond-determine.png)
 
 
 
-#### Décrire les Drivers Organisationnels
+#### Décrire les Moteurs Organisationnels
 
-<div class="card summary"><div class="card-body">Décrire les drivers organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.
+<div class="card summary"><div class="card-body">Décrire les moteurs organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.
 </div></div>
 
 
-_Un **driver organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables)._
+_Un **moteur organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables)._
 
 Organizational drivers are identified by individuals (see _Navigate Via Tension_) who either respond to them directly (when a driver falls within their own domain of responsibility), or who pass on information about drivers they discover to others in the organization (whom they believe are responsible for dealing with them).
 
@@ -922,7 +922,7 @@ In the course of their daily work in organizations, individuals frequently encou
 
 Clearly understanding organizational drivers and documenting essential information about them before deciding on a response, is crucial for ensuring that the rationale behind decisions is understood. It also provides an opportunity for those who are collaborating to verify their assumptions, combine diverse viewpoints, align understanding, and consequently agree on a  description of a driver.
 
-Both individuals and groups can describe organizational drivers. Un résumé peut être ajouté à un _backlog_, ou utilisé simplement pour communiquer des informations pertinentes sur une situation à ceux qui en ont la responsabilité. Par la suite, ces drivers peuvent être _priorisés_ par rapport aux autres drivers qui sont en attente et puis, le moment venu, ils peuvent être traités en conséquence. Plus de détails sur la façon de répondre aux drivers organisationnels peuvent être trouvés dans la pratique _Répondre aux Drivers Organisationnels_.
+Both individuals and groups can describe organizational drivers. Un résumé peut être ajouté à un _backlog_, ou utilisé simplement pour communiquer des informations pertinentes sur une situation à ceux qui en ont la responsabilité. Par la suite, ces moteurs peuvent être _priorisés_ par rapport aux autres moteurs qui sont en attente et puis, le moment venu, ils peuvent être traités en conséquence. Plus de détails sur la façon de répondre aux moteurs organisationnels peuvent être trouvés dans la pratique _Répondre aux Moteurs Organisationnels_.
 
 
 ##### How to describe organizational drivers
@@ -935,7 +935,7 @@ A simple way to describe an organizational driver is by explaining:
 
 Describing these three aspects will typically provide enough information to communicate an organizational driver clearly.
 
-![Décrire les Drivers Organisationnels](img/process/describe-organizational-drivers.png)
+![Décrire les Moteurs Organisationnels](img/process/describe-organizational-drivers.png)
 
 
 ###### Problem-focused or opportunity-focused
@@ -1014,15 +1014,15 @@ Effect is already occurring and relevance is implicit:
 
 #### Déterminer les Exigences
 
-<div class="card summary"><div class="card-body">Déterminer ce qui est requis pour répondre de manière appropriée à un driver organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.
+<div class="card summary"><div class="card-body">Déterminer ce qui est requis pour répondre de manière appropriée à un moteur organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.
 </div></div>
 
 
 ##### Aperçu
 
-Identifier et répondre aux drivers organisationnels sont deux aspects fondamentaux de la journée de travail de chacun au sein d'une organisation. Clarifier intentionnellement et explicitement la direction générale et l'ampleur de la réponse à un driver _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
+Identifier et répondre aux moteurs organisationnels sont deux aspects fondamentaux de la journée de travail de chacun au sein d'une organisation. Clarifier intentionnellement et explicitement la direction générale et l'ampleur de la réponse à un moteur _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
 
-_Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile._
+_Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile._
 
 ![Determiner l'exigence](img/process/determine-requirement.png)
 
@@ -1066,7 +1066,7 @@ This is why it's valuable to approach deciding what you believe is required to r
 
 **Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others – especially to those who will be affected by whatever's decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
 
-Une fois qu'une exigence est déterminée, les **prochaines étapes pour répondre au driver organisationnel** impliquent de s'entendre sur la façon de remplir les conditions requises, en agissant sur l'accord actuel, en examinant les résultats et, si nécessaire, en adaptant votre choix d'amélioration en vous basant sur ce que vous apprenez (voir _Répondre aux Drivers Organisationnels_ pour plus de détails).
+Une fois qu'une exigence est déterminée, les **prochaines étapes pour répondre au moteur organisationnel** impliquent de s'entendre sur la façon de remplir les conditions requises, en agissant sur l'accord actuel, en examinant les résultats et, si nécessaire, en adaptant votre choix d'amélioration en vous basant sur ce que vous apprenez (voir _Répondre aux Moteurs Organisationnels_ pour plus de détails).
 
 In complex situations where multiple and sometimes even contradictory options exist, an iterative approach for determining a requirement may be necessary because:
 
@@ -1142,14 +1142,14 @@ _Une **préoccupation** est une supposition qui ne peut (du moins pour le moment
 
 ##### Étape 1 : Consentement au Driver et à l'Exigence
 
-_Assurez-vous que le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> sont suffisamment bien résumés et qu'il est pertinent pour ce groupe de les traiter._
+_Assurez-vous que le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a> et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> sont suffisamment bien résumés et qu'il est pertinent pour ce groupe de les traiter._
 
-Le facilitateur demande : _Est-ce que la description de ce driver et de cette exigence sont suffisamment clairs ? Est-ce un driver organisationnel ? Est-il pertinent pour nous de répondre à ce driver ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Est-ce un moteur organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
 
-**Remarque :** Il est généralement recommandé de viser à terminer cette étape avec les participants à la réunion de manière asynchrone, _avant la réunion_. Cela vous donnera la possibilité d'apporter des précisions à l'avance et vous épargnera un temps précieux en réunion. Cependant, dans un cas où quelqu'un présente une proposition à un groupe de parties prenantes qui n'ont pas participé à sa création, ou s'il y a des personnes qui rejoignent tout juste le processus décisionnel, vérifiez que tout le monde comprend bien le driver et l'exigence de la proposition, et assurez-vous qu'il est décrit assez clairement et qu'il est pertinent pour les personnes présentes d'y répondre, avant de considérer la proposition elle-même.
+**Remarque :** Il est généralement recommandé de viser à terminer cette étape avec les participants à la réunion de manière asynchrone, _avant la réunion_. Cela vous donnera la possibilité d'apporter des précisions à l'avance et vous épargnera un temps précieux en réunion. Cependant, dans un cas où quelqu'un présente une proposition à un groupe de parties prenantes qui n'ont pas participé à sa création, ou s'il y a des personnes qui rejoignent tout juste le processus décisionnel, vérifiez que tout le monde comprend bien le moteur et l'exigence de la proposition, et assurez-vous qu'il est décrit assez clairement et qu'il est pertinent pour les personnes présentes d'y répondre, avant de considérer la proposition elle-même.
 
--   Si le driver n'est pas décrit assez clairement : prenez le temps de clarifier et de faire les changements nécessaires au résumé du driver jusqu'à ce qu'il n'y ait plus d'objections. À moins que cela ne soit un changement rapide, envisagez de le faire après la réunion et reportez la prise de décision jusqu'à ce que le driver soit clair.
--   Si le driver n'est pas pertinent pour ce groupe, transmettez-le à la personne ou à l'équipe appropriée, ou, s'il est décidé que ce n'est pas du tout un driver organisationnel, jetez-le.
+-   Si le moteur n'est pas décrit assez clairement : prenez le temps de clarifier et de faire les changements nécessaires au résumé du moteur jusqu'à ce qu'il n'y ait plus d'objections. À moins que cela ne soit un changement rapide, envisagez de le faire après la réunion et reportez la prise de décision jusqu'à ce que le moteur soit clair.
+-   Si le moteur n'est pas pertinent pour ce groupe, transmettez-le à la personne ou à l'équipe appropriée, ou, s'il est décidé que ce n'est pas du tout un moteur organisationnel, jetez-le.
 -   Si l'exigence est jugée inappropriée, entendez les arguments et s'ils sont considérés comme des objections, résolvez-les avant d'examiner la proposition.
 
 
@@ -1446,7 +1446,7 @@ Les objections sont résolues en modifiant la proposition. **Les amendements** p
 - prendre un peu plus de temps pour réfléchir, puis revenir à l'objection plus tard.
 - etc.
 
-There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> or fulfill the corresponding <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">requirement</a> reaching an agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations.
+There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> or fulfill the corresponding <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">requirement</a> reaching an agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations.
 
 Les objections peuvent être résolues en suivant le processus décrit dans _Prise de Décision Raisonnée_:
 
@@ -1582,12 +1582,12 @@ Suivi :
 
 #### Co-créer des Propositions
 
-<div class="card summary"><div class="card-body">Rassemblez les gens pour co-créer des propositions en réponse aux drivers organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.
+<div class="card summary"><div class="card-body">Rassemblez les gens pour co-créer des propositions en réponse aux moteurs organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.
 </div></div>
 
 Il existe de nombreuses façons de co-créer des propositions. Elles suivent généralement un modèle similaire :
 
-1. S'accorder sur le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> (ou problème/opportunité/besoins)
+1. S'accorder sur le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a> et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> (ou problème/opportunité/besoins)
 2. Explorer le sujet et comprendre les contraintes
 3. Générer des idées
 4. Formuler une proposition (souvent en petit groupe)
@@ -1641,7 +1641,7 @@ _Proposal Forming_ may also be used by an individual.
 
 _Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to._
 
-Le facilitateur demande : _Est-ce que la description de ce driver et de cette exigence sont suffisamment clairs ? Est-ce un driver organisationnel ? Est-il pertinent pour nous de répondre à ce driver ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Est-ce un moteur organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
 
 This first step is simply about ensuring that the driver is summarized clearly enough and that it's relevant for those who are involved to respond to it. Once the driver has been accepted, you'll have the chance to ask further questions and learn more in the next step
 
@@ -2049,7 +2049,7 @@ _What's the primary driver and the associated requirement this team (or role kee
 
 Describing the specific purpose the team (or role keeper) is responsible for fulfilling within the organization, clarifies why this domain exists, so that delegatees understand what's expected of them and why their work is relevant for the organization.
 
-Vous pouvez décrire le driver primaire en utilisant la pratique _Décrire les Drivers Organisationnels_ et regarder la pratique _Répondre aux Drivers Organisationnels_ pour des suggestions sur la façon de décrire cette exigence.
+Vous pouvez décrire le moteur principal en utilisant la pratique _Décrire les Moteurs Organisationnels_ et regarder la pratique _Répondre aux Moteurs Organisationnels_ pour des suggestions sur la façon de décrire cette exigence.
 
 
 **Describe:**
@@ -2419,7 +2419,7 @@ _What are the critical indicators of progress, performance, project health, etc,
 
 Les <a href="glossary.html#entry-metric" class="glossary-tooltip" data-toggle="tooltip" title="Indicateur: Une mesure quantifiable utilisée pour suivre et évaluer les progrès, évaluer les résultats et déterminer le succès">Indicateurs Clés</a> sont des statistiques qui aident les délégués à surveiller l'efficacité de leur travail et à identifier quand ils ont besoin d'ajuster leur action. Les Indicateurs Clés doivent être surveillés fréquemment car ils permettent de suivre le progrès, la santé ou la performance d'un projet. They typically relate to the primary driver and main requirement, key responsibilities, customers, deliverables, key challenges, and the delegator responsibilities that have been defined for the domain.
 
-**Définir** des indicateurs simples et spécifiques qui vous permettent de surveiller la progression et l'efficacité, ainsi que de repérer les problèmes ou des opportunités lorsqu'elles se présentent. Spécifiez quand ou à quelle fréquence les indicateurs clés seront vérifiés, et par qui, et précisez le but poursuivi par cet indicateur (décrivez au moins l'exigence et, si c'est utile, le driver, aussi).
+**Définir** des indicateurs simples et spécifiques qui vous permettent de surveiller la progression et l'efficacité, ainsi que de repérer les problèmes ou des opportunités lorsqu'elles se présentent. Spécifiez quand ou à quelle fréquence les indicateurs clés seront vérifiés, et par qui, et précisez le but poursuivi par cet indicateur (décrivez au moins l'exigence et, si c'est utile, le moteur, aussi).
 
 **Recommended format:** Title, Description, Rate, Responsibilities, Threshold, and Purpose (include information about the Driver (current situation and anticipated or current effect. And, Requirement ((requirement) and (anticipated impact)) as necessary.
 
@@ -2612,7 +2612,7 @@ Changez les choses lorsqu'il y a un intérêt à le faire :
 -   … et soutenez tout le monde à procéder aux changements nécessaires à une allure gérable pour eux
 
 
-#### Cartographier les Drivers
+#### Cartographier les Moteurs
 
 <div class="card summary"><div class="card-body">Un format d’atelier permettant aux grands groupes de cocréer et de s’organiser en réponse à une situation complexe d’envergure.
 </div></div>
@@ -2624,7 +2624,7 @@ Au cours de l’atelier, les participants sont pleinement responsables du proces
 
 Identifiez les parties prenantes concernées, cartographiez les exigences connexes et utilisez-les pour identifier les choses à faire et les décisions à prendre, pour répartir le travail et définir une structure initiale de collaboration.
 
-Vous pouvez cartographier les drivers pour :
+Vous pouvez cartographier les moteurs pour :
 
 -   organiser des start-ups
 -   lancer les projets
@@ -2632,38 +2632,38 @@ Vous pouvez cartographier les drivers pour :
 -   mettre en œuvre une stratégie
 -   développer une structure organisationnelle pour mieux activer le flux de valeur
 
-Le résultat d'un atelier de cartographie des drivers est typiquement :
+Le résultat d'un atelier de cartographie des moteurs est typiquement :
 
 -   une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes.
 -   une structure organisationnelle sur mesure qui rassemble tout le monde, y compris les domaines interconnectés pour gérer les dépendances.
 -   une première ébauche des backlogs de gouvernance et des opérations pour chaque sous-domaine identifié.
 -   la délégation d'influence et l’affectation des personnes aux sous-domaines par auto-sélection et nomination.
 
-Bien que Cartographier les Drivers serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi d’identifier et de distribuer la gouvernance et les drivers opérationnels parmi les domaines existants dans une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
+Bien que Cartographier les Moteurs serve souvent à identifier et définir de nouveaux domaines, cette pratique permet aussi d’identifier et de distribuer la gouvernance et les moteurs opérationnels parmi les domaines existants dans une organisation. Par exemple lorsqu'une initiative sera prise par des équipes existantes dans une organisation, ou si un groupe a le sentiment qu’il est coincé dans sa structure actuelle et qu’il est à la recherche d’inspiration pour l’adapter progressivement. Le groupe peut décider de cartographier les domaines existants et déterminer quels nouveaux domaines il devrait créer, ou même créer une nouvelle structure à partir de zéro.
 
 Dans une petite équipe ou un petit cercle (max 6-8 personnes), lorsque la distribution du travail n'est pas une priorité, l'équipe peut n'utiliser que les étapes 1-5, pour comprendre le périmètre et remplir les backlogs opérationnels et de gouvernance, puis formuler des propositions ou utiliser une autre approche pour identifier ses stratégies et/ou ses prochaines étapes.
 
 En préparation :
 
 -   Invitez des personnes qui peuvent apporter une contribution pertinente à ce projet. Envoyer l'ordre du jour de l'atelier à l'avance.
--   Envoyez à l'avance une description du driver primaire et de l'exigence principale sur lesquels vous travaillerez, et dans le cas d'un domaine existant, la description du domaine pour le projet ou l'initiative afin que les gens puissent se familiariser avec. Essayez de résoudre toute objection avant l'atelier.
+-   Envoyez à l'avance une description du moteur principal et de l'exigence principale sur lesquels vous travaillerez, et dans le cas d'un domaine existant, la description du domaine pour le projet ou l'initiative afin que les gens puissent se familiariser avec. Essayez de résoudre toute objection avant l'atelier.
 -   Les participants peuvent déjà se préparer en réfléchissant et en consignant des idées d'acteurs et des besoins connexes.
 -   Préparez un poster avec la description du domaine à présenter dans la première étape. Vous aurez également besoin de notes adhésives A5 et rectangulaires, de stylos et d'un grand mur pour travailler.
 
 
-##### Le processus de cartographie des drivers :
+##### Le processus de cartographie des moteurs :
 
 Voici les étapes à suivre :
 
-![Cartographier les Drivers : Le Processus](img/process/driver-mapping.png)
+![Cartographier les Moteurs : Le Processus](img/process/driver-mapping.png)
 
 
 ###### 1. Pourquoi sommes-nous réunis?
 
-_Présenter et consentir au driver primaire et à l'exigence principale._
+_Présenter et consentir au moteur principal et à l'exigence principale._
 
--   Présenter le driver primaire l'exigence principale au groupe
--   Consentement au driver et à l'exigence – _Les descriptions du driver et de l'exigence sont-elles suffisamment claires ? Est-ce un driver organisationnel? Est-il pertinent pour le groupe de répondre à ce driver ? Et est-ce que l'exigence est adéquate ?_
+-   Présenter le moteur principal l'exigence principale au groupe
+-   Consentement au moteur et à l'exigence – _Les descriptions du moteur et de l'exigence sont-elles suffisamment claires ? Est-ce un moteur organisationnel? Est-il pertinent pour le groupe de répondre à ce moteur ? Et est-ce que l'exigence est adéquate ?_
 -   Clarifiez les contraintes existantes du délégant, par exemple le budget, la date d'échéance, les attentes, etc. Dans le cas d'un domaine existant, présentez la description du domaine. Invitez les participants à poser des questions mieux comprendre ce qui se passe et ce qui est nécessaire.
 -   Explicitez le niveau d'engagement qu'il est attendu des participants. Par exemple : les personnes sont censées être ici pour la durée de l'atelier seulement, ou pour la durée de l'initiative, etc.
 -   Enregistrez toutes les informations pertinentes qui apparaissent.
@@ -2679,7 +2679,7 @@ _Qui sera affecté lorsque nous remplirons les exigences afférentes ? Consid�
 
 ###### 3. Que faut-il faire?
 
-_Considérez les différents acteurs et décrivez ce qui est nécessaire : de quoi ont-ils besoin dans le contexte du driver primaire, et qu'attendons-nous d'eux ?_
+_Considérez les différents acteurs et décrivez ce qui est nécessaire : de quoi ont-ils besoin dans le contexte du moteur principal, et qu'attendons-nous d'eux ?_
 
 -   Écrivez chaque suggestion sur une note adhésive séparée (carte d'exigence)
 -   Décrivez l'exigence ainsi que l'impact prévu du respect de l'exigence
@@ -2687,7 +2687,7 @@ _Considérez les différents acteurs et décrivez ce qui est nécessaire : de qu
 -   Ajoutez le nom de l'acteur dans le coin supérieur gauche de la carte
 -   Ajoutez votre nom dans le coin supérieur droit de la carte
 
-![Cartographier les Drivers : une Carte d'Exigence](img/templates/requirement-card.png)
+![Cartographier les Moteurs : une Carte d'Exigence](img/templates/requirement-card.png)
 
 
 ###### 4. Identifiez l'expérience et l'expertise
@@ -2726,7 +2726,7 @@ _Les participants s'organisent en plus petites équipes autour des différents d
 -   Vérifiez que tous les domaines sont suffisamment pris en compte
 -   Dans chaque groupe :
     -   accordez-vous sur un nom de domaine.
-    -   définissez le driver primaire et l'exigence principale pour le domaine (et ébauchez une brève description si c'est utile).
+    -   définissez le moteur principal et l'exigence principale pour le domaine (et ébauchez une brève description si c'est utile).
 -   Enfin, demandez à chaque groupe de présenter brièvement son domaine, et au cours de chaque présentation, recherchez les dépendances et les chevauchements entre ces domaines.
 
 Dans cette phase, certaines personnes peuvent errer entre les domaines jusqu'à ce qu'elles en trouvent un auquel elles ont le sentiment de pouvoir contribuer.
@@ -2748,11 +2748,11 @@ _Organisez le travail à faire dans chaque domaine, assurez vous que les choses 
 -   Passez sur les cartes qui semblent être de la responsabilité d'un autre domaine
 -   Mettre de côté les cartes relatives à plusieurs domaines. Vous pourrez les traiter à l'étape 8.
 
-En tant que facilitateur du processus de cartographie des drivers, proposez un espace pour collecter des cartes concernant plusieurs domaines afin qu'elles puissent être traitées plus tard.
+En tant que facilitateur du processus de cartographie des moteurs, proposez un espace pour collecter des cartes concernant plusieurs domaines afin qu'elles puissent être traitées plus tard.
 
 Faites des pauses régulières pour partager les rapports entre les différents domaines. Remarque : Certains domaines peuvent être dissous, modifiés ou fusionnés avec d'autres.
 
-![Cartographier les Drivers : un Modèle pour les Domaines](img/templates/domain-template.png)
+![Cartographier les Moteurs : un Modèle pour les Domaines](img/templates/domain-template.png)
 
 
 ###### 8. Connecter les domaines
@@ -2845,9 +2845,9 @@ Donnez à chacun des appréciations et des suggestions d'amélioration, en consi
 
 Le plan de développement peut être créé pour une personne dans un rôle, ou pour une équipe (ex : un département, un _cercle_ ou une _équipe ouverte_).
 
-On développe en affinant la description du _driver_ et du <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaine</a>, en ajustant la <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</a>, en amendant les accords ou bien par des actions particulières dans les domaines concernés.
+On développe en affinant la description du _moteur_ et du <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaine</a>, en ajustant la <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</a>, en amendant les accords ou bien par des actions particulières dans les domaines concernés.
 
-Un plan de développement (et toutes les recommandations de changement aux descriptions du domaine et du <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: Le motif d&#x27;un groupe ou d&#x27;une personne pour répondre à une situation particulière.">driver</a> qui l'accompagnent) nécessite le consentement mutuel du <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué</a> et du <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</a>.
+Un plan de développement (et toutes les recommandations de changement aux descriptions du domaine et du <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: Le motif d&#x27;un groupe ou d&#x27;une personne pour répondre à une situation particulière.">moteur</a> qui l'accompagnent) nécessite le consentement mutuel du <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué</a> et du <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</a>.
 
 ![Un modèle pour les plans de développement](img/templates/development-plan-template.png)
 
@@ -3008,7 +3008,7 @@ Décidez comment gérer la rémunération pour les changements de rôles et _dé
 <div class="card summary"><div class="card-body">Appliquez cette pratique pour les contractuels externes.
 </div></div>
 
--   clarifiez et décrivez le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> du _rôle_
+-   clarifiez et décrivez le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a> du _rôle_
 -   créez une _description de domaine_
 -   si c'est utile, organisez un processus de sélection
 -   envisagez de limiter la durée du contrat, après quoi il pourra être révisé et renouvelé si nécessaire
@@ -3027,7 +3027,7 @@ Consignez :
 
 -   le consentement et l'équivalence pour la prise de décision
 -   le processus de sélection pour les rôles de leadership
--   la structure organisationnelle, les <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un driver.">valeurs</a> et les <a href="glossary.html#entry-principle" class="glossary-tooltip" data-toggle="tooltip" title="Principe: Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.">principes</a>
+-   la structure organisationnelle, les <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un moteur.">valeurs</a> et les <a href="glossary.html#entry-principle" class="glossary-tooltip" data-toggle="tooltip" title="Principe: Une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.">principes</a>
 -   l'influence des propriétaires ou actionnaires
 -   le partage des gains et des coûts
 
@@ -3052,7 +3052,7 @@ Un cercle:
 - **semi-autonome:**
     
     - Les membres d'un cercle agissent selon les contraintes de leur <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaine</a>.
-    - Chaque cercle peut créer de la <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Valeur: L&#x27;importance ou l&#x27;utilité de quelque chose lié à un driver. C’est aussi &quot;un principe significatif guidant le comportement&quot; (principalement utilisé au pluriel, les &quot;valeurs&quot; ou les &quot;valeurs organisationnelles&quot;).">valeur</a> en autonomie.
+    - Chaque cercle peut créer de la <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Valeur: L&#x27;importance ou l&#x27;utilité de quelque chose lié à un moteur. C’est aussi &quot;un principe significatif guidant le comportement&quot; (principalement utilisé au pluriel, les &quot;valeurs&quot; ou les &quot;valeurs organisationnelles&quot;).">valeur</a> en autonomie.
 - **auto-gouverné:** 
     - Les membres d'un cercle décident continuellement ensemble comment gérer leur domaine, et définissent les contraintes sur comment et quand les choses seront faites.
 - **équivalence des membres du cercle :** 
@@ -3069,14 +3069,14 @@ Un rôle est une zone de redevabilité (un <a href="glossary.html#entry-domain" 
 
 Les porteurs de rôle président à la création d'une <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</a> sur la façon dont ils tiendront leur domaine. Ils développent leur stratégie en collaboration avec le <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</a>.
 
-Un rôle est un moyen simple pour une organisation (ou une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>) de déléguer les tâches récurrentes ou une partie du travail ainsi que les prises de décisions à l'un de ses membres.
+Un rôle est un moyen simple pour une organisation (ou une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>) de déléguer les tâches récurrentes ou une partie du travail ainsi que les prises de décisions à l'un de ses membres.
 
 - les personnes peuvent assumer plus d'un rôle
 - plutôt que de constituer formellement une nouvelle équipe, il est parfois plus simple de partager un rôle entre plusieurs personnes
 - les porteurs de rôle sont sélectionnés par consentement pour une durée limitée
 - les pairs se soutiennent mutuellement pour évoluer dans les rôles qu'ils portent
 
-Les porteurs de rôle peuvent maintenir un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.">backlog</a> de gouvernance, et un <a href="glossary.html#entry-logbook" class="glossary-tooltip" data-toggle="tooltip" title="Registre: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.">registre</a> pour consigner et faire évoluer la façon dont ils délivrent de la <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Valeur: L&#x27;importance ou l&#x27;utilité de quelque chose lié à un driver. C’est aussi &quot;un principe significatif guidant le comportement&quot; (principalement utilisé au pluriel, les &quot;valeurs&quot; ou les &quot;valeurs organisationnelles&quot;).">valeur</a>.
+Les porteurs de rôle peuvent maintenir un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a> de gouvernance, et un <a href="glossary.html#entry-logbook" class="glossary-tooltip" data-toggle="tooltip" title="Registre: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.">registre</a> pour consigner et faire évoluer la façon dont ils délivrent de la <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Valeur: L&#x27;importance ou l&#x27;utilité de quelque chose lié à un moteur. C’est aussi &quot;un principe significatif guidant le comportement&quot; (principalement utilisé au pluriel, les &quot;valeurs&quot; ou les &quot;valeurs organisationnelles&quot;).">valeur</a>.
 
 **Note:** Dans S3, les consignes, les processus ou protocoles créés par des individus dans leurs rôles sont traités comme des accords.
 
@@ -3109,7 +3109,7 @@ Le double lien permet une équivalence entre deux équipes et peut être utilis�
 
 Les représentants (les liens):
 
-- défendent les intérêts d'une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a> dans une autre
+- défendent les intérêts d'une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a> dans une autre
 - sont élus pour une durée limitée
 - participent aux **décisions de gouvernance** de l'équipe avec laquelle ils sont reliés, et peuvent : 
     - porter des points à l'ordre du jour
@@ -3151,7 +3151,7 @@ _Une **équipe ouverte** est un groupe de personnes qui sont invitées à contri
 
 Le <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</a> du domaine crée une invitation qui clarifie :
 
-- le <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Primaire: Le driver primaire d&#x27;un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">driver primaire</a>, les responsabilités clés et les contraintes du domaine de l'équipe ouverte
+- le <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.">moteur principal</a>, les responsabilités clés et les contraintes du domaine de l'équipe ouverte
 - qui est invité à contribuer (les membres de l'équipe ouverte)
 - les contraintes liées à la participation du délégant à la <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a> de l'équipe ouverte
 
@@ -3177,7 +3177,7 @@ Une équipe de soutien :
 Les membres de l'équipe de soutien :
 
 - peuvent objecter les décisions du délégant qui les affectent
-- peuvent ajouter des entrées au <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog de Gouvernance: Une liste visible, priorisée de sujets (drivers et/ou exigences) relatifs à la gouvernance d&#x27;un domaine.">backlog de gouvernance</a> du délégant
+- peuvent ajouter des entrées au <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog de Gouvernance: Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d&#x27;un domaine.">backlog de gouvernance</a> du délégant
 - peuvent être invités à sélectionner un _représentant_ pour participer aux décisions de gouvernance du délégant
 
 ![Équipe de Soutien](img/structural-patterns/helping-team.png)
@@ -3232,7 +3232,7 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 <div class="card summary"><div class="card-body">Encouragez tout le monde à concevoir et mener des expérimentations pour faire évoluer l'organisation.
 </div></div>
 
-- clarifier le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> du changement
+- clarifier le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a> du changement
 - prévoir des événements réguliers en espace ouverts : 
     - encouragez tous les membres à concevoir et réaliser des expérimentations
     - définissez les contraintes imposées aux expérimentations qui favorise le développement d'un état d'esprit <a href="glossary.html#entry-sociocracy" class="glossary-tooltip" data-toggle="tooltip" title="Sociocratie: Une approche où les personnes impactées par des décisions peuvent les influencer sur la base de raisons justifiées.">sociocratique</a> et agile (ex : les principes S3)
@@ -3240,7 +3240,7 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 
 #### Amélioration Continue des Méthodes de Travail
 
-<div class="card summary"><div class="card-body">Faites apparaître les drivers et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.
+<div class="card summary"><div class="card-body">Faites apparaître les moteurs et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.
 </div></div>
 
 - introduction du principe de consentement et de _Naviguer par tension_ pour faire évoluer les méthodes de travail d'une équipe
@@ -3252,13 +3252,13 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 
 ##### Gaspillage et Amélioration Continue
 
-_Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un driver._
+_Le **gaspillage** est tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à  une réponse (plus) efficace à un moteur._
 
 Le gaspillage existe sous plusieurs formes et à différents niveaux (tâches, processus, structure organisationnelle, modèles mentaux, etc.)
 
 Mettre en place un processus continu d'élimination du gaspillage permet l'évolution naturelle d'une organisation vers une plus grande efficacité, et l'adaptation à un contexte changeant.
 
-![Drivers, Valeur et gaspillage](img/workflow-and-value/drivers-value-waste.png)
+![Moteurs, Valeur et Gaspillage](img/workflow-and-value/drivers-value-waste.png)
 
 ### Passer des Accords
 
@@ -3363,12 +3363,12 @@ Tenez à jour les enregistrements des accords, ex : dans un <a href="glossary.h
 
 Consignez les accords avec des détails suffisants pour pouvoir retrouver les informations importantes plus tard.
 
-Inclure a minima un résumé du driver, une description de ce qui a été convenu, de qui est responsable de quoi, des critères d'évaluation et une date de révision.
+Inclure a minima un résumé du moteur, une description de ce qui a été convenu, de qui est responsable de quoi, des critères d'évaluation et une date de révision.
 
 En fonction de la portée et de l'importance de l'accord, envisagez d'inclure les éléments suivants :
 
 -   Un titre pour l'accord
--   _La description du driver._
+-   _La description du moteur._
 -   Date de création (ou version)
 -   Date d'expiration ou d'échéance (si pertinent)
 -   Date de révision (ou fréquence)
@@ -3440,7 +3440,7 @@ Les outils typiques pour tenir les registres sont les wikis (ex : [Dokuwiki](ht
 
 Contenu relatif à l'ensemble de l'organisation :
 
-- <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Primaire: Le driver primaire d&#x27;un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.">driver primaire</a>, <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</a> et <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un driver.">valeurs</a> de l'organisation
+- <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.">moteur principal</a>, <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</a> et <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un moteur.">valeurs</a> de l'organisation
 - structure organisationnelle (<a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> et leurs relations)
 - <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a>
 
@@ -3448,7 +3448,7 @@ Contenu relatif à une équipe particulière ou à un <a href="glossary.html#ent
 
 - la description et la stratégie du domaine
 - accords (en précisant les <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</a>, les descriptions de domaine, stratégies et _plans de développement_)
-- Les <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.">backlogs</a> et autres informations relatives au travail et à la <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a>
+- Les <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlogs</a> et autres informations relatives au travail et à la <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a>
 
 #### Gardien du Registre
 
@@ -3473,7 +3473,7 @@ Le gardien du registre est redevable de maintenir le <a href="glossary.html#entr
 <div class="card summary"><div class="card-body">Allouez du temps pour repenser à une expérience passée, apprenez et décidez comment améliorer les processus de travail.
 </div></div>
 
--   en sortie : modifications des processus de travail, nouvelles tâches, accords <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">à la volée</a>, et <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">drivers</a> nécessitant un accord
+-   en sortie : modifications des processus de travail, nouvelles tâches, accords <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">à la volée</a>, et <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteurs</a> nécessitant un accord
 -   réunion facilitée (environ 1h)
 -   à intervalles réguliers (1 à 4 semaines)
 -   s'adapter à la situation et au contexte
@@ -3615,7 +3615,7 @@ Pensez à choisir un facilitateur pour une période spécifique. Même un facili
 
 Quelques considérations pour préparer avec succès une réunion :
 
-- clarifiez et communiquez le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a>, et le <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Résultat Attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat attendu</a> de la réunion
+- clarifiez et communiquez le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a>, et le <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Résultat Attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultat attendu</a> de la réunion
 - décidez qui inviter
 - créez un ordre du jour
 - planifiez la réunion suffisamment à l'avance, pour que les gens aient le temps de se préparer
@@ -3628,7 +3628,7 @@ Impliquez les gens dans la préparation et la priorisation de l'ordre du jour et
 
 Pour chaque point de l'ordre du jour, convenez :
 
-- du driver
+- du moteur
 - des résultats attendus
 - du processus
 - du temps que vous voulez y passer
@@ -3721,7 +3721,7 @@ Préparation :
 Un facilitateur de <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a> :
 
 -   s'assure que les _réunions de gouvernance_ restent sur la bonne voie et sont évaluées
--   est (habituellement) sélectionné par une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a> parmi ses membres (et pour une durée spécifique)
+-   est (habituellement) sélectionné par une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a> parmi ses membres (et pour une durée spécifique)
 -   se familiarisent avec le _Backlog de Gouvernance_
 -   invite souvent d'autres à faciliter certains points de l'ordre du jour
 
@@ -3743,9 +3743,9 @@ En tant que facilitateur de gouvernance, envisagez d'apprendre et d'utiliser les
 <div class="card summary"><div class="card-body">Tenez un backlog dédié pour les éléments qui nécessitent une décision de gouvernance, afin de vous en souvenir et utilisez ces informations pour planifier et organiser votre gouvernance.
 </div></div>
 
-_Un **backlog de gouvernance** est une liste visible et priorisée de sujets (drivers et/ou exigences) liés à la gouvernance d'un domaine._
+_Un **backlog de gouvernance** est une liste visible et priorisée de sujets (moteurs et/ou exigences) liés à la gouvernance d'un domaine._
 
-Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.">backlog</a> un est gage de fiabilité et de transparence pour n'importe quel système de gouvernance. Tenir un backlog de gouvernance aide à planifier régulièrement des _Réunions de Gouvernance_. Il est également utile pour décider quels sujets il vaudrait mieux traiter dans une réunion dédiée, plutôt que dans les réunions habituelles telles que les réunions produit, les _réunions de planification_ ou les _rétrospectives_.
+Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a> un est gage de fiabilité et de transparence pour n'importe quel système de gouvernance. Tenir un backlog de gouvernance aide à planifier régulièrement des _Réunions de Gouvernance_. Il est également utile pour décider quels sujets il vaudrait mieux traiter dans une réunion dédiée, plutôt que dans les réunions habituelles telles que les réunions produit, les _réunions de planification_ ou les _rétrospectives_.
 
 Un backlog de gouvernance contient des informations sur :
 
@@ -3755,7 +3755,7 @@ Un backlog de gouvernance contient des informations sur :
 
 Un élément (priorisé) du backlog de gouvernance fournit généralement des informations sur :
 
-- le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> qui doit être adressé (et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> – pour ceux jugés pertinents et prioritaires)
+- le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> qui doit être adressé (et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> – pour ceux jugés pertinents et prioritaires)
 - la ou les étapes suivantes pour traiter le sujet (ex : _déterminer l'exigence_, formuler une proposition, _tester une proposition_, _examiner un accord existant_, _sélectionner quelqu'un pour un rôle_, y compris une estimation du temps nécessaire
 - les autres sujets interdépendants (y compris les tâches), ainsi que toute autre information pertinente, par exemple faire référence à des propositions, des descriptions de domaine, etc.)
 - qui a ajouté le sujet au backlog (pour clarification/questions)
@@ -3771,7 +3771,7 @@ Un élément (priorisé) du backlog de gouvernance fournit généralement des in
 <div class="card summary"><div class="card-body">Tenez à jour une liste de choses que vous devez adresser, afin de vous en souvenir, et utilisez ces informations pour planifier et organiser votre travail. 
 </div></div>
 
-_Un **backlog** est une liste (souvent priorisée) de choses inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités._
+_Un **backlog** est une liste (souvent priorisée) de choses inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités._
 
 Les Backlogs sont au cœur de tout système fiable et transparent pour l'organiser le travail et la gouvernance. Pensez à rendre les backlogs visibles, pas seulement aux membres de l'équipe, mais aussi à toute l'organisation.
 
@@ -3792,7 +3792,7 @@ Plusieurs types de backlog existent :
 
 Chaque entrée d'un backlog (priorisé) contient typiquement :
 
-- une **courte description** de la tâche (généralement un <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Livrable: Un produit, un service, un composant ou un document fourni pour répondre à une exigence.">livrable</a>, une <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> ou un <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a>)
+- une **courte description** de la tâche (généralement un <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Livrable: Un produit, un service, un composant ou un document fourni pour répondre à une exigence.">livrable</a>, une <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> ou un <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a>)
 - référence à d'autres projets ou **tâches connexes**, ainsi qu'à toute **autre information pertinente**
 - une estimation **du temps nécessaire à** pour la traiter
 
@@ -3805,7 +3805,7 @@ Il peut également être utile d'inclure : une date d'échéance (si nécessaire
 
 Il ne peut y avoir deux éléments de même importance, ce qui signifie qu'il est nécessaire de s'entendre sur les priorités et faire des choix difficiles.
 
-Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.">backlog</a> priorisé aide à **rester concentré** sur les éléments les plus importants.
+Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a> priorisé aide à **rester concentré** sur les éléments les plus importants.
 
 #### Visualiser le Travail
 
@@ -3854,7 +3854,7 @@ Tirer le travail évite de surcharger le système, en particulier lorsque le _tr
 
 Le travail en cours inclut :
 
-- le nombre d'éléments dans un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.">backlog</a>
+- le nombre d'éléments dans un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a>
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 
@@ -3913,7 +3913,7 @@ Les domaines peuvent être reliés pour former une hiérarchie ou une **hétéro
 La Sociocratie 3.0 décrit une collection de _**modèles structurels**_ pour développer une structure organisationnelle.
 
 - les modèles structurels de S3 s'appliquent à différents niveaux d'abstraction
-- différents modèles structurels répondent à différents <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">besoins</a>
+- différents modèles structurels répondent à différents <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">besoins</a>
 - les modèles structurels peuvent être adaptés et combinés au besoin
 - d'autres pratiques existent et seront découvertes
 
@@ -3960,7 +3960,7 @@ Une hiérarchie à double lien :
 
 #### Organisation de Service
 
-<div class="card summary"><div class="card-body">Collaboration impliquant de multiples parties prenantes, partageant un driver (ou objectif) commun.
+<div class="card summary"><div class="card-body">Collaboration impliquant de multiples parties prenantes, partageant un moteur (ou objectif) commun.
 </div></div>
 
 - améliore le potentiel d'équivalence entre diverses entités
@@ -3975,7 +3975,7 @@ Une hiérarchie à double lien :
 
 #### Organisation Fractale
 
-<div class="card summary"><div class="card-body">De multiples constituants (organisations ou projets) ayant un driver primaire et une structure commune (ou similaire) peuvent partager des savoirs inter-domaines, coordonner leurs actions et prendre des décisions de gouvernance de haut niveau (ex : la stratégie générale).
+<div class="card summary"><div class="card-body">De multiples constituants (organisations ou projets) ayant un moteur principal et une structure commune (ou similaire) peuvent partager des savoirs inter-domaines, coordonner leurs actions et prendre des décisions de gouvernance de haut niveau (ex : la stratégie générale).
 </div></div>
 
 Créer une organisation fractale peut permettre à un vaste réseau de s’adapter rapidement à des contextes changeants.
@@ -3986,7 +3986,7 @@ Si nécessaire, la structure peut être répétée pour connecter plusieurs orga
 
 ##### Prérequis
 
-Une organisation fractale peut être constituée soit de multiples organisations in(ter-)dépendantes qui partagent un <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">driver</a> (primaire) commun, soit par de multiples branches, départements, ou projets au sein d'une organisation plus large.
+Une organisation fractale peut être constituée soit de multiples organisations in(ter-)dépendantes qui partagent un <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a> (primaire) commun, soit par de multiples branches, départements, ou projets au sein d'une organisation plus large.
 
 Ces <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituant: Une équipe (ex : un cercle, une équipe, un département, une branche, un projet ou une organisation) qui délègue l&#x27;autorité à un représentant pour agir en leur nom dans d&#x27;autres équipes ou organisations.">constituants</a> (organisations, branches, départements ou projets) ont besoin de partager au moins une partie - et souvent la majorité - des <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> fonctionnels (ex : comptabilité, gestion de produits, ou développement).
 
@@ -3996,7 +3996,7 @@ Une organisation fractale a au moins trois niveaux :
 
 - Premier niveau : les **constituants** (organisations, branches, départements ou projets)
 - Second niveau : les **_cercles délégués_ par fonction** pour partager les savoir, créer et faire évoluer des accords au nom des domaines fonctionnels
-- Troisième niveau : un **cercle délégué transverse** pour créer et faire évoluer les accords en réponse aux drivers affectant l'ensemble des constituants
+- Troisième niveau : un **cercle délégué transverse** pour créer et faire évoluer les accords en réponse aux moteurs affectant l'ensemble des constituants
 
 ##### Formation d'une organisation fractale
 
@@ -4087,7 +4087,7 @@ Le **Framework du Sens Commun** (FSC) décrit ce qu'il faut considérer pour bâ
 
 Des pratiques essentielles pour vous y aider :
 
-- _Décrire les Drivers Organisationnels_ – Comprendre ce qui pousse à agir dans une situation donnée est un élément essentiel pour comprendre, définir et communiquer la raison d'être d'une organisation, d'une équipe ou d'un département.
+- _Décrire les Moteurs Organisationnels_ – Comprendre ce qui pousse à agir dans une situation donnée est un élément essentiel pour comprendre, définir et communiquer la raison d'être d'une organisation, d'une équipe ou d'un département.
 - _Déterminer les Exigences_ - Clarifier l'exigence principale à laquelle une organisation ou une équipe doit répondre aide les gens à développer une compréhension partagée de la direction que doit prendre leur contribution.
 
 
@@ -4099,7 +4099,7 @@ Des pratiques essentielles pour vous y aider :
 
 - _Clarifier et Affiner les Domaines_ – Une zone d’influence, d'activité et de prise de décision clairement définie est un préalable à l'élaboration d'une stratégie efficace pour une organisation, une équipe ou un rôle.
 - _Clarifier le Résultat Attendu_ - Définir le résultat attendu d'une stratégie est un élément essentiel pour surveiller et évaluer son efficacité, puis adapter les choses si nécessaire.
-- _Décrire les Drivers Organisationnels_ – Comprendre ce qui appelle à agir dans une situation donnée est un élément essentiel pour concevoir une stratégie de réponse efficace.
+- _Décrire les Moteurs Organisationnels_ – Comprendre ce qui appelle à agir dans une situation donnée est un élément essentiel pour concevoir une stratégie de réponse efficace.
 - [Clarifier et Affiner la Stratégie](section-clarify-and-develop-strategy) –  Au niveau de l'organisation, d' une équipe ou d'un rôle, pour qu'une stratégie reste pertinente et efficace, les parties prenantes doivent collaborer à sa création et à son évolution.
 - _Évaluer et Faire Évoluer les Accords_ - Évaluer la stratégie et la faire évoluer si nécessaire au fil du temps garantit qu'elle reste utile et pertinente pour l'organisation, une équipe ou un rôle.
 - _Critères d'Évaluation_ – Définir des critères de succès ou d'échec est nécessaire pour déterminer si une stratégie est efficace ou non.
@@ -4118,7 +4118,7 @@ Des pratiques essentielles pour vous y aider :
 Des pratiques essentielles pour vous y aider :
 
 - _Clarifier et Affiner les Domaines_ – Clarifier le domaine d'influence, d'activité et de prise de décision d'une équipe ou d'un porteur de rôle, leur permet de comprendre la valeur qu'ils sont censés apporter.
-- _Répondre aux Drivers Organisationnels_ – S'assurer que les membres d'une organisation réagissent aux obstacles et aux opportunités adéquates maximise le potentiel de création de valeur de l'organisation.
+- _Répondre aux Moteurs Organisationnels_ – S'assurer que les membres d'une organisation réagissent aux obstacles et aux opportunités adéquates maximise le potentiel de création de valeur de l'organisation.
 - _Prioriser les Backlogs_ – Lorsque vous priorisez votre liste de tâches par valeur, celles à travailler en premier deviennent évidentes.
 - _Limiter le Travail en Cours_ – Limiter le nombre de tâches simultanées des personnes et des équipes aide à maintenir un flux de valeur soutenu et encourage la collaboration lorsque le travail se trouve bloqué.
 - _Point Quotidien_ – Un point quotidien donne à une équipe l'espace nécessaire pour organiser sa création de valeur pour la journée à venir.
@@ -4132,11 +4132,11 @@ Des pratiques essentielles pour vous y aider :
 Des pratiques essentielles pour vous y aider :
 
 - _Amélioration Continue des Méthodes de Travail_ – Prendre l'habitude de chercher continuellement à améliorer les méthodes de travail permet aux gens d'identifier et d’agir sur les possibilités d'amélioration.
-- _Décrire les Drivers Organisationnels_  – Avant de réagir face à une difficulté ou à une opportunité perçue, il est essentiel de comprendre la situation actuelle et pourquoi l'organisation devrait y réponde.
+- _Décrire les Moteurs Organisationnels_  – Avant de réagir face à une difficulté ou à une opportunité perçue, il est essentiel de comprendre la situation actuelle et pourquoi l'organisation devrait y réponde.
 - _Déterminer les Exigences_ – En s'accordant au préalable sur l'orientation générale et le périmètre d'action de la réponse à une difficulté ou à une opportunité, on peut décider efficacement ce qu'il convient de faire.
 - _Backlog de Gouvernance_ – Gardez une liste priorisée de tous les obstacles et opportunités qui nécessitent une décision de gouvernance, conservez la visibilité des questions en suspens et clarifiez ce qu'il est plus important d'adresser en premier.
 - _Naviguer par Tension_ – Lorsque chacun dans l'organisation prête attention aux situations qui semblent différentes de ce qui est attendu ou désiré, et porte ces renseignements à l’attention des responsables, vous maximisez les chances qu'a l'organisation d'identifier ses obstacles ou opportunités.
-- _Répondre aux Drivers Organisationnels_ – Répondre uniquement aux défis et aux opportunités qui sont valables pour l'organisation, maximise la rentabilité de vos investissements en temps, énergie et ressources limités.
+- _Répondre aux Moteurs Organisationnels_ – Répondre uniquement aux défis et aux opportunités qui sont valables pour l'organisation, maximise la rentabilité de vos investissements en temps, énergie et ressources limités.
 
 
 #### Principe 5 – Expérimenter
@@ -4145,7 +4145,7 @@ Des pratiques essentielles pour vous y aider :
 
 Des pratiques essentielles pour vous y aider :
 
-- _Décrire les Drivers Organisationnels_ – Construire un modèle mental partagé de la situation que vous voulez aborder, est essentiel pour réussir à concevoir, exécuter et ultérieurement évaluer vos expériences.
+- _Décrire les Moteurs Organisationnels_ – Construire un modèle mental partagé de la situation que vous voulez aborder, est essentiel pour réussir à concevoir, exécuter et ultérieurement évaluer vos expériences.
 - _Déterminer les Exigences_ – Clarifier l'exigence, y compris l'impact attendu, est une condition préalable à toute expérimentation, et à la définition des indicateurs de réussite.
 - _Clarifier les résultats attendus_ – Une description claire du résultat attendu de votre expérimentation est essentiel pour comprendre si oui ou non cette expérimentation a produit les effets attendus.
 - _Critères d'Évaluation_ – Définir  de critères de succès clairs avant le début d'une expérimentation, aide à révéler des défauts dans sa conception et favorise une analyse efficace des résultats.
@@ -4185,7 +4185,7 @@ Des pratiques essentielles pour vous y aider :
 - _Naviguer par Tension_ – Lorsque tout le monde dans une organisation reste vigilent aux dépendances cela maximise les chances d'identifier les dépendances non gérées à adresser.
 - _Clarifier et Affiner les Domaines_ – Lorsque les gens comprennent leurs propres domaines de responsabilité, ainsi que ceux des autres, ils comprennent également sur quelles dépendances il sera nécessaire de collaborer.
 - _Visualizer le Travail_ – Visualiser les tâches et les dépendances entre elles rend la gestion des dépendances en coopération avec les bonnes parties-prenantes.
-- _Répondre aux Drivers Organisationnels_ – Comprendre pourquoi une dépendance existe en premier lieu, et veiller à la gérer, est essentiel pour bien collaborer à l'adresser ou à l'éliminer.
+- _Répondre aux Moteurs Organisationnels_ – Comprendre pourquoi une dépendance existe en premier lieu, et veiller à la gérer, est essentiel pour bien collaborer à l'adresser ou à l'éliminer.
 - _Impliquer les Concernés_ – Pour traiter les dépendances de manière efficace, il est souvent utile de rassembler les points de vue de toutes les parties prenantes (concernées) et de les impliquer dans le processus décisionnel.
 - _Lien_ – Les dépendances entre deux équipes peuvent souvent être traitées efficacement en envoyant un représentant lors de la prise de décision de l'autre équipe, afin que tous les points de vue utiles soient considérés et que la propriété des décisions soit bien partagée.
 - _Cercle Délégué_ – Quand les équipes dépendent les unes des autres, elles peuvent déléguer le pouvoir de conclure des accords régissant les dépendances spécifiques à un cercle de _Représentants_, afin de regrouper les points de vues pertinents et de susciter l'adhésion des équipes représentées.
@@ -4233,7 +4233,7 @@ Des pratiques essentielles pour vous y aider :
 Des pratiques essentielles pour vous y aider :
 
 - _Naviguer par Tension_ – Rechercher, et traiter les situations qui requièrent d'établir ou d'affiner un modèle mental partagé, aide les gens à mieux se comprendre et à avoir un dialogue productif.
-- _Déterminer les Exigences_ – Déterminer ce qui est nécessaire pour adresser un driver avant d'engager des actions aide à développer une compréhension partagée de la direction à suivre et du périmètre de la réponse.
+- _Déterminer les Exigences_ – Déterminer ce qui est nécessaire pour adresser un moteur avant d'engager des actions aide à développer une compréhension partagée de la direction à suivre et du périmètre de la réponse.
 - _Clarifier et Affiner les Domaines_ – Clarifier et documenter explicitement des domaines de responsabilité donne un modèle mental partagé des attentes et des responsabilités de chacun.
 - _Clarifier le Résultat Attendu_ – Lorsque les gens commencent par s'accorder sur le résultat attendu d'une activité, d'un projet ou d'une proposition, ils développent une compréhension partagée d'où il faut aller et peuvent ensuite entamer un dialogue productif sur la façon d'y arriver.
 
@@ -4291,26 +4291,26 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 #### Changements du 05-04-2024
 
 - Plus de changements relatifs aux Exigences 
-    - mise à jour du glossaire : définitions revues pour <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.">Backlog</a> et <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog de Gouvernance: Une liste visible, priorisée de sujets (drivers et/ou exigences) relatifs à la gouvernance d&#x27;un domaine.">Backlog de Gouvernance</a>
+    - mise à jour du glossaire : définitions revues pour <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">Backlog</a> et <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog de Gouvernance: Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d&#x27;un domaine.">Backlog de Gouvernance</a>
     - Révision de _Résoudre les Objections_, _Backlog_, _Backlog de Gouvernance_ et _Réunion de Gouvernance_
     - révision des pratiques recommandées dans le _Framework du Sens Commun_
 
 #### Changements du 08-02-2024
 
 - introduction de *Exigence* comme concept de base distinct de *Driver*: 
-    - ajout d'une explication de *Exigence* à _Drivers et Exigences_
+    - ajout d'une explication de *Exigence* à _Moteurs et Exigences_
     - ajout d'une nouvelle pratique _Déterminer les Exigences_
-    - mise à jour de _Répondre aux Drivers Organisationnels_
-    - mise à jour de _Décrire les Drivers Organisationnels_ :
+    - mise à jour de _Répondre aux Moteurs Organisationnels_
+    - mise à jour de _Décrire les Moteurs Organisationnels_ :
     - mise à jour de _Naviguer par Tension_
-    - révision de _Élaborer une Proposition_, _Décider par Consentement_ and _Cartographier les Drivers_
+    - révision de _Élaborer une Proposition_, _Décider par Consentement_ and _Cartographier les Moteurs_
 - Extension de _Clarifier et Affiner les Domaines_ pour inclure une description détaillée et des exemples pour chaque aspect d'une description de domaine
 - ajout d'un exemple _de description de domaine_ à l'annexe
 - ajout d'une description détaillée pour chaque étape de _Élaborer une proposition_
 - révision du _Principe de Consentement_ et de la description d'_Objection_
 - mise à jour du glossaire : 
-    - révision des définitions de <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">Domaine</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Livrable: Un produit, un service, un composant ou un document fourni pour répondre à une exigence.">Livrable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">Driver Organisationnel</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: Un argument – relatif à une proposition, un accord existant, ou une activité menée par un ou plusieurs membres de l&#x27;organisation - révélant des conséquences ou des risques qu&#x27;il serait préférable d&#x27;éviter pour l&#x27;organisation, ou démontrant des améliorations potentielles significatives.">Objection</a> et <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Préoccupation: Une supposition qui ne peut (du moins pour le moment) être étayée par un raisonnement ou par suffisamment de preuves être considérée comme une objection à ceux qui la considèrent.">Préoccupation</a>
-    - ajout de nouvelles définitions pour <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.">Exigence</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Contrainte Standard: Une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l&#x27;organisation (ex : la stratégie d&#x27;entreprise, le modèle d&#x27;affaire ou un règlement interne).">Constrainte Standard</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine Global: Le domaine qui définit la raison d&#x27;être de l&#x27;organisation, sa stratégie globale, son modèle d&#x27;affaire, et d&#x27;autres contraintes standard.">Domaine Général</a>
+    - révision des définitions de <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">Domaine</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Livrable: Un produit, un service, un composant ou un document fourni pour répondre à une exigence.">Livrable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">Moteur Organisationnel</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: Un argument – relatif à une proposition, un accord existant, ou une activité menée par un ou plusieurs membres de l&#x27;organisation - révélant des conséquences ou des risques qu&#x27;il serait préférable d&#x27;éviter pour l&#x27;organisation, ou démontrant des améliorations potentielles significatives.">Objection</a> et <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Préoccupation: Une supposition qui ne peut (du moins pour le moment) être étayée par un raisonnement ou par suffisamment de preuves être considérée comme une objection à ceux qui la considèrent.">Préoccupation</a>
+    - ajout de nouvelles définitions pour <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">Exigence</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Contrainte Standard: Une contrainte qui affecte plusieurs domaines (ex : toutes les équipes de vente, toute une branche, plate-forme ou département) voire tous les domaines de l&#x27;organisation (ex : la stratégie d&#x27;entreprise, le modèle d&#x27;affaire ou un règlement interne).">Constrainte Standard</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine Global: Le domaine qui définit la raison d&#x27;être de l&#x27;organisation, sa stratégie globale, son modèle d&#x27;affaire, et d&#x27;autres contraintes standard.">Domaine Général</a>
 
 #### Changements du 26-04-2022
 
@@ -4337,7 +4337,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
     - et déplacement de quelques pratiques autour
 - Aligné l'orthographe de la prise de décision à travers le guide
 - révision du résumé de _Résoudre les Objections_
-- revisé le texte de _Cartographier les Drivers_ (étape 7)
+- revisé le texte de _Cartographier les Moteurs_ (étape 7)
 
 #### Changements du 22-09-2021
 
@@ -4364,7 +4364,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 #### Changements du 15-05-2021
 
-- _Naviguer par Tension_ : plus d'explications sur le transfert de drivers à un autre domaine
+- _Naviguer par Tension_ : plus d'explications sur le transfert de moteurs à un autre domaine
 - _Clarifier et Affiner les Domaines_: plus d'explications sur le raffinement des éléments d'une description de domaine, plus d'informations sur les métriques, le suivi et l'évaluation, ajout de l'illustration du modèle.
 
 #### Changements du 15-03-2021
@@ -4378,7 +4378,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 #### Changements du 11-02-2021
 
-- _Cartographier les Drivers_: ajout d'explications sur les applications de la pratique et instructions détaillées pour chaque étape du format
+- _Cartographier les Moteurs_: ajout d'explications sur les applications de la pratique et instructions détaillées pour chaque étape du format
 
 #### Changements du 06-02-2021
 
@@ -4412,7 +4412,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - _Enfreindre les Accords_ : ajout du résumé
 - ajout d'une entrée au glossaire pour "indicateur"
 - revue de l'entrée du glossaire pour "gouvernance"
-- _Décrire les Drivers Organisationnels_ : texte revu
+- _Décrire les Moteurs Organisationnels_ : texte revu
 - Introduction : 
     - ajout de plus de détails à la section sur les domaines et la délégation
     - suppression de l'illustration dans la section sur les pratiques et ajout des groupes de pratiques dans le texte
@@ -4454,7 +4454,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 #### Changements du 03-05-2019
 
-- termes du glossaire raffinés pour <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accord</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organisation : Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.">organisation</a> et <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>, terme du glossaire ajouté pour <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectif</a>
+- termes du glossaire raffinés pour <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accord</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organisation : Un groupe de personnes qui collaborent sur un moteur partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.">organisation</a> et <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>, terme du glossaire ajouté pour <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectif</a>
 - Principe de Redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - _Contrat de Collaboration Réussie_ : texte révisé
 - _Décrire les Livrables_: ajouts des User Stories comme exemple pour décrire les livrables
@@ -4478,9 +4478,9 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 **Glossaire :**
 
-- ajout d'<a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a> au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
+- ajout d'<a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a> au glossaire (et remplacé le groupe par l'équipe tout au long du guide pratique le cas échéant)
 - mise à jour de la définition de <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Livrable: Un produit, un service, un composant ou un document fourni pour répondre à une exigence.">livrable</a>
-- suppression de **déclaration de driver** du texte et du glossaire
+- suppression de **déclaration de moteur** du texte et du glossaire
 - des définitions mises à jour pour <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">governance</a>, <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Opérations: Faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance.">operations</a>et <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Auto-organisation: Toute activité ou processus par le biais duquel les personnes organisent leur travail. L&#x27;auto-organisation se produit dans les contraintes d&#x27;un domaine, mais sans l&#x27;influence directe des agents externes. Dans toute organisation ou équipe, l&#x27;auto-organisation coexiste avec l&#x27;influence externe (ex : des objections externes ou des décisions de gouvernance qui affectent le domaine).">auto-organisation</a>
 
 **Illustrations :**
@@ -4492,7 +4492,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 - _Accord _ : la description mentionne maintenant que toutes les attentes doivent être enregistrées
 - _Décrire les Livrables_: mise à jour du résumé
-- _Décrire les Drivers Organisationnels_ : plus d'informations sur le résumé des drivers
+- _Décrire les Moteurs Organisationnels_ : plus d'informations sur le résumé des moteurs
 - _Résoudre les Objections_ : résumé et description ajoutés
 
 #### Changements du 17-08-2018
@@ -4506,18 +4506,18 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 **Glossaire :**
 
-- **mise à jour de :** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, driver primaire, principe, rôle, auto-organisation, semi-autonomie, sous-driver, valeurs
-- **ajout de:** constituant, coordination, délégation, déclaration de driver, évoluer (v.), flux de valeur, équipe d'aide, domaine ouvert
-- **suppression de : **driver de pair
+- **mise à jour de :** s'occuper de (v.), préoccupation, livrable, gouvernance, objection, opérations, moteur principal, principe, rôle, auto-organisation, semi-autonomie, sous-moteur, valeurs
+- **ajout de:** constituant, coordination, délégation, déclaration de moteur, évoluer (v.), flux de valeur, équipe d'aide, domaine ouvert
+- **suppression de : **moteur de pair
 
 **Modifications de l'introduction**
 
-- ajout du driver pour créer Sociocratie 3.0
+- ajout du moteur pour créer Sociocratie 3.0
 - Les Sept Principes : 
     - *Le Principe d'Empirisme*: référence supprimée à la "falsification"
     - *Le Principe de Consentement* est maintenant expliqué plus clairement comme "soulever, chercher et résoudre les objections aux décisions et aux actions"
 - *Gouvernance, semi-autonomie et auto-organisation*: nous avons affiné les définitions de gouvernance, d'opérations et d'auto-organisation, supprimé toute référence à la "coordination" et clarifié la distinction entre gouvernance et opérations
-- *Drivers et Domaines* : nous avons clarifié comment les domaines peuvent être compris par rapport aux drivers organisationnels
+- *Moteurs et Domaines* : nous avons clarifié comment les domaines peuvent être compris par rapport aux moteurs organisationnels
 
 **Modifications des pratiques :**
 
@@ -4534,7 +4534,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - _Cercle Délégué_: description améliorée
 - *Déléguer l'Influence*: description améliorée
 - _Décrire les Livrables_ : description améliorée
-- _Décrire les Drivers Organisationnels_ : rendu explicite qu'une déclaration de driver est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations de driver de *Répondre aux Drivers Organisationnels * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les drivers organisationnels
+- _Décrire les Moteurs Organisationnels_ : rendu explicite qu'une déclaration de moteur est typiquement juste 1-2 phrases, section sur l'explication du besoin révisée, déplacement de la section sur l'examen des déclarations de moteur de *Répondre aux Moteurs Organisationnels * vers cette pratique, et ajout d'une nouvelle illustration qui explique *comment* décrire les moteurs organisationnels
 - _Double lien_: description alignée à *Lien*
 - _Hiérarchie à Double Lien_: explication détaillée de ce qu'est une hiérarchie à double lien, et comment elle est créée
 - _Évaluer et faire évoluer les accords_: réorganisation du texte afin qu'il soit clair qu'il y a un format long et court
@@ -4546,7 +4546,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - _Accueillir le Changement_ : la description se concentre maintenant sur *comment* inviter aux changements
 - _Lien_: description alignée à _Double Lien_
 - _Registre_: précisé qu'il n'y a pas de différence entre les registres pour les groupes et les registres pour les rôles
-- _Naviguer par Tension_ : description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par Tension*, *Décrire les Drivers Organisationnels* et *Répondre aux Drivers Organisationnels*
+- _Naviguer par Tension_ : description améliorée, ajout d'une nouvelle illustration pour clarifier la distinction entre *Naviguer par Tension*, *Décrire les Moteurs Organisationnels* et *Répondre aux Moteurs Organisationnels*
 - *Objection* : clarifié la différence entre objection et préoccupation, clarifié ce qui est qualifié comme une objection, et comment qualifier les objections dans un contexte de groupe
 - _Domaine ouvert_: description améliorée et illustration mise à jour
 - _Systèmes ouverts_: description améliorée
@@ -4555,7 +4555,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - _Élaborer une Proposition_ : texte révisé et illustration pour rendre le processus de choix des rédacteurs plus clair, mise à jour du modèle de proposition pour l'aligner sur le modèle pour les accords
 - _Représentant_: description améliorée
 - _Résoudre les objections_: mise à jour des deux illustrations
-- _Répondre aux Drivers Organisationnels_ : description améliorée, qualification simplifiée des drivers organisationnels
+- _Répondre aux Moteurs Organisationnels_ : description améliorée, qualification simplifiée des moteurs organisationnels
 - _Rôle_: description améliorée
 - _Attribution de Rôles_ : description améliorée, ajout de la description de chaque étape
 - _Tours de Table_ : description améliorée
@@ -4577,8 +4577,8 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 #### Changements du 21-03-2018
 
-- renommage de *Décrire les Drivers* en *Décrire les Drivers Organisationnels*
-- _Décrire les Drivers Organisationnels_ : explication des quatre aspects d'un driver : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
+- renommage de *Décrire les Moteurs* en *Décrire les Moteurs Organisationnels*
+- _Décrire les Moteurs Organisationnels_ : explication des quatre aspects d'un moteur : situation actuelle, effet de la situation sur l'organisation, besoin de l'organisation en rapport avec cette situation, et impact d'adresser le besoin
 - ajout de *besoin* au glossaire
 
 #### Changements du 16-11-2017
@@ -4612,7 +4612,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 - ajouté "en quoi cela peut m'aider?"
 - ajout de définitions pour la gouvernance, l’auto-organisation, semi-autonomie, opérations d’introduction
-- clarification des domaines et relation aux drivers
+- clarification des domaines et relation aux moteurs
 - concepts fondamentaux développés
 - tous les principes sont maintenant actionnables
 
@@ -4622,7 +4622,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - *Accords*: clarification que le concept d'accord est applicable aux détenteurs de rôles
 - *Clarifier les domaines*: description améliorée
 - *Cercle*: mise à jour de la définition de "cercle", description améliorée
-- *Driver*: mise à jour de la définition de "driver"
+- *Driver*: mise à jour de la définition de "moteur"
 - *Plan de Développement* : description améliorée, modèle mis à jour
 - *Développer la stratégie*: mise à jour de la définition de "stratégie", description améliorée
 - *Hiérarchie avec Double Lien* : nouvelle illustration
@@ -4631,7 +4631,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 - *Carnet* : ajout de détails sur la gouvernance au carnet personnel
 - *Objections* : clarification de la qualification des objections
 - *Évaluation entre Pairs* : description améliorée
-- *Répondre aux Drivers Organisationnels* : intégration d'informations sur la qualification des drivers
+- *Répondre aux Moteurs Organisationnels* : intégration d'informations sur la qualification des moteurs
 - *Rôle* : le détenteur du rôle peut garder à jour un backlog de gouvernance, introduction du terme "détenteur du rôle" pour la personne détenant un rôle
 - *Elaboration d'une proposition* : ajout de critères pour la sélection de rédacteurs, ajout d'étapes pour la priorisation des considérations, petites clarifications
 - *Résoudre les Objections* : illustration mise à jour pour mieux refléter le processus
@@ -4648,14 +4648,14 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
     **Pratiques ajoutées :**
     
     - *Déléguer l'influence*
-    - *Décrire les drivers*
+    - *Décrire les moteurs*
     - *Domaine ouvert*
     
     **Pratiques supprimées :**
     
     - *Cercle de Coordination*
     - *Domaines imbriqués*
-    - *Qualifier un driver*
+    - *Qualifier un moteur*
 
 ### Liste alphabétique de toutes les pratiques
 
@@ -4677,7 +4677,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.</p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Amélioration Continue des Méthodes de Travail</a></dt>
-  <dd><p>Faites apparaître les drivers et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.</p></dd>
+  <dd><p>Faites apparaître les moteurs et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.</p></dd>
 
   <dt><a href="role-selection.html">Attribution de Rôles</a></dt>
   <dd><p>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</p></dd>
@@ -4688,7 +4688,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dt><a href="governance-backlog.html">Backlog de Gouvernance</a></dt>
   <dd><p>Tenez un backlog dédié pour les éléments qui nécessitent une décision de gouvernance, afin de vous en souvenir et utilisez ces informations pour planifier et organiser votre gouvernance.</p></dd>
 
-  <dt><a href="driver-mapping.html">Cartographier les Drivers</a></dt>
+  <dt><a href="driver-mapping.html">Cartographier les Moteurs</a></dt>
   <dd><p>Un format d’atelier permettant aux grands groupes de cocréer et de s’organiser en réponse à une situation complexe d’envergure.</p></dd>
 
   <dt><a href="circle.html">Cercle</a></dt>
@@ -4713,7 +4713,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Explicitez les résultats attendus par les accords, les activités, les projets et les stratégies.</p></dd>
 
   <dt><a href="co-create-proposals.html">Co-créer des Propositions</a></dt>
-  <dd><p>Rassemblez les gens pour co-créer des propositions en réponse aux drivers organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.</p></dd>
+  <dd><p>Rassemblez les gens pour co-créer des propositions en réponse aux moteurs organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.</p></dd>
 
   <dt><a href="collaborate-on-dependencies.html">Collaborer sur les Dépendances</a></dt>
   <dd><p>Convenez avec toutes les parties prenantes concernées d'une façon efficace de traiter chaque dépendance et agissez en conséquence.</p></dd>
@@ -4745,17 +4745,17 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dt><a href="consent-decision-making.html">Décider par Consentement</a></dt>
   <dd><p>Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les accords existants.</p></dd>
 
-  <dt><a href="describe-organizational-drivers.html">Décrire les Drivers Organisationnels</a></dt>
-  <dd><p>Décrire les drivers organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.</p></dd>
-
   <dt><a href="describe-deliverables.html">Décrire les Livrables</a></dt>
   <dd><p>Décrire clairement tout livrable en lien avec un accord pour partager la compréhension de ce qui est attendu.</p></dd>
+
+  <dt><a href="describe-organizational-drivers.html">Décrire les Moteurs Organisationnels</a></dt>
+  <dd><p>Décrire les moteurs organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.</p></dd>
 
   <dt><a href="deliver-value-incrementally.html">Délivrer la Valeur par Incrément</a></dt>
   <dd><p>Décomposez le travail afin de pouvoir délivrer de la valeur rapidement et fréquemment, pour valider vos hypothèses rapidement, coller aux besoins des clients, et vous adapter aux changements de priorités.</p></dd>
 
   <dt><a href="determine-requirements.html">Déterminer les Exigences</a></dt>
-  <dd><p>Déterminer ce qui est requis pour répondre de manière appropriée à un driver organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.</p></dd>
+  <dd><p>Déterminer ce qui est requis pour répondre de manière appropriée à un moteur organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.</p></dd>
 
   <dt><a href="breaking-agreements.html">Enfreindre les Accords</a></dt>
   <dd><p>Enfreignez les accords lorsque vous êtes certain que le bénéfice pour l'organisation l'emporte sur le coût d'attendre de le modifier, et prenez la responsabilité de toutes les conséquences.</p></dd>
@@ -4806,7 +4806,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Limitez le nombre de tâches à chaque étape de votre processus de travail.</p></dd>
 
   <dt><a href="navigate-via-tension.html">Naviguer par Tension</a></dt>
-  <dd><p>Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié tout driver organisationnel que vous découvrez.</p></dd>
+  <dd><p>Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié tout moteur organisationnel que vous découvrez.</p></dd>
 
   <dt><a href="share-costs-and-gains.html">Partager les Coûts et les Gains</a></dt>
   <dd><p>Assurez-vous que les gens ont une relation directe avec les coûts et les gains résultant de leur travail, afin qu'ils soient intéressés à donner le meilleur, à travailler efficacement et à minimiser le gaspillage.</p></dd>
@@ -4838,7 +4838,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dt><a href="peer-feedback.html">Retour entre Pairs</a></dt>
   <dd><p>Invitez certains membres de votre organisation à commenter de manière constructive votre performance dans un rôle ou dans une équipe, votre participation générale et votre contribution, ou bien un axe que vous souhaitez développer.</p></dd>
 
-  <dt><a href="respond-to-organizational-drivers.html">Répondre aux Drivers Organisationnels</a></dt>
+  <dt><a href="respond-to-organizational-drivers.html">Répondre aux Moteurs Organisationnels</a></dt>
   <dd><p>Respond to all organizational drivers you are responsible for, in order of priority, by fulfilling the requirements you determine necessary in each case.</p></dd>
 
   <dt><a href="resolve-objections.html">Résoudre les Objections</a></dt>
@@ -4910,7 +4910,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 #### Raison d'être
 
-**Driver primaire** : la croissance de l'organisation est actuellement freinée par un manque d'image de marque et de pénétration du marché, malgré un produit qui répond bien aux attentes du marché. Cela entraîne une baisse du volume des ventes et un ralentissement du taux d'acquisition client par rapport à ce qui est possible, étant donné que nous voulons maintenir notre croissance et notre part de marché dans une industrie où l'innovation est rapide et la concurrence élevée.
+**Moteur principal** : la croissance de l'organisation est actuellement freinée par un manque d'image de marque et de pénétration du marché, malgré un produit qui répond bien aux attentes du marché. Cela entraîne une baisse du volume des ventes et un ralentissement du taux d'acquisition client par rapport à ce qui est possible, étant donné que nous voulons maintenir notre croissance et notre part de marché dans une industrie où l'innovation est rapide et la concurrence élevée.
 
 **Exigences principales:** Nous devons élever le profil de la marque de l'entreprise et articuler la proposition de valeur unique de nos produits sur le marché cible, afin que les clients potentiels comprennent pourquoi notre produit est le bon choix pour eux, ce qui entraînera une croissance de l'engagement client et des revenus.
 
@@ -5371,10 +5371,10 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Auto-organisation:** Toute activité ou processus par le biais duquel les personnes organisent leur travail. L'auto-organisation se produit dans les contraintes d'un domaine, mais sans l'influence directe des agents externes. Dans toute organisation ou équipe, l'auto-organisation coexiste avec l'influence externe (ex : des objections externes ou des décisions de gouvernance qui affectent le domaine).
 
 
-**Backlog:** Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.
+**Backlog:** Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.
 
 
-**Backlog de Gouvernance:** Une liste visible, priorisée de sujets (drivers et/ou exigences) relatifs à la gouvernance d'un domaine.
+**Backlog de Gouvernance:** Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d'un domaine.
 
 
 **Backlog des Opérations:** Une liste (typiquement priorisée) visible de choses à faire (livrables).
@@ -5413,12 +5413,6 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Driver:** Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.
 
 
-**Driver Organisationnel:** Toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).
-
-
-**Driver Primaire:** Le driver primaire d'un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.
-
-
 **Délégant:** Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.
 
 
@@ -5434,7 +5428,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Empirisme (principe):** **Testez toutes les hypothèses sur lesquelles vous vous appuyez à l'aide d'expériences et d'évaluations en continu,** afin d'apprendre rapidement, de comprendre et d'appréhender la complexité aussi efficacement que possible.
 
 
-**Equipe:** Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d'une organisation ou est formée pour la collaboration entre plusieurs organisations.
+**Equipe:** Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d'une organisation ou est formée pour la collaboration entre plusieurs organisations.
 
 
 **Equipe Ouverte:** Un groupe de personnes qui sont invitées à contribuer quand elles le peuvent au travail et à la gouvernance d'un domaine.
@@ -5449,13 +5443,13 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Evoluer (v.):** développer graduellement.
 
 
-**Exigence:** Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.
+**Exigence:** Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.
 
 
 **Flux de Valeur:** Les livrables traversant une organisation vers les clients ou d'autres intervenants.
 
 
-**Gaspillage:** Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à une réponse (plus) efficace à un driver.
+**Gaspillage:** Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à une réponse (plus) efficace à un moteur.
 
 
 **Gouvernance:** Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l'atteinte de ces objectifs.
@@ -5465,6 +5459,12 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 
 
 **Livrable:** Un produit, un service, un composant ou un document fourni pour répondre à une exigence.
+
+
+**Moteur Organisationnel:** Toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).
+
+
+**Moteur Principal:** Le moteur principal d'un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.
 
 
 **Méthode d'organisation par Cercles Sociocratiques (SCM):** Une méthode de gouvernance égalitaire pour les organisations basée sur une mentalité sociocratique, développée aux Pays-Bas par Gerard Endenburg.
@@ -5479,7 +5479,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Opérations:** Faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance.
 
 
-**Organisation :** Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
+**Organisation :** Un groupe de personnes qui collaborent sur un moteur partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
 
 
 **Porteur de Rôle:** Une personne qui assume la responsabilité d'un rôle.
@@ -5518,7 +5518,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Sous-domaine:** Un domaine entièrement contenu dans un autre domaine.
 
 
-**Sous-driver:** Un sous-driver (ou sous-intention) surgit comme la conséquence d'un autre driver (le super-driver) et est fondamental pour répondre efficacement au super-driver.
+**Sous-moteur:** Un sous-moteur (ou sous-intention) surgit comme la conséquence d'un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.
 
 
 **Stratégie:** Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.
@@ -5527,7 +5527,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Super-domaine:** Un domaine contenant entièrement un autre domaine.
 
 
-**Super-driver:** voir Sous-driver.
+**Super-moteur:** voir Sous-moteur.
 
 
 **Technologie Sociale:** Tout processus, technique, méthode, compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — afin de soutenir l'atteinte d'objectifs communs et de mener des interactions et des échanges sensés.
@@ -5542,10 +5542,10 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Transparence (principe):** **Consignez par écrit toutes les informations précieuses pour l'organisation et rendez-les accessibles à tous les membres de l'organisation, à moins qu'il n'y ait un impératif de confidentialité,** afin que chacun dispose des informations dont il a besoin pour comprendre comment faire son travail tout en contribuant efficacement à l'ensemble.
 
 
-**Valeur:** L'importance ou l'utilité de quelque chose lié à un driver. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, les "valeurs" ou les "valeurs organisationnelles").
+**Valeur:** L'importance ou l'utilité de quelque chose lié à un moteur. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, les "valeurs" ou les "valeurs organisationnelles").
 
 
-**Valeurs:** Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'un driver.
+**Valeurs:** Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'un moteur.
 
 
 **Valeurs Choisies:** Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider ses actions et collaboration en son sein.

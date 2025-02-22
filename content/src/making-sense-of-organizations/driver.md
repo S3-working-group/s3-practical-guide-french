@@ -1,13 +1,13 @@
-# Drivers
+# Moteurs
 
 {{define:driver}}
 
-Drivers :
+Moteurs :
 
 - peuvent être utilisées pour formuler des buts, objectifs, aspirations, une mission, une vision, une raison d’être
 - peuvent changer au fil du temps
 
-## Drivers, Valeur et Gaspillage
+## Moteurs, Valeur et Gaspillage
 
 {{define:value}}
 

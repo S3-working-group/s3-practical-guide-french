@@ -15,12 +15,12 @@ Tenez à jour les enregistrements des accords, ex : dans un [registre](glossary
 
 Consignez les accords avec des détails suffisants pour pouvoir retrouver les informations importantes plus tard.
 
-Inclure a minima un résumé du driver, une description de ce qui a été convenu, de qui est responsable de quoi, des critères d'évaluation et une date de révision.
+Inclure a minima un résumé du moteur, une description de ce qui a été convenu, de qui est responsable de quoi, des critères d'évaluation et une date de révision.
 
 En fonction de la portée et de l'importance de l'accord, envisagez d'inclure les éléments suivants :
 
 -   Un titre pour l'accord
--   [La description du driver.](section:describe-organizational-drivers)
+-   [La description du moteur.](section:describe-organizational-drivers)
 -   Date de création (ou version)
 -   Date d'expiration ou d'échéance (si pertinent)
 -   Date de révision (ou fréquence)

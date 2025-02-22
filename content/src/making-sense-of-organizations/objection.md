@@ -10,7 +10,7 @@ Dans une organisation qui suit le [Principe de Consentement](section:principle-c
 
 Lorsque vous réfléchissez à la question de savoir si vous avez ou non des objections, examinez les questions suivantes :
 
--   Est-ce que poursuivre dans cette voie nous empêcherait de bien répondre au driver et à l'exigence que la proposition est supposée traiter de manière efficace ? (**efficacité**)
+-   Est-ce que poursuivre dans cette voie nous empêcherait de bien répondre au moteur et à l'exigence que la proposition est supposée traiter de manière efficace ? (**efficacité**)
 -   Est-ce que poursuivre entraînerait des conséquences indésirables ou des risques pour votre domaine, pour l'organisation ou au-delà ? (**effets secondaires**)
 -   Est-ce que poursuivre dans cette voie entraînerait du gaspillage, ou passerait à côté de d'améliorations substantielles ? (**efficience**)
 
@@ -22,7 +22,7 @@ Les informations apportées par les objections peuvent être utilisées pour am�
 -   la façon dont les gens exécutent les décisions
 -   les accords existants
 -   les propositions
--   la compréhension commune des drivers
+-   la compréhension commune des moteurs
 
 
 ## Visez à ce que les décisions soient "suffisamment bonnes et sûres pour le moment"

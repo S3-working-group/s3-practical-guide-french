@@ -25,7 +25,7 @@ Plusieurs types de backlog existent :
 
 Chaque entrée d'un backlog (priorisé) contient typiquement :
 
-- une **courte description** de la tâche (généralement un [livrable](glossary:deliverable), une [exigence](glossary:requirement) ou un [driver](glossary:organizational-driver))
+- une **courte description** de la tâche (généralement un [livrable](glossary:deliverable), une [exigence](glossary:requirement) ou un [moteur](glossary:organizational-driver))
 - référence à d'autres projets ou **tâches connexes**, ainsi qu'à toute **autre information pertinente**
 - une estimation **du temps nécessaire à** pour la traiter
 

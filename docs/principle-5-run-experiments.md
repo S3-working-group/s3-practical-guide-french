@@ -11,7 +11,7 @@ prev_page_url: "principle-4-sense-respond.html"
 
 Des pratiques essentielles pour vous y aider :
 
-- [Décrire les Drivers Organisationnels](describe-organizational-drivers.html) – Construire un modèle mental partagé de la situation que vous voulez aborder, est essentiel pour réussir à concevoir, exécuter et ultérieurement évaluer vos expériences.
+- [Décrire les Moteurs Organisationnels](describe-organizational-drivers.html) – Construire un modèle mental partagé de la situation que vous voulez aborder, est essentiel pour réussir à concevoir, exécuter et ultérieurement évaluer vos expériences.
 - [Déterminer les Exigences](determine-requirements.html) – Clarifier l'exigence, y compris l'impact attendu, est une condition préalable à toute expérimentation, et à la définition des indicateurs de réussite.
 - [Clarifier les résultats attendus](clarify-intended-outcome.html) – Une description claire du résultat attendu de votre expérimentation est essentiel pour comprendre si oui ou non cette expérimentation a produit les effets attendus.
 - [Critères d'Évaluation](evaluation-criteria.html) – Définir  de critères de succès clairs avant le début d'une expérimentation, aide à révéler des défauts dans sa conception et favorise une analyse efficace des résultats.

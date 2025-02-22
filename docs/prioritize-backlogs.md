@@ -12,4 +12,4 @@ prev_page_url: "backlog.html"
 
 Il ne peut y avoir deux éléments de même importance, ce qui signifie qu'il est nécessaire de s'entendre sur les priorités et faire des choix difficiles.
 
-Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.">backlog</a> priorisé aide à **rester concentré** sur les éléments les plus importants.
+Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a> priorisé aide à **rester concentré** sur les éléments les plus importants.

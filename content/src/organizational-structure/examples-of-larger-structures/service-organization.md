@@ -1,7 +1,7 @@
 # Organisation de Service
 
 <summary>
-Collaboration impliquant de multiples parties prenantes, partageant un driver (ou objectif) commun.
+Collaboration impliquant de multiples parties prenantes, partageant un moteur (ou objectif) commun.
 </summary>
 
 - améliore le potentiel d'équivalence entre diverses entités

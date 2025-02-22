@@ -1,6 +1,6 @@
 ---
 title: "Changements Organisationnels en Flux Tiré"
-next_page_title: "Cartographier les Drivers"
+next_page_title: "Cartographier les Moteurs"
 next_page_url: "driver-mapping.html"
 prev_page_title: "Systèmes Ouverts"
 prev_page_url: "open-systems.html"

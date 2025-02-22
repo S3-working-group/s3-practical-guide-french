@@ -1,4 +1,4 @@
-# Répondre aux Drivers Organisationnels
+# Répondre aux Moteurs Organisationnels
 
 <summary>
 Respond to all organizational drivers you are responsible for, in order of priority, by fulfilling the requirements you determine necessary in each case.
@@ -42,9 +42,9 @@ To keep track of new drivers that you become aware of (or that others identify a
 
 ## Step 2: Determine Priority
 
-Une fois que vous avez décidé qu'un driver est décrit assez clairement et qu'il est pertinent d'y répondre, il doit être priorisé et déplacé vers le backlog approprié, pour être récupéré et traité en conséquence.
+Une fois que vous avez décidé qu'un moteur est décrit assez clairement et qu'il est pertinent d'y répondre, il doit être priorisé et déplacé vers le backlog approprié, pour être récupéré et traité en conséquence.
 
-Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn't imply that it's also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Par conséquent, les nouveaux drivers doivent être priorisés par rapport aux autres tâches, afin de rester concentré sur ce qui est le plus important, et toujours travailler efficacement à la réalisation de vos objectifs.
+Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn't imply that it's also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Par conséquent, les nouveaux moteurs doivent être priorisés par rapport aux autres tâches, afin de rester concentré sur ce qui est le plus important, et toujours travailler efficacement à la réalisation de vos objectifs.
 
 
 ## Step 3: Determine the requirement

@@ -2,7 +2,7 @@
 title: "Progresser entre Pairs"
 next_page_title: "Demander de l'Aide"
 next_page_url: "ask-for-help.html"
-prev_page_title: "Cartographier les Drivers"
+prev_page_title: "Cartographier les Moteurs"
 prev_page_url: "driver-mapping.html"
 ---
 

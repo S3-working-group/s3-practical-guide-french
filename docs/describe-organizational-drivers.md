@@ -1,5 +1,5 @@
 ---
-title: "Décrire les Drivers Organisationnels"
+title: "Décrire les Moteurs Organisationnels"
 next_page_title: "Déterminer les Exigences"
 next_page_url: "determine-requirements.html"
 prev_page_title: "Naviguer par Tension"
@@ -7,7 +7,7 @@ prev_page_url: "navigate-via-tension.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Décrire les drivers organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.
+<div class="card summary"><div class="card-body">Décrire les moteurs organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.
 </div></div>
 
 **Table des matières**
@@ -16,7 +16,7 @@ prev_page_url: "navigate-via-tension.html"
 {:toc}
 
 
-_Un **driver organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables)._
+_Un **moteur organisationnel** est toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables)._
 
 Organizational drivers are identified by individuals (see [Navigate Via Tension](navigate-via-tension.html)) who either respond to them directly (when a driver falls within their own domain of responsibility), or who pass on information about drivers they discover to others in the organization (whom they believe are responsible for dealing with them).
 
@@ -27,7 +27,7 @@ In the course of their daily work in organizations, individuals frequently encou
 
 Clearly understanding organizational drivers and documenting essential information about them before deciding on a response, is crucial for ensuring that the rationale behind decisions is understood. It also provides an opportunity for those who are collaborating to verify their assumptions, combine diverse viewpoints, align understanding, and consequently agree on a  description of a driver.
 
-Both individuals and groups can describe organizational drivers. Un résumé peut être ajouté à un [backlog](backlog.html), ou utilisé simplement pour communiquer des informations pertinentes sur une situation à ceux qui en ont la responsabilité. Par la suite, ces drivers peuvent être [priorisés](prioritize-backlogs.html) par rapport aux autres drivers qui sont en attente et puis, le moment venu, ils peuvent être traités en conséquence. Plus de détails sur la façon de répondre aux drivers organisationnels peuvent être trouvés dans la pratique [Répondre aux Drivers Organisationnels](respond-to-organizational-drivers.html).
+Both individuals and groups can describe organizational drivers. Un résumé peut être ajouté à un [backlog](backlog.html), ou utilisé simplement pour communiquer des informations pertinentes sur une situation à ceux qui en ont la responsabilité. Par la suite, ces moteurs peuvent être [priorisés](prioritize-backlogs.html) par rapport aux autres moteurs qui sont en attente et puis, le moment venu, ils peuvent être traités en conséquence. Plus de détails sur la façon de répondre aux moteurs organisationnels peuvent être trouvés dans la pratique [Répondre aux Moteurs Organisationnels](respond-to-organizational-drivers.html).
 
 
 ## How to describe organizational drivers
@@ -40,7 +40,7 @@ A simple way to describe an organizational driver is by explaining:
 
 Describing these three aspects will typically provide enough information to communicate an organizational driver clearly.
 
-![Décrire les Drivers Organisationnels](img/process/describe-organizational-drivers.png)
+![Décrire les Moteurs Organisationnels](img/process/describe-organizational-drivers.png)
 
 
 ### Problem-focused or opportunity-focused

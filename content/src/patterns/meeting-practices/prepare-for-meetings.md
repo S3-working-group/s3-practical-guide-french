@@ -6,7 +6,7 @@ Préparez-vous à l'avance pour rendre les réunions plus efficaces.
 
 Quelques considérations pour préparer avec succès une réunion :
 
-- clarifiez et communiquez le [driver](glossary:organizational-driver), et le [résultat attendu](glossary:intended-outcome) de la réunion
+- clarifiez et communiquez le [moteur](glossary:organizational-driver), et le [résultat attendu](glossary:intended-outcome) de la réunion
 - décidez qui inviter
 - créez un ordre du jour
 - planifiez la réunion suffisamment à l'avance, pour que les gens aient le temps de se préparer
@@ -19,7 +19,7 @@ Impliquez les gens dans la préparation et la priorisation de l'ordre du jour et
 
 Pour chaque point de l'ordre du jour, convenez :
 
-- du driver
+- du moteur
 - des résultats attendus
 - du processus
 - du temps que vous voulez y passer

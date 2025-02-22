@@ -12,9 +12,9 @@ La pratique *Élaborer une proposition* peut également être utilisée par un i
 
 ## Étapes d'élaboration d'une proposition
 
-**Consentir au driver:** Présenter brièvement le[driver](glossary:organizational-driver). *Est-il pertinent pour nous de répondre à ce driver? Y a-t-il des amendements essentiels à ce qui a été présenté?*
+**Consentir au moteur:** Présenter brièvement le[moteur](glossary:organizational-driver). *Est-il pertinent pour nous de répondre à ce moteur? Y a-t-il des amendements essentiels à ce qui a été présenté?*
 
-**Approfondir la compréhension collective du driver** : recueillir les questions essentielles à une meilleure compréhension du driver.
+**Approfondir la compréhension collective du moteur** : recueillir les questions essentielles à une meilleure compréhension du moteur.
 
 **Recueillir les considérations** formulées comme des questions relatives aux solutions possibles. Les questions révèlent des contraintes (questions informatives) ou des possibilités (questions génératives).
 
@@ -24,7 +24,7 @@ La pratique *Élaborer une proposition* peut également être utilisée par un i
 
 **Récolter les idées** comme constituants possibles d'une proposition.
 
-**Rédiger une proposition** pour répondre au driver, en prenant en compte les idées créatives et les informations récoltées jusque là. En général, c'est un groupe plus restreint de "rédacteurs" qui s'occupe de cette étape.
+**Rédiger une proposition** pour répondre au moteur, en prenant en compte les idées créatives et les informations récoltées jusque là. En général, c'est un groupe plus restreint de "rédacteurs" qui s'occupe de cette étape.
 
 ## Choisir les rédacteurs
 

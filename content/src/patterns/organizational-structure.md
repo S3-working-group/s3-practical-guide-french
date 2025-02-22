@@ -16,7 +16,7 @@ Les domaines peuvent être reliés pour constituer une hiérarchie ou une **hét
 La Sociocratie 3.0 décrit une variété de **modèles structurels** pour développer une structure organisationnelle.
 
 - les modèles structurels S3 s'appliquent à différents niveaux d'abstraction
-- différents modèles structurels servent différents [drivers](glossary:driver)
+- différents modèles structurels servent différents [moteurs](glossary:driver)
 - les modèles structurels peuvent être adaptés et combinés au besoin
 - d'autres pratiques existent et seront découvertes
 

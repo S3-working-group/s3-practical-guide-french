@@ -1,13 +1,13 @@
 ---
 title: "Naviguer par Tension"
-next_page_title: "Décrire les Drivers Organisationnels"
+next_page_title: "Décrire les Moteurs Organisationnels"
 next_page_url: "describe-organizational-drivers.html"
-prev_page_title: "Répondre aux Drivers Organisationnels"
+prev_page_title: "Répondre aux Moteurs Organisationnels"
 prev_page_url: "respond-to-organizational-drivers.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié tout driver organisationnel que vous découvrez.
+<div class="card summary"><div class="card-body">Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié tout moteur organisationnel que vous découvrez.
 </div></div>
 
 **Challenges and opportunities** for an organization are revealed by people reflecting on the reasons why they experience tension.
@@ -36,7 +36,7 @@ _Would responding to this situation help the organization to generate value, eli
 
 ## Step 4: Is it in my/our domain? If not, pass it on
 
-Ça pourrait être parce que le driver tombe dans le périmètre d'un domaine dont vous êtes responsable, auquel cas vous voudriez le placer sur votre liste de priorités et y répondre en fonction (voir [Répondre aux Drivers Organisationnels](respond-to-organizational-drivers.html)). Even if it does fall outside of your area of responsibility, it might still be something that you are best placed to deal with, or at the very least, you can take care of it without  causing any impediments or harm, in which case, consider just doing it. It might not be worth the effort to go and find somebody else and explain to them about the situation if it's something you can simply deal with yourself.
+Ça pourrait être parce que le moteur tombe dans le périmètre d'un domaine dont vous êtes responsable, auquel cas vous voudriez le placer sur votre liste de priorités et y répondre en fonction (voir [Répondre aux Moteurs Organisationnels](respond-to-organizational-drivers.html)). Even if it does fall outside of your area of responsibility, it might still be something that you are best placed to deal with, or at the very least, you can take care of it without  causing any impediments or harm, in which case, consider just doing it. It might not be worth the effort to go and find somebody else and explain to them about the situation if it's something you can simply deal with yourself.
 
 On other occasions however, you'll come across drivers that are the responsibility of others to respond to. Therefore, to Navigate Via Tension effectively, there needs to be enough clarity around who is responsible for what in the organization so that people know, or can find out, who to inform about new organizational drivers they discover, so they can pass that information on to them.
 
@@ -44,5 +44,5 @@ On other occasions however, you'll come across drivers that are the responsibili
 ![Naviguer par Tension](img/process/nvt.png)
 
 
-![Naviguer par Tension dans le contexte de la Décrire les Drivers Organisationnels, Répondre aux Drivers Organisationnels et Déterminer les Exigences](img/process/navigate-describe-respond-determine.png)
+![Naviguer par Tension dans le contexte de la Décrire les Moteurs Organisationnels, Répondre aux Moteurs Organisationnels et Déterminer les Exigences](img/process/navigate-describe-respond-determine.png)
 

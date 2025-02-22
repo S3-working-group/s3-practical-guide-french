@@ -6,7 +6,7 @@
 
 Le [délégant](glossary:delegator) du domaine ouvert clarifie :
 
-- le [driver primaire](glossary:primary-driver), les responsabilités clés et les contraintes du domaine ouvert
+- le [moteur principal](glossary:primary-driver), les responsabilités clés et les contraintes du domaine ouvert
 - qui est invité à contribuer au domaine ouvert
 - les contraintes liées à la participation du délégant à la [gouvernance](glossary:governance) du domaine ouvert
 

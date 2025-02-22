@@ -29,11 +29,11 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-backlog">Backlog</dt>
-<dd>Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un driver) qui doivent être traités.</dd>
+<dd>Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.</dd>
 
 
 <dt id="entry-governance-backlog">Backlog de Gouvernance</dt>
-<dd>Une liste visible, priorisée de sujets (drivers et/ou exigences) relatifs à la gouvernance d'un domaine.</dd>
+<dd>Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d'un domaine.</dd>
 
 
 <dt id="entry-operations-backlog">Backlog des Opérations</dt>
@@ -84,14 +84,6 @@ prev_page_url: "authors.html"
 <dd>Le motif d'un groupe ou d'une personne pour répondre à une situation particulière.</dd>
 
 
-<dt id="entry-organizational-driver">Driver Organisationnel</dt>
-<dd>Toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).</dd>
-
-
-<dt id="entry-primary-driver">Driver Primaire</dt>
-<dd>Le driver primaire d'un domaine est le driver principal auquel les personnes responsables de ce domaine répondent.</dd>
-
-
 <dt id="entry-delegator">Délégant</dt>
 <dd>Un individu ou un groupe déléguant la responsabilité d'un domaine à autrui.</dd>
 
@@ -113,7 +105,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-team">Equipe</dt>
-<dd>Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d'une organisation ou est formée pour la collaboration entre plusieurs organisations.</dd>
+<dd>Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d'une organisation ou est formée pour la collaboration entre plusieurs organisations.</dd>
 
 
 <dt id="entry-open-team">Equipe Ouverte</dt>
@@ -133,7 +125,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-requirement">Exigence</dt>
-<dd>Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un driver organisationnel, ou jugé comme une prochaine étape utile.</dd>
+<dd>Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.</dd>
 
 
 <dt id="entry-flow-of-value">Flux de Valeur</dt>
@@ -141,7 +133,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-waste">Gaspillage</dt>
-<dd>Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à une réponse (plus) efficace à un driver.</dd>
+<dd>Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à une réponse (plus) efficace à un moteur.</dd>
 
 
 <dt id="entry-governance">Gouvernance</dt>
@@ -154,6 +146,14 @@ prev_page_url: "authors.html"
 
 <dt id="entry-deliverable">Livrable</dt>
 <dd>Un produit, un service, un composant ou un document fourni pour répondre à une exigence.</dd>
+
+
+<dt id="entry-organizational-driver">Moteur Organisationnel</dt>
+<dd>Toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).</dd>
+
+
+<dt id="entry-primary-driver">Moteur Principal</dt>
+<dd>Le moteur principal d'un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.</dd>
 
 
 <dt id="entry-scm">Méthode d'organisation par Cercles Sociocratiques (SCM)</dt>
@@ -173,7 +173,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-organization">Organisation </dt>
-<dd>Un groupe de personnes qui collaborent sur un driver partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.</dd>
+<dd>Un groupe de personnes qui collaborent sur un moteur partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.</dd>
 
 
 <dt id="entry-role-keeper">Porteur de Rôle</dt>
@@ -224,8 +224,8 @@ prev_page_url: "authors.html"
 <dd>Un domaine entièrement contenu dans un autre domaine.</dd>
 
 
-<dt id="entry-subdriver">Sous-driver</dt>
-<dd>Un sous-driver (ou sous-intention) surgit comme la conséquence d'un autre driver (le super-driver) et est fondamental pour répondre efficacement au super-driver.</dd>
+<dt id="entry-subdriver">Sous-moteur</dt>
+<dd>Un sous-moteur (ou sous-intention) surgit comme la conséquence d'un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.</dd>
 
 
 <dt id="entry-strategy">Stratégie</dt>
@@ -236,8 +236,8 @@ prev_page_url: "authors.html"
 <dd>Un domaine contenant entièrement un autre domaine.</dd>
 
 
-<dt id="entry-superdriver">Super-driver</dt>
-<dd>voir Sous-driver.</dd>
+<dt id="entry-superdriver">Super-moteur</dt>
+<dd>voir Sous-moteur.</dd>
 
 
 <dt id="entry-social-technology">Technologie Sociale</dt>
@@ -257,11 +257,11 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-value">Valeur</dt>
-<dd>L'importance ou l'utilité de quelque chose lié à un driver. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, les "valeurs" ou les "valeurs organisationnelles").</dd>
+<dd>L'importance ou l'utilité de quelque chose lié à un moteur. C’est aussi "un principe significatif guidant le comportement" (principalement utilisé au pluriel, les "valeurs" ou les "valeurs organisationnelles").</dd>
 
 
 <dt id="entry-values">Valeurs</dt>
-<dd>Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'un driver.</dd>
+<dd>Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'un moteur.</dd>
 
 
 <dt id="entry-chosen-values">Valeurs Choisies</dt>

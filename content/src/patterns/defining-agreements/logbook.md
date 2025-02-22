@@ -12,7 +12,7 @@ Les outils typiques pour tenir les registres sont les wikis (ex : [Dokuwiki](ht
 
 Contenu relatif à l'ensemble de l'organisation :
 
-- [driver primaire](glossary:primary-driver), [stratégie](glossary:strategy) et [valeurs](glossary:values) de l'organisation
+- [moteur principal](glossary:primary-driver), [stratégie](glossary:strategy) et [valeurs](glossary:values) de l'organisation
 - structure organisationnelle ([domaines](glossary:domain) et leurs relations)
 - [accords](glossary:agreement)
 

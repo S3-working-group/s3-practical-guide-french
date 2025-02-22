@@ -2,7 +2,7 @@
 title: "Domaines"
 next_page_title: "Objections"
 next_page_url: "objection.html"
-prev_page_title: "Drivers Organisationnels et Exigences"
+prev_page_title: "Moteurs Organisationnels et Exigences"
 prev_page_url: "drivers-and-requirements.html"
 ---
 
@@ -29,7 +29,7 @@ _La délégation est l’octroi par une partie (le délégant) à une autre (le 
 
 La responsabilité des domaines est déléguée à des groupes ou à des individus, qui agissent ensuite dans un cadre défini de contraintes sur leur autonomie et leur influence.
 
-Lorsqu'un domaine est délégué à un groupe de personnes, ils deviennent une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>. Quand il est délégué à un individu, il devient un <a href="glossary.html#entry-role-keeper" class="glossary-tooltip" data-toggle="tooltip" title="Porteur de Rôle: Une personne qui assume la responsabilité d&#x27;un rôle.">porteur de rôle</a>.
+Lorsqu'un domaine est délégué à un groupe de personnes, ils deviennent une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>. Quand il est délégué à un individu, il devient un <a href="glossary.html#entry-role-keeper" class="glossary-tooltip" data-toggle="tooltip" title="Porteur de Rôle: Une personne qui assume la responsabilité d&#x27;un rôle.">porteur de rôle</a>.
 
 Les <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</a> peuvent faire tout ce qu'ils pensent pouvoir les rapprocher de leur but, sauf si c'est en dehors du domaine de l'organisation, explicitement interdit, que ça viole le domaine (explicite) de quelqu'un d'autre ou si ça empêche d'autres personnes à contribuer à l'organisation.
 
@@ -41,11 +41,11 @@ Le <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle=
 - les **responsabilités clés** (les livrables clés, tout risque critique à gérer, tout autre travail essentiel ou prises de décision effectivement délégués)
 - **des contraintes sur l'autonomie et l'influence** du ou des délégués, généralement liées à l'organisation elle-même (dépendances, implication du délégant, rapports, etc.)
 
-## Drivers et domaines
+## Moteurs et Domaines
 
-Il est également possible de comprendre un domaine par rapport aux drivers organisationnels :
+Il est également possible de comprendre un domaine par rapport aux moteurs organisationnels :
 
-- le **driver primaire** du domaine - le principal driver auquel les délégués répondent
-- l'ensemble des sous-drivers que l'organisation peut avoir à traiter en répondant au driver primaire du domaine, notamment : 
-    - les **responsabilités clés** (n'importe quel driver dérivant directement du driver primaire)
-    - les **dépendances** et les **contraintes externes** (drivers liés à d'autres domaines ou à l'environnement externe de l'organisation) qui contraignent l'autonomie des délégués
+- le **moteur principal** du domaine - le principal moteur auquel les délégués répondent
+- l'ensemble des sous-moteurs que l'organisation peut avoir à traiter en répondant au moteur principal du domaine, notamment : 
+    - les **responsabilités clés** (n'importe quel moteur dérivant directement du moteur principal)
+    - les **dépendances** et les **contraintes externes** (moteurs liés à d'autres domaines ou à l'environnement externe de l'organisation) qui contraignent l'autonomie des délégués

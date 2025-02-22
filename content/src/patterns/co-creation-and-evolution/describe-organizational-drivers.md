@@ -1,12 +1,12 @@
-# Décrire les Drivers Organisationnels
+# Décrire les Moteurs Organisationnels
 
 <summary>
-<strong>Décrivez les drivers organisationnels pour mieux les comprendre, les communiquer et vous en souvenir.</strong>
+<strong>Décrivez les moteurs organisationnels pour mieux les comprendre, les communiquer et vous en souvenir.</strong>
 </summary>
 
-Décrire les [drivers](glossary:organizational-driver) peut être fait en groupe ou par un individu. Selon leur perspective, ils peuvent exprimer un driver comme un **problème** à résoudre ou comme une **opportunité** à saisir.
+Décrire les [moteurs](glossary:organizational-driver) peut être fait en groupe ou par un individu. Selon leur perspective, ils peuvent exprimer un moteur comme un **problème** à résoudre ou comme une **opportunité** à saisir.
 
-Un moyen simple de décrire un driver est d'expliquer :
+Un moyen simple de décrire un moteur est d'expliquer :
 
 - **Ce qui se passe...:** 
     - la **situation actuelle**
@@ -19,9 +19,9 @@ Créez un résumé bref mais concis avec juste assez d'informations pour justifi
 
 Pas plus d'une ou deux phrases, afin que l'information soit facile à retenir et traiter.
 
-En plus du résumé, d'autres détails sur le driver peuvent être conservés dans le registre.
+En plus du résumé, d'autres détails sur le moteur peuvent être conservés dans le registre.
 
-![Décrire les Drivers Organisationnels](img/process/describe-organizational-drivers.png)
+![Décrire les Moteurs Organisationnels](img/process/describe-organizational-drivers.png)
 
 ## Exemple:
 
@@ -65,13 +65,13 @@ Décrivez l'impact de répondre à ce besoin :
 - Expliquez le [résultat attendu](glossary:intended-outcome), les bénéfices potentiels ou les opportunités.
 - L’impact peut être évident ou implicite, en particulier lorsque les effets de la situation actuelle sont déjà décrits.
 
-## Évaluer les drivers
+## Évaluer les moteurs
 
-Assurez-vous de revoir régulièrement les drivers, pour approfondir votre compréhension de ce qui se passe et ce qui est nécessaire.
+Assurez-vous de revoir régulièrement les moteurs, pour approfondir votre compréhension de ce qui se passe et ce qui est nécessaire.
 
 Quelques questions utiles pour une évaluation :
 
 - La description de la situation est-elle (toujours) correcte ?
 - Avons-nous encore les mêmes besoins face à la situation?
-- Le driver est-il toujours dans notre domaine?
-- Le driver est-il toujours pertinent ?
+- Le moteur est-il toujours dans notre domaine?
+- Le moteur est-il toujours pertinent ?

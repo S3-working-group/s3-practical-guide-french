@@ -36,6 +36,6 @@ prev_page_url: "role-selection.html"
   <dt><a href="create-a-pull-system-for-organizational-change.html">Changements Organisationnels en Flux Tiré</a></dt>
   <dd><p>Créez un environnement qui invite les membres d'une organisation à mener des changements.</p></dd>
 
-  <dt><a href="driver-mapping.html">Cartographier les Drivers</a></dt>
+  <dt><a href="driver-mapping.html">Cartographier les Moteurs</a></dt>
   <dd><p>Un format d’atelier permettant aux grands groupes de cocréer et de s’organiser en réponse à une situation complexe d’envergure.</p></dd>
 </dl>

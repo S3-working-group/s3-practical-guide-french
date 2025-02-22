@@ -7,7 +7,7 @@ prev_page_url: "double-linked-hierarchy.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Collaboration impliquant de multiples parties prenantes, partageant un driver (ou objectif) commun.
+<div class="card summary"><div class="card-body">Collaboration impliquant de multiples parties prenantes, partageant un moteur (ou objectif) commun.
 </div></div>
 
 - améliore le potentiel d'équivalence entre diverses entités

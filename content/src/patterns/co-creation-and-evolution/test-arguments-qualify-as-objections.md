@@ -21,9 +21,9 @@ Quelques questions utiles :
 
 -   En quoi l'argument est-il relatif à cette proposition ou à cette accord en particulier ?
 -   Est-ce que l'argument révèle comment une **action ou un accord** (proposé ou en vigueur) :
-    -   nuit à la réponse à un driver organisationnel?
+    -   nuit à la réponse à un moteur organisationnel?
     -   peut être améliorée immédiatement ?
-    -   empêche ou réduit la contribution de quelqu'un à répondre à un driver ?
+    -   empêche ou réduit la contribution de quelqu'un à répondre à un moteur ?
     -   est en conflit avec les valeurs de l'organisation ?
     -   n'est pas considérée comme 'suffisamment sûre' pour l'essayer?
 

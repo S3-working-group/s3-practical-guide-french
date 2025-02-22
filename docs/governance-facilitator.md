@@ -13,7 +13,7 @@ prev_page_url: "meeting-host.html"
 Un facilitateur de <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a> :
 
 -   s'assure que les [réunions de gouvernance](governance-meeting.html) restent sur la bonne voie et sont évaluées
--   est (habituellement) sélectionné par une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un driver (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a> parmi ses membres (et pour une durée spécifique)
+-   est (habituellement) sélectionné par une <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a> parmi ses membres (et pour une durée spécifique)
 -   se familiarisent avec le [Backlog de Gouvernance](governance-backlog.html)
 -   invite souvent d'autres à faciliter certains points de l'ordre du jour
 

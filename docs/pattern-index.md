@@ -25,7 +25,7 @@ prev_page_url: "changelog.html"
   <dd><p>Définissez une limite de temps afin de rester concentré, prenez conscience du temps dont vous disposez et de comment vous l'utilisez.</p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Amélioration Continue des Méthodes de Travail</a></dt>
-  <dd><p>Faites apparaître les drivers et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.</p></dd>
+  <dd><p>Faites apparaître les moteurs et établissez in système mesurable à flux tirés pour changer l'organisation en améliorant continuellement le processus de travail.</p></dd>
 
   <dt><a href="role-selection.html">Attribution de Rôles</a></dt>
   <dd><p>Un processus de groupe pour sélectionner une personne pour un rôle sur la force de la raison.</p></dd>
@@ -36,7 +36,7 @@ prev_page_url: "changelog.html"
   <dt><a href="governance-backlog.html">Backlog de Gouvernance</a></dt>
   <dd><p>Tenez un backlog dédié pour les éléments qui nécessitent une décision de gouvernance, afin de vous en souvenir et utilisez ces informations pour planifier et organiser votre gouvernance.</p></dd>
 
-  <dt><a href="driver-mapping.html">Cartographier les Drivers</a></dt>
+  <dt><a href="driver-mapping.html">Cartographier les Moteurs</a></dt>
   <dd><p>Un format d’atelier permettant aux grands groupes de cocréer et de s’organiser en réponse à une situation complexe d’envergure.</p></dd>
 
   <dt><a href="circle.html">Cercle</a></dt>
@@ -61,7 +61,7 @@ prev_page_url: "changelog.html"
   <dd><p>Explicitez les résultats attendus par les accords, les activités, les projets et les stratégies.</p></dd>
 
   <dt><a href="co-create-proposals.html">Co-créer des Propositions</a></dt>
-  <dd><p>Rassemblez les gens pour co-créer des propositions en réponse aux drivers organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.</p></dd>
+  <dd><p>Rassemblez les gens pour co-créer des propositions en réponse aux moteurs organisationnels : exploitez l’intelligence collective, créez un sentiment d'appartenance et faites croître leur engagement et leur responsabilisation.</p></dd>
 
   <dt><a href="collaborate-on-dependencies.html">Collaborer sur les Dépendances</a></dt>
   <dd><p>Convenez avec toutes les parties prenantes concernées d'une façon efficace de traiter chaque dépendance et agissez en conséquence.</p></dd>
@@ -93,17 +93,17 @@ prev_page_url: "changelog.html"
   <dt><a href="consent-decision-making.html">Décider par Consentement</a></dt>
   <dd><p>Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les accords existants.</p></dd>
 
-  <dt><a href="describe-organizational-drivers.html">Décrire les Drivers Organisationnels</a></dt>
-  <dd><p>Décrire les drivers organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.</p></dd>
-
   <dt><a href="describe-deliverables.html">Décrire les Livrables</a></dt>
   <dd><p>Décrire clairement tout livrable en lien avec un accord pour partager la compréhension de ce qui est attendu.</p></dd>
+
+  <dt><a href="describe-organizational-drivers.html">Décrire les Moteurs Organisationnels</a></dt>
+  <dd><p>Décrire les moteurs organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.</p></dd>
 
   <dt><a href="deliver-value-incrementally.html">Délivrer la Valeur par Incrément</a></dt>
   <dd><p>Décomposez le travail afin de pouvoir délivrer de la valeur rapidement et fréquemment, pour valider vos hypothèses rapidement, coller aux besoins des clients, et vous adapter aux changements de priorités.</p></dd>
 
   <dt><a href="determine-requirements.html">Déterminer les Exigences</a></dt>
-  <dd><p>Déterminer ce qui est requis pour répondre de manière appropriée à un driver organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.</p></dd>
+  <dd><p>Déterminer ce qui est requis pour répondre de manière appropriée à un moteur organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.</p></dd>
 
   <dt><a href="breaking-agreements.html">Enfreindre les Accords</a></dt>
   <dd><p>Enfreignez les accords lorsque vous êtes certain que le bénéfice pour l'organisation l'emporte sur le coût d'attendre de le modifier, et prenez la responsabilité de toutes les conséquences.</p></dd>
@@ -154,7 +154,7 @@ prev_page_url: "changelog.html"
   <dd><p>Limitez le nombre de tâches à chaque étape de votre processus de travail.</p></dd>
 
   <dt><a href="navigate-via-tension.html">Naviguer par Tension</a></dt>
-  <dd><p>Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié tout driver organisationnel que vous découvrez.</p></dd>
+  <dd><p>Prêtez attention aux tensions que vous ressentez par rapport à l'organisation, explorez leur cause et transmettez aux personnes redevables du domaine approprié tout moteur organisationnel que vous découvrez.</p></dd>
 
   <dt><a href="share-costs-and-gains.html">Partager les Coûts et les Gains</a></dt>
   <dd><p>Assurez-vous que les gens ont une relation directe avec les coûts et les gains résultant de leur travail, afin qu'ils soient intéressés à donner le meilleur, à travailler efficacement et à minimiser le gaspillage.</p></dd>
@@ -186,7 +186,7 @@ prev_page_url: "changelog.html"
   <dt><a href="peer-feedback.html">Retour entre Pairs</a></dt>
   <dd><p>Invitez certains membres de votre organisation à commenter de manière constructive votre performance dans un rôle ou dans une équipe, votre participation générale et votre contribution, ou bien un axe que vous souhaitez développer.</p></dd>
 
-  <dt><a href="respond-to-organizational-drivers.html">Répondre aux Drivers Organisationnels</a></dt>
+  <dt><a href="respond-to-organizational-drivers.html">Répondre aux Moteurs Organisationnels</a></dt>
   <dd><p>Respond to all organizational drivers you are responsible for, in order of priority, by fulfilling the requirements you determine necessary in each case.</p></dd>
 
   <dt><a href="resolve-objections.html">Résoudre les Objections</a></dt>

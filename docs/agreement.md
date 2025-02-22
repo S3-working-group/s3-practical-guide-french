@@ -11,7 +11,7 @@ _Un **accord** est une ligne directrice, un processus, un protocole ou une polit
 
 Des directives et principes partagées sur pourquoi, comment et quand agir, et ce qui est spécifiquement nécessaire permettant une collaboration efficace.
 
-Les accords sont créés en réponse à des <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">drivers organisationnels</a>, ils sont **régulièrement évalués**, et évoluent si nécessaire.
+Les accords sont créés en réponse à des <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteurs organisationnels</a>, ils sont **régulièrement évalués**, et évoluent si nécessaire.
 
 **La redevabilité générale** d'un accord appartient aux personnes qui le créent.
 
