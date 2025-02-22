@@ -12,7 +12,7 @@ prev_page_url: "governance-facilitator.html"
 
 _Un **backlog de gouvernance** est une liste visible et priorisée de sujets (moteurs et/ou exigences) liés à la gouvernance d'un domaine._
 
-Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a> un est gage de fiabilité et de transparence pour n'importe quel système de gouvernance. Tenir un backlog de gouvernance aide à planifier régulièrement des [Réunions de Gouvernance](governance-meeting.html). Il est également utile pour décider quels sujets il vaudrait mieux traiter dans une réunion dédiée, plutôt que dans les réunions habituelles telles que les réunions produit, les [réunions de planification](planning-and-review-meetings.html) ou les [rétrospectives](retrospective.html).
+Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.">backlog</a> un est gage de fiabilité et de transparence pour n'importe quel système de gouvernance. Tenir un backlog de gouvernance aide à planifier régulièrement des [Réunions de Gouvernance](governance-meeting.html). Il est également utile pour décider quels sujets il vaudrait mieux traiter dans une réunion dédiée, plutôt que dans les réunions habituelles telles que les réunions produit, les [réunions de planification](planning-and-review-meetings.html) ou les [rétrospectives](retrospective.html).
 
 Un backlog de gouvernance contient des informations sur :
 

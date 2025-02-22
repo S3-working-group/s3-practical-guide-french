@@ -7,7 +7,7 @@ prev_page_url: "consent-decision-making.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.
+<div class="card summary"><div class="card-body">Gagnez en efficacité en ne traitant que les arguments qui se qualifient comme objections.
 </div></div>
 
 **Table des matières**
@@ -18,16 +18,16 @@ prev_page_url: "consent-decision-making.html"
 
 ## Aperçu
 
-Quand quelqu'un lève une objection potentielle (un argument pour changer quelque chose), vérifiez que l'argument présenté révèle comment des conséquences indésirables vont ou pourraient survenir si l’on ne change rien, ou qu'il vous indique un moyen utile d'améliorer la façon de réaliser vos objectifs.
+Lorsqu'une objection potentielle est soulevée (un argument en faveur d'un changement), vérifiez si elle révèle des conséquences négatives d'un statu quo ou propose un moyen pertinent d'atteindre vos objectifs.
 
-Explorez et affinez chaque argument si nécessaire pour identifier toute idée erronée ou dissiper tout malentendu, et éliminer les aspects de l'argument qui sont uniquement fondés sur des hypothèses, sur une préférence ou sur une opinion personnelle. Si vous établissez que ce qui reste de l'argument est une objection, passez à [Résoudre l'Objection](resolve-objections.html).
+Analysez et affinez chaque argument si nécessaire, afin d'éliminer les idées fausses, dissiper les malentendus et distinguer les faits des simples préférences ou opinions. Si vous établissez que ce qui reste de l'argument est une objection, passez à [Résoudre l'Objection](resolve-objections.html).
 
 
 ## Travailler avec des arguments
 
-Pour avoir un dialogue productif, il est utile de comprendre que n'importe quel argument est composé d'une série de **revendications** : chaque argument contient un ou plusieurs **postulats**, qui sont pris comme des raisons d'accepter une **conclusion**.
+Pour un dialogue constructif, comprenez que tout argument repose sur une série d'**affirmations** : chacune sert de **fondement** à une **conclusion**.
 
-Each of an argument's premises can be scrutinized individually, and when that is done, we can analyze whether or not the conclusion that follows from those premises stood up to the test.
+Chacun des postulats de l'argument peut être examiné individuellement, et lorsque cela est fait, nous pouvons analyser si oui ou non la conclusion qui découle de ces postulats a résisté au test.
 
 Il est utile de présenter l'argument d'une manière qui rend les postulats et la conclusion, évidents, par exemple comme ceci :
 
@@ -36,9 +36,9 @@ Il est utile de présenter l'argument d'une manière qui rend les postulats et l
 – – – – – – – – \
 **Par conséquent**: Conclusion
 
-**Facilitateur :** inviter le groupe à lister les postulats et expliquer la conclusion, et reprendre la main.
+**Facilitateur :** invitez le groupe à lister les postulats, expliquez la conclusion, puis reprenez la main.
 
-Parfois, il peut être utile d'enregistrer ces informations sur un tableau à feuilles mobiles, un tableau numérique ou même sous forme de texte dans un chat.
+Dans certains cas, noter ces éléments sur un tableau physique, numérique ou même dans un chat peut être utile.
 
 Avec un argument exposé de cette façon, le groupe peut concentrer les questions pour comprendre l'argument en fonction de chaque revendication spécifique, et signaler toute revendication avec laquelle ils ne sont pas d'accord. Chaque désaccord peut être présenté en utilisant la même méthode que ci-dessus.
 
@@ -55,24 +55,24 @@ Ce processus pour tester si les arguments se qualifient comme des objections, es
 
 **Étape 2 :** Comprendre l'argument.
 
-**Étape 3 :** Vérifiez s'il y a un désaccord avec la qualification de l'argument en objection (par exemple, les gens peuvent se signaler en levant la main). Les raisons des désaccords sont présentées à l'étape suivante.
+**Étape 3** : Vérifiez si tout le monde s'accorde à considérer l'argument comme une objection (par exemple, en levant la main pour signaler un désaccord). Les raisons des désaccords sont présentées à l'étape suivante.
 
 - S'il n'y a pas de désaccord, **l'argument se qualifie comme une objection** et vous pouvez maintenant commencer à [résoudre l'objection](resolve-objections.html).
 - Sinon, prenez un désaccord potentiel à la fois, et :
 
 **Étape 4 :** Examinez les raisons du désaccord :
 
-- If it demonstrates that the original argument is false (totally or partly) or that ( despite it being sound), it doesn't qualify as an objection, continue with the next step.
+- Si le désaccord prouve que l'argument initial est partiellement ou totalement faux, ou qu'il ne se qualifie pas comme une objection, passez à l'étape suivante.
 - Sinon, revenez à l'étape 3 pour vérifier s'il y a d'autres désaccords.
 
 **Étape 5 :** Intégrer les informations révélées à l'étape précédente avec l'argument original :
 
-- Si l'argument original a encore une certaine validité, affiner et ensuite continuer avec l'étape 3 pour voir s'il y a un désaccord avec l'argument raffiné.
+- Si l'argument est toujours valide, reformulez-le et revenez à l'étape 3 pour vérifier s'il y a encore des désaccords.
 - Sinon, vous avez démontré que l'argument **original n'est pas une objection.**
 
 ![Un processus pour tester si un argument se qualifie d'objection](img/agreements/test-arguments.png)
 
-Below you'll find more guidance on how to go through each step. Comme pour toutes les pratiques S3, votre approche du test des objections peut être adaptée en fonction de votre contexte.
+Vous trouverez ci-dessous de plus amples conseils sur la façon de passer par chaque étape. Comme pour toutes les pratiques S3, votre approche du test des objections peut être adaptée en fonction de votre contexte.
 
 
 ### Étape 1 Présenter l'argument
@@ -88,7 +88,7 @@ Below you'll find more guidance on how to go through each step. Comme pour toute
 
 **Le facilitateur demande à tout le monde :** *Des questions pour comprendre l'argument ?*
 
-**Everyone:** If you don't understand, jump in and ask a clarifying question. La personne qui présente l'argument explique davantage, jusqu'à ce que tout le monde comprenne.
+**Tout le monde :** Si vous ne comprenez pas, intervenez et posez une question de clarification. La personne qui présente l'argument explique davantage, jusqu'à ce que tout le monde comprenne.
 
 
 ### Étape 3 Vérifier le désaccord avec l'argument
@@ -109,25 +109,25 @@ Below you'll find more guidance on how to go through each step. Comme pour toute
 
 Choisir une des personnes ayant levé la main et avec le même processus utilisé pour tester les arguments, déterminer si les raisons de leur désaccord sont valides ou non :
 
-**4.1. Present the reason for disagreement**: Facilitator invites: *Please explain why the original argument is totally or partly incorrect.*
+**4.1. Présentez la raison du désaccord** : Invitation du facilitateur : *Veuillez expliquer pourquoi l'argument original est totalement ou partiellement incorrect.*
 
 **4.2. Comprendre la raison du désaccord** : Invitations du facilitateur : *Y a-t-il des questions pour comprendre cet argument ?*
 
-**4.3. Check for disagreement to the disagreement:** Facilitator asks: *Does anyone disagree totally or in part, that this argument is valid?*
+**4.3. Vérifier s'il y a des désaccords avec le désaccord :** Le facilitateur demande : *Est-ce que quelqu'un est en désaccord total ou partiel avec la validité de cet argument ?*
 
 - **Si personne n'est en désaccord** : l'argument du désaccord est considéré comme valide. Aller à l'étape 5.
-- **Si quelqu'un n'est pas d'accord** : examinez le raisonnement qui sous-tend le désaccord (voir l'étape 4) jusqu'à ce que vous arriviez à un argument avec lequel personne n'est en désaccord. Then take each preceding argument in turn – checking if there's anything remaining and/or if it needs to be changed or dropped (see step 5 for guidelines on how to do this) – until you arrive back to the initial disagreement.
+- **Si quelqu'un n'est pas d'accord** : examinez le raisonnement qui sous-tend le désaccord (voir l'étape 4) jusqu'à ce que vous arriviez à un argument avec lequel personne n'est en désaccord. Ensuite, prenez chaque argument précédent tour à tour – en vérifiant s’il reste quelque chose et/ou s’il doit être modifié ou abandonné (voir étape 5 pour la façon de le faire) – jusqu’à ce que vous reveniez au désaccord initial.
 
 
 ### Étape 5 : Intégrer les informations révélées à l'étape précédente avec l'argument original :
 
-**Facilitator asks** the person who presented the original argument: *"Anything remaining of your argument?"*
+**Le facilitateur demande** à la personne qui a présenté l'argument original : *"Que reste-t-il de votre argument ?"*
 
-The person who brought the original argument has the option to refine, rephrase or reframe their argument, or to drop it entirely, if there's nothing remaining.
+L'auteur de l'argument peut l'affiner, le reformuler ou l'abandonner s'il ne repose plus sur aucun fondement.
 
-- Si l'argument original a encore une certaine validité, affiner et ensuite continuer avec l'étape 3 pour voir s'il y a un désaccord avec l'argument raffiné.
+- Si l'argument est toujours valide, reformulez-le et revenez à l'étape 3 pour vérifier s'il y a encore des désaccords.
 - Sinon, vous avez démontré que l'argument **original n'est pas une objection.**
 
 ![Test récursif des arguments et exploration des désaccords](img/agreements/test-arguments-process.png)
 
-![Facilitator's Guide: Test Arguments Qualify As Objections](img/agreements/test-arguments-facilitation-guide.png)
+![Guide du Facilitateur : Tester les Objections Potentielles](img/agreements/test-arguments-facilitation-guide.png)

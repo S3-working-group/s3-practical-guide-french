@@ -14,7 +14,7 @@ _Une **équipe ouverte** est un groupe de personnes qui sont invitées à contri
 
 Le <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</a> du domaine crée une invitation qui clarifie :
 
-- le <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.">moteur principal</a>, les responsabilités clés et les contraintes du domaine de l'équipe ouverte
+- le <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine, auquel les personnes responsables de ce domaine répondent.">moteur principal</a>, les responsabilités clés et les contraintes du domaine de l'équipe ouverte
 - qui est invité à contribuer (les membres de l'équipe ouverte)
 - les contraintes liées à la participation du délégant à la <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a> de l'équipe ouverte
 

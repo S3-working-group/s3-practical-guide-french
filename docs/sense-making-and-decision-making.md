@@ -25,7 +25,7 @@ prev_page_url: "patterns.html"
   <dd><p>Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les accords existants.</p></dd>
 
   <dt><a href="test-arguments-qualify-as-objections.html">Examiner les Objections</a></dt>
-  <dd><p>Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.</p></dd>
+  <dd><p>Gagnez en efficacité en ne traitant que les arguments qui se qualifient comme objections.</p></dd>
 
   <dt><a href="resolve-objections.html">Résoudre les Objections</a></dt>
   <dd><p>Utilisez l'information révélée par une objection pour identifier les moyens de faire évoluer les propositions, les ententes et les actions vers un état suffisamment bon.</p></dd>

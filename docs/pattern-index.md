@@ -121,7 +121,7 @@ prev_page_url: "changelog.html"
   <dd><p>Prenez le temps de tirer des enseignements à la fin de chaque réunion ou atelier.</p></dd>
 
   <dt><a href="test-arguments-qualify-as-objections.html">Examiner les Objections</a></dt>
-  <dd><p>Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.</p></dd>
+  <dd><p>Gagnez en efficacité en ne traitant que les arguments qui se qualifient comme objections.</p></dd>
 
   <dt><a href="governance-facilitator.html">Facilitateur de Gouvernance</a></dt>
   <dd><p>Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.</p></dd>

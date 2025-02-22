@@ -50,7 +50,7 @@ S'il n'y a pas de désaccords potentiels, passez à l'étape 6 (Célébrez), sin
 
 ![Processus pour intégrer une objection](img/agreements/resolve-objections.png)
 
-Below you'll find more guidance on how to go through each step. Ce processus peut être répété jusqu'à ce que toutes les objections aient été résolues. Comme pour toutes les pratiques S3, votre approche de l'intégration des objections peut être adaptée en fonction de votre contexte.
+Vous trouverez ci-dessous de plus amples conseils sur la façon de passer par chaque étape. Ce processus peut être répété jusqu'à ce que toutes les objections aient été résolues. Comme pour toutes les pratiques S3, votre approche de l'intégration des objections peut être adaptée en fonction de votre contexte.
 
 
 ## Step 1: Come up with a proposal for an amendment

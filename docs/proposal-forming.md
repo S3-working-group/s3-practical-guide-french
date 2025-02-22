@@ -50,7 +50,7 @@ _Élaborer une Proposition_ peut également être utilisée par un individu.
 
 _Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to._
 
-Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _La description de ce moteur et de cette exigence est-elle suffisamment claire ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous d'y répondre ? L'exigence est-elle appropriée ?_
 
 This first step is simply about ensuring that the driver is summarized clearly enough and that it's relevant for those who are involved to respond to it. Once the driver has been accepted, you'll have the chance to ask further questions and learn more in the next step
 

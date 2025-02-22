@@ -29,11 +29,11 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-backlog">Backlog</dt>
-<dd>Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.</dd>
+<dd>Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.</dd>
 
 
 <dt id="entry-governance-backlog">Backlog de Gouvernance</dt>
-<dd>Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d'un domaine.</dd>
+<dd>Une liste visible et priorisée de sujets (moteurs organisationnels et/ou exigences) relatifs à la gouvernance d'un domaine.</dd>
 
 
 <dt id="entry-operations-backlog">Backlog des Opérations</dt>
@@ -133,7 +133,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-waste">Gaspillage</dt>
-<dd>Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à une réponse (plus) efficace à un moteur.</dd>
+<dd>Tout ce qui est superflu ou entrave une réponse efficace à un moteur.</dd>
 
 
 <dt id="entry-governance">Gouvernance</dt>
@@ -153,7 +153,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-primary-driver">Moteur Principal</dt>
-<dd>Le moteur principal d'un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.</dd>
+<dd>Le moteur principal d'un domaine, auquel les personnes responsables de ce domaine répondent.</dd>
 
 
 <dt id="entry-scm">Méthode d'organisation par Cercles Sociocratiques (SCM)</dt>
@@ -173,7 +173,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-organization">Organisation </dt>
-<dd>Un groupe de personnes qui collaborent sur un moteur partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.</dd>
+<dd>Un groupe de personnes qui collaborent pour répondre à un moteur partagé (ou un objectif). Une organisation se divise souvent en plusieurs équipes.</dd>
 
 
 <dt id="entry-role-keeper">Porteur de Rôle</dt>
@@ -225,7 +225,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-subdriver">Sous-moteur</dt>
-<dd>Un sous-moteur surgit comme la conséquence d'un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.</dd>
+<dd>Un sous-moteur découle d'un autre moteur (le super-moteur) et est essentiel pour y répondre efficacement.</dd>
 
 
 <dt id="entry-strategy">Stratégie</dt>
@@ -237,7 +237,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-superdriver">Super-moteur</dt>
-<dd>voir Sous-moteur.</dd>
+<dd>Un moteur dont découlent un ou plusieurs sous-moteurs. Voir Sous-moteur.</dd>
 
 
 <dt id="entry-social-technology">Technologie Sociale</dt>

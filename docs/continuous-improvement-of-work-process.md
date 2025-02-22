@@ -19,7 +19,7 @@ prev_page_url: "open-space-for-change.html"
 
 ## Gaspillage et Amélioration Continue
 
-_Le **gaspillage** désigne tout ce qui est superflu ou qui empêche une réponse efficace à un moteur._
+_Le **gaspillage** désigne tout ce qui est superflu ou qui entrave une réponse efficace à un moteur._
 
 Le gaspillage peut prendre différentes formes et se manifester à plusieurs niveaux (tâches, processus, structures organisationnelles, modèles mentaux, etc.).
 

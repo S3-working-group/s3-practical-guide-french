@@ -564,11 +564,11 @@ Comprendre les situations qui surviennent au cours du travail quotidien et déte
 - Étudier les situations et leur pertinence avant d'agir aide à déterminer si et quand une intervention est nécessaire. En effet, les gens peuvent se tromper, que ce soit dans leur interprétation des faits ou dans leur évaluation de l'importance de la situation (voir _Naviguer par Tension_).
 - Être clair sur les raisons pour lesquelles vous faites des choses permettra **d'évaluer régulièrement les résultats** de vos actions et d'identifier des moyens d'améliorer votre approche. (Lorsque vous le faites, vérifiez également si le moteur organisationnel a changé : si la situation est différente ou si sa pertinence pour l'organisation a changé.)
 
-Déterminer si une situation constitue un moteur organisationnel dépend d’une compréhension claire du but global de l’organisation (son <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.">moteur principal</a> son  <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> principale, sa <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">strategie</a>, ses <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectifs</a>, ses <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un moteur.">valeurs</a>, ses <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a>, et.). Une fois qu'il est établi que répondre à une situation particulière serait bénéfique pour l'organisation, elle se qualifie comme moteur organisationnel et peut ensuite être priorisé en conséquence. Une telle diligence fait en sorte que les gens restent concentrés sur les défis et les possibilités qui sont pertinents pour les buts et les objectifs de l'organisation.
+Déterminer si une situation constitue un moteur organisationnel dépend d’une compréhension claire du but global de l’organisation (son <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine, auquel les personnes responsables de ce domaine répondent.">moteur principal</a> son  <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> principale, sa <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">strategie</a>, ses <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectifs</a>, ses <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un moteur.">valeurs</a>, ses <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a>, et.). Une fois qu'il est établi que répondre à une situation particulière serait bénéfique pour l'organisation, elle se qualifie comme moteur organisationnel et peut ensuite être priorisé en conséquence. Une telle diligence fait en sorte que les gens restent concentrés sur les défis et les possibilités qui sont pertinents pour les buts et les objectifs de l'organisation.
 
 ##### Relations entre les moteurs organisationnels
 
-Tous les moteurs organisationnels découlent de la décision de répondre au moteur principal de l'organisation et de remplir son exigence principale. La décision de répondre à un moteur révèle souvent des étapes, des obstacles et des opportunités nécessaires qui doivent être pris en charge. Pour décrire la relation entre les moteurs organisationnels, nous utilisons les termes <a href="glossary.html#entry-subdriver" class="glossary-tooltip" data-toggle="tooltip" title="Sous-moteur: Un sous-moteur surgit comme la conséquence d&#x27;un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.">Sous-moteur</a> et <a href="glossary.html#entry-superdriver" class="glossary-tooltip" data-toggle="tooltip" title="Super-moteur: voir Sous-moteur.">Super-moteur</a>.
+Tous les moteurs organisationnels découlent de la décision de répondre au moteur principal de l'organisation et de remplir son exigence principale. La décision de répondre à un moteur révèle souvent des étapes, des obstacles et des opportunités nécessaires qui doivent être pris en charge. Pour décrire la relation entre les moteurs organisationnels, nous utilisons les termes <a href="glossary.html#entry-subdriver" class="glossary-tooltip" data-toggle="tooltip" title="Sous-moteur: Un sous-moteur découle d&#x27;un autre moteur (le super-moteur) et est essentiel pour y répondre efficacement.">Sous-moteur</a> et <a href="glossary.html#entry-superdriver" class="glossary-tooltip" data-toggle="tooltip" title="Super-moteur: Un moteur dont découlent un ou plusieurs sous-moteurs. Voir Sous-moteur.">Super-moteur</a>.
 
 ##### Moteurs, Valeur et Gaspillage
 
@@ -578,7 +578,7 @@ Les deux concepts peuvent être expliqués par rapport aux moteurs :
 
 _La **valeur** est l'importance ou l'utilité de quelque chose lié à un moteur._
 
-_Le **gaspillage** désigne tout ce qui est superflu ou qui empêche une réponse efficace à un moteur._
+_Le **gaspillage** désigne tout ce qui est superflu ou qui entrave une réponse efficace à un moteur._
 
 Il existe de nombreuses recherches sur le concept de valeur et de gaspillage dans les organisations. Nous vous encourageons à explorer cela par vous-même.
 
@@ -627,12 +627,12 @@ Le <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle=
 
 #### Moteurs et Domaines
 
-Il est également possible de comprendre un domaine par rapport aux moteurs organisationnels :
+Un domaine peut aussi être défini en fonction des moteurs organisationnels :
 
-- le **moteur principal** du domaine - le principal moteur auquel les délégués répondent
-- l'ensemble des sous-moteurs que l'organisation peut avoir à traiter en répondant au moteur principal du domaine, notamment : 
+- Le **moteur principal** du domaine – la situation principale à laquelle les délégués répondent.
+- L'ensemble des sous-moteurs que l'organisation doit prendre en compte en répondant au moteur principal du domaine, notamment : 
     - les **responsabilités clés** (n'importe quel moteur dérivant directement du moteur principal)
-    - les **dépendances** et les **contraintes externes** (moteurs liés à d'autres domaines ou à l'environnement externe de l'organisation) qui contraignent l'autonomie des délégués
+    - les **dépendances** et les **contraintes externes** (moteurs liés à d'autres domaines ou à l'environnement externe de l'organisation) qui limitent l'autonomie des délégués.
 
 ### Objections
 
@@ -1142,14 +1142,14 @@ _Une **préoccupation** est une supposition qui ne peut (du moins pour le moment
 
 ##### Étape 1 : Consentement au Driver et à l'Exigence
 
-_Assurez-vous que le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a> et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> sont suffisamment bien résumés et qu'il est pertinent pour ce groupe de les traiter._
+_Assurez-vous que le <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Organisationnel: Toute situation où les membres de l&#x27;organisation ont un motif de réagir parce qu&#x27;ils anticipent un bienfait pour l&#x27;organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).">moteur</a> et l'<a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Exigence: Un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile.">exigence</a> sont clairement résumés et qu'il est pertinent pour ce groupe de les traiter._
 
-Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _La description de ce moteur et de cette exigence est-elle suffisamment claire ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous d'y répondre ? L'exigence est-elle appropriée ?_
 
 **Remarque :** Il est généralement recommandé de viser à terminer cette étape avec les participants à la réunion de manière asynchrone, _avant la réunion_. Cela vous donnera la possibilité d'apporter des précisions à l'avance et vous épargnera un temps précieux en réunion. Cependant, dans un cas où quelqu'un présente une proposition à un groupe de parties prenantes qui n'ont pas participé à sa création, ou s'il y a des personnes qui rejoignent tout juste le processus décisionnel, vérifiez que tout le monde comprend bien le moteur et l'exigence de la proposition, et assurez-vous qu'il est décrit assez clairement et qu'il est pertinent pour les personnes présentes d'y répondre, avant de considérer la proposition elle-même.
 
--   Si le moteur n'est pas décrit assez clairement : prenez le temps de clarifier et de faire les changements nécessaires au résumé du moteur jusqu'à ce qu'il n'y ait plus d'objections. À moins que cela ne soit un changement rapide, envisagez de le faire après la réunion et reportez la prise de décision jusqu'à ce que le moteur soit clair.
--   Si le moteur n'est pas pertinent pour ce groupe, transmettez-le à la personne ou à l'équipe appropriée, ou, s'il est décidé que ce n'est pas du tout un moteur organisationnel, jetez-le.
+-   Si le moteur n'est pas décrit avec suffisamment de clarté, prenez le temps de l'affiner jusqu’à ce qu'il n’y ait plus d'objections. À moins que cela ne soit un changement rapide, envisagez de le faire après la réunion et reportez la prise de décision jusqu'à ce que le moteur soit clair.
+-   Si le moteur n'est pas pertinent pour ce groupe, transmettez-le à la personne ou à l'équipe appropriée. S'il ne s'agit pas d'un moteur organisationnel, abandonnez-le.
 -   Si l'exigence est jugée inappropriée, entendez les arguments et s'ils sont considérés comme des objections, résolvez-les avant d'examiner la proposition.
 
 
@@ -1301,22 +1301,22 @@ Si vous commencez à utiliser la prise de décision par consentement, nous vous 
 
 #### Examiner les Objections
 
-<div class="card summary"><div class="card-body">Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.
+<div class="card summary"><div class="card-body">Gagnez en efficacité en ne traitant que les arguments qui se qualifient comme objections.
 </div></div>
 
 
 ##### Aperçu
 
-Quand quelqu'un lève une objection potentielle (un argument pour changer quelque chose), vérifiez que l'argument présenté révèle comment des conséquences indésirables vont ou pourraient survenir si l’on ne change rien, ou qu'il vous indique un moyen utile d'améliorer la façon de réaliser vos objectifs.
+Lorsqu'une objection potentielle est soulevée (un argument en faveur d'un changement), vérifiez si elle révèle des conséquences négatives d'un statu quo ou propose un moyen pertinent d'atteindre vos objectifs.
 
-Explorez et affinez chaque argument si nécessaire pour identifier toute idée erronée ou dissiper tout malentendu, et éliminer les aspects de l'argument qui sont uniquement fondés sur des hypothèses, sur une préférence ou sur une opinion personnelle. Si vous établissez que ce qui reste de l'argument est une objection, passez à _Résoudre l'Objection_.
+Analysez et affinez chaque argument si nécessaire, afin d'éliminer les idées fausses, dissiper les malentendus et distinguer les faits des simples préférences ou opinions. Si vous établissez que ce qui reste de l'argument est une objection, passez à _Résoudre l'Objection_.
 
 
 ##### Travailler avec des arguments
 
-Pour avoir un dialogue productif, il est utile de comprendre que n'importe quel argument est composé d'une série de **revendications** : chaque argument contient un ou plusieurs **postulats**, qui sont pris comme des raisons d'accepter une **conclusion**.
+Pour un dialogue constructif, comprenez que tout argument repose sur une série d'**affirmations** : chacune sert de **fondement** à une **conclusion**.
 
-Each of an argument's premises can be scrutinized individually, and when that is done, we can analyze whether or not the conclusion that follows from those premises stood up to the test.
+Chacun des postulats de l'argument peut être examiné individuellement, et lorsque cela est fait, nous pouvons analyser si oui ou non la conclusion qui découle de ces postulats a résisté au test.
 
 Il est utile de présenter l'argument d'une manière qui rend les postulats et la conclusion, évidents, par exemple comme ceci :
 
@@ -1325,9 +1325,9 @@ Il est utile de présenter l'argument d'une manière qui rend les postulats et l
 – – – – – – – – \
 **Par conséquent**: Conclusion
 
-**Facilitateur :** inviter le groupe à lister les postulats et expliquer la conclusion, et reprendre la main.
+**Facilitateur :** invitez le groupe à lister les postulats, expliquez la conclusion, puis reprenez la main.
 
-Parfois, il peut être utile d'enregistrer ces informations sur un tableau à feuilles mobiles, un tableau numérique ou même sous forme de texte dans un chat.
+Dans certains cas, noter ces éléments sur un tableau physique, numérique ou même dans un chat peut être utile.
 
 Avec un argument exposé de cette façon, le groupe peut concentrer les questions pour comprendre l'argument en fonction de chaque revendication spécifique, et signaler toute revendication avec laquelle ils ne sont pas d'accord. Chaque désaccord peut être présenté en utilisant la même méthode que ci-dessus.
 
@@ -1344,24 +1344,24 @@ Ce processus pour tester si les arguments se qualifient comme des objections, es
 
 **Étape 2 :** Comprendre l'argument.
 
-**Étape 3 :** Vérifiez s'il y a un désaccord avec la qualification de l'argument en objection (par exemple, les gens peuvent se signaler en levant la main). Les raisons des désaccords sont présentées à l'étape suivante.
+**Étape 3** : Vérifiez si tout le monde s'accorde à considérer l'argument comme une objection (par exemple, en levant la main pour signaler un désaccord). Les raisons des désaccords sont présentées à l'étape suivante.
 
 - S'il n'y a pas de désaccord, **l'argument se qualifie comme une objection** et vous pouvez maintenant commencer à _résoudre l'objection_.
 - Sinon, prenez un désaccord potentiel à la fois, et :
 
 **Étape 4 :** Examinez les raisons du désaccord :
 
-- If it demonstrates that the original argument is false (totally or partly) or that ( despite it being sound), it doesn't qualify as an objection, continue with the next step.
+- Si le désaccord prouve que l'argument initial est partiellement ou totalement faux, ou qu'il ne se qualifie pas comme une objection, passez à l'étape suivante.
 - Sinon, revenez à l'étape 3 pour vérifier s'il y a d'autres désaccords.
 
 **Étape 5 :** Intégrer les informations révélées à l'étape précédente avec l'argument original :
 
-- Si l'argument original a encore une certaine validité, affiner et ensuite continuer avec l'étape 3 pour voir s'il y a un désaccord avec l'argument raffiné.
+- Si l'argument est toujours valide, reformulez-le et revenez à l'étape 3 pour vérifier s'il y a encore des désaccords.
 - Sinon, vous avez démontré que l'argument **original n'est pas une objection.**
 
 ![Un processus pour tester si un argument se qualifie d'objection](img/agreements/test-arguments.png)
 
-Below you'll find more guidance on how to go through each step. Comme pour toutes les pratiques S3, votre approche du test des objections peut être adaptée en fonction de votre contexte.
+Vous trouverez ci-dessous de plus amples conseils sur la façon de passer par chaque étape. Comme pour toutes les pratiques S3, votre approche du test des objections peut être adaptée en fonction de votre contexte.
 
 
 ###### Étape 1 Présenter l'argument
@@ -1377,7 +1377,7 @@ Below you'll find more guidance on how to go through each step. Comme pour toute
 
 **Le facilitateur demande à tout le monde :** *Des questions pour comprendre l'argument ?*
 
-**Everyone:** If you don't understand, jump in and ask a clarifying question. La personne qui présente l'argument explique davantage, jusqu'à ce que tout le monde comprenne.
+**Tout le monde :** Si vous ne comprenez pas, intervenez et posez une question de clarification. La personne qui présente l'argument explique davantage, jusqu'à ce que tout le monde comprenne.
 
 
 ###### Étape 3 Vérifier le désaccord avec l'argument
@@ -1398,28 +1398,28 @@ Below you'll find more guidance on how to go through each step. Comme pour toute
 
 Choisir une des personnes ayant levé la main et avec le même processus utilisé pour tester les arguments, déterminer si les raisons de leur désaccord sont valides ou non :
 
-**4.1. Present the reason for disagreement**: Facilitator invites: *Please explain why the original argument is totally or partly incorrect.*
+**4.1. Présentez la raison du désaccord** : Invitation du facilitateur : *Veuillez expliquer pourquoi l'argument original est totalement ou partiellement incorrect.*
 
 **4.2. Comprendre la raison du désaccord** : Invitations du facilitateur : *Y a-t-il des questions pour comprendre cet argument ?*
 
-**4.3. Check for disagreement to the disagreement:** Facilitator asks: *Does anyone disagree totally or in part, that this argument is valid?*
+**4.3. Vérifier s'il y a des désaccords avec le désaccord :** Le facilitateur demande : *Est-ce que quelqu'un est en désaccord total ou partiel avec la validité de cet argument ?*
 
 - **Si personne n'est en désaccord** : l'argument du désaccord est considéré comme valide. Aller à l'étape 5.
-- **Si quelqu'un n'est pas d'accord** : examinez le raisonnement qui sous-tend le désaccord (voir l'étape 4) jusqu'à ce que vous arriviez à un argument avec lequel personne n'est en désaccord. Then take each preceding argument in turn – checking if there's anything remaining and/or if it needs to be changed or dropped (see step 5 for guidelines on how to do this) – until you arrive back to the initial disagreement.
+- **Si quelqu'un n'est pas d'accord** : examinez le raisonnement qui sous-tend le désaccord (voir l'étape 4) jusqu'à ce que vous arriviez à un argument avec lequel personne n'est en désaccord. Ensuite, prenez chaque argument précédent tour à tour – en vérifiant s’il reste quelque chose et/ou s’il doit être modifié ou abandonné (voir étape 5 pour la façon de le faire) – jusqu’à ce que vous reveniez au désaccord initial.
 
 
 ###### Étape 5 : Intégrer les informations révélées à l'étape précédente avec l'argument original :
 
-**Facilitator asks** the person who presented the original argument: *"Anything remaining of your argument?"*
+**Le facilitateur demande** à la personne qui a présenté l'argument original : *"Que reste-t-il de votre argument ?"*
 
-The person who brought the original argument has the option to refine, rephrase or reframe their argument, or to drop it entirely, if there's nothing remaining.
+L'auteur de l'argument peut l'affiner, le reformuler ou l'abandonner s'il ne repose plus sur aucun fondement.
 
-- Si l'argument original a encore une certaine validité, affiner et ensuite continuer avec l'étape 3 pour voir s'il y a un désaccord avec l'argument raffiné.
+- Si l'argument est toujours valide, reformulez-le et revenez à l'étape 3 pour vérifier s'il y a encore des désaccords.
 - Sinon, vous avez démontré que l'argument **original n'est pas une objection.**
 
 ![Test récursif des arguments et exploration des désaccords](img/agreements/test-arguments-process.png)
 
-![Facilitator's Guide: Test Arguments Qualify As Objections](img/agreements/test-arguments-facilitation-guide.png)
+![Guide du Facilitateur : Tester les Objections Potentielles](img/agreements/test-arguments-facilitation-guide.png)
 
 
 #### Résoudre les Objections
@@ -1466,7 +1466,7 @@ S'il n'y a pas de désaccords potentiels, passez à l'étape 6 (Célébrez), sin
 
 ![Processus pour intégrer une objection](img/agreements/resolve-objections.png)
 
-Below you'll find more guidance on how to go through each step. Ce processus peut être répété jusqu'à ce que toutes les objections aient été résolues. Comme pour toutes les pratiques S3, votre approche de l'intégration des objections peut être adaptée en fonction de votre contexte.
+Vous trouverez ci-dessous de plus amples conseils sur la façon de passer par chaque étape. Ce processus peut être répété jusqu'à ce que toutes les objections aient été résolues. Comme pour toutes les pratiques S3, votre approche de l'intégration des objections peut être adaptée en fonction de votre contexte.
 
 
 ##### Step 1: Come up with a proposal for an amendment
@@ -1641,7 +1641,7 @@ _Élaborer une Proposition_ peut également être utilisée par un individu.
 
 _Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to._
 
-Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _La description de ce moteur et de cette exigence est-elle suffisamment claire ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous d'y répondre ? L'exigence est-elle appropriée ?_
 
 This first step is simply about ensuring that the driver is summarized clearly enough and that it's relevant for those who are involved to respond to it. Once the driver has been accepted, you'll have the chance to ask further questions and learn more in the next step
 
@@ -2845,9 +2845,9 @@ Donnez à chacun des appréciations et des suggestions d'amélioration, en consi
 
 Le plan de développement peut être créé pour une personne dans un rôle, ou pour une équipe (ex : un département, un _cercle_ ou une _équipe ouverte_).
 
-On développe en affinant la description du _moteur_ et du <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaine</a>, en ajustant la <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</a>, en amendant les accords ou bien par des actions particulières dans les domaines concernés.
+Le développement passe par l'affinement de la description du _moteur_ et du <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaine</a>, l'ajustement de la <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</a>, la modification des accords ou encore la mise en place d'actions spécifiques dans les domaines concernés.
 
-Un plan de développement (et toutes les recommandations de changement aux descriptions du domaine et du <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: Le motif d&#x27;un groupe ou d&#x27;une personne pour répondre à une situation particulière.">moteur</a> qui l'accompagnent) nécessite le consentement mutuel du <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué</a> et du <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</a>.
+Un plan de développement (ainsi que toute recommandation de modification des descriptions du domaine et du <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: Le motif d&#x27;un groupe ou d&#x27;une personne pour répondre à une situation particulière.">moteur</a>) nécessite le consentement mutuel du <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégué</a> et du <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</a>.
 
 ![Un modèle pour les plans de développement](img/templates/development-plan-template.png)
 
@@ -3076,7 +3076,7 @@ Un rôle est un moyen simple pour une organisation (ou une <a href="glossary.htm
 - les porteurs de rôle sont sélectionnés par consentement pour une durée limitée
 - les pairs se soutiennent mutuellement pour évoluer dans les rôles qu'ils portent
 
-Les porteurs de rôle peuvent maintenir un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a> de gouvernance, et un <a href="glossary.html#entry-logbook" class="glossary-tooltip" data-toggle="tooltip" title="Registre: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.">registre</a> pour consigner et faire évoluer la façon dont ils délivrent de la <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Valeur: L&#x27;importance ou l&#x27;utilité de quelque chose lié à un moteur. C’est aussi &quot;un principe significatif guidant le comportement&quot; (principalement utilisé au pluriel, les &quot;valeurs&quot; ou les &quot;valeurs organisationnelles&quot;).">valeur</a>.
+Les porteurs de rôle peuvent maintenir un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.">backlog</a> de gouvernance, et un <a href="glossary.html#entry-logbook" class="glossary-tooltip" data-toggle="tooltip" title="Registre: Un système (numérique) pour stocker toutes les informations pertinentes pour une organisation.">registre</a> pour consigner et faire évoluer la façon dont ils délivrent de la <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Valeur: L&#x27;importance ou l&#x27;utilité de quelque chose lié à un moteur. C’est aussi &quot;un principe significatif guidant le comportement&quot; (principalement utilisé au pluriel, les &quot;valeurs&quot; ou les &quot;valeurs organisationnelles&quot;).">valeur</a>.
 
 **Note:** Dans S3, les consignes, les processus ou protocoles créés par des individus dans leurs rôles sont traités comme des accords.
 
@@ -3151,7 +3151,7 @@ _Une **équipe ouverte** est un groupe de personnes qui sont invitées à contri
 
 Le <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Délégant: Un individu ou un groupe déléguant la responsabilité d&#x27;un domaine à autrui.">délégant</a> du domaine crée une invitation qui clarifie :
 
-- le <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.">moteur principal</a>, les responsabilités clés et les contraintes du domaine de l'équipe ouverte
+- le <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine, auquel les personnes responsables de ce domaine répondent.">moteur principal</a>, les responsabilités clés et les contraintes du domaine de l'équipe ouverte
 - qui est invité à contribuer (les membres de l'équipe ouverte)
 - les contraintes liées à la participation du délégant à la <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a> de l'équipe ouverte
 
@@ -3177,7 +3177,7 @@ Une équipe de soutien :
 Les membres de l'équipe de soutien :
 
 - peuvent objecter les décisions du délégant qui les affectent
-- peuvent ajouter des entrées au <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog de Gouvernance: Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d&#x27;un domaine.">backlog de gouvernance</a> du délégant
+- peuvent ajouter des entrées au <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog de Gouvernance:  Une liste visible et priorisée de sujets (moteurs organisationnels et/ou exigences) relatifs à la gouvernance d&#x27;un domaine.">backlog de gouvernance</a> du délégant
 - peuvent être invités à sélectionner un _représentant_ pour participer aux décisions de gouvernance du délégant
 
 ![Équipe de Soutien](img/structural-patterns/helping-team.png)
@@ -3252,7 +3252,7 @@ Incluez les personnes impliquées et impactées dans l'évaluation régulière d
 
 ##### Gaspillage et Amélioration Continue
 
-_Le **gaspillage** désigne tout ce qui est superflu ou qui empêche une réponse efficace à un moteur._
+_Le **gaspillage** désigne tout ce qui est superflu ou qui entrave une réponse efficace à un moteur._
 
 Le gaspillage peut prendre différentes formes et se manifester à plusieurs niveaux (tâches, processus, structures organisationnelles, modèles mentaux, etc.).
 
@@ -3440,7 +3440,7 @@ Les outils typiques pour tenir les registres sont les wikis (ex : [Dokuwiki](ht
 
 Contenu relatif à l'ensemble de l'organisation :
 
-- <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.">moteur principal</a>, <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</a> et <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un moteur.">valeurs</a> de l'organisation
+- <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Moteur Principal: Le moteur principal d&#x27;un domaine, auquel les personnes responsables de ce domaine répondent.">moteur principal</a>, <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Stratégie: Une approche générale définissant comment créer de la valeur pour s&#x27;occuper avec succès d&#x27;un domaine.">stratégie</a> et <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Valeurs: Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d&#x27;un moteur.">valeurs</a> de l'organisation
 - structure organisationnelle (<a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domaine: Une zone de responsabilité et d&#x27;autorité bien délimitée au sein d&#x27;une organisation.">domaines</a> et leurs relations)
 - <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accords</a>
 
@@ -3448,7 +3448,7 @@ Contenu relatif à une équipe particulière ou à un <a href="glossary.html#ent
 
 - la description et la stratégie du domaine
 - accords (en précisant les <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Délégué: Un individu ou un groupe acceptant la responsabilité d&#x27;un domaine qui lui est délégué, devenant un porteur de rôle ou une équipe.">délégués</a>, les descriptions de domaine, stratégies et _plans de développement_)
-- Les <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlogs</a> et autres informations relatives au travail et à la <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a>
+- Les <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.">backlogs</a> et autres informations relatives au travail et à la <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Gouvernance: Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l&#x27;atteinte de ces objectifs.">gouvernance</a>
 
 #### Gardien du Registre
 
@@ -3745,7 +3745,7 @@ En tant que facilitateur de gouvernance, envisagez d'apprendre et d'utiliser les
 
 _Un **backlog de gouvernance** est une liste visible et priorisée de sujets (moteurs et/ou exigences) liés à la gouvernance d'un domaine._
 
-Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a> un est gage de fiabilité et de transparence pour n'importe quel système de gouvernance. Tenir un backlog de gouvernance aide à planifier régulièrement des _Réunions de Gouvernance_. Il est également utile pour décider quels sujets il vaudrait mieux traiter dans une réunion dédiée, plutôt que dans les réunions habituelles telles que les réunions produit, les _réunions de planification_ ou les _rétrospectives_.
+Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.">backlog</a> un est gage de fiabilité et de transparence pour n'importe quel système de gouvernance. Tenir un backlog de gouvernance aide à planifier régulièrement des _Réunions de Gouvernance_. Il est également utile pour décider quels sujets il vaudrait mieux traiter dans une réunion dédiée, plutôt que dans les réunions habituelles telles que les réunions produit, les _réunions de planification_ ou les _rétrospectives_.
 
 Un backlog de gouvernance contient des informations sur :
 
@@ -3805,7 +3805,7 @@ Il peut également être utile d'inclure : une date d'échéance (si nécessaire
 
 Il ne peut y avoir deux éléments de même importance, ce qui signifie qu'il est nécessaire de s'entendre sur les priorités et faire des choix difficiles.
 
-Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a> priorisé aide à **rester concentré** sur les éléments les plus importants.
+Un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.">backlog</a> priorisé aide à **rester concentré** sur les éléments les plus importants.
 
 #### Visualiser le Travail
 
@@ -3854,7 +3854,7 @@ Tirer le travail évite de surcharger le système, en particulier lorsque le _tr
 
 Le travail en cours inclut :
 
-- le nombre d'éléments dans un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a>
+- le nombre d'éléments dans un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.">backlog</a>
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 
@@ -4291,7 +4291,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 #### Changements du 05-04-2024
 
 - Plus de changements relatifs aux Exigences 
-    - mise à jour du glossaire : définitions revues pour <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">Backlog</a> et <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog de Gouvernance: Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d&#x27;un domaine.">Backlog de Gouvernance</a>
+    - mise à jour du glossaire : définitions revues pour <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.">Backlog</a> et <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog de Gouvernance:  Une liste visible et priorisée de sujets (moteurs organisationnels et/ou exigences) relatifs à la gouvernance d&#x27;un domaine.">Backlog de Gouvernance</a>
     - Révision de _Résoudre les Objections_, _Backlog_, _Backlog de Gouvernance_ et _Réunion de Gouvernance_
     - révision des pratiques recommandées dans le _Framework du Sens Commun_
 
@@ -4454,7 +4454,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
 
 #### Changements du 03-05-2019
 
-- termes du glossaire raffinés pour <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accord</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organisation : Un groupe de personnes qui collaborent sur un moteur partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.">organisation</a> et <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>, terme du glossaire ajouté pour <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectif</a>
+- termes du glossaire raffinés pour <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Accord: Une ligne directrice, un processus ou protocole convenus pour guider le flux de valeur.">accord</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organisation : Un groupe de personnes qui collaborent pour répondre à un moteur partagé (ou un objectif). Une organisation se divise souvent en plusieurs équipes.">organisation</a> et <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Equipe: Un groupe de personnes qui collaborent sur un moteur (ou un objectif) commun. Généralement, une équipe fait partie d&#x27;une organisation ou est formée pour la collaboration entre plusieurs organisations.">équipe</a>, terme du glossaire ajouté pour <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objectif: Un résultat (particulier) qu&#x27;une personne ou une équipe ou une organisation veut atteindre; une cible ou un objectif.">objectif</a>
 - Principe de Redevabilité : clarification de la redevabilité individuelle pour le travail et la collaboration
 - _Contrat de Collaboration Réussie_ : texte révisé
 - _Décrire les Livrables_: ajouts des User Stories comme exemple pour décrire les livrables
@@ -4773,7 +4773,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Prenez le temps de tirer des enseignements à la fin de chaque réunion ou atelier.</p></dd>
 
   <dt><a href="test-arguments-qualify-as-objections.html">Examiner les Objections</a></dt>
-  <dd><p>Utilisez judicieusement votre temps et vos ressources limitées en testant si les arguments sont qualifiables d'objections et en agissant uniquement sur ceux qui le sont.</p></dd>
+  <dd><p>Gagnez en efficacité en ne traitant que les arguments qui se qualifient comme objections.</p></dd>
 
   <dt><a href="governance-facilitator.html">Facilitateur de Gouvernance</a></dt>
   <dd><p>Sélectionnez quelqu'un pour faciliter les réunions de gouvernance.</p></dd>
@@ -5371,10 +5371,10 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Auto-organisation:** Toute activité ou processus par le biais duquel les personnes organisent leur travail. L'auto-organisation se produit dans les contraintes d'un domaine, mais sans l'influence directe des agents externes. Dans toute organisation ou équipe, l'auto-organisation coexiste avec l'influence externe (ex : des objections externes ou des décisions de gouvernance qui affectent le domaine).
 
 
-**Backlog:** Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.
+**Backlog:** Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.
 
 
-**Backlog de Gouvernance:** Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d'un domaine.
+**Backlog de Gouvernance:**  Une liste visible et priorisée de sujets (moteurs organisationnels et/ou exigences) relatifs à la gouvernance d'un domaine.
 
 
 **Backlog des Opérations:** Une liste (typiquement priorisée) visible de choses à faire (livrables).
@@ -5449,7 +5449,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Flux de Valeur:** Les livrables traversant une organisation vers les clients ou d'autres intervenants.
 
 
-**Gaspillage:** Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à une réponse (plus) efficace à un moteur.
+**Gaspillage:** Tout ce qui est superflu ou entrave une réponse efficace à un moteur.
 
 
 **Gouvernance:** Le processus visant à fixer des objectifs et à prendre et faire évoluer des décisions qui guident les gens vers l'atteinte de ces objectifs.
@@ -5464,7 +5464,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Moteur Organisationnel:** Toute situation où les membres de l'organisation ont un motif de réagir parce qu'ils anticipent un bienfait pour l'organisation (source de valeur, élimination de gaspillage ou mitigation de risques aux conséquences indésirables).
 
 
-**Moteur Principal:** Le moteur principal d'un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.
+**Moteur Principal:** Le moteur principal d'un domaine, auquel les personnes responsables de ce domaine répondent.
 
 
 **Méthode d'organisation par Cercles Sociocratiques (SCM):** Une méthode de gouvernance égalitaire pour les organisations basée sur une mentalité sociocratique, développée aux Pays-Bas par Gerard Endenburg.
@@ -5479,7 +5479,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Opérations:** Faire le travail et organiser les activités du quotidien selon les contraintes définies par la gouvernance.
 
 
-**Organisation :** Un groupe de personnes qui collaborent sur un moteur partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
+**Organisation :** Un groupe de personnes qui collaborent pour répondre à un moteur partagé (ou un objectif). Une organisation se divise souvent en plusieurs équipes.
 
 
 **Porteur de Rôle:** Une personne qui assume la responsabilité d'un rôle.
@@ -5518,7 +5518,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Sous-domaine:** Un domaine entièrement contenu dans un autre domaine.
 
 
-**Sous-moteur:** Un sous-moteur surgit comme la conséquence d'un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.
+**Sous-moteur:** Un sous-moteur découle d'un autre moteur (le super-moteur) et est essentiel pour y répondre efficacement.
 
 
 **Stratégie:** Une approche générale définissant comment créer de la valeur pour s'occuper avec succès d'un domaine.
@@ -5527,7 +5527,7 @@ Pour savoir comment contribuer au développement de S3, remdez-vous sur <https:/
 **Super-domaine:** Un domaine contenant entièrement un autre domaine.
 
 
-**Super-moteur:** voir Sous-moteur.
+**Super-moteur:** Un moteur dont découlent un ou plusieurs sous-moteurs. Voir Sous-moteur.
 
 
 **Technologie Sociale:** Tout processus, technique, méthode, compétence ou toute autre approche que les gens peuvent utiliser pour influencer les systèmes sociaux — organisations, sociétés, communautés, etc. — afin de soutenir l'atteinte d'objectifs communs et de mener des interactions et des échanges sensés.

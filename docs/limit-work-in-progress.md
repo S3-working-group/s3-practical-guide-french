@@ -12,7 +12,7 @@ prev_page_url: "pull-system-for-work.html"
 
 Le travail en cours inclut :
 
-- le nombre d'éléments dans un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.">backlog</a>
+- le nombre d'éléments dans un <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.">backlog</a>
 - les projets simultanés ou les tâches des équipes ou individus
 - le produits d'un portefeuille
 
