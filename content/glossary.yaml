@@ -27,7 +27,7 @@ terms:
   backlog:
     name: Backlog
     definition: Un **backlog** est une liste (souvent priorisée) de choses inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.
-    glossary: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) qui doivent être traités.
+    glossary: Une liste (souvent priorisée) de tâches inachevées (typiquement un livrable, une exigence ou un moteur) à traiter.
   chosen-values:
     name: Valeurs Choisies
     glossary: Un ensemble de principes qu'un groupe (ou organisation) a collectivement adopté afin de guider ses actions et collaboration en son sein.
@@ -109,7 +109,7 @@ terms:
   governance-backlog:
     name: Backlog de Gouvernance
     definition: Un **backlog de gouvernance** est une liste visible et priorisée de sujets (moteurs et/ou exigences) liés à la gouvernance d'un domaine.
-    glossary: Une liste visible, priorisée de sujets (moteurs et/ou exigences) relatifs à la gouvernance d'un domaine.
+    glossary: ' Une liste visible et priorisée de sujets (moteurs organisationnels et/ou exigences) relatifs à la gouvernance d''un domaine.'
   intended-outcome:
     name: Résultat Attendu
     definition:
@@ -152,7 +152,7 @@ terms:
   organization:
     name: Organisation 
     definition:
-    glossary: Un groupe de personnes qui collaborent sur un moteur partagé (ou un objectif). Souvent une organisation se divise en plusieurs équipes.
+    glossary: Un groupe de personnes qui collaborent pour répondre à un moteur partagé (ou un objectif). Une organisation se divise souvent en plusieurs équipes.
   organizational-driver:
     name: Moteur Organisationnel
     definition: Un **moteur organisationnel** désigne une situation perçue par les membres de l'organisation comme méritant une réponse, car ils anticipent un bienfait pour l'organisation (création de valeur, réduction du gaspillage ou atténuation des risques aux conséquences indésirables).
@@ -172,7 +172,7 @@ terms:
   primary-driver:
     name: Moteur Principal
     definition:
-    glossary: Le moteur principal d'un domaine est le moteur principal auquel les personnes responsables de ce domaine répondent.
+    glossary: Le moteur principal d'un domaine, auquel les personnes responsables de ce domaine répondent.
   principle:
     name: Principe
     definition: Un **principe** est une idée ou une règle de base qui guide le comportement, ou explique ou contrôle comment quelque chose se déroule ou fonctionne.
@@ -226,11 +226,11 @@ terms:
   subdriver:
     name: Sous-moteur
     definition:
-    glossary: Un sous-moteur surgit comme la conséquence d'un autre moteur (le super-moteur) et est fondamental pour répondre efficacement au super-moteur.
+    glossary: Un sous-moteur découle d'un autre moteur (le super-moteur) et est essentiel pour y répondre efficacement.
   superdriver:
     name: Super-moteur
     definition:
-    glossary: voir Sous-moteur.
+    glossary: Un moteur dont découlent un ou plusieurs sous-moteurs. Voir Sous-moteur.
   superdomain:
     name: Super-domaine
     definition:
@@ -261,5 +261,5 @@ terms:
     glossary: "Principes importants qui guident le comportement. A ne pas confondre avec “valeur“ (singulier) dans le contexte d'un moteur."
   waste:
     name: Gaspillage
-    definition: "Le **gaspillage** désigne tout ce qui est superflu ou qui empêche une réponse efficace à un moteur."
-    glossary: Tout ce qui n'est pas nécessaire pour - ou qui fait obstacle à une réponse (plus) efficace à un moteur.
+    definition: "Le **gaspillage** désigne tout ce qui est superflu ou qui entrave une réponse efficace à un moteur."
+    glossary: Tout ce qui est superflu ou entrave une réponse efficace à un moteur.

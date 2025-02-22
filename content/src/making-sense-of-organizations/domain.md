@@ -36,9 +36,9 @@ Le [délégant](glossary:delegator) conserve toujours la redevabilité globale d
 
 ## Moteurs et Domaines
 
-Il est également possible de comprendre un domaine par rapport aux moteurs organisationnels :
+Un domaine peut aussi être défini en fonction des moteurs organisationnels :
 
-- le **moteur principal** du domaine - le principal moteur auquel les délégués répondent
-- l'ensemble des sous-moteurs que l'organisation peut avoir à traiter en répondant au moteur principal du domaine, notamment : 
+- Le **moteur principal** du domaine – la situation principale à laquelle les délégués répondent.
+- L'ensemble des sous-moteurs que l'organisation doit prendre en compte en répondant au moteur principal du domaine, notamment : 
     - les **responsabilités clés** (n'importe quel moteur dérivant directement du moteur principal)
-    - les **dépendances** et les **contraintes externes** (moteurs liés à d'autres domaines ou à l'environnement externe de l'organisation) qui contraignent l'autonomie des délégués
+    - les **dépendances** et les **contraintes externes** (moteurs liés à d'autres domaines ou à l'environnement externe de l'organisation) qui limitent l'autonomie des délégués.

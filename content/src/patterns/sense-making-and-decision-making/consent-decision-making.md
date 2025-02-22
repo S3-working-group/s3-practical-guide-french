@@ -32,14 +32,14 @@ Tous les arguments présentés ne sont pas des objections, mais ils peuvent rév
 
 ## Étape 1 : Consentement au Driver et à l'Exigence
 
-_Assurez-vous que le [moteur](glossary:organizational-driver) et l'[exigence](glossary:requirement) sont suffisamment bien résumés et qu'il est pertinent pour ce groupe de les traiter._
+_Assurez-vous que le [moteur](glossary:organizational-driver) et l'[exigence](glossary:requirement) sont clairement résumés et qu'il est pertinent pour ce groupe de les traiter._
 
-Le facilitateur demande : _Est-ce que la description de ce moteur et de cette exigence sont suffisamment clairs ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous de répondre à ce moteur ? Et, est-ce que l'exigence est adéquate ?_
+Le facilitateur demande : _La description de ce moteur et de cette exigence est-elle suffisamment claire ? Ce moteur est-il bien organisationnel ? Est-il pertinent pour nous d'y répondre ? L'exigence est-elle appropriée ?_
 
 **Remarque :** Il est généralement recommandé de viser à terminer cette étape avec les participants à la réunion de manière asynchrone, [avant la réunion](section:prepare-for-meetings). Cela vous donnera la possibilité d'apporter des précisions à l'avance et vous épargnera un temps précieux en réunion. Cependant, dans un cas où quelqu'un présente une proposition à un groupe de parties prenantes qui n'ont pas participé à sa création, ou s'il y a des personnes qui rejoignent tout juste le processus décisionnel, vérifiez que tout le monde comprend bien le moteur et l'exigence de la proposition, et assurez-vous qu'il est décrit assez clairement et qu'il est pertinent pour les personnes présentes d'y répondre, avant de considérer la proposition elle-même.
 
--   Si le moteur n'est pas décrit assez clairement : prenez le temps de clarifier et de faire les changements nécessaires au résumé du moteur jusqu'à ce qu'il n'y ait plus d'objections. À moins que cela ne soit un changement rapide, envisagez de le faire après la réunion et reportez la prise de décision jusqu'à ce que le moteur soit clair.
--   Si le moteur n'est pas pertinent pour ce groupe, transmettez-le à la personne ou à l'équipe appropriée, ou, s'il est décidé que ce n'est pas du tout un moteur organisationnel, jetez-le.
+-   Si le moteur n'est pas décrit avec suffisamment de clarté, prenez le temps de l'affiner jusqu’à ce qu'il n’y ait plus d'objections. À moins que cela ne soit un changement rapide, envisagez de le faire après la réunion et reportez la prise de décision jusqu'à ce que le moteur soit clair.
+-   Si le moteur n'est pas pertinent pour ce groupe, transmettez-le à la personne ou à l'équipe appropriée. S'il ne s'agit pas d'un moteur organisationnel, abandonnez-le.
 -   Si l'exigence est jugée inappropriée, entendez les arguments et s'ils sont considérés comme des objections, résolvez-les avant d'examiner la proposition.
 
 
