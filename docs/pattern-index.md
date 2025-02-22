@@ -103,7 +103,7 @@ prev_page_url: "changelog.html"
   <dd><p>Décomposez le travail afin de pouvoir délivrer de la valeur rapidement et fréquemment, pour valider vos hypothèses rapidement, coller aux besoins des clients, et vous adapter aux changements de priorités.</p></dd>
 
   <dt><a href="determine-requirements.html">Déterminer les Exigences</a></dt>
-  <dd><p>Déterminer ce qui est requis pour répondre de manière appropriée à un moteur organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.</p></dd>
+  <dd><p>Définir ce qui est nécessaire pour répondre de manière appropriée à un moteur organisationnel avant de décider des actions spécifiques à entreprendre.</p></dd>
 
   <dt><a href="breaking-agreements.html">Enfreindre les Accords</a></dt>
   <dd><p>Enfreignez les accords lorsque vous êtes certain que le bénéfice pour l'organisation l'emporte sur le coût d'attendre de le modifier, et prenez la responsabilité de toutes les conséquences.</p></dd>

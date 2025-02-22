@@ -19,7 +19,7 @@ prev_page_url: "patterns.html"
   <dd><p>Décrire les moteurs organisationnels, pour comprendre et communiquer sur les situations où l'organisation doit agir, et pour se souvenir pourquoi certaines actions et décisions ont été prises.</p></dd>
 
   <dt><a href="determine-requirements.html">Déterminer les Exigences</a></dt>
-  <dd><p>Déterminer ce qui est requis pour répondre de manière appropriée à un moteur organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.</p></dd>
+  <dd><p>Définir ce qui est nécessaire pour répondre de manière appropriée à un moteur organisationnel avant de décider des actions spécifiques à entreprendre.</p></dd>
 
   <dt><a href="consent-decision-making.html">Décider par Consentement</a></dt>
   <dd><p>Un processus de groupe (facilité) pour la prise de décision : inviter les participants à lever des objections et considérer les informations et connaissances révélées pour faire évoluer davantage les propositions ou les accords existants.</p></dd>

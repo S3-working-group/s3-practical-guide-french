@@ -51,7 +51,7 @@ Lorsqu'un postulat a été convenu, marquez ça comme fait, lorsque le dialogue 
 
 Ce processus pour tester si les arguments se qualifient comme des objections, est une variante de la pratique [Prise de Décision Raisonnée](reasoned-decision-making.html).
 
-**Étape 1 : ** Présenter l'argument avancé comme une objection potentielle.
+**Étape 1 :** Présenter l'argument avancé comme une objection potentielle.
 
 **Étape 2 :** Comprendre l'argument.
 

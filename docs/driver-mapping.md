@@ -30,7 +30,7 @@ Vous pouvez cartographier les moteurs pour :
 -   mettre en œuvre une stratégie
 -   optimiser une structure organisationnelle afin de fluidifier la création de valeur
 
-Le résultat d'un atelier de cartographie des motifs est typiquement :
+Le résultat d'un atelier de cartographie des moteurs est typiquement :
 
 -   une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes.
 -   une structure organisationnelle sur mesure qui rassemble tout le monde, y compris les domaines interconnectés pour gérer les dépendances.

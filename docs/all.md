@@ -584,7 +584,7 @@ Il existe de nombreuses recherches sur le concept de valeur et de gaspillage dan
 
 #### Exigences
 
-Clarifier intentionnellement et explicitement la direction générale et l'ampleur de la réponse à un moteur _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
+Clarifier de manière explicite et intentionnelle la direction générale et l'ampleur de la réponse avant de choisir des actions précises permet d'identifier des solutions plus adaptées, notamment dans des situations complexes.
 
 Avoir une attitude orientée solutions est très apprécié dans les organisations. Cependant, dans les contextes collaboratifs, fixer des idées précises trop rapidement peut étouffer la créativité et entraîner des tensions et des conflits inutiles. Lorsqu'on est chargé de répondre à un moteur organisationnel, sauter immédiatement à des solutions concrètes peut restreindre ou diminuer le champ des possibilités envisagées. En outre, des solutions spécifiques peuvent être apportées par des individus projetant leurs expériences passées sur la situation ou agissant en fonction de leurs habitudes, plutôt que sur la base d'une analyse approfondie et réfléchie de la situation en cours, et une décision délibérée et explicite concernant l'exigence : comprendre ce qui est nécessaire ou désiré pour répondre à ce moteur et comment répondre à l'exigence pourrait avoir un impact positif sur la situation (comme décrit dans la pratique _Déterminer les Exigences_.
 
@@ -1014,106 +1014,106 @@ Effect is already occurring and relevance is implicit:
 
 #### Déterminer les Exigences
 
-<div class="card summary"><div class="card-body">Déterminer ce qui est requis pour répondre de manière appropriée à un moteur organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.
+<div class="card summary"><div class="card-body">Définir ce qui est nécessaire pour répondre de manière appropriée à un moteur organisationnel avant de décider des actions spécifiques à entreprendre.
 </div></div>
 
 
 ##### Aperçu
 
-Identifier et répondre aux moteurs organisationnels sont deux aspects fondamentaux de la journée de travail de chacun au sein d'une organisation. Clarifier intentionnellement et explicitement la direction générale et l'ampleur de la réponse à un moteur _avant_ de décider quelles mesures spécifiques prendre, aide à identifier des solutions plus spécifiques et plus adaptées, en particulier dans des situations complexes.
+Identifier et répondre aux moteurs organisationnels font partie intégrante du travail quotidien dans une organisation. Clarifier de manière explicite et intentionnelle la direction générale et l'ampleur de la réponse avant de choisir des actions précises permet d'identifier des solutions plus adaptées, notamment dans des situations complexes.
 
 _Une **exigence** est un besoin ou un désir jugé nécessaire pour répondre de manière adéquate à un moteur organisationnel, ou jugé comme une prochaine étape utile._
 
-![Determiner l'exigence](img/process/determine-requirement.png)
+![Déterminer l'Exigence](img/process/determine-requirement.png)
 
 ##### Exemples
 
-1. **Driver** : _L'information n'est pas structurée, conservée dans des silos et parfois non enregistrée, conduisant à des personnes qui travaillent avec des informations manquantes ou périmées, ce qui entraîne une inefficacité et des attentes de nos clients non satisfaites._
+1. **Moteur** : _L'information est mal structurée, dispersée en silos et parfois non consignée, ce qui entraîne des erreurs et une inefficacité. Les équipes travaillent avec des données incomplètes ou obsolètes, ce qui nuit à la satisfaction des clients._
 
-   **Exigence** : _Nous devons stocker et partager efficacement les informations pertinentes, pour améliorer la capacité de chacun à fournir des solutions précieuses à nos clients._
+   **Exigence** : _Nous devons stocker et partager efficacement les informations pertinentes afin d'améliorer la capacité de chacun à fournir des solutions précieuses à nos clients.._
 
-2. **Driver:** _Nous passons 25% de nos heures de travail à des tâches administratives, ce qui entraîne un temps de réponse lent pour les demandes des clients et un nombre croissant de plaintes. Nous commençons à avoir une mauvaise réputation et courons le risque de perdre des clients et de compromettre les ventes futures._
+2. **Moteur :** _Nous passons 25 % de notre temps à des tâches administratives, ce qui ralentit les réponses aux demandes des clients.  Le nombre de plaintes augmente, notre réputation se détériore et nous risquons de perdre des clients et de compromettre nos ventes futures._
 
-   **Exigence:** _Nous devons libérer du temps pour gérer les exigences de nos clients dans les meilleurs délais, afin d'améliorer leur satisfaction et d'éliminer ce type de plainte._
+   **Exigence :** _Nous devons libérer du temps pour traiter rapidement les demandes clients, améliorer leur satisfaction et réduire les plaintes._
 
-3. **Driver**: _We're preparing to recruit five new members into the development teams, and a lack of relevant training could lead to inefficiencies and errors, and an overall decrease in team productivity and quality of work._
+3. **Moteur** : _Nous préparons le recrutement de cinq nouveaux développeurs. Un manque de formation adéquate pourrait entraîner des erreurs, une baisse de la productivité des équipes et une diminution de la qualité du travail._
 
-   **Requirement:** _We need to ensure that all prospective candidates have the relevant training and experience, so they can effectively contribute to the teams they'll be part of._
+   **Exigence :** _Nous devons nous assurer que les candidats disposent des compétences et de la formation nécessaires pour contribuer efficacement aux équipes qu'ils rejoindront._
 
-4. **Driver**: _The teams often work on items that have not been prioritized in accordance with the product roadmap. This slows down the delivery of features that have been assigned a high priority by the customer and is leading to complaints about the effectiveness of our work._
+4. **Moteur** : _Les équipes travaillent parfois sur des tâches qui ne correspondent pas aux priorités de la feuille de route du produit.  Cela ralentit la livraison des fonctionnalités les plus importantes pour les clients et nuit à notre efficacité perçue._
 
-   **Requirement:** _We need to improve alignment of the team planning to the product roadmap so that the most important features are shipped first._
+   **Exigence :** _Nous devons mieux aligner la planification des équipes sur la feuille de route du produit afin de garantir que les fonctionnalités prioritaires soient livrées en premier._
 
-5. **Driver:** _Although the financial records of the organization are available to anyone who asks, most people in the organization lack adequate financial understanding to make sense of them in the current format. This leads to frustration, uncertainty and questions that are hard to answer about why certain decisions are being made._
+5. **Moteur :** _Les états financiers de l'organisation sont accessibles sur demande, mais la plupart des collaborateurs manquent de compétences en finance pour les comprendre.  Cela génère frustration, incertitude et des interrogations difficiles à expliquer concernant certaines décisions._
 
-   **Requirement:** _We need to present the information in ways that are understandable, so that people can inform themselves when insight into the financial situation of the organization is required._
+   **Exigence :** _Nous devons présenter les informations financières de manière plus claire afin que chacun puisse s'informer facilement lorsque cela est nécessaire._
 
-##### Why determine requirements?
+##### Pourquoi déterminer les exigences ?
 
-In some cases, a requirement is already clear because there is an existing agreement that governs how to deal with a particular driver, or because the situation is simple to deal with and the requirement is obvious.
+Dans certains cas, une exigence est déjà évidente, soit parce qu'un accord existant définit comment répondre à un moteur, soit parce que la situation est simple et ne laisse aucune ambiguïté.
 
-If there is no agreement in place you need to agree (or decide) what the requirement is. Then you can then act on what has been agreed, review outcomes and, if necessary or helpful, adapt and improve things based on what you learn.
+Si aucun accord n'est en place, il est essentiel de se mettre d'accord ou de décider de cette exigence avant d'agir.  Ensuite, il sera possible d'analyser les résultats et, si nécessaire, d'améliorer ou d'ajuster la réponse en fonction des enseignements tirés.
 
-Our opinion about what's required to deal with a specific situation will inevitably be influenced by our past experience. When facing complex situations however, our initial opinion about what's required is more likely to be unsuitable or difficult to determine: Several potential requirements may be indicated or what's required may simply be unclear.
+Nos perceptions de ce qui est nécessaire sont souvent influencées par notre expérience passée. Cependant, face à des situations complexes, notre première intuition peut être inexacte ou incomplète. Plusieurs exigences possibles peuvent émerger, ou bien l'exigence elle-même peut rester floue.
 
-This is why it's valuable to approach deciding what you believe is required to respond effectively, in a conscious and intentional way, even if the requirement appears obvious.
+C'est pourquoi il est utile d'adopter une approche consciente et intentionnelle pour définir ce qui est nécessaire, même si cela semble évident à première vue.
 
-**Determining a requirement, before deciding on what specific steps to be taken**, helps define a general direction while still allowing for a range of options on how to fulfill the requirement to respond to the driver in an effective way.
+**Déterminer une exigence avant de choisir des actions spécifiques** permet d'établir une direction claire tout en laissant de la flexibilité sur la façon d'y répondre.
 
-**When two or more people share responsibility** for deciding how to respond to an organizational driver, differing opinions about specific solutions can lead to contention. People's ideas can be contradictory or objectionable to others, and they can get into either/or conversations about what would be best. To avoid such confrontation, it's helpful to resist debating specific solutions until you've agreed on the requirement first.
+Lorsque **plusieurs personnes sont impliquées** dans la décision, des désaccords sur les solutions peuvent surgir.   Les points de vue peuvent diverger, parfois jusqu'à provoquer des conflits ou des débats stériles sur ce qui serait "le mieux".  Pour éviter cela, il est essentiel de s'accorder d'abord sur l'exigence, avant de discuter des solutions.
 
-**Even in the case that you are the sole person responsible** for responding to an organizational driver, it's useful to clarify for yourself the requirement, before deciding how to proceed. Deciding on a course of action is often more straightforward when the general direction and scope for such action is determined first.
+**Même si vous êtes le seul responsable** de la réponse à un moteur, clarifier d'abord l'exigence vous aidera à prendre des décisions plus sereinement.  Lorsqu'une direction claire et une portée bien définie sont établies, il devient plus simple de déterminer les actions à mener.
 
-**Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others – especially to those who will be affected by whatever's decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
+**Tenir un registre des exigences** et des raisons qui ont mené à leur définition (les _pourquoi_) facilite la communication avec les autres – en particulier ceux qui seront concernés par les décisions prises. Elle sera également utile plus tard lors de l'examen et de l'amélioration potentielle de la décision prise.
 
-Une fois qu'une exigence est déterminée, les **prochaines étapes pour répondre au moteur organisationnel** impliquent de s'entendre sur la façon de remplir les conditions requises, en agissant sur l'accord actuel, en examinant les résultats et, si nécessaire, en adaptant votre choix d'amélioration en vous basant sur ce que vous apprenez (voir _Répondre aux Moteurs Organisationnels_ pour plus de détails).
+Une fois l'exigence déterminée, les prochaines étapes pour répondre au moteur organisationnel consistent à définir comment y répondre, à mettre en œuvre les actions, à évaluer les résultats et, si nécessaire, à ajuster l'approche en fonction des apprentissages (voir _Répondre aux Moteurs Organisationnels_ pour plus de détails).
 
-In complex situations where multiple and sometimes even contradictory options exist, an iterative approach for determining a requirement may be necessary because:
+Dans des situations complexes où plusieurs solutions sont envisageables – et parfois contradictoires – il peut être nécessaire d'adopter une approche itérative
 
-- In some cases the suitability of a particular requirement can only be validated through experimentation (i.e. practical application and subsequent evaluation)
-- fulfilling what was initially determined as required may take you some way toward responding to a driver, but a further requirement – or even several further requirements – may need to be determined and fulfilled sequentially, to respond to the driver in an adequate way.
+- Tester par l'expérimentation : La pertinence d'une exigence ne peut parfois être validée qu'en testant une première solution et en analysant ses effets.
+- Répondre par étapes : Satisfaire une première exigence peut révéler d'autres besoins à traiter en complément. La réponse finale peut nécessiter plusieurs ajustements successifs.
 
-##### How to determine the requirement
+##### Comment déterminer l'exigence
 
-An organizational driver is a situation that the organization would benefit from responding to. A requirement however, is a decision that defines direction and scope for a suitable response. When determining what requirement would be suitable, it's helpful to consider:
+Un moteur organisationnel désigne une situation à laquelle l'organisation devrait réagir.  Une exigence, en revanche, définit la direction et les limites de cette réponse. Lors de l'identification d'une exigence appropriée, il est utile de se poser deux questions :
 
-- **The requirement**: what you believe is needed or desirable to respond to this driver appropriately
-- **The anticipated impact**: how you think fulfilling the requirement will help with the driver.
+- Qu'est-ce qui est **nécessaire** ou souhaitable pour répondre efficacement au moteur ?
+- Quel **impact** attendons-nous en remplissant cette exigence ?
 
 ###### Exigence
 
-When determining a requirement, deciding how specific or broad to be is crucial. Each requirement inherently suggests a direction; a more specific one narrows the range of options for how to fulfill it, while a less specific requirement broadens the possibilities. The desirability of a wider or narrower scope of options varies depending on the situation.
+Il est essentiel de trouver le bon niveau de spécificité pour une exigence.  Une exigence trop détaillée limite les solutions possibles, tandis qu'une exigence trop large risque d'être inefficace. L'utilité d'un champ d'options plus large ou plus restreint varie selon la situation.
 
-When addressing a complex driver, or when deciding how to respond to an organizational driver collaboratively, it's often beneficial to aim for a requirement that allows for a broader scope of potential solutions.
+Dans un contexte complexe, ou lorsque plusieurs personnes doivent collaborer pour répondre à un moteur, il est souvent préférable de garder une exigence ouverte afin d'offrir une plus grande flexibilité dans les solutions à explorer.
 
-If people bring contradictory suggestions about what's required, this is sometimes an indicator that they're too much in the solution space. In this case it can be helpful to zoom out and try to identify a requirement that some or all of these solutions might help to fulfill.
+Si des suggestions contradictoires émergent sur ce qui est nécessaire, cela peut indiquer que la discussion est trop focalisée sur les solutions.   Dans ce cas, revenir à une exigence plus générale peut aider à clarifier le besoin réel.
 
-- Be specific on whose requirement it is (e.g. "we need", "they need", "I need")
-- Avoid describing specific solutions disguised as requirements (see "Requirement vs. Solution" below)
+- Précisez qui est concerné : ("Nous avons besoin", "Ils ont besoin", "J'ai besoin").
+- Évitez les solutions déguisées en exigences (voir la section Exigences vs Solutions).
 
-Sometimes further investigation of the driver or experimentation to test assumptions may be the first requirement, leading to the identification of a more specific and suitable requirement in time.
+Parfois, la première exigence est simplement de mieux comprendre le moteur, par exemple via une enquête ou une expérimentation.
 
-###### Anticipated Impact
+###### Impact Anticipé
 
-When describing the anticipated impact, explain what you anticipate the consequence of fulfilling the requirement will lead to, and how this is relevant in relation to the driver.
+Lorsque vous décrivez l'impact attendu d'une exigence, expliquez les conséquences que son respect entraînera et en quoi cela est pertinent par rapport au moteur.
 
-- Explain potential benefits, opportunities, or even the <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Résultat Attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">intended outcome</a> of responding to the requirement _in relation to the driver_.
-- Making the impact explicit constraints the scope of the response and helps evaluating the effectiveness of the response in relation the driver
+- Détaillez les bénéfices potentiels, les opportunités ou les <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Résultat Attendu: Le résultat escompté d&#x27;un accord, d&#x27;une action, d&#x27;un projet ou d&#x27;une stratégie.">résultats attendus</a> _liés à cette exigence_.
+- Explicitez les contraintes d'impact pour mieux cerner la portée de la réponse et faciliter l'évaluation de son efficacité par rapport au moteur.
 
-##### Requirement vs. Solution
+##### Exigences vs. Solution
 
-The requirement provides a general direction and clarifies the scope for possible solutions. A solution on the other hand is a specific course of action that fulfills a requirement.
+Une exigence définit une direction et un cadre.  Tandis qu'une solution est une action spécifique pour y répondre.
 
 Exemple:
 
-- **Requirement:** _We need to store and share relevant information effectively, to improve everyone's ability to provide valuable solutions for our customers._
-- **Solution**: _A simple and comprehensive information architecture for Confluence, and a coordinated effort to migrate all existing information into that structure._
+- **Exigence** : _Nous devons stocker et partager efficacement les informations pertinentes pour permettre à chacun de mieux répondre aux besoins des clients._
+- **Solution** : _Mettre en place une architecture d'information sur Confluence et migrer toutes les données existantes vers cette structure._
 
-The requirement above explains _what_ is missing (absent or deficit in some way), but it doesn't specify _how_ the information will be stored and shared, what steps to take, and who will do what, etc. Having agreed on this requirement, specific decisions. e.g. about _how_ and _where_ to store and share relevant information effectively can be made.
+L'exigence indique le _problème à résoudre_, mais ne spécifie _pas comment_ y répondre. Une fois l'exigence validée, des décisions spécifiques pourront être prises sur les solutions à mettre en place. Par exemple sur _comment_ et _où_ stocker et partager efficacement les informations pertinentes.
 
-##### When to determine a requirement?
+##### Quand déterminer une exigence?
 
-Determine the requirement _before_ deciding how to specifically respond to an organizational driver, but _after_ establishing that this is in fact an organizational driver, that it's yours or your team's responsibility to deal with it, _and_ that responding is a priority. Determining a requirement for drivers that are _not_ a priority might be wasteful, because the situation or its relevance to the organization might change.
+Définissez l'exigence _avant_ de choisir une solution spécifique, mais _après_ avoir confirmé que la situation constitue bien un moteur organisationnel, que vous ou votre équipe êtes responsables d'y répondre et que sa résolution est une priorité. Ne perdez pas de temps à détailler des exigences pour des situations non prioritaires : elles risquent de devenir obsolètes avant même d'être mises en œuvre.
 
 
 #### Décider par Consentement
@@ -1340,7 +1340,7 @@ Lorsqu'un postulat a été convenu, marquez ça comme fait, lorsque le dialogue 
 
 Ce processus pour tester si les arguments se qualifient comme des objections, est une variante de la pratique _Prise de Décision Raisonnée_.
 
-**Étape 1 : ** Présenter l'argument avancé comme une objection potentielle.
+**Étape 1 :** Présenter l'argument avancé comme une objection potentielle.
 
 **Étape 2 :** Comprendre l'argument.
 
@@ -2632,7 +2632,7 @@ Vous pouvez cartographier les moteurs pour :
 -   mettre en œuvre une stratégie
 -   optimiser une structure organisationnelle afin de fluidifier la création de valeur
 
-Le résultat d'un atelier de cartographie des motifs est typiquement :
+Le résultat d'un atelier de cartographie des moteurs est typiquement :
 
 -   une répartition du travail, catégorisée en plusieurs domaines, centrée sur les besoins des parties prenantes.
 -   une structure organisationnelle sur mesure qui rassemble tout le monde, y compris les domaines interconnectés pour gérer les dépendances.
@@ -4755,7 +4755,7 @@ Pour chaque principe, nous avons inclus une liste de suggestions de ce que vous 
   <dd><p>Décomposez le travail afin de pouvoir délivrer de la valeur rapidement et fréquemment, pour valider vos hypothèses rapidement, coller aux besoins des clients, et vous adapter aux changements de priorités.</p></dd>
 
   <dt><a href="determine-requirements.html">Déterminer les Exigences</a></dt>
-  <dd><p>Déterminer ce qui est requis pour répondre de manière appropriée à un moteur organisationnel, avant de prendre une décision spécifique sur ce qu'il faut faire.</p></dd>
+  <dd><p>Définir ce qui est nécessaire pour répondre de manière appropriée à un moteur organisationnel avant de décider des actions spécifiques à entreprendre.</p></dd>
 
   <dt><a href="breaking-agreements.html">Enfreindre les Accords</a></dt>
   <dd><p>Enfreignez les accords lorsque vous êtes certain que le bénéfice pour l'organisation l'emporte sur le coût d'attendre de le modifier, et prenez la responsabilité de toutes les conséquences.</p></dd>
